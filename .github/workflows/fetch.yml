@@ -74,6 +74,8 @@ jobs:
         run: cp -r data web/dist/data
 
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true   # Pagesが未設定なら自動で有効化する
 
       - uses: actions/upload-pages-artifact@v3
         with:
