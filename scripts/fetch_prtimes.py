@@ -6,6 +6,7 @@
 """
 import calendar
 import hashlib
+import re
 from datetime import datetime
 
 import feedparser
@@ -15,6 +16,18 @@ from util import JST, polite_get
 FEED = "https://prtimes.jp/index.rdf"
 
 
+def _hit(keyword, text):
+    """キーワードが本文に含まれるか判定する。
+
+    TOB・MBOなど英字だけのキーワードは単語単位で照合し、
+    October の中の「tob」のような英単語の一部への誤検出を防ぐ。
+    """
+    if re.fullmatch(r"[A-Za-z&]+", keyword):
+        pattern = r"(?<![A-Za-z])" + re.escape(keyword) + r"(?![A-Za-z])"
+        return re.search(pattern, text, re.IGNORECASE) is not None
+    return keyword in text
+
+
 def fetch(keywords):
     body = polite_get(FEED)
     feed = feedparser.parse(body)
@@ -22,8 +35,8 @@ def fetch(keywords):
     for e in feed.entries:
         title = (e.get("title") or "").strip()
         summary = e.get("summary") or ""
-        text = (title + " " + summary).lower()
-        hit = [k for k in keywords if k.lower() in text]
+        text = title + " " + summary
+        hit = [k for k in keywords if _hit(k, text)]
         if not hit:
             continue
 

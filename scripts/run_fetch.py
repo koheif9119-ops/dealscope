@@ -38,15 +38,21 @@ def main():
     dates = [today - timedelta(days=i) for i in range(back, -1, -1)]
 
     items = []
+    # 各データ源の成否を data/status.json に記録する（不調時の切り分け用）
+    status = {}
 
+    tdnet_err = None
     for d in dates:
         try:
             items += fetch_tdnet.fetch_day(d.strftime("%Y%m%d"))
         except Exception as e:  # noqa: BLE001
             print(f"TDnet取得失敗 {d}:", e)
+            tdnet_err = f"{d}: {e}"
+    status["TDnet"] = {"ok": tdnet_err is None, "error": tdnet_err}
 
     api_key = os.environ.get("EDINET_API_KEY", "").strip()
     if api_key:
+        edinet_err = None
         # 前営業日〜当日をカバーするため直近4日分（初回は5日分）
         edinet_dates = dates if not has_history else [
             today - timedelta(days=i) for i in range(3, -1, -1)
@@ -56,13 +62,23 @@ def main():
                 items += fetch_edinet.fetch_day(d.isoformat(), api_key)
             except Exception as e:  # noqa: BLE001
                 print(f"EDINET取得失敗 {d}:", e)
+                edinet_err = f"{d}: {e}"
+        status["EDINET"] = {"ok": edinet_err is None, "error": edinet_err}
     else:
         print("EDINET_API_KEY が未設定のため、EDINETの取得をスキップしました")
+        status["EDINET"] = {"ok": False, "error": "EDINET_API_KEY が未設定"}
 
     try:
         items += fetch_prtimes.fetch(keywords.get("prtimes", []))
+        status["PR TIMES"] = {"ok": True, "error": None}
     except Exception as e:  # noqa: BLE001
         print("PR TIMES取得失敗:", e)
+        status["PR TIMES"] = {"ok": False, "error": str(e)}
+
+    # 状態が変わったときだけ書き換える（毎回のコミットを避けるため時刻は入れない）
+    status_path = os.path.join(os.path.dirname(LATEST_PATH), "status.json")
+    if read_json(status_path, None) != status:
+        write_json(status_path, status)
 
     # ---- 分類（仕様書3）----
     kept = []
