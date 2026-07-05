@@ -1,0 +1,60 @@
+# DealScope
+
+M&A仲介業務のための、上場企業開示モニターサイト。毎朝スマホ・PCで最新の事業リリース・M&A情報・中期経営計画・決算（有報・短信）をチェックできる。
+
+- 公開URL: `https://koheif9119-ops.github.io/dealscope/`
+- サーバー・データベースなし。GitHubの無料機能（Actions＋Pages）のみで動く。
+
+## データソース（2026年7月 構築時点）
+
+| ソース | 取得方法 |
+|---|---|
+| TDnet 適時開示 | **yanoshin TDnet WebAPI**（https://webapi.yanoshin.jp/tdnet/ ）経由。TDnet閲覧サービス本体はrobots.txtで自動アクセス不許可のため直接触らない。※有報キャッチャー（ufocatch）のAtomフィードは2026年7月時点で404のため不採用。 |
+| EDINET（有報） | 金融庁 EDINET API v2（要APIキー。Secrets `EDINET_API_KEY` に保存） |
+| PR TIMES | 全体RSS（https://prtimes.jp/index.rdf ）を取得し、キーワードでフィルタ |
+| 市場区分 | JPX「東証上場銘柄一覧」Excelを月1回取得（東証以外の単独上場はTDnetの取引所情報から「地方」として扱う） |
+
+## 実行スケジュール（GitHub Actions・日本時間）
+
+- 平日 8:00 — 朝の一括取得
+- 平日 9:00〜18:30 — 30分おきの差分取得
+- 毎月2日 朝 — 市場区分マスタ更新
+- 手動実行：リポジトリの **Actions** タブ → 左の「fetch」→ 右の「Run workflow」ボタン
+
+## よくあるメンテナンス
+
+### M&Aの拾い漏れ・拾いすぎ（キーワードの直し方）
+
+`config/keywords.json` を編集するだけでよい（コードは触らない）。
+GitHubの画面でも編集できる：リポジトリで `config/keywords.json` を開く → 右上の鉛筆マーク → 編集 → 「Commit changes」。
+Claude Codeに「〇〇というキーワードを追加して」と頼んでもよい。
+
+### データが更新されなくなったら
+
+取得元の仕様変更が原因の可能性が高い。Claude Codeでこのフォルダを開き、
+「昨日から更新が止まった。原因を調べて直して」と指示する。
+まずは Actions タブで最新の「fetch」実行が赤く（失敗に）なっていないか確認するとよい。
+
+### GitHub Actionsの使用量
+
+このリポジトリは**Public（公開）なのでActionsの実行時間は無料・無制限**。
+参考までに使用量は GitHub右上の自分のアイコン → **Settings** → **Billing and plans** → **Plans and usage** で確認できる。
+
+### 注意：60日間コミット等の操作がないと定期実行が自動停止する
+
+GitHubの仕様で、リポジトリに60日間ユーザーの操作がないと定期実行（schedule）が止まり、メールが届く。
+その場合は Actions タブを開き、表示される「Enable workflow」ボタンを押せば再開する。
+
+## フォルダ構成
+
+```
+.github/workflows/  fetch.yml（定期取得＋サイト公開） / master.yml（市場区分マスタ）
+scripts/            取得・分類スクリプト（Python）
+config/keywords.json 分類キーワード（編集可能）
+data/latest.json    直近7日分（サイトが読むファイル）
+data/daily/         日次アーカイブ（無期限に蓄積）
+data/master/        市場区分マスタ
+web/                フロントエンド（React + Vite）
+```
+
+※ 「後で読む」ブックマークは閲覧者のブラウザ内（localStorage）にのみ保存され、リポジトリには置かれない。

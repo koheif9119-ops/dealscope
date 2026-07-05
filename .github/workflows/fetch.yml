@@ -1,0 +1,83 @@
+# 開示データの定期取得と、GitHub Pagesへの公開
+name: fetch
+
+on:
+  schedule:
+    - cron: "0 23 * * 0-4"      # 平日 8:00 JST（朝の一括取得）
+    - cron: "0,30 0-9 * * 1-5"  # 平日 9:00〜18:30 JST の30分おき
+  workflow_dispatch: {}          # 手動実行も可能
+  push:
+    branches: [main]             # コード修正時にも再公開する
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: fetch-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 依存ライブラリをインストール
+        run: pip install -r scripts/requirements.txt
+
+      - name: 開示データを取得・分類
+        working-directory: scripts
+        env:
+          EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
+        run: python run_fetch.py
+
+      - name: 変更があればコミット
+        run: |
+          git config user.name "dealscope-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "変更なし（コミットしません）"
+          else
+            git commit -m "データ更新 $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
+
+  deploy:
+    needs: fetch
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # fetchジョブがコミットした最新データを取り込む
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: フロントエンドをビルド
+        working-directory: web
+        run: |
+          npm install
+          npm run build
+
+      - name: データを同梱
+        run: cp -r data web/dist/data
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
