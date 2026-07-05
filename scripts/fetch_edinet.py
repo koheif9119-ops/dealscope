@@ -20,6 +20,9 @@ def fetch_day(date_iso, api_key):
     url = API.format(date=date_iso, key=urllib.parse.quote(api_key))
     body = polite_get(url)
     data = json.loads(body)
+    if "results" not in data:
+        # キー不備などの場合、EDINETはHTTP 200のままエラー文だけを返してくる
+        raise RuntimeError("EDINETからエラー応答: " + str(data.get("message") or data))
     results = data.get("results") or []
     rows = []
     for r in results:

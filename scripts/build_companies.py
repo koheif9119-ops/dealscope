@@ -58,7 +58,8 @@ def update_index(key):
     """証券コード→最新の有報（docID）の対照表を更新する。"""
     idx = read_json(INDEX_PATH, {"lastScan": None, "codes": {}})
     today = datetime.now(JST).date()
-    if idx.get("lastScan"):
+    # 対照表が空のままなら（過去にキー不備等で失敗）最初から作り直す
+    if idx.get("lastScan") and idx.get("codes"):
         start = datetime.strptime(idx["lastScan"], "%Y-%m-%d").date() + timedelta(days=1)
         start = max(start, today - timedelta(days=BACKFILL_DAYS))
     else:
@@ -71,6 +72,9 @@ def update_index(key):
         try:
             body = polite_get(LIST_API.format(date=d.isoformat(), key=urllib.parse.quote(key)))
             data = json.loads(body)
+            if "results" not in data:
+                # キー不備などはHTTP 200のままエラー文が返る。続けても無駄なので中断する
+                raise RuntimeError("EDINETからエラー応答: " + str(data.get("message") or data))
             for r in data.get("results") or []:
                 if r.get("docTypeCode") != "120":  # 有価証券報告書のみ（訂正は除く）
                     continue
@@ -87,6 +91,8 @@ def update_index(key):
                         "name": (r.get("filerName") or "").strip(),
                     }
                     changed = True
+        except RuntimeError:
+            raise  # キー不備は続けても無駄なのでここで中断する
         except Exception as e:  # noqa: BLE001
             print("書類一覧の取得失敗", d, e)
         d += timedelta(days=1)
