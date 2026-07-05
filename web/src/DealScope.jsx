@@ -44,6 +44,79 @@ function fmtUpdated(iso) {
   return `${iso.slice(5, 7)}/${iso.slice(8, 10)} ${iso.slice(11, 16)}`;
 }
 
+/* 円の金額 → "1,180億円" などの表示（マイナスは▲） */
+function fmtYen(n) {
+  if (n == null || isNaN(n)) return "—";
+  const neg = n < 0;
+  const a = Math.abs(n);
+  let s;
+  if (a >= 1e12) s = (Math.round((a / 1e12) * 10) / 10).toLocaleString() + "兆円";
+  else if (a >= 1e8) s = Math.round(a / 1e8).toLocaleString() + "億円";
+  else s = Math.round(a / 1e6).toLocaleString() + "百万円";
+  return (neg ? "▲" : "") + s;
+}
+
+/* 前期比 → "+8.4%" / "▲2.0%" */
+function fmtYoy(p) {
+  if (p == null || isNaN(p)) return "—";
+  return p < 0 ? `▲${Math.abs(p).toFixed(1)}%` : `+${p.toFixed(1)}%`;
+}
+
+/* ---------- マイページ（本人情報・テンプレート）の保存 ----------
+   個人情報は閲覧者のブラウザ内（localStorage）にのみ保存され、
+   リポジトリ・インターネット上には一切置かれない（仕様書7）。 */
+const MYINFO_KEY = "dealscope:myinfo";
+const TEMPLATES_KEY = "dealscope:templates";
+
+const EMPTY_MYINFO = { name: "", company: "", dept: "", tel: "", email: "" };
+
+const DEFAULT_TEMPLATES = [
+  {
+    name: "M&A開示を見て（買収ニーズの打診）",
+    body:
+      "{先方社名}\nご担当者様\n\n突然のご連絡失礼いたします。\n{自社名}の{氏名}と申します。\n\n{開示日}付で開示されました「{開示タイトル}」を拝見し、ご連絡いたしました。\n貴社の今後の事業展開に際し、M&A・資本提携の面でお力添えできる可能性があると考えております。\n\nつきましては、一度30分ほどオンラインにてご挨拶とディスカッションの機会をいただけないでしょうか。\nご都合のよろしい日時を2〜3いただけますと幸いです。\n\n何卒よろしくお願い申し上げます。\n\n{自社名} {部署}\n{氏名}\n電話：{電話}\nメール：{メール}",
+  },
+  {
+    name: "中期経営計画を見て（面談依頼）",
+    body:
+      "{先方社名}\nご担当者様\n\n突然のご連絡失礼いたします。\n{自社名}の{氏名}と申します。\n\n{開示日}付で公表されました「{開示タイトル}」を拝読いたしました。\n計画に掲げられた成長戦略の実現に向けて、M&A・提携先のご紹介という形でお手伝いできることがあるのではないかと考え、ご連絡いたしました。\n\nもしご関心をお持ちいただけましたら、一度短時間でもお打ち合わせの機会をいただけますと幸いです。\n\n何卒よろしくお願い申し上げます。\n\n{自社名} {部署}\n{氏名}\n電話：{電話}\nメール：{メール}",
+  },
+];
+
+function loadMyInfo() {
+  try {
+    const raw = window.localStorage.getItem(MYINFO_KEY);
+    if (raw) return { ...EMPTY_MYINFO, ...JSON.parse(raw) };
+  } catch (e) { /* 保存なし */ }
+  return { ...EMPTY_MYINFO };
+}
+
+function loadTemplates() {
+  try {
+    const raw = window.localStorage.getItem(TEMPLATES_KEY);
+    if (raw) {
+      const t = JSON.parse(raw);
+      if (Array.isArray(t) && t.length > 0) return t;
+    }
+  } catch (e) { /* 保存なし */ }
+  return DEFAULT_TEMPLATES.map((t) => ({ ...t }));
+}
+
+/* テンプレートの {差し込み} を実際の値に置き換える */
+function fillTemplate(body, item, my) {
+  const map = {
+    先方社名: item.name,
+    開示タイトル: item.title,
+    開示日: dateLabel(item.date),
+    氏名: my.name,
+    自社名: my.company,
+    部署: my.dept,
+    電話: my.tel,
+    メール: my.email,
+  };
+  return body.replace(/\{([^}]+)\}/g, (m, k) => (map[k] != null && map[k] !== "" ? map[k] : m));
+}
+
 export default function DealScope() {
   const [items, setItems] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -57,6 +130,16 @@ export default function DealScope() {
   const [refreshing, setRefreshing] = useState(false);
   const [lastUpdated, setLastUpdated] = useState("—");
   const [profile, setProfile] = useState(null); // {code, name, ...item}
+  const [companies, setCompanies] = useState({}); // 企業プロフィール帳（companies.json）
+  const [showSettings, setShowSettings] = useState(false);
+
+  /* 企業プロフィール帳の読み込み */
+  useEffect(() => {
+    fetch(`data/companies.json?ts=${Date.now()}`, { cache: "no-store" })
+      .then((r) => (r.ok ? r.json() : {}))
+      .then((j) => setCompanies(j || {}))
+      .catch(() => setCompanies({}));
+  }, []);
 
   /* ブックマークの読み込み（localStorageに永続化） */
   useEffect(() => {
@@ -187,6 +270,12 @@ export default function DealScope() {
               <span>最終更新</span>
               <strong>{lastUpdated}</strong>
             </div>
+            <button className="ds-mypage" onClick={() => setShowSettings(true)} aria-label="マイページ" title="マイページ（本人情報・テンプレート）">
+              <svg viewBox="0 0 24 24" width="17" height="17">
+                <circle cx="12" cy="8" r="4" fill="none" stroke="currentColor" strokeWidth="1.8" />
+                <path d="M4.5 20c1.6-3.4 4.4-5 7.5-5s5.9 1.6 7.5 5" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" />
+              </svg>
+            </button>
             <button className={"ds-refresh" + (refreshing ? " is-loading" : "")} onClick={refresh} aria-label="最新の開示を取得">
               <svg viewBox="0 0 24 24" width="16" height="16" className="ds-refresh-icon">
                 <path d="M20 12a8 8 0 1 1-2.34-5.66M20 4v5h-5" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" />
@@ -279,10 +368,14 @@ export default function DealScope() {
       {profile && (
         <ProfileModal
           item={profile}
+          prof={companies[profile.code]}
           history={items.filter((i) => i.code === profile.code)}
           onClose={() => setProfile(null)}
+          flash={flash}
         />
       )}
+
+      {showSettings && <SettingsModal onClose={() => setShowSettings(false)} flash={flash} />}
     </div>
   );
 }
@@ -350,9 +443,41 @@ function Row({ item, saved, onSave, onOpen, onProfile }) {
 }
 
 /* ---------- 企業情報ポップアップ ----------
-   初期バージョンは「コード・社名・市場・直近の開示一覧」を表示（仕様書6-4）。
-   会社概要・業績の自動取得はフェーズ2で対応。 */
-function ProfileModal({ item, history, onClose }) {
+   会社概要（業種・売上・営業利益）は companies.json（有報から自動抽出）を表示。
+   「アプローチ文面を作る」でテンプレート差し込み画面に切り替わる。 */
+function ProfileModal({ item, prof, history, onClose, flash }) {
+  const [view, setView] = useState("profile"); // "profile" | "compose"
+  const [templates] = useState(() => loadTemplates());
+  const [my] = useState(() => loadMyInfo());
+  const [tplIdx, setTplIdx] = useState(0);
+  const [draft, setDraft] = useState("");
+
+  const startCompose = () => {
+    const t = templates[tplIdx] || templates[0];
+    setDraft(t ? fillTemplate(t.body, item, my) : "");
+    setView("compose");
+  };
+
+  const changeTpl = (i) => {
+    setTplIdx(i);
+    const t = templates[i];
+    setDraft(t ? fillTemplate(t.body, item, my) : "");
+  };
+
+  const copyDraft = async () => {
+    try {
+      await navigator.clipboard.writeText(draft);
+      flash("文面をコピーしました。先方サイトの問い合わせフォームに貼り付けてください");
+    } catch (e) {
+      flash("コピーできませんでした。文面を全選択してコピーしてください");
+    }
+  };
+
+  const searchSite = () => {
+    const q = encodeURIComponent(`${item.name} お問い合わせ`);
+    window.open(`https://www.google.com/search?q=${q}`, "_blank", "noopener,noreferrer");
+  };
+
   return (
     <div className="ds-modal-back" onClick={onClose}>
       <div className="ds-modal" role="dialog" aria-modal="true" aria-label={item.name + " の企業情報"} onClick={(e) => e.stopPropagation()}>
@@ -360,7 +485,129 @@ function ProfileModal({ item, history, onClose }) {
           <div>
             <span className="ds-modal-code">{item.code}</span>
             <h3>{item.name}</h3>
-            <p className="ds-modal-market">{item.exch !== "—" ? item.exch + "証・" : ""}{item.market}</p>
+            <p className="ds-modal-market">{item.exch !== "—" ? item.exch + "証・" : ""}{item.market}{prof && prof.industry ? ` ／ ${prof.industry}` : ""}</p>
+          </div>
+          <button className="ds-modal-close" onClick={onClose} aria-label="閉じる">
+            <svg viewBox="0 0 24 24" width="18" height="18">
+              <path d="M6 6l12 12M18 6L6 18" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
+            </svg>
+          </button>
+        </div>
+
+        {view === "profile" ? (
+          <div className="ds-modal-body">
+            {prof ? (
+              <div className="ds-modal-fin">
+                <span className="ds-fin-term">{prof.term || "直近通期（有価証券報告書より）"}</span>
+                <div className="ds-fin-grid">
+                  <div><label>売上高</label><strong>{fmtYen(prof.rev)}</strong></div>
+                  <div><label>営業利益</label><strong>{fmtYen(prof.op)}</strong></div>
+                  <div><label>前期比</label><strong>{fmtYoy(prof.yoyPct)}</strong></div>
+                </div>
+              </div>
+            ) : (
+              <p className="ds-modal-none">この企業の業績はまだ未取得です（有価証券報告書の取得後、自動で表示されます）。</p>
+            )}
+
+            <table className="ds-modal-table">
+              <tbody>
+                <tr><th>証券コード</th><td>{item.code}</td></tr>
+                <tr><th>市場</th><td>{item.exch !== "—" ? item.exch + "証・" : ""}{item.market}</td></tr>
+                {prof && prof.industry ? <tr><th>業種</th><td>{prof.industry}</td></tr> : null}
+                {prof && prof.employees != null ? <tr><th>従業員数</th><td>{prof.employees.toLocaleString()}名</td></tr> : null}
+              </tbody>
+            </table>
+
+            <p className="ds-modal-sub">直近の開示（最大7日分）</p>
+            <ul className="ds-modal-list">
+              {history.map((h) => (
+                <li key={h.id}>
+                  <span className="ds-modal-when">{dateLabel(h.date)} {h.time}・{(GENRE_META[h.genre] || GENRE_META.news).label}</span>
+                  {h.pdfUrl
+                    ? <a href={h.pdfUrl} target="_blank" rel="noopener noreferrer">{h.title}</a>
+                    : h.title}
+                </li>
+              ))}
+            </ul>
+
+            <button className="ds-compose-btn" onClick={startCompose}>この開示でアプローチ文面を作る</button>
+            <p className="ds-note">文面の雛形と差出人情報は、右上の人型アイコン（マイページ）で登録できます。</p>
+          </div>
+        ) : (
+          <div className="ds-modal-body">
+            <div className="ds-field">
+              <label>テンプレート</label>
+              <select className="ds-select" value={tplIdx} onChange={(e) => changeTpl(Number(e.target.value))}>
+                {templates.map((t, i) => <option key={i} value={i}>{t.name}</option>)}
+              </select>
+            </div>
+            <div className="ds-field">
+              <label>文面（自由に手直しできます）</label>
+              <textarea className="ds-textarea" value={draft} onChange={(e) => setDraft(e.target.value)} />
+            </div>
+            {(!my.name || !my.company) && (
+              <p className="ds-note">※ 氏名・会社名が未登録のため {"{氏名}"} などが残っています。マイページで登録すると自動で埋まります。</p>
+            )}
+            <div className="ds-btn-row">
+              <button className="ds-btn ds-btn-primary" onClick={copyDraft}>文面をコピー</button>
+              <button className="ds-btn ds-btn-sub" onClick={searchSite}>先方サイトを検索</button>
+              <button className="ds-btn ds-btn-ghost" onClick={() => setView("profile")}>戻る</button>
+            </div>
+            <p className="ds-note">コピーした文面を、先方サイトの問い合わせフォームに貼り付けて送信してください（送信は必ずご自身の確認のうえで）。</p>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+/* ---------- マイページ（本人情報・テンプレート管理） ----------
+   入力内容はこの端末のブラウザ内にのみ保存される。 */
+function SettingsModal({ onClose, flash }) {
+  const [my, setMy] = useState(() => loadMyInfo());
+  const [tpls, setTpls] = useState(() => loadTemplates());
+  const [sel, setSel] = useState(0);
+
+  const setMyField = (k, v) => setMy({ ...my, [k]: v });
+  const setTplField = (k, v) => {
+    const next = tpls.map((t, i) => (i === sel ? { ...t, [k]: v } : t));
+    setTpls(next);
+  };
+
+  const addTpl = () => {
+    const next = [...tpls, { name: "新しいテンプレート", body: "" }];
+    setTpls(next);
+    setSel(next.length - 1);
+  };
+
+  const delTpl = () => {
+    if (tpls.length <= 1) { flash("テンプレートは最低1件必要です"); return; }
+    const next = tpls.filter((_, i) => i !== sel);
+    setTpls(next);
+    setSel(0);
+  };
+
+  const save = () => {
+    try {
+      window.localStorage.setItem(MYINFO_KEY, JSON.stringify(my));
+      window.localStorage.setItem(TEMPLATES_KEY, JSON.stringify(tpls));
+      flash("保存しました（この端末のブラウザ内にのみ保存されます）");
+      onClose();
+    } catch (e) {
+      flash("保存に失敗しました");
+    }
+  };
+
+  const t = tpls[sel] || tpls[0];
+
+  return (
+    <div className="ds-modal-back" onClick={onClose}>
+      <div className="ds-modal" role="dialog" aria-modal="true" aria-label="マイページ" onClick={(e) => e.stopPropagation()}>
+        <div className="ds-modal-head">
+          <div>
+            <span className="ds-modal-code">MY PAGE</span>
+            <h3>マイページ</h3>
+            <p className="ds-modal-market">差出人情報とアプローチ文面のテンプレート</p>
           </div>
           <button className="ds-modal-close" onClick={onClose} aria-label="閉じる">
             <svg viewBox="0 0 24 24" width="18" height="18">
@@ -370,26 +617,36 @@ function ProfileModal({ item, history, onClose }) {
         </div>
 
         <div className="ds-modal-body">
-          <table className="ds-modal-table">
-            <tbody>
-              <tr><th>証券コード</th><td>{item.code}</td></tr>
-              <tr><th>市場</th><td>{item.exch !== "—" ? item.exch + "証・" : ""}{item.market}</td></tr>
-            </tbody>
-          </table>
+          <p className="ds-modal-sub">本人情報（フォーム入力によく使うもの）</p>
+          <div className="ds-field"><label>氏名</label><input className="ds-input" value={my.name} onChange={(e) => setMyField("name", e.target.value)} placeholder="例：山田 太郎" /></div>
+          <div className="ds-field"><label>会社名</label><input className="ds-input" value={my.company} onChange={(e) => setMyField("company", e.target.value)} placeholder="例：株式会社〇〇" /></div>
+          <div className="ds-field"><label>部署・役職</label><input className="ds-input" value={my.dept} onChange={(e) => setMyField("dept", e.target.value)} placeholder="例：M&Aアドバイザリー部" /></div>
+          <div className="ds-field"><label>電話番号</label><input className="ds-input" value={my.tel} onChange={(e) => setMyField("tel", e.target.value)} placeholder="例：03-1234-5678" /></div>
+          <div className="ds-field"><label>メールアドレス</label><input className="ds-input" value={my.email} onChange={(e) => setMyField("email", e.target.value)} placeholder="例：taro@example.co.jp" /></div>
 
-          <p className="ds-modal-sub">直近の開示（最大7日分）</p>
-          <ul className="ds-modal-list">
-            {history.map((h) => (
-              <li key={h.id}>
-                <span className="ds-modal-when">{dateLabel(h.date)} {h.time}・{(GENRE_META[h.genre] || GENRE_META.news).label}</span>
-                {h.pdfUrl
-                  ? <a href={h.pdfUrl} target="_blank" rel="noopener noreferrer">{h.title}</a>
-                  : h.title}
-              </li>
-            ))}
-          </ul>
+          <p className="ds-modal-sub">文面テンプレート</p>
+          <div className="ds-tpl-row">
+            <select className="ds-select" value={sel} onChange={(e) => setSel(Number(e.target.value))}>
+              {tpls.map((x, i) => <option key={i} value={i}>{x.name}</option>)}
+            </select>
+            <button className="ds-btn ds-btn-sub" onClick={addTpl}>新規</button>
+            <button className="ds-btn ds-btn-ghost" onClick={delTpl}>削除</button>
+          </div>
+          {t && (
+            <>
+              <div className="ds-field"><label>テンプレート名</label><input className="ds-input" value={t.name} onChange={(e) => setTplField("name", e.target.value)} /></div>
+              <div className="ds-field"><label>本文</label><textarea className="ds-textarea" value={t.body} onChange={(e) => setTplField("body", e.target.value)} /></div>
+            </>
+          )}
+          <p className="ds-note">
+            {"本文には {先方社名} {開示タイトル} {開示日} {氏名} {自社名} {部署} {電話} {メール} と書くと、文面作成時に自動で差し込まれます。"}
+          </p>
 
-          <p className="ds-modal-none">会社概要・業績の自動表示は今後のバージョンで対応予定です。</p>
+          <div className="ds-btn-row">
+            <button className="ds-btn ds-btn-primary" onClick={save}>保存する</button>
+            <button className="ds-btn ds-btn-ghost" onClick={onClose}>閉じる</button>
+          </div>
+          <p className="ds-note">※ ここで入力した情報はこの端末のブラウザ内にのみ保存され、インターネット上には公開されません。</p>
         </div>
       </div>
     </div>
@@ -584,6 +841,35 @@ const CSS = `
 .ds-modal-when { display: block; font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: var(--ink-2); margin-bottom: 2px; }
 .ds-modal-list a { color: var(--ink); text-decoration: none; }
 .ds-modal-list a:hover { color: var(--navy); text-decoration: underline; text-underline-offset: 3px; }
+
+/* ---- マイページ・アプローチ文面 ---- */
+.ds-mypage { background: rgba(255,255,255,.1); border: none; color: #D8DEE7; border-radius: 99px; padding: 8px; line-height: 0; }
+.ds-mypage:hover { background: rgba(255,255,255,.2); }
+.ds-compose-btn {
+  display: block; width: 100%; margin: 6px 0 10px;
+  background: var(--navy); color: #fff; border: none; border-radius: 8px;
+  font-weight: 700; font-size: 13px; padding: 11px 14px; letter-spacing: .02em;
+}
+.ds-compose-btn:hover { background: #27476f; }
+.ds-field { margin-bottom: 10px; }
+.ds-field label { display: block; font-size: 10.5px; color: var(--ink-2); font-weight: 700; margin-bottom: 3px; letter-spacing: .04em; }
+.ds-input, .ds-select, .ds-textarea {
+  width: 100%; border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px;
+  font-size: 13px; font-family: inherit; background: var(--card); color: var(--ink);
+}
+.ds-textarea { min-height: 220px; line-height: 1.7; resize: vertical; }
+.ds-input:focus, .ds-select:focus, .ds-textarea:focus { outline: 2px solid var(--navy); outline-offset: 1px; }
+.ds-btn-row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+.ds-btn { border: none; border-radius: 8px; font-weight: 700; font-size: 12.5px; padding: 9px 14px; }
+.ds-btn-primary { background: var(--shu-bright); color: #fff; box-shadow: 0 2px 10px rgba(232,82,63,.25); }
+.ds-btn-primary:hover { transform: translateY(-1px); }
+.ds-btn-sub { background: var(--release-bg); color: var(--navy); }
+.ds-btn-sub:hover { background: #DEE8F3; }
+.ds-btn-ghost { background: none; border: 1px solid var(--line); color: var(--ink-2); }
+.ds-btn-ghost:hover { color: var(--ink); border-color: #C9C6BB; }
+.ds-note { font-size: 11px; color: var(--ink-2); margin: 8px 0 0; line-height: 1.6; }
+.ds-tpl-row { display: flex; gap: 8px; margin-bottom: 10px; }
+.ds-tpl-row .ds-select { flex: 1; }
 
 @media (prefers-reduced-motion: reduce) {
   .ds-toast, .ds-modal, .ds-modal-back { animation: none; }

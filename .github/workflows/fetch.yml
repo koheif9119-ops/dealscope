@@ -37,6 +37,13 @@ jobs:
           EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
         run: python run_fetch.py
 
+      - name: 企業プロフィール更新（有報から売上等を抽出）
+        working-directory: scripts
+        continue-on-error: true   # 失敗しても開示データの公開は止めない
+        env:
+          EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
+        run: python build_companies.py
+
       - name: 変更があればコミット
         run: |
           git config user.name "dealscope-bot"

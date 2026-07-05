@@ -30,6 +30,7 @@ def main():
     header = [str(c.value).strip() for c in sheet.row(0)]
     code_i = header.index("コード")
     seg_i = header.index("市場・商品区分")
+    ind_i = header.index("33業種区分") if "33業種区分" in header else -1
 
     master = {}
     for r in range(1, sheet.nrows):
@@ -44,7 +45,12 @@ def main():
             market = "グロース"
         else:
             continue  # ETF・REIT・PRO Market等は対象外
-        master[code[:4]] = {"market": market, "exch": "東"}
+        industry = ""
+        if ind_i >= 0:
+            industry = str(sheet.cell_value(r, ind_i)).strip()
+            if industry == "-":
+                industry = ""
+        master[code[:4]] = {"market": market, "exch": "東", "industry": industry}
 
     write_json(MASTER_PATH, master, sort_keys=True)
     print(f"markets.json を更新しました（{len(master)}銘柄）")
