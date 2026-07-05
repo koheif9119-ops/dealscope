@@ -6,6 +6,7 @@
 import os
 from datetime import datetime, timedelta
 
+import build_bundles
 import build_master
 import classify
 import fetch_edinet
@@ -118,6 +119,9 @@ def main():
         merged.sort(key=lambda x: (x["time"], x["id"]), reverse=True)
         if merged != old:
             write_json(path, merged)
+
+    # ---- 月別まとめ（過去検索用）を更新 ----
+    build_bundles.rebuild(months={day[:7] for day in by_day})
 
     # ---- latest.json（直近7日分）を再構築 ----
     window = [(today - timedelta(days=i)).isoformat() for i in range(6, -1, -1)]

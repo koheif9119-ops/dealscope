@@ -1,0 +1,49 @@
+# 過去の開示のさかのぼり取得（原則1回だけ。必要なら手動で再実行可能）
+name: backfill
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "さかのぼる日数"
+        default: "365"
+  push:
+    branches: [main]
+    paths: [".github/workflows/backfill.yml"]   # このファイルの追加時に自動で1回走る
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backfill
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 依存ライブラリをインストール
+        run: pip install -r scripts/requirements.txt
+
+      - name: さかのぼり取得
+        working-directory: scripts
+        run: python backfill.py ${{ github.event.inputs.days || '365' }}
+
+      - name: 変更があればコミット
+        run: |
+          git config user.name "dealscope-bot"
+          git config user.email "dealscope-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "変更なし（コミットしません）"
+          else
+            git commit -m "過去データのさかのぼり取得"
+            git pull --rebase origin main
+            git push
+          fi

@@ -1,0 +1,45 @@
+# 朝のダイジェスト：新着のM&A・中計をIssueのコメントで通知（GitHubからメールが届く）
+name: digest
+
+on:
+  schedule:
+    - cron: "45 23 * * 0-4"   # 平日 8:45 JST（8:00の朝取得の後）
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ダイジェストを作成
+        run: |
+          cd scripts
+          python make_digest.py > ../digest.md
+          cd ..
+          echo "--- ダイジェスト内容 ---"
+          cat digest.md
+
+      - name: Issueに投稿（新着がある日のみ）
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ ! -s digest.md ]; then
+            echo "新着なしのため投稿しません"
+            exit 0
+          fi
+          num=$(gh issue list --state open --search "in:title 朝のダイジェスト" --json number --jq '.[0].number' 2>/dev/null || true)
+          if [ -z "$num" ] || [ "$num" = "null" ]; then
+            url=$(gh issue create --title "📬 朝のダイジェスト（M&A・中計）" \
+              --body "毎朝8:45ごろ、新着のM&A・中期経営計画の一覧がこのIssueにコメントで届きます。GitHubの通知メールでも受け取れます。")
+            num=$(echo "$url" | grep -o '[0-9]*$')
+          fi
+          gh issue comment "$num" --body-file digest.md

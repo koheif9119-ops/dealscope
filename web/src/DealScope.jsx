@@ -133,6 +133,49 @@ export default function DealScope() {
   const [companies, setCompanies] = useState({}); // 企業プロフィール帳（companies.json）
   const [showSettings, setShowSettings] = useState(false);
 
+  /* 過去検索（月別まとめ data/monthly/ を読み込んで横断検索） */
+  const [showArchive, setShowArchive] = useState(false);
+  const [archMonths, setArchMonths] = useState(null);
+  const [archCache] = useState(() => new Map());
+  const [archQuery, setArchQuery] = useState("");
+  const [archGenre, setArchGenre] = useState("all");
+  const [archPeriod, setArchPeriod] = useState("3");
+  const [archResults, setArchResults] = useState(null);
+  const [archLoading, setArchLoading] = useState(false);
+
+  const runArchiveSearch = async () => {
+    if (archLoading) return;
+    setArchLoading(true);
+    try {
+      let months = archMonths;
+      if (!months) {
+        const r = await fetch(`data/monthly/index.json?ts=${Date.now()}`, { cache: "no-store" });
+        months = r.ok ? await r.json() : [];
+        setArchMonths(months);
+      }
+      const n = archPeriod === "all" ? months.length : Number(archPeriod);
+      const target = months.slice(-n);
+      let all = [];
+      for (const m of target) {
+        if (!archCache.has(m)) {
+          const r = await fetch(`data/monthly/${m}.json?ts=${Date.now()}`, { cache: "no-store" });
+          archCache.set(m, r.ok ? await r.json() : []);
+        }
+        all = all.concat(archCache.get(m));
+      }
+      const q = archQuery.trim();
+      const hits = all.filter((i) =>
+        (archGenre === "all" || i.genre === archGenre) &&
+        (!q || i.name.includes(q) || i.title.includes(q) || i.code.includes(q)));
+      hits.sort((a, b) => (a.date + a.time < b.date + b.time ? 1 : -1));
+      setArchResults({ total: hits.length, items: hits.slice(0, 300) });
+    } catch (e) {
+      flash("検索データの読み込みに失敗しました");
+    } finally {
+      setArchLoading(false);
+    }
+  };
+
   /* 企業プロフィール帳の読み込み */
   useEffect(() => {
     fetch(`data/companies.json?ts=${Date.now()}`, { cache: "no-store" })
@@ -289,21 +332,81 @@ export default function DealScope() {
           {GENRES.map((g) => (
             <button
               key={g.id}
-              className={"ds-tab" + (!showSaved && genre === g.id ? " is-active" : "")}
-              onClick={() => { setGenre(g.id); setShowSaved(false); }}
+              className={"ds-tab" + (!showSaved && !showArchive && genre === g.id ? " is-active" : "")}
+              onClick={() => { setGenre(g.id); setShowSaved(false); setShowArchive(false); }}
             >
               {g.label}
               <span className="ds-tab-count">{counts[g.id]}</span>
             </button>
           ))}
-          <button className={"ds-tab ds-tab-saved" + (showSaved ? " is-active" : "")} onClick={() => setShowSaved(!showSaved)}>
+          <button className={"ds-tab ds-tab-saved" + (showSaved ? " is-active" : "")} onClick={() => { setShowSaved(!showSaved); setShowArchive(false); }}>
             後で読む
             <span className="ds-tab-count">{bookmarks.size}</span>
+          </button>
+          <button className={"ds-tab" + (showArchive ? " is-active" : "")} onClick={() => { setShowArchive(!showArchive); setShowSaved(false); }}>
+            過去検索
           </button>
         </nav>
       </header>
 
+      {/* ===== 過去検索 ===== */}
+      {showArchive && (
+        <main className="ds-list">
+          <div className="ds-arch-controls">
+            <input
+              className="ds-search"
+              type="search"
+              placeholder="社名・コード・キーワードで全期間を検索"
+              value={archQuery}
+              onChange={(e) => setArchQuery(e.target.value)}
+              onKeyDown={(e) => { if (e.key === "Enter") runArchiveSearch(); }}
+            />
+            <select className="ds-select ds-arch-select" value={archGenre} onChange={(e) => setArchGenre(e.target.value)}>
+              {GENRES.map((g) => <option key={g.id} value={g.id}>{g.label}</option>)}
+            </select>
+            <select className="ds-select ds-arch-select" value={archPeriod} onChange={(e) => setArchPeriod(e.target.value)}>
+              <option value="3">直近3か月</option>
+              <option value="6">直近6か月</option>
+              <option value="12">直近1年</option>
+              <option value="all">全期間</option>
+            </select>
+            <button className="ds-btn ds-btn-primary" onClick={runArchiveSearch}>{archLoading ? "検索中…" : "検索"}</button>
+          </div>
+          <p className="ds-note">※開示の一覧・タイトルは全期間残りますが、TDnetの原文PDFのリンクは公開から約1か月で切れます（それ以前の原文は各社IRサイトでご確認ください）。</p>
+
+          {archResults && archResults.total > 0 && (
+            <>
+              <h2 className="ds-datehead">
+                検索結果
+                <span className="ds-datehead-n">{archResults.total}件{archResults.total > 300 ? "（新しい順に300件を表示）" : ""}</span>
+              </h2>
+              <ul className="ds-items">
+                {archResults.items.map((item) => (
+                  <Row
+                    key={item.id}
+                    item={item}
+                    saved={false}
+                    onSave={() => {}}
+                    onOpen={() => openPdf(item)}
+                    onProfile={() => item.code !== "—" && setProfile(item)}
+                    hideSave
+                    showDate
+                  />
+                ))}
+              </ul>
+            </>
+          )}
+          {archResults && archResults.total === 0 && (
+            <div className="ds-empty">該当する開示が見つかりませんでした。キーワードや期間を変えてみてください。</div>
+          )}
+          {!archResults && (
+            <div className="ds-empty">キーワードや期間を選んで「検索」を押すと、蓄積した全開示から探せます。</div>
+          )}
+        </main>
+      )}
+
       {/* ===== フィルター行 ===== */}
+      {!showArchive && (
       <div className="ds-filters">
         <div className="ds-markets">
           {MARKETS.map((m) => (
@@ -320,8 +423,10 @@ export default function DealScope() {
           onChange={(e) => setQuery(e.target.value)}
         />
       </div>
+      )}
 
       {/* ===== 一覧 ===== */}
+      {!showArchive && (
       <main className="ds-list">
         {loading && <div className="ds-empty">読み込み中…</div>}
 
@@ -362,6 +467,7 @@ export default function DealScope() {
           出所：TDnet（適時開示）／EDINET／PR TIMES。内容は必ず原文でご確認ください。
         </footer>
       </main>
+      )}
 
       {toast && <div className="ds-toast">{toast}</div>}
 
@@ -393,13 +499,14 @@ function LogoMark() {
 }
 
 /* ---------- 一覧の行 ---------- */
-function Row({ item, saved, onSave, onOpen, onProfile }) {
+function Row({ item, saved, onSave, onOpen, onProfile, hideSave, showDate }) {
   const g = GENRE_META[item.genre] || GENRE_META.news;
   const isMA = item.genre === "ma";
   const hasProfile = item.code !== "—";
   return (
     <li className={"ds-row" + (isMA ? " is-ma" : "") + (item.isCorrection ? " is-corr" : "")}>
       <div className="ds-row-meta">
+        {showDate && <span className="ds-arch-date">{item.date.slice(2).replace(/-/g, "/")}</span>}
         <span className="ds-time">{item.time}</span>
         <span className={"ds-badge " + g.cls}>{g.label}</span>
         {item.isNew && <span className="ds-new">NEW</span>}
@@ -427,7 +534,7 @@ function Row({ item, saved, onSave, onOpen, onProfile }) {
           </div>
         )}
       </div>
-      <button
+      {!hideSave && <button
         className={"ds-save" + (saved ? " is-saved" : "")}
         onClick={onSave}
         aria-label={saved ? "後で読むから外す" : "後で読むに登録"}
@@ -437,7 +544,7 @@ function Row({ item, saved, onSave, onOpen, onProfile }) {
           <path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"
             fill={saved ? "currentColor" : "none"} stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round" />
         </svg>
-      </button>
+      </button>}
     </li>
   );
 }
@@ -874,6 +981,12 @@ const CSS = `
 .ds-note { font-size: 11px; color: var(--ink-2); margin: 8px 0 0; line-height: 1.6; }
 .ds-tpl-row { display: flex; gap: 8px; margin-bottom: 10px; }
 .ds-tpl-row .ds-select { flex: 1; }
+
+/* ---- 過去検索 ---- */
+.ds-arch-controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 14px; }
+.ds-arch-controls .ds-search { flex: 1; min-width: 180px; }
+.ds-arch-select { width: auto; }
+.ds-arch-date { font-family: 'IBM Plex Mono', monospace; font-size: 10px; font-weight: 600; color: var(--ink-2); }
 
 @media (prefers-reduced-motion: reduce) {
   .ds-toast, .ds-modal, .ds-modal-back { animation: none; }
