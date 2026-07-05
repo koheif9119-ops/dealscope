@@ -1,6 +1,40 @@
 {
- "updatedAt": "2026-07-05T22:18:40+09:00",
+ "updatedAt": "2026-07-05T23:31:31+09:00",
  "items": [
+  {
+   "id": "prtimes-bb5ebdcf03b1",
+   "date": "2026-07-05",
+   "time": "23:10",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "アドバンサー株式会社、M&Aクラウド創業者・及川厚博氏が経営アドバイザーに就任",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000010.000036896.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-53a21f73b89a",
+   "date": "2026-07-05",
+   "time": "23:10",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "株式会社ＪＯＹＣＬＥとの資本業務提携について",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000527.000075524.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "prtimes-82957c80a54b",
    "date": "2026-07-05",
@@ -17,6 +51,40 @@
    "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000534.000045710.html",
    "src": "PR TIMES",
    "isCorrection": false
+  },
+  {
+   "id": "edinet-S100YON3",
+   "date": "2026-07-03",
+   "time": "16:35",
+   "code": "7042",
+   "name": "株式会社アクセスグループ・ホールディングス",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第37期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YON3",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YOLD",
+   "date": "2026-07-03",
+   "time": "16:21",
+   "code": "6155",
+   "name": "高松機械工業株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第65期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOLD",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
   },
   {
    "id": "tdnet-1263794",
@@ -109,6 +177,23 @@
    ],
    "isCorrection": false,
    "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YOKU",
+   "date": "2026-07-03",
+   "time": "15:32",
+   "code": "5253",
+   "name": "カバー株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第10期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOKU",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "グロース"
   },
   {
    "id": "tdnet-1263772",
@@ -508,6 +593,74 @@
    "market": "スタンダード"
   },
   {
+   "id": "edinet-S100YOPN",
+   "date": "2026-07-03",
+   "time": "14:37",
+   "code": "5388",
+   "name": "クニミネ工業株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第92期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOPN",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YOIU",
+   "date": "2026-07-03",
+   "time": "14:24",
+   "code": "2332",
+   "name": "株式会社クエスト",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第62期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOIU",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YOOV",
+   "date": "2026-07-03",
+   "time": "13:51",
+   "code": "6380",
+   "name": "オリエンタルチエン工業株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第107期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOOV",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YOOP",
+   "date": "2026-07-03",
+   "time": "13:34",
+   "code": "2345",
+   "name": "株式会社ＨＯＤＬ１",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第30期(2024/11/01－2025/10/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOOP",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
    "id": "tdnet-1263651",
    "date": "2026-07-03",
    "time": "13:00",
@@ -541,6 +694,23 @@
     "株式取得"
    ],
    "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YONX",
+   "date": "2026-07-03",
+   "time": "12:50",
+   "code": "3962",
+   "name": "株式会社チェンジホールディングス",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第24期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YONX",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
    "market": "プライム"
   },
   {
@@ -580,6 +750,40 @@
    "market": "グロース"
   },
   {
+   "id": "edinet-S100YOFN",
+   "date": "2026-07-03",
+   "time": "11:15",
+   "code": "4568",
+   "name": "第一三共株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第21期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOFN",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YOI8",
+   "date": "2026-07-03",
+   "time": "10:30",
+   "code": "2818",
+   "name": "株式会社ピエトロ",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第41期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOI8",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
    "id": "tdnet-1263624",
    "date": "2026-07-03",
    "time": "10:00",
@@ -595,6 +799,23 @@
     "株式取得"
    ],
    "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YOCW",
+   "date": "2026-07-03",
+   "time": "09:01",
+   "code": "4323",
+   "name": "日本システム技術株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第54期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOCW",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
    "market": "プライム"
   },
   {
@@ -668,6 +889,23 @@
    ],
    "isCorrection": false,
    "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YOGM",
+   "date": "2026-07-02",
+   "time": "16:50",
+   "code": "2323",
+   "name": "株式会社ｆｏｎｆｕｎ",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第30期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOGM",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
   },
   {
    "id": "tdnet-1263594",
@@ -829,6 +1067,23 @@
    "genre": "kessan",
    "tags": [
     "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YNWZ",
+   "date": "2026-07-02",
+   "time": "14:56",
+   "code": "4750",
+   "name": "株式会社ダイサン",
+   "exch": "東",
+   "title": "有価証券報告書－第52期(2025/04/21－2026/04/20)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNWZ",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
    ],
    "isCorrection": false,
    "market": "スタンダード"

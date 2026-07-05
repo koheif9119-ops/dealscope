@@ -4,8 +4,8 @@
   "error": null
  },
  "EDINET": {
-  "ok": false,
-  "error": "2026-07-05: EDINETからエラー応答: Access denied due to invalid subscription key.Make sure to provide a valid key for an active subscription."
+  "ok": true,
+  "error": null
  },
  "PR TIMES": {
   "ok": true,

@@ -54,6 +54,23 @@
   "market": "プライム"
  },
  {
+  "id": "edinet-S100YOGM",
+  "date": "2026-07-02",
+  "time": "16:50",
+  "code": "2323",
+  "name": "株式会社ｆｏｎｆｕｎ",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第30期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOGM",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1263594",
   "date": "2026-07-02",
   "time": "16:30",
@@ -213,6 +230,23 @@
   "genre": "kessan",
   "tags": [
    "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YNWZ",
+  "date": "2026-07-02",
+  "time": "14:56",
+  "code": "4750",
+  "name": "株式会社ダイサン",
+  "exch": "東",
+  "title": "有価証券報告書－第52期(2025/04/21－2026/04/20)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNWZ",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
   ],
   "isCorrection": false,
   "market": "スタンダード"

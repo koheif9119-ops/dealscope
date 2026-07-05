@@ -1,5 +1,39 @@
 [
  {
+  "id": "prtimes-bb5ebdcf03b1",
+  "date": "2026-07-05",
+  "time": "23:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "アドバンサー株式会社、M&Aクラウド創業者・及川厚博氏が経営アドバイザーに就任",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000010.000036896.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-53a21f73b89a",
+  "date": "2026-07-05",
+  "time": "23:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "株式会社ＪＯＹＣＬＥとの資本業務提携について",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000527.000075524.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "prtimes-82957c80a54b",
   "date": "2026-07-05",
   "time": "20:40",
