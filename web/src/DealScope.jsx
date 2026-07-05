@@ -473,7 +473,11 @@ function ProfileModal({ item, prof, history, onClose, flash }) {
     }
   };
 
-  const searchSite = () => {
+  const searchSite = async () => {
+    try {
+      await navigator.clipboard.writeText(draft);
+      flash("文面をコピーしました。開いた検索結果から問い合わせページを探して貼り付けてください");
+    } catch (e) { /* コピー不可でも検索は続行 */ }
     const q = encodeURIComponent(`${item.name} お問い合わせ`);
     window.open(`https://www.google.com/search?q=${q}`, "_blank", "noopener,noreferrer");
   };
@@ -549,8 +553,8 @@ function ProfileModal({ item, prof, history, onClose, flash }) {
               <p className="ds-note">※ 氏名・会社名が未登録のため {"{氏名}"} などが残っています。マイページで登録すると自動で埋まります。</p>
             )}
             <div className="ds-btn-row">
-              <button className="ds-btn ds-btn-primary" onClick={copyDraft}>文面をコピー</button>
-              <button className="ds-btn ds-btn-sub" onClick={searchSite}>先方サイトを検索</button>
+              <button className="ds-btn ds-btn-primary" onClick={searchSite}>コピーして先方サイトを検索</button>
+              <button className="ds-btn ds-btn-sub" onClick={copyDraft}>コピーのみ</button>
               <button className="ds-btn ds-btn-ghost" onClick={() => setView("profile")}>戻る</button>
             </div>
             <p className="ds-note">コピーした文面を、先方サイトの問い合わせフォームに貼り付けて送信してください（送信は必ずご自身の確認のうえで）。</p>
