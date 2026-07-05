@@ -1,0 +1,329 @@
+[
+ {
+  "id": "tdnet-1263611",
+  "date": "2026-07-02",
+  "time": "19:00",
+  "code": "7318",
+  "name": "Ｇ－セレンディップ",
+  "exch": "東",
+  "title": "日建産業の株式の取得（子会社化）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702587152.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1263609",
+  "date": "2026-07-02",
+  "time": "18:05",
+  "code": "8473",
+  "name": "ＳＢＩ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）2026年３月期　決算短信〔ＩＦＲＳ〕（連結）の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702587143.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1263605",
+  "date": "2026-07-02",
+  "time": "17:30",
+  "code": "2371",
+  "name": "カカクコム",
+  "exch": "東",
+  "title": "Kamgras １株式会社による株式会社カカクコム（証券コード：2371）の株券等に対する公開買付けに係る公開買付期間の延長に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702587119.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1263594",
+  "date": "2026-07-02",
+  "time": "16:30",
+  "code": "9612",
+  "name": "ラックランド",
+  "exch": "東",
+  "title": "連結子会社の異動（株式譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702586827.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1263586",
+  "date": "2026-07-02",
+  "time": "16:00",
+  "code": "9425",
+  "name": "ＲｅＹｕｕＪａｐａｎ",
+  "exch": "東",
+  "title": "株式会社あいプロの株式取得（子会社化）の基本合意書締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702586640.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1263514",
+  "date": "2026-07-02",
+  "time": "15:35",
+  "code": "4171",
+  "name": "グローバルＩ",
+  "exch": "東",
+  "title": "株式会社ユーザベースによる当社株券等に対する公開買付けの結果並びに親会社、主要株主である筆頭株主及び主要株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702586850.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1263573",
+  "date": "2026-07-02",
+  "time": "15:30",
+  "code": "9793",
+  "name": "ダイセキ",
+  "exch": "東",
+  "title": "2027年２月期第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260629582962.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1263558",
+  "date": "2026-07-02",
+  "time": "15:30",
+  "code": "7318",
+  "name": "Ｇ－セレンディップ",
+  "exch": "東",
+  "title": "新中期経営計画説明会動画および質疑応答要旨の公開について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702586616.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1263549",
+  "date": "2026-07-02",
+  "time": "15:30",
+  "code": "5133",
+  "name": "テリロジーＨＤ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260630584461.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1263543",
+  "date": "2026-07-02",
+  "time": "15:30",
+  "code": "4206",
+  "name": "アイカ工",
+  "exch": "東",
+  "title": "非連結子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702586957.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1263530",
+  "date": "2026-07-02",
+  "time": "15:30",
+  "code": "3549",
+  "name": "クスリのアオキＨＤ",
+  "exch": "東",
+  "title": "2026年5月期 決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702586782.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1263518",
+  "date": "2026-07-02",
+  "time": "15:30",
+  "code": "2493",
+  "name": "イーサポート",
+  "exch": "東",
+  "title": "2026年11月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702586621.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1263509",
+  "date": "2026-07-02",
+  "time": "14:30",
+  "code": "5233",
+  "name": "太平洋セメ",
+  "exch": "東",
+  "title": "コミットメント型自己株式取得（FCSR）における事後調整完了のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702586682.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1263511",
+  "date": "2026-07-02",
+  "time": "14:20",
+  "code": "7578",
+  "name": "ニチリョク",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2026年３月期　決算短信〔日本基準〕（非連結）」の一部訂正のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260701586177.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1263499",
+  "date": "2026-07-02",
+  "time": "14:00",
+  "code": "6574",
+  "name": "Ｇ－コンヴァノ",
+  "exch": "東",
+  "title": "（開示事項の経過）アクセルマーク株式会社（証券コード3624）の株式の取得（連結子会社化）の完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260701586305.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1263476",
+  "date": "2026-07-02",
+  "time": "11:35",
+  "code": "9235",
+  "name": "Ｇ－売れるネットＧ",
+  "exch": "東",
+  "title": "【売上14.63億円】【黒字】モバイルシステム・モバイル通信会社「パロットビーク株式会社」株式取得による完全子会社化に関する補足説明資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260701586476.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1263482",
+  "date": "2026-07-02",
+  "time": "11:30",
+  "code": "9235",
+  "name": "Ｇ－売れるネットＧ",
+  "exch": "東",
+  "title": "株式交付によるパロットビーク株式会社の子会社化及び子会社（特定子会社）の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260701586475.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1263472",
+  "date": "2026-07-02",
+  "time": "11:00",
+  "code": "2371",
+  "name": "カカクコム",
+  "exch": "東",
+  "title": "（変更）「Kamgras １株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702586641.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ }
+]
