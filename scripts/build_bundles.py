@@ -25,7 +25,9 @@ def rebuild(months=None):
         by_month.setdefault(f[:7], []).append(f)
 
     for month, flist in by_month.items():
-        if months is not None and month not in months:
+        path_exists = os.path.exists(os.path.join(MONTHLY_DIR, month + ".json"))
+        # 指定外の月でも、月別ファイルがまだ無ければ作る（さかのぼり取得の後処理）
+        if months is not None and month not in months and path_exists:
             continue
         items = []
         for f in flist:

@@ -8,7 +8,6 @@ import os
 import sys
 from datetime import datetime, timedelta
 
-import build_bundles
 import classify
 import fetch_tdnet
 from util import DAILY_DIR, JST, MASTER_PATH, read_json, write_json
@@ -46,7 +45,9 @@ def main(days=365):
         if done % 30 == 0:
             print(f"{day} まで取得完了")
 
-    build_bundles.rebuild()
+    # 月別まとめ（monthly）はここでは作らない。
+    # 通常の定期取得（run_fetch）と同じファイルを触って保存が衝突するのを防ぐため、
+    # 次回の定期取得が不足している月ぶんを自動で作る。
     print(f"さかのぼり取得が完了しました（新規{done}日分）")
 
 
