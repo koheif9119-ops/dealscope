@@ -1,0 +1,508 @@
+[
+ {
+  "id": "tdnet-1208819",
+  "date": "2025-11-26",
+  "time": "17:00",
+  "code": "6209",
+  "name": "リケンＮＰＲ",
+  "exch": "東",
+  "title": "当社グループの組織再編（会社分割）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251125508492.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1208818",
+  "date": "2025-11-26",
+  "time": "17:00",
+  "code": "5534",
+  "name": "Ｐ－エンゼルグループ",
+  "exch": "東",
+  "title": "（訂正）「2025年８月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509592.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1208804",
+  "date": "2025-11-26",
+  "time": "16:30",
+  "code": "9270",
+  "name": "Ｇ－バリュエンスＨＤ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251125508935.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1208802",
+  "date": "2025-11-26",
+  "time": "16:30",
+  "code": "8076",
+  "name": "カノークス",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併、略式合併）及び吸収分割（略式分割）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126508976.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1208787",
+  "date": "2025-11-26",
+  "time": "16:00",
+  "code": "7082",
+  "name": "Ｇ－ジモティー",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251125508866.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1208777",
+  "date": "2025-11-26",
+  "time": "16:00",
+  "code": "3077",
+  "name": "ホリイフード",
+  "exch": "東",
+  "title": "有限会社セイコーポレーションの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509373.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1208775",
+  "date": "2025-11-26",
+  "time": "16:00",
+  "code": "244A",
+  "name": "Ｇ－グロースエクスパ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509588.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1208765",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "9434",
+  "name": "ソフトバンク",
+  "exch": "東",
+  "title": "完全子会社であるSBテクノロジー株式会社の吸収合併(簡易合併・略式合併)に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509167.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1208764",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "9434",
+  "name": "ソフトバンク",
+  "exch": "東",
+  "title": "完全子会社である日本コンピュータビジョン株式会社の吸収合併(簡易合併・略式合併)に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509051.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1208763",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "9336",
+  "name": "大栄環境",
+  "exch": "東",
+  "title": "（開示事項の経過）株式会社スカラベサクレの株式取得完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251117504538.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1208762",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "9252",
+  "name": "Ｇ－ラストワンマイル",
+  "exch": "東",
+  "title": "中期経営計画（事業計画及び成長可能性に関する説明資料）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509183.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1208754",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "8418",
+  "name": "山口ＦＧ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509492.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1208752",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "7914",
+  "name": "共同印",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定及び自己株式消却に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251125508642.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1208750",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "7590",
+  "name": "タカショー",
+  "exch": "東",
+  "title": "2026年１月期第３四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251125508373.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1208743",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "5802",
+  "name": "住友電工",
+  "exch": "東",
+  "title": "（訂正）公開買付届出書の訂正届出書の提出に伴う「住友理工株式に対する公開買付けの開始に関するお知らせ」及び公開買付開始公告の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251119506205.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1208738",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "5191",
+  "name": "住友理工",
+  "exch": "東",
+  "title": "（訂正）「支配株主である住友電気工業株式会社による当社株式に対する公開買付けに係る賛同の意見表明及び応募推奨に関するお知らせ」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509004.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1208732",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "4412",
+  "name": "Ｇ－サイエンスアーツ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509289.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1208725",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "3686",
+  "name": "ＤＬＥ",
+  "exch": "東",
+  "title": "完全子会社の吸収合併並びに連結子会社及び非連結子会社の解散に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509412.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1208723",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "3467",
+  "name": "アグレ都市デザイン",
+  "exch": "東",
+  "title": "株式の取得（子会社化及び孫会社化）に向けた基本合意書締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251125508381.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1208719",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "3023",
+  "name": "ラサ商事",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251120507035.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1208718",
+  "date": "2025-11-26",
+  "time": "15:30",
+  "code": "2911",
+  "name": "旭松食品",
+  "exch": "東",
+  "title": "(開示事項の経過)連結子会社の異動(持分一部譲渡)および特別利益の計上に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251125508208.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1208705",
+  "date": "2025-11-26",
+  "time": "15:00",
+  "code": "9241",
+  "name": "Ｇ－ＦＬＮ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509480.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1208703",
+  "date": "2025-11-26",
+  "time": "15:00",
+  "code": "4099",
+  "name": "四国化成ＨＤ",
+  "exch": "東",
+  "title": "株式譲渡契約締結（完全子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509482.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化",
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1208690",
+  "date": "2025-11-26",
+  "time": "12:30",
+  "code": "6942",
+  "name": "ソフィアＨＤ",
+  "exch": "東",
+  "title": "当社連結孫会社による事業譲受に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126508992.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1208679",
+  "date": "2025-11-26",
+  "time": "11:45",
+  "code": "2982",
+  "name": "ＡＤワークスグループ",
+  "exch": "東",
+  "title": "連結子会社の会社分割（吸収分割）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509045.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1208677",
+  "date": "2025-11-26",
+  "time": "11:00",
+  "code": "8359",
+  "name": "八十二銀",
+  "exch": "東",
+  "title": "八十二グループの「経営理念」および「中期経営計画の方向性」について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251125508648.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1208669",
+  "date": "2025-11-26",
+  "time": "10:00",
+  "code": "7987",
+  "name": "ナカバヤシ",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式取得結果及び自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126508975.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1208656",
+  "date": "2025-11-26",
+  "time": "08:00",
+  "code": "9984",
+  "name": "ソフトバンクグループ",
+  "exch": "東",
+  "title": "Ampere Computing Holdings LLCの持分の取得（子会社化）の完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251120507192.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ }
+]

@@ -1,0 +1,401 @@
+[
+ {
+  "id": "tdnet-1192672",
+  "date": "2025-09-22",
+  "time": "18:00",
+  "code": "5028",
+  "name": "Ｇ－セカンドサイト",
+  "exch": "東",
+  "title": "子会社等の異動を伴う株式譲渡契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560734.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1192656",
+  "date": "2025-09-22",
+  "time": "17:00",
+  "code": "4578",
+  "name": "大塚ＨＤ",
+  "exch": "東",
+  "title": "（開示事項の経過）持分法適用関連会社の異動（株式譲渡）の完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560724.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1192642",
+  "date": "2025-09-22",
+  "time": "16:00",
+  "code": "4069",
+  "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
+  "exch": "東",
+  "title": "株式の売出し、主要株主、主要株主である筆頭株主の異動、その他の関係会社の異動及び情報技術開発株式会社による当社株式（証券コード：4069）の公開買付け",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560897.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1192641",
+  "date": "2025-09-22",
+  "time": "16:00",
+  "code": "4069",
+  "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
+  "exch": "東",
+  "title": "情報技術開発株式会社との業務提携契約締結に向けた協議の開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560899.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1192639",
+  "date": "2025-09-22",
+  "time": "16:00",
+  "code": "2862",
+  "name": "上場フランス国債Ｈ有",
+  "exch": "東",
+  "title": "2025年8月期（2025年2月11日～2025年8月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560810.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1192638",
+  "date": "2025-09-22",
+  "time": "16:00",
+  "code": "2861",
+  "name": "上場フランス国債Ｈ無",
+  "exch": "東",
+  "title": "2025年8月期（2025年2月11日～2025年8月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560807.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1192637",
+  "date": "2025-09-22",
+  "time": "16:00",
+  "code": "2844",
+  "name": "上場豪債ヘッジなし",
+  "exch": "東",
+  "title": "2025年8月期（2025年2月11日～2025年8月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560804.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1192636",
+  "date": "2025-09-22",
+  "time": "16:00",
+  "code": "2843",
+  "name": "上場豪債ヘッジあり",
+  "exch": "東",
+  "title": "2025年8月期（2025年2月11日～2025年8月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560801.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1192634",
+  "date": "2025-09-22",
+  "time": "15:30",
+  "code": "9603",
+  "name": "Ｈ．Ｉ．Ｓ．",
+  "exch": "東",
+  "title": "（開示事項の経過）当社連結子会社による株式取得（完全子会社化）に関する株式譲渡契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560678.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化",
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1192612",
+  "date": "2025-09-22",
+  "time": "15:30",
+  "code": "4052",
+  "name": "Ｇ－フィーチャ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560622.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1192611",
+  "date": "2025-09-22",
+  "time": "15:30",
+  "code": "3986",
+  "name": "Ｇ－ビーブレイク",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250919559973.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1192603",
+  "date": "2025-09-22",
+  "time": "15:30",
+  "code": "263A",
+  "name": "Ｐ－デジタルキューブ",
+  "exch": "東",
+  "title": "連結子会社における事業譲受に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560610.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1192599",
+  "date": "2025-09-22",
+  "time": "15:30",
+  "code": "231A",
+  "name": "Ｑ－Ｃｒｏｓｓ　Ｅ",
+  "exch": "福",
+  "title": "（開示事項の経過）株式取得（完全子会社）に関する株式譲渡契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250912557051.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1192596",
+  "date": "2025-09-22",
+  "time": "14:50",
+  "code": "305A",
+  "name": "Ｐ－ダブルツリー",
+  "exch": "東",
+  "title": "山本幸株式会社の株式の取得（子会社化）及び債権譲受に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560769.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1192581",
+  "date": "2025-09-22",
+  "time": "13:00",
+  "code": "3333",
+  "name": "あさひ",
+  "exch": "東",
+  "title": "2026年２月期第２四半期（中間期）決算短信〔日本基準〕(非連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560752.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1192579",
+  "date": "2025-09-22",
+  "time": "12:30",
+  "code": "284A",
+  "name": "Ｐ－フクヤ建設",
+  "exch": "東",
+  "title": "【訂正】「株式会社鳳建築設計事務所の株式の取得（子会社化）に関するお知らせ」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560733.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1192575",
+  "date": "2025-09-22",
+  "time": "12:00",
+  "code": "3070",
+  "name": "Ｇ－ジェリービーンズ",
+  "exch": "東",
+  "title": "補足資料　株式会社RayofWaterとの業務提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560697.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1192563",
+  "date": "2025-09-22",
+  "time": "10:00",
+  "code": "284A",
+  "name": "Ｐ－フクヤ建設",
+  "exch": "東",
+  "title": "株式会社鳳建築設計事務所の株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250919560467.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1192562",
+  "date": "2025-09-22",
+  "time": "10:00",
+  "code": "2567",
+  "name": "ＮＺＡＭ　カーボン",
+  "exch": "東",
+  "title": "2025年８月期　決算短信（2025年２月16日～2025年８月15日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560581.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1192561",
+  "date": "2025-09-22",
+  "time": "10:00",
+  "code": "2526",
+  "name": "ＮＺＡＭ　４００",
+  "exch": "東",
+  "title": "2025年８月期　決算短信（2025年２月16日～2025年８月15日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560559.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1192560",
+  "date": "2025-09-22",
+  "time": "10:00",
+  "code": "2525",
+  "name": "ＮＺＡＭ　２２５",
+  "exch": "東",
+  "title": "2025年８月期　決算短信（2025年２月16日～2025年８月15日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560556.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1192559",
+  "date": "2025-09-22",
+  "time": "10:00",
+  "code": "2524",
+  "name": "ＮＺＡＭ　ＴＰＸ",
+  "exch": "東",
+  "title": "2025年８月期　決算短信（2025年２月16日～2025年８月15日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250922560554.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ }
+]

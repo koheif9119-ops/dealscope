@@ -1,0 +1,492 @@
+[
+ {
+  "id": "tdnet-1241376",
+  "date": "2026-04-20",
+  "time": "18:00",
+  "code": "6890",
+  "name": "フェローテック",
+  "exch": "東",
+  "title": "再生ウエーハ事業での新会社設立と設備投資（新工場建設）の実施、及び再生ウエーハ事業子会社(CRSM)子会社から持分法適用会社への異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506982.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "新工場"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241371",
+  "date": "2026-04-20",
+  "time": "17:30",
+  "code": "8143",
+  "name": "ラピーヌ",
+  "exch": "東",
+  "title": "2026年２月期　決算短信［日本基準］（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260407599233.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241368",
+  "date": "2026-04-20",
+  "time": "17:30",
+  "code": "1515",
+  "name": "日鉄鉱",
+  "exch": "東",
+  "title": "アメリカ合衆国アリゾナ州Oracle Ridge銅探鉱プロジェクトへの参入契約締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506902.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "参入"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241367",
+  "date": "2026-04-20",
+  "time": "17:30",
+  "code": "1515",
+  "name": "日鉄鉱",
+  "exch": "東",
+  "title": "米国における特定子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506878.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241363",
+  "date": "2026-04-20",
+  "time": "17:15",
+  "code": "2769",
+  "name": "ヴィレッジＶ",
+  "exch": "東",
+  "title": "(訂正)「業務資本提携並びに第三者割当による第 7 回新株予約権及び 第１回無担保転換社債型新株予約権付社債の発行」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506661.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本提携"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241360",
+  "date": "2026-04-20",
+  "time": "17:00",
+  "code": "9993",
+  "name": "ヤマザワ",
+  "exch": "東",
+  "title": "2026年２月期 決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506871.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241359",
+  "date": "2026-04-20",
+  "time": "17:00",
+  "code": "9435",
+  "name": "光通信",
+  "exch": "東",
+  "title": "簡易株式交換による株式会社ＩＣコーポレーションの完全子会社化に関する株式交換契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260416505300.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241357",
+  "date": "2026-04-20",
+  "time": "17:00",
+  "code": "7603",
+  "name": "ジーイエット",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年２月期　決算短信〔日本基準〕（非連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506891.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241354",
+  "date": "2026-04-20",
+  "time": "17:00",
+  "code": "3024",
+  "name": "クリエイト",
+  "exch": "東",
+  "title": "連結子会社の吸収合併(簡易合併・略式合併)に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506479.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241339",
+  "date": "2026-04-20",
+  "time": "16:30",
+  "code": "5721",
+  "name": "エスクリプトエナジー",
+  "exch": "東",
+  "title": "株式会社SDSホールディングスへのアドバイザリー投資および同社との業務提携契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506828.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241332",
+  "date": "2026-04-20",
+  "time": "16:30",
+  "code": "1711",
+  "name": "ＳＤＳＨＤ",
+  "exch": "東",
+  "title": "エスクリプトエナジー株式会社との業務提携契約締結に関するお知らせ～デジタル資産およびAIデータセンター分野における成長機会の創出～",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506865.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241329",
+  "date": "2026-04-20",
+  "time": "16:00",
+  "code": "9418",
+  "name": "Ｕ－ＮＥＸＴ",
+  "exch": "東",
+  "title": "当社子会社による新日本信用保証株式会社の株式取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506601.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241319",
+  "date": "2026-04-20",
+  "time": "16:00",
+  "code": "7287",
+  "name": "日本精機",
+  "exch": "東",
+  "title": "東洋電装株式会社の株式取得（子会社化）についての株式譲渡契約締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506812.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化",
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241317",
+  "date": "2026-04-20",
+  "time": "16:00",
+  "code": "5244",
+  "name": "Ｇ－ｊｉｇ．ｊｐ",
+  "exch": "東",
+  "title": "株式会社バチェラーデートの株式の取得（完全子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506685.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1241309",
+  "date": "2026-04-20",
+  "time": "16:00",
+  "code": "3492",
+  "name": "Ｒ－ＭＩＲＡＲＴＨ",
+  "exch": "東",
+  "title": "2026年２月期　決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506374.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1241248",
+  "date": "2026-04-20",
+  "time": "15:31",
+  "code": "3788",
+  "name": "ＧＭＯＧＳＨＤ",
+  "exch": "東",
+  "title": "株式会社ストラテジットの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506699.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241294",
+  "date": "2026-04-20",
+  "time": "15:30",
+  "code": "7815",
+  "name": "東京ボード工業",
+  "exch": "東",
+  "title": "2026年２月期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506732.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241270",
+  "date": "2026-04-20",
+  "time": "15:30",
+  "code": "4382",
+  "name": "ＨＥＲＯＺ",
+  "exch": "東",
+  "title": "当社子会社株式に関する株式譲渡契約の締結について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506781.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241269",
+  "date": "2026-04-20",
+  "time": "15:30",
+  "code": "4382",
+  "name": "ＨＥＲＯＺ",
+  "exch": "東",
+  "title": "AKMコンサルティング株式会社の子会社化に関する補足資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506704.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241258",
+  "date": "2026-04-20",
+  "time": "15:30",
+  "code": "3353",
+  "name": "メディ一光Ｇ",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正) 「2026年２月期 決算短信[日本基準]（連結）」の訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260415504626.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241254",
+  "date": "2026-04-20",
+  "time": "15:30",
+  "code": "3038",
+  "name": "神戸物産",
+  "exch": "東",
+  "title": "当社連結子会社による柏露酒造株式会社の株式取得（孫会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506472.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241250",
+  "date": "2026-04-20",
+  "time": "15:30",
+  "code": "1716",
+  "name": "第一カッター",
+  "exch": "東",
+  "title": "連結子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506485.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241241",
+  "date": "2026-04-20",
+  "time": "15:00",
+  "code": "3810",
+  "name": "サイバーステップＨＤ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）2026年５月期 第３四半期決算短信〔日本基準〕（連結）の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506637.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241235",
+  "date": "2026-04-20",
+  "time": "13:00",
+  "code": "7524",
+  "name": "マルシェ",
+  "exch": "東",
+  "title": "株式会社サンライズサービスとの業務提携契約締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506593.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241227",
+  "date": "2026-04-20",
+  "time": "12:30",
+  "code": "4238",
+  "name": "ミライアル",
+  "exch": "東",
+  "title": "布谷舶用計器工業株式会社の株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506429.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241222",
+  "date": "2026-04-20",
+  "time": "12:00",
+  "code": "5831",
+  "name": "しずおかＦＧ",
+  "exch": "東",
+  "title": "第２次中期経営計画策定のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260419506325.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241218",
+  "date": "2026-04-20",
+  "time": "11:30",
+  "code": "3121",
+  "name": "マーチャント",
+  "exch": "東",
+  "title": "株式会社ウェルディッシュ株式取得にかかる株式売買取引の解除のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506417.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ }
+]

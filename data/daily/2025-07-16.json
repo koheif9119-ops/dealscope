@@ -1,0 +1,399 @@
+[
+ {
+  "id": "tdnet-1185211",
+  "date": "2025-07-16",
+  "time": "17:00",
+  "code": "9327",
+  "name": "イー・ロジット",
+  "exch": "東",
+  "title": "事業譲受に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515683.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1185209",
+  "date": "2025-07-16",
+  "time": "17:00",
+  "code": "8746",
+  "name": "ｕｎｂａｎｋｅｄ",
+  "exch": "東",
+  "title": "簡易株式交付による関連会社（クラウドバンク株式会社）の子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515645.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1185205",
+  "date": "2025-07-16",
+  "time": "17:00",
+  "code": "3077",
+  "name": "ホリイフード",
+  "exch": "東",
+  "title": "合同会社 Ken Companyとの業務提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515469.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1185202",
+  "date": "2025-07-16",
+  "time": "17:00",
+  "code": "150A",
+  "name": "Ｇ－ＪＳＨ",
+  "exch": "東",
+  "title": "中期事業ターゲットに関する説明資料（事業計画及び成長可能性に関する事項）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515325.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1185214",
+  "date": "2025-07-16",
+  "time": "16:30",
+  "code": "3409",
+  "name": "北紡",
+  "exch": "東",
+  "title": "(開示事項の経過)株式会社プライヤーズとの資本提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515636.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1185229",
+  "date": "2025-07-16",
+  "time": "16:00",
+  "code": "340A",
+  "name": "Ｇ－ジグザグ",
+  "exch": "東",
+  "title": "（訂正）「事業計画及び成長可能性に関する事項」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515541.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1185227",
+  "date": "2025-07-16",
+  "time": "16:00",
+  "code": "3279",
+  "name": "Ｒ－ＡＰＩ",
+  "exch": "東",
+  "title": "2025年5月期決算短信（REIT）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250715515009.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1185300",
+  "date": "2025-07-16",
+  "time": "15:30",
+  "code": "9780",
+  "name": "ハリマビステム",
+  "exch": "東",
+  "title": "株式会社武蔵野通信の株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250715514999.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1185298",
+  "date": "2025-07-16",
+  "time": "15:30",
+  "code": "9605",
+  "name": "東映",
+  "exch": "東",
+  "title": "（変更）適時開示書類「簡易株式交換による連結子会社（株式会社ティ・ジョイ）の完全子会社化に関するお知らせ」の一部変更について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250715514950.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1185295",
+  "date": "2025-07-16",
+  "time": "15:30",
+  "code": "9287",
+  "name": "Ｉ－ＪＩＦ",
+  "exch": "東",
+  "title": "2025年5月期　決算短信（インフラファンド）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515509.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1185292",
+  "date": "2025-07-16",
+  "time": "15:30",
+  "code": "8966",
+  "name": "Ｒ－平和ＲＥ",
+  "exch": "東",
+  "title": "2025年5月期 決算短信(REIT)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250715515133.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1185261",
+  "date": "2025-07-16",
+  "time": "15:30",
+  "code": "2979",
+  "name": "Ｒ－ＳＯＳｉＬＡ物流",
+  "exch": "東",
+  "title": "2025年5月期　決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250715515129.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1185260",
+  "date": "2025-07-16",
+  "time": "15:30",
+  "code": "2782",
+  "name": "セリア",
+  "exch": "東",
+  "title": "自己株式の公開買付けの結果及び取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515398.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1185308",
+  "date": "2025-07-16",
+  "time": "15:00",
+  "code": "6957",
+  "name": "芝浦電子",
+  "exch": "東",
+  "title": "(変更)2025年5月1日付「ミネベアミツミ株式会社による当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515555.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1185306",
+  "date": "2025-07-16",
+  "time": "15:00",
+  "code": "6479",
+  "name": "ミネベアミツミ",
+  "exch": "東",
+  "title": "（変更）「株式会社芝浦電子（証券コード：6957）に対する公開買付けの開始に関するお知らせ」の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515329.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1185313",
+  "date": "2025-07-16",
+  "time": "14:15",
+  "code": "7807",
+  "name": "幸和製作所",
+  "exch": "東",
+  "title": "（訂正）「2026年２月期 第１四半期決算短信〔日本基準〕（連結）の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515502.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1185319",
+  "date": "2025-07-16",
+  "time": "13:00",
+  "code": "6957",
+  "name": "芝浦電子",
+  "exch": "東",
+  "title": "(変更)2025年5月21日付「YAGEO Electronics Japan合同会社による当社株式に対する公開買付けに関する意見表明(留保)のお知らせ」の一部変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515445.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1185318",
+  "date": "2025-07-16",
+  "time": "13:00",
+  "code": "5355",
+  "name": "日坩堝",
+  "exch": "東",
+  "title": "過年度決算短信等の訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515233.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1185316",
+  "date": "2025-07-16",
+  "time": "13:00",
+  "code": "2863",
+  "name": "米バラ保守ヘッジ有",
+  "exch": "東",
+  "title": "NEXT FUNDS S&amp;P米国株式・債券バランス保守型指数（為替ヘッジあり）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515319.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1185323",
+  "date": "2025-07-16",
+  "time": "12:15",
+  "code": "1418",
+  "name": "インターライフ",
+  "exch": "東",
+  "title": "（訂正）「2026年２月期第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515423.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1185324",
+  "date": "2025-07-16",
+  "time": "12:00",
+  "code": "373A",
+  "name": "Ｇ－リップス",
+  "exch": "東",
+  "title": "（訂正）「2025年８月期 第３四半期決算短信〔日本基準〕（非連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515384.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1185337",
+  "date": "2025-07-16",
+  "time": "10:30",
+  "code": "4920",
+  "name": "日本色材",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式取得結果及び自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515301.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ }
+]

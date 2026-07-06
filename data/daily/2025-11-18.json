@@ -1,0 +1,579 @@
+[
+ {
+  "id": "tdnet-1207843",
+  "date": "2025-11-18",
+  "time": "18:30",
+  "code": "3179",
+  "name": "シュッピン",
+  "exch": "東",
+  "title": "（数値データ追加）「2026年３月期 第２四半期（中間期）決算短信〔日本基準〕(非連結)」における数値データ（XBRL）について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505646.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1207836",
+  "date": "2025-11-18",
+  "time": "17:30",
+  "code": "4519",
+  "name": "中外薬",
+  "exch": "東",
+  "title": "完全子会社（レナリスファーマ株式会社）の吸収合併に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505467.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1207829",
+  "date": "2025-11-18",
+  "time": "17:00",
+  "code": "2990",
+  "name": "Ｐ－アイダ設計",
+  "exch": "東",
+  "title": "（訂正）「2026年３月期　中間決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505445.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207820",
+  "date": "2025-11-18",
+  "time": "16:45",
+  "code": "2433",
+  "name": "博報堂ＤＹ",
+  "exch": "東",
+  "title": "（訂正）公開買付届出書の訂正届出書の提出に伴う「株式会社デジタルホールディングス株券等に対する公開買付けの開始に関するお知らせ」の訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505554.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1207819",
+  "date": "2025-11-18",
+  "time": "16:45",
+  "code": "2433",
+  "name": "博報堂ＤＹ",
+  "exch": "東",
+  "title": "（変更）会社分割（簡易吸収分割）に係る効力発生日の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505559.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1207817",
+  "date": "2025-11-18",
+  "time": "16:45",
+  "code": "2389",
+  "name": "デジタルＨＤ",
+  "exch": "東",
+  "title": "（変更）「株式会社博報堂ＤＹホールディングスによる当社株券等に対する 公開買付けに関する意見表明のお知らせ」の一部変更について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505413.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207827",
+  "date": "2025-11-18",
+  "time": "16:30",
+  "code": "9305",
+  "name": "ヤマタネ",
+  "exch": "東",
+  "title": "自己株式取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505595.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1207826",
+  "date": "2025-11-18",
+  "time": "16:30",
+  "code": "7318",
+  "name": "Ｇ－セレンディップ",
+  "exch": "東",
+  "title": "組織再編（子会社間の株式交換）及び子会社の商号変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505504.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1207823",
+  "date": "2025-11-18",
+  "time": "16:30",
+  "code": "3538",
+  "name": "ウイルプラスＨＤ",
+  "exch": "東",
+  "title": "当社子会社による事業譲受に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505536.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1207813",
+  "date": "2025-11-18",
+  "time": "16:00",
+  "code": "6034",
+  "name": "Ｇ－ＭＲＴ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505308.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1207811",
+  "date": "2025-11-18",
+  "time": "16:00",
+  "code": "5029",
+  "name": "Ｇ－サークレイス",
+  "exch": "東",
+  "title": "代表取締役会長兼社長による当社株式取得（契約締結）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505348.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1207795",
+  "date": "2025-11-18",
+  "time": "15:30",
+  "code": "7613",
+  "name": "シークス",
+  "exch": "東",
+  "title": "（開示事項の経過）連結子会社の異動（海外連結子会社の清算に係る全出資持分の譲渡契約締結）ならびに特別損失計上に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251117504907.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1207793",
+  "date": "2025-11-18",
+  "time": "15:30",
+  "code": "7505",
+  "name": "扶桑電通",
+  "exch": "東",
+  "title": "第3期中期経営計画FuSodentsu Vision 2027 数値目標の見直しに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251117504761.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1207792",
+  "date": "2025-11-18",
+  "time": "15:30",
+  "code": "7505",
+  "name": "扶桑電通",
+  "exch": "東",
+  "title": "株式会社システムメイクの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251117504782.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1207782",
+  "date": "2025-11-18",
+  "time": "15:30",
+  "code": "6333",
+  "name": "帝国電機",
+  "exch": "東",
+  "title": "自己株式の取得及び自己株式の公開買付けに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505359.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1207778",
+  "date": "2025-11-18",
+  "time": "15:30",
+  "code": "5033",
+  "name": "Ｇ－ヌーラボ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ（会社法第１６５条第２項の規定による定款の定めに基づく自己株式の取得）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251117504929.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1207764",
+  "date": "2025-11-18",
+  "time": "15:30",
+  "code": "3395",
+  "name": "サンマルクＨＤ",
+  "exch": "東",
+  "title": "中期経営計画の更新に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251114504290.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1207759",
+  "date": "2025-11-18",
+  "time": "15:30",
+  "code": "2871",
+  "name": "ニチレイ",
+  "exch": "東",
+  "title": "特定子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505460.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1207747",
+  "date": "2025-11-18",
+  "time": "14:50",
+  "code": "7817",
+  "name": "パラベッド",
+  "exch": "東",
+  "title": "株式会社ＴＭＫＲによる当社株式に対する公開買付けの結果並びに親会社及び主要株主である筆頭株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251113501119.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207746",
+  "date": "2025-11-18",
+  "time": "14:50",
+  "code": "7817",
+  "name": "パラベッド",
+  "exch": "東",
+  "title": "株式会社ＴＭＫＲによるパラマウントベッドホールディングス株式会社（証券コード：7817）の普通株式 に対する公開買付けの結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251113501114.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207731",
+  "date": "2025-11-18",
+  "time": "13:00",
+  "code": "2529",
+  "name": "ＮＦ株主還元７０",
+  "exch": "東",
+  "title": "NEXT FUNDS 野村株主還元70連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505194.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207730",
+  "date": "2025-11-18",
+  "time": "13:00",
+  "code": "200A",
+  "name": "日経半導体株ＥＴＦ",
+  "exch": "東",
+  "title": "NEXT FUNDS 日経半導体株指数連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505189.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207729",
+  "date": "2025-11-18",
+  "time": "13:00",
+  "code": "159A",
+  "name": "ＪＰＸプライム１５０",
+  "exch": "東",
+  "title": "NEXT FUNDS JPXプライム150指数連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505185.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207728",
+  "date": "2025-11-18",
+  "time": "13:00",
+  "code": "1591",
+  "name": "ＮＦＪＰＸ４００",
+  "exch": "東",
+  "title": "NEXT FUNDS JPX日経インデックス400連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505164.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207727",
+  "date": "2025-11-18",
+  "time": "13:00",
+  "code": "1577",
+  "name": "ＮＦ日本高配当７０",
+  "exch": "東",
+  "title": "NEXT FUNDS 野村日本株高配当70連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505172.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207726",
+  "date": "2025-11-18",
+  "time": "13:00",
+  "code": "1489",
+  "name": "ＮＦ日経高配当５０",
+  "exch": "東",
+  "title": "NEXT FUNDS 日経平均高配当株50指数連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505168.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207725",
+  "date": "2025-11-18",
+  "time": "13:00",
+  "code": "1472",
+  "name": "ＮＦＪ４００Ｄインバ",
+  "exch": "東",
+  "title": "NEXT FUNDS JPX日経400ダブルインバース・インデックス連動型上場投信 中間決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505136.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207716",
+  "date": "2025-11-18",
+  "time": "11:00",
+  "code": "9793",
+  "name": "ダイセキ",
+  "exch": "東",
+  "title": "株式会社ダイセキ環境ソリューション（証券コード：1712）の株式に対する 公開買付けの結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505099.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1207713",
+  "date": "2025-11-18",
+  "time": "11:00",
+  "code": "1712",
+  "name": "ダイセキＳ",
+  "exch": "東",
+  "title": "親会社である株式会社ダイセキによる当社株券等に対する公開買付けの結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505122.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207708",
+  "date": "2025-11-18",
+  "time": "10:00",
+  "code": "9600",
+  "name": "アイネット",
+  "exch": "東",
+  "title": "OFI・01株式会社による当社株式に対する公開買付けの結果 並びに親会社及び主要株主である筆頭株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505095.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1207707",
+  "date": "2025-11-18",
+  "time": "10:00",
+  "code": "8591",
+  "name": "オリックス",
+  "exch": "東",
+  "title": "オリックス株式会社の子会社（OFI・01株式会社）による株式会社アイネットに対する公開買付けの結果について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251117504429.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1207704",
+  "date": "2025-11-18",
+  "time": "10:00",
+  "code": "6224",
+  "name": "Ｇ－ＪＲＣ",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による 自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505134.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ }
+]

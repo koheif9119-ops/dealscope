@@ -1,0 +1,75 @@
+[
+ {
+  "id": "tdnet-1213834",
+  "date": "2025-12-30",
+  "time": "15:30",
+  "code": "3491",
+  "name": "Ｇ－ＧＡ　ＴＥＣＨ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251230528034.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1213814",
+  "date": "2025-12-30",
+  "time": "10:00",
+  "code": "8306",
+  "name": "三菱ＵＦＪ",
+  "exch": "東",
+  "title": "2026年3月期 中間決算短信（連結）＜米国会計基準＞",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251230528013.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1213813",
+  "date": "2025-12-30",
+  "time": "10:00",
+  "code": "4519",
+  "name": "中外薬",
+  "exch": "東",
+  "title": "（開示事項の経過）レナリスファーマ株式会社の完全子会社化及び吸収合併完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251226527673.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化",
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1213805",
+  "date": "2025-12-30",
+  "time": "08:45",
+  "code": "8411",
+  "name": "みずほ",
+  "exch": "東",
+  "title": "2026年3月期中間決算短信〔米国会計基準〕(連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251229527924.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ }
+]

@@ -1,0 +1,617 @@
+[
+ {
+  "id": "tdnet-1209735",
+  "date": "2025-12-01",
+  "time": "17:40",
+  "code": "7282",
+  "name": "豊田合",
+  "exch": "東",
+  "title": "（開示事項の経過）自己株式取得に係る事項の確定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251128511169.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209716",
+  "date": "2025-12-01",
+  "time": "17:10",
+  "code": "4777",
+  "name": "ガーラ",
+  "exch": "東",
+  "title": "Wemade Connect Corp.（韓国）株式取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201513014.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209722",
+  "date": "2025-12-01",
+  "time": "17:00",
+  "code": "5283",
+  "name": "高見澤",
+  "exch": "東",
+  "title": "連結子会社の異動（株式譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512798.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209710",
+  "date": "2025-12-01",
+  "time": "16:45",
+  "code": "4507",
+  "name": "塩野義薬",
+  "exch": "東",
+  "title": "会社分割（簡易吸収分割）による日本たばこ産業株式会社の医薬事業の承継完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512975.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209713",
+  "date": "2025-12-01",
+  "time": "16:40",
+  "code": "8771",
+  "name": "Ｅギャランティ",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512340.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209705",
+  "date": "2025-12-01",
+  "time": "16:30",
+  "code": "7865",
+  "name": "ピープル",
+  "exch": "東",
+  "title": "2026年1月期　第3四半期決算短信[日本基準]（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251127510530.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209697",
+  "date": "2025-12-01",
+  "time": "16:00",
+  "code": "9319",
+  "name": "中央倉庫",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512472.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209696",
+  "date": "2025-12-01",
+  "time": "16:00",
+  "code": "9081",
+  "name": "神奈中交",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2025年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251128511080.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209685",
+  "date": "2025-12-01",
+  "time": "16:00",
+  "code": "8061",
+  "name": "西華産",
+  "exch": "東",
+  "title": "（開示事項の経過）旭サナック株式会社の株式取得（子会社化）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512474.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209681",
+  "date": "2025-12-01",
+  "time": "16:00",
+  "code": "7476",
+  "name": "アズワン",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251128511756.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209679",
+  "date": "2025-12-01",
+  "time": "16:00",
+  "code": "7092",
+  "name": "ＦＦＪ",
+  "exch": "東",
+  "title": "株式会社JG35による株式会社Fast Fitness Japan（証券コード：7092）の株券等に対する公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512852.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1209650",
+  "date": "2025-12-01",
+  "time": "16:00",
+  "code": "3933",
+  "name": "チエル",
+  "exch": "東",
+  "title": "（開示事項の経過）株式会社オキジムの株式の追加取得による完全子会社化完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512261.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209648",
+  "date": "2025-12-01",
+  "time": "16:00",
+  "code": "3772",
+  "name": "ウェルス",
+  "exch": "東",
+  "title": "バンヤンツリー・東山 京都」の不動産信託受益権取得にかかる出資および特定子会社の異動と借入、ならびに特別利益の計上に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251128511073.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209478",
+  "date": "2025-12-01",
+  "time": "15:40",
+  "code": "6676",
+  "name": "ＢＵＦＦＡＬＯ",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512410.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209475",
+  "date": "2025-12-01",
+  "time": "15:40",
+  "code": "2901",
+  "name": "ウェルディッシュ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2025年８月期決算短信〔日本基準〕(連結)」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512703.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209631",
+  "date": "2025-12-01",
+  "time": "15:30",
+  "code": "9478",
+  "name": "ＳＥ　Ｈ＆Ｉ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251128511794.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209628",
+  "date": "2025-12-01",
+  "time": "15:30",
+  "code": "9435",
+  "name": "光通信",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251117504596.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209626",
+  "date": "2025-12-01",
+  "time": "15:30",
+  "code": "9417",
+  "name": "スマートバリュー",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512835.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209615",
+  "date": "2025-12-01",
+  "time": "15:30",
+  "code": "8920",
+  "name": "東祥",
+  "exch": "東",
+  "title": "自己株式取得状況および取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251128511795.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209524",
+  "date": "2025-12-01",
+  "time": "15:30",
+  "code": "3547",
+  "name": "串カツ田中ＨＤ",
+  "exch": "東",
+  "title": "株式会社ピソラの株式取得完了及び第三者割当による新株式の発行に係る払込完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512531.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209521",
+  "date": "2025-12-01",
+  "time": "15:30",
+  "code": "3401",
+  "name": "帝人",
+  "exch": "東",
+  "title": "帝人フロンティア株式会社及び旭化成アドバンス株式会社の経営統合に係る最終契約書の締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512760.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "経営統合"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209509",
+  "date": "2025-12-01",
+  "time": "15:30",
+  "code": "2914",
+  "name": "ＪＴ",
+  "exch": "東",
+  "title": "会社分割（簡易吸収分割）による当社医薬事業の塩野義製薬株式会社への承継完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512386.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209498",
+  "date": "2025-12-01",
+  "time": "15:30",
+  "code": "2593",
+  "name": "伊藤園",
+  "exch": "東",
+  "title": "2026年４月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251126509807.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209457",
+  "date": "2025-12-01",
+  "time": "15:00",
+  "code": "2323",
+  "name": "ｆｏｎｆｕｎ",
+  "exch": "東",
+  "title": "株式会社マイクロウェーブデジタルの株式の取得（完全子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512801.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209452",
+  "date": "2025-12-01",
+  "time": "14:00",
+  "code": "9824",
+  "name": "泉州電業",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512262.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209444",
+  "date": "2025-12-01",
+  "time": "14:00",
+  "code": "5981",
+  "name": "東製綱",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512661.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209428",
+  "date": "2025-12-01",
+  "time": "13:00",
+  "code": "2643",
+  "name": "日本株セレクトＥＴＦ",
+  "exch": "東",
+  "title": "NEXT FUNDS MSCIジャパンカントリー指数（セレクト）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512192.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1209427",
+  "date": "2025-12-01",
+  "time": "13:00",
+  "code": "2518",
+  "name": "ＮＦ日本株女性活躍",
+  "exch": "東",
+  "title": "NEXT FUNDS MSCI日本株女性活躍指数（セレクト）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512185.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1209426",
+  "date": "2025-12-01",
+  "time": "13:00",
+  "code": "2251",
+  "name": "ＪＧＢダブルインバ",
+  "exch": "東",
+  "title": "NEXT FUNDS JPX国債先物ダブルインバース指数連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512182.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1209424",
+  "date": "2025-12-01",
+  "time": "13:00",
+  "code": "1480",
+  "name": "ＮＦ企業価値",
+  "exch": "東",
+  "title": "NEXT FUNDS 野村企業価値分配指数連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512157.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1209421",
+  "date": "2025-12-01",
+  "time": "12:30",
+  "code": "5122",
+  "name": "オカモト",
+  "exch": "東",
+  "title": "自己株式取得状況（途中経過）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512499.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209353",
+  "date": "2025-12-01",
+  "time": "09:00",
+  "code": "6104",
+  "name": "芝浦機械",
+  "exch": "東",
+  "title": "SHIBAURA MACHINE LWB GmbH（旧社名：LWB Steinl GmbH）の株式取得（子会社化）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251127510659.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209345",
+  "date": "2025-12-01",
+  "time": "08:00",
+  "code": "8604",
+  "name": "野村",
+  "exch": "東",
+  "title": "マッコーリー・グループの米国資産運用会社の全株式取得を完了",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251130511965.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209343",
+  "date": "2025-12-01",
+  "time": "08:00",
+  "code": "460A",
+  "name": "Ｇ－ＢＲＡＮＵ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201511960.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ }
+]

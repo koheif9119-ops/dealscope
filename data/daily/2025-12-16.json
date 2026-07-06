@@ -1,0 +1,551 @@
+[
+ {
+  "id": "tdnet-1211944",
+  "date": "2025-12-16",
+  "time": "20:30",
+  "code": "7267",
+  "name": "ホンダ",
+  "exch": "東",
+  "title": "持分法適用関連会社の異動（連結子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520454.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1211942",
+  "date": "2025-12-16",
+  "time": "18:45",
+  "code": "9166",
+  "name": "Ｇ－ＧＥＮＤＡ",
+  "exch": "東",
+  "title": "（訂正）「2026年１月期 第３四半期決算短信〔日本基準〕（連結）」のPDFデータの一部欠落に関する訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520930.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1211940",
+  "date": "2025-12-16",
+  "time": "17:30",
+  "code": "4956",
+  "name": "コニシ",
+  "exch": "東",
+  "title": "中井土木株式会社の株式取得（子会社化）および本株式取得に伴う自己株式処分に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520762.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1211938",
+  "date": "2025-12-16",
+  "time": "17:00",
+  "code": "7374",
+  "name": "Ｇ－コンフィデンスＩ",
+  "exch": "東",
+  "title": "会社分割によるグループ組織再編準備開始及び子会社（分割準備会社）の設立に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251212519282.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1211937",
+  "date": "2025-12-16",
+  "time": "17:00",
+  "code": "5139",
+  "name": "Ｇ－オープンワーク",
+  "exch": "東",
+  "title": "株式会社PM Clubの株式取得（子会社化）及び吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251215520291.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化",
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1211928",
+  "date": "2025-12-16",
+  "time": "16:30",
+  "code": "5386",
+  "name": "鶴弥",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520392.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1211926",
+  "date": "2025-12-16",
+  "time": "16:30",
+  "code": "3476",
+  "name": "Ｒ－投資法人みらい",
+  "exch": "東",
+  "title": "2025年10月期　決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520777.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1211905",
+  "date": "2025-12-16",
+  "time": "16:00",
+  "code": "231A",
+  "name": "Ｑ－Ｃｒｏｓｓ　Ｅ",
+  "exch": "福",
+  "title": "（訂正・数値データ訂正）「2025年９月期　決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520600.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1211902",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "9235",
+  "name": "Ｇ－売れるネットＧ",
+  "exch": "東",
+  "title": "中国デジタルマーケティング会社「ADWAYS CHINA」及び「ADWAYS ASIA 」“株式取得(子会社化)”に関する基本合意書締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520667.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1211899",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "8593",
+  "name": "三菱ＨＣキャピタル",
+  "exch": "東",
+  "title": "特定子会社の異動(解散)に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520581.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1211895",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "7925",
+  "name": "前沢化成",
+  "exch": "東",
+  "title": "前澤工業株式会社と前澤化成工業株式会社の共同持株会社設立（共同株式移転）に関する経営統合契約書の締結及び株式移転計画の作成について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520704.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "経営統合",
+   "株式移転"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1211893",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "6702",
+  "name": "富士通",
+  "exch": "東",
+  "title": "株式会社ブレインパッド株式（証券コード3655）に対する公開買付けの結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520590.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1211890",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "6489",
+  "name": "前沢工",
+  "exch": "東",
+  "title": "前澤工業株式会社と前澤化成工業株式会社の共同持株会社設立（共同株式移転）に関する経営統合契約書の締結及び株式移転計画の作成について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251215520083.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "経営統合",
+   "株式移転"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1211888",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "6328",
+  "name": "荏原実業",
+  "exch": "東",
+  "title": "事業譲渡契約締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520642.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1211884",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "5802",
+  "name": "住友電工",
+  "exch": "東",
+  "title": "住友理工株式会社に対する公開買付けの結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251215520078.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1211882",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "5191",
+  "name": "住友理工",
+  "exch": "東",
+  "title": "支配株主である住友電気工業株式会社による当社株式に対する公開買付けの結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520593.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1211871",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "3697",
+  "name": "ＳＨＩＦＴ",
+  "exch": "東",
+  "title": "（開示事項の変更）当社子会社の吸収合併における効力発生日の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520536.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1211870",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "3655",
+  "name": "ブレインパッド",
+  "exch": "東",
+  "title": "富士通株式会社による当社株式に対する公開買付けの結果ならびに親会社、主要株主である筆頭株主および主要株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520719.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1211867",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "3287",
+  "name": "Ｒ－星野",
+  "exch": "東",
+  "title": "2025年10月期　決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520479.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1211862",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "2489",
+  "name": "ＡＤＷＡＹＳ",
+  "exch": "東",
+  "title": "連結子会社の異動（株式譲渡）に関する基本合意書締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251215520345.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1211858",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "1949",
+  "name": "住友電設",
+  "exch": "東",
+  "title": "大和ハウス工業株式会社による当社株式に対する公開買付けの結果並びに主要株主及びその他の関係会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520456.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1211857",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "1925",
+  "name": "大和ハウス",
+  "exch": "東",
+  "title": "住友電設株式会社株式（証券コード：1949）に対する公開買付けの結果及び関連会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520687.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1211856",
+  "date": "2025-12-16",
+  "time": "15:30",
+  "code": "1332",
+  "name": "ニッスイ",
+  "exch": "東",
+  "title": "PESQUERA YADRAN S.A.の株式取得及び特定子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520524.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1211845",
+  "date": "2025-12-16",
+  "time": "14:30",
+  "code": "6406",
+  "name": "フジテック",
+  "exch": "東",
+  "title": "Bospolder１株式会社による当社株券等に対する公開買付けの結果並びに親会社及び主要株主である筆頭株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520551.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1211843",
+  "date": "2025-12-16",
+  "time": "14:30",
+  "code": "2780",
+  "name": "コメ兵ＨＤ",
+  "exch": "東",
+  "title": "（開示事項の変更）iShopShops,Inc.の株式取得（子会社化）の時期変更のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520683.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1211835",
+  "date": "2025-12-16",
+  "time": "12:30",
+  "code": "6287",
+  "name": "サトー",
+  "exch": "東",
+  "title": "中期経営計画(FY24-28)アップデートに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251215520253.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1211830",
+  "date": "2025-12-16",
+  "time": "12:00",
+  "code": "3967",
+  "name": "Ｇ－エルテス",
+  "exch": "東",
+  "title": "（訂正）「業務資本提携に関する契約の締結、第三者割当による第10回及び第11回新株予約権の発行、第９回新株予約権の譲渡の承認及び売出し」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520468.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本提携"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1211817",
+  "date": "2025-12-16",
+  "time": "09:00",
+  "code": "7983",
+  "name": "ミロク",
+  "exch": "東",
+  "title": "（訂正）「2025年10月期　決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251216520388.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1211813",
+  "date": "2025-12-16",
+  "time": "08:30",
+  "code": "4880",
+  "name": "セルソース",
+  "exch": "東",
+  "title": "（開示事項の経過）大株主と当社元代表取締役社長 CEO との間の株式譲渡予約権に関する合意解約のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251215520307.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1211812",
+  "date": "2025-12-16",
+  "time": "08:30",
+  "code": "3138",
+  "name": "Ｇ－富士山マガジン",
+  "exch": "東",
+  "title": "当社子会社である株式会社しょうわ出版と株式会社ユナイテッド・インテリジェンスによる業務提携契約の締結について（EdTech事業の進捗について）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251215520254.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ }
+]

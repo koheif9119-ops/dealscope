@@ -1,0 +1,584 @@
+[
+ {
+  "id": "tdnet-1227229",
+  "date": "2026-02-17",
+  "time": "18:30",
+  "code": "8934",
+  "name": "サンフロンティア",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563478.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1227228",
+  "date": "2026-02-17",
+  "time": "18:30",
+  "code": "5038",
+  "name": "Ｇ－ｅＷｅＬＬ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関する補足説明事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217564054.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1227226",
+  "date": "2026-02-17",
+  "time": "18:00",
+  "code": "4440",
+  "name": "ヴィッツ",
+  "exch": "東",
+  "title": "子会社等の異動を伴う株式取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563258.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1227224",
+  "date": "2026-02-17",
+  "time": "17:30",
+  "code": "7419",
+  "name": "ノジマ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563732.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1227208",
+  "date": "2026-02-17",
+  "time": "17:01",
+  "code": "415A",
+  "name": "Ｇ－ＧＭＯＴＥ－ＨＤ",
+  "exch": "東",
+  "title": "株式会社トライハッチの株式取得（完全子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563955.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1227217",
+  "date": "2026-02-17",
+  "time": "17:00",
+  "code": "6543",
+  "name": "日宣",
+  "exch": "東",
+  "title": "連結子会社の異動（株式譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260216563447.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1227210",
+  "date": "2026-02-17",
+  "time": "17:00",
+  "code": "1711",
+  "name": "ＳＤＳＨＤ",
+  "exch": "東",
+  "title": "小型・分散型AIデータセンター建設事業、小型・分散型AIデータセンター受託開発事業及び、GPUクラウド事業（GPUサーバーレンタル事業）への参入に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563999.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "参入"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1227204",
+  "date": "2026-02-17",
+  "time": "16:30",
+  "code": "4956",
+  "name": "コニシ",
+  "exch": "東",
+  "title": "三菱ケミカル株式会社により新設される合成樹脂エマルジョン事業承継会社の株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563807.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1227203",
+  "date": "2026-02-17",
+  "time": "16:30",
+  "code": "4956",
+  "name": "コニシ",
+  "exch": "東",
+  "title": "自己株式取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563986.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1227197",
+  "date": "2026-02-17",
+  "time": "16:00",
+  "code": "8630",
+  "name": "ＳＯＭＰＯＨＤ",
+  "exch": "東",
+  "title": "当社子会社のSOMPO Light Vortex株式会社による株式会社農業総合研究所株券等に対する公開買付けの結果及び子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260216563467.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1227186",
+  "date": "2026-02-17",
+  "time": "16:00",
+  "code": "3541",
+  "name": "Ｇ－農業総合研究所",
+  "exch": "東",
+  "title": "ＳＯＭＰＯグループによる当社株券等に対する公開買付けの結果並びに親会社、主要株主である筆頭株主及び主要株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563544.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1227183",
+  "date": "2026-02-17",
+  "time": "16:00",
+  "code": "2585",
+  "name": "ライフドリンクＣ",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2026年３月期 第３四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260213561038.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1227182",
+  "date": "2026-02-17",
+  "time": "16:00",
+  "code": "154A",
+  "name": "Ｐ－ＧＡＩＡ",
+  "exch": "東",
+  "title": "（訂正）「2025年12月期決算短信〔日本基準〕(非連結)」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563954.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1227177",
+  "date": "2026-02-17",
+  "time": "15:30",
+  "code": "9285",
+  "name": "Ｉ－東京インフラＦ",
+  "exch": "東",
+  "title": "2025年12月期　決算短信（インフラファンド）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563673.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1227174",
+  "date": "2026-02-17",
+  "time": "15:30",
+  "code": "9020",
+  "name": "ＪＲ東",
+  "exch": "東",
+  "title": "簡易株式交換による連結子会社の完全子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260210555024.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1227167",
+  "date": "2026-02-17",
+  "time": "15:30",
+  "code": "7923",
+  "name": "トーイン",
+  "exch": "東",
+  "title": "CSRI5号株式会社による当社普通株式に対する公開買付けの結果並びに親会社、主要株主である筆頭株主及び主要株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563787.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1227166",
+  "date": "2026-02-17",
+  "time": "15:30",
+  "code": "7694",
+  "name": "Ｇ－いつも",
+  "exch": "東",
+  "title": "連結子会社の吸収合併（簡易合併・略式合併）及び債権放棄に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563707.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1227151",
+  "date": "2026-02-17",
+  "time": "15:30",
+  "code": "5038",
+  "name": "Ｇ－ｅＷｅＬＬ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ（会社法第165条第２項の規定による定款の定めに基づく自己株式の取得）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563788.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1227150",
+  "date": "2026-02-17",
+  "time": "15:30",
+  "code": "4690",
+  "name": "日パレット",
+  "exch": "東",
+  "title": "（訂正）「日本パレットレンタル株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260213561428.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1227149",
+  "date": "2026-02-17",
+  "time": "15:30",
+  "code": "4690",
+  "name": "日パレット",
+  "exch": "東",
+  "title": "(訂正)日本パレットレンタルによる公開買付届出書の訂正届出書提出に伴う「日本パレットプール株券等に対する公開買付けの開始に関するお知らせ」の訂正",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260213562185.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1227146",
+  "date": "2026-02-17",
+  "time": "15:30",
+  "code": "4586",
+  "name": "Ｇ－メドレック",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563896.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1227145",
+  "date": "2026-02-17",
+  "time": "15:30",
+  "code": "4464",
+  "name": "ソフト９９",
+  "exch": "東",
+  "title": "その他の関係会社であるECMマスターファンドSPV３による当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563770.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1227142",
+  "date": "2026-02-17",
+  "time": "15:30",
+  "code": "3762",
+  "name": "テクマト",
+  "exch": "東",
+  "title": "メドメイン株式会社の株式取得による連結子会社化に向けた基本合意に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563835.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1227139",
+  "date": "2026-02-17",
+  "time": "15:30",
+  "code": "3487",
+  "name": "Ｒ－ＣＲＥロジ",
+  "exch": "東",
+  "title": "2025年12月期 決算短信（REIT）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260216563437.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1227115",
+  "date": "2026-02-17",
+  "time": "15:00",
+  "code": "2334",
+  "name": "Ｇ－イオレ",
+  "exch": "東",
+  "title": "（開示事項の経過）事業譲渡に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563893.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1227114",
+  "date": "2026-02-17",
+  "time": "15:00",
+  "code": "1967",
+  "name": "ヤマト",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260216562478.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1227104",
+  "date": "2026-02-17",
+  "time": "13:30",
+  "code": "6497",
+  "name": "ハマイ",
+  "exch": "東",
+  "title": "（訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260216563333.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1227103",
+  "date": "2026-02-17",
+  "time": "12:55",
+  "code": "6573",
+  "name": "Ｇ－ＣＲＡＶＩＡ",
+  "exch": "東",
+  "title": "株式会社アートボックス（韓国）とのフランチャイズ契約に関する業務提携契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260216563470.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1227085",
+  "date": "2026-02-17",
+  "time": "11:00",
+  "code": "4063",
+  "name": "信越化",
+  "exch": "東",
+  "title": "一括取得型自己株式取得（ASR）による自己株式取得のための第三者割当による第26回新株予約権の発行条件の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563596.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1227080",
+  "date": "2026-02-17",
+  "time": "10:00",
+  "code": "9507",
+  "name": "四国電力",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果および自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563526.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1227074",
+  "date": "2026-02-17",
+  "time": "10:00",
+  "code": "4995",
+  "name": "サンケイ化",
+  "exch": "福",
+  "title": "（訂正・数値データ訂正）「2025年11月期　決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260216563353.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1227069",
+  "date": "2026-02-17",
+  "time": "09:00",
+  "code": "5386",
+  "name": "鶴弥",
+  "exch": "東",
+  "title": "自己株式取得状況および取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563248.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ }
+]

@@ -1,0 +1,814 @@
+[
+ {
+  "id": "tdnet-1197008",
+  "date": "2025-10-17",
+  "time": "17:00",
+  "code": "8518",
+  "name": "アジア投資",
+  "exch": "東",
+  "title": "障がい者グループホームプロジェクトの投資スキームの変更及び子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575319.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1197007",
+  "date": "2025-10-17",
+  "time": "17:00",
+  "code": "8518",
+  "name": "アジア投資",
+  "exch": "東",
+  "title": "データセンタープロジェクトへの投資決定及び子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575318.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196995",
+  "date": "2025-10-17",
+  "time": "16:30",
+  "code": "3416",
+  "name": "Ｇ－ピクスタ",
+  "exch": "東",
+  "title": "YASUMI WORKS社の株式取得（連結子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574947.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196984",
+  "date": "2025-10-17",
+  "time": "16:00",
+  "code": "8984",
+  "name": "Ｒ－ハウスリート",
+  "exch": "東",
+  "title": "2025年8月期　決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574903.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196980",
+  "date": "2025-10-17",
+  "time": "16:00",
+  "code": "7601",
+  "name": "ポプラ",
+  "exch": "東",
+  "title": "株式会社ローソンからの自己株式取得完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575311.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196976",
+  "date": "2025-10-17",
+  "time": "16:00",
+  "code": "7071",
+  "name": "アンビス",
+  "exch": "東",
+  "title": "2025年９月期第３四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250926563336.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1196966",
+  "date": "2025-10-17",
+  "time": "16:00",
+  "code": "3295",
+  "name": "Ｒ－ヒューリックＲＥ",
+  "exch": "東",
+  "title": "2025年8月期 決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251015574118.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196964",
+  "date": "2025-10-17",
+  "time": "16:00",
+  "code": "2082",
+  "name": "投資家経営者一心同体",
+  "exch": "東",
+  "title": "2025年9月期（2024年9月11日～2025年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575433.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196963",
+  "date": "2025-10-17",
+  "time": "16:00",
+  "code": "2081",
+  "name": "政策保有解消",
+  "exch": "東",
+  "title": "2025年9月期（2024年9月11日～2025年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575429.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196962",
+  "date": "2025-10-17",
+  "time": "16:00",
+  "code": "2080",
+  "name": "ＰＢＲ１倍割れ解消",
+  "exch": "東",
+  "title": "2025年9月期（2024年9月11日～2025年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575422.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196960",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "9475",
+  "name": "昭文社ＨＤ",
+  "exch": "東",
+  "title": "BEASTAR株式会社の株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574775.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196950",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "8968",
+  "name": "Ｒ－福岡",
+  "exch": "東",
+  "title": "2025年8月期　決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575221.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196945",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "7271",
+  "name": "安永",
+  "exch": "東",
+  "title": "業績予想の修正及び中期経営計画の数値目標の修正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575083.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196939",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "7047",
+  "name": "Ｇ－ポート",
+  "exch": "東",
+  "title": "Second Foundation Japan 合同会社との系統用蓄電所事業の運用における業務提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575260.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1196937",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "6863",
+  "name": "ニレコ",
+  "exch": "東",
+  "title": "応用光研工業株式会社の株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575254.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196934",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "6425",
+  "name": "ユニバーサル",
+  "exch": "東",
+  "title": "株式会社サイバーリンクスによる株式会社イクシーズラボの株式の取得（完全子会社化） および株式会社シナジーとの合併に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575337.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196933",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "6196",
+  "name": "ストライク",
+  "exch": "東",
+  "title": "会社分割による持株会社体制移行に伴う吸収分割契約の締結及び定款の一部変更（商号及び事業目的の一部変更）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575310.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1196928",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "4929",
+  "name": "アジュバンＨＤ",
+  "exch": "東",
+  "title": "2026年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575119.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196926",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "4579",
+  "name": "Ｇ－ラクオリア創薬",
+  "exch": "東",
+  "title": "完全子会社であるテムリック株式会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251009570855.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1196924",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "4464",
+  "name": "ソフト９９",
+  "exch": "東",
+  "title": "（変更）「堯AM(株)による(株)ソフト９９コーポレーション（証券コード：4464）の株式に対する公開買付けの開始に関するお知らせ」の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575470.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196915",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "3683",
+  "name": "サイバーリンクス",
+  "exch": "東",
+  "title": "株式会社サイバーリンクスによる株式会社イクシーズラボの株式の取得（完全子会社化）および株式会社シナジーとの合併に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575371.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196911",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "3488",
+  "name": "Ｒ－ザイマックス",
+  "exch": "東",
+  "title": "2025年8月期 決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575375.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196902",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "2978",
+  "name": "Ｇ－ツクルバ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575214.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1196896",
+  "date": "2025-10-17",
+  "time": "15:30",
+  "code": "2411",
+  "name": "ゲンダイＡＧ",
+  "exch": "東",
+  "title": "2026年３月期  第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574813.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196878",
+  "date": "2025-10-17",
+  "time": "15:00",
+  "code": "2916",
+  "name": "仙波糖化",
+  "exch": "東",
+  "title": "連結子会社の増資および特定子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575344.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196887",
+  "date": "2025-10-17",
+  "time": "14:50",
+  "code": "194A",
+  "name": "Ｇ－ＷＯＬＶＥＳ",
+  "exch": "東",
+  "title": "有限会社ヒルズの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575336.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1196873",
+  "date": "2025-10-17",
+  "time": "14:00",
+  "code": "5423",
+  "name": "東製鉄",
+  "exch": "東",
+  "title": "2026年３月期第２四半期（中間期）決算短信〔日本基準〕(非連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574997.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1196863",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "364A",
+  "name": "Ｓ＆Ｐ５００配当貴族",
+  "exch": "東",
+  "title": "NEXT FUNDS S&amp;P 500 配当貴族指数連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575232.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196862",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2648",
+  "name": "米債７－１０ヘッジ有",
+  "exch": "東",
+  "title": "NEXT FUNDS ブルームバーグ米国国債（7-10年）インデックス（為替ヘッジあり）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575183.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196861",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2647",
+  "name": "米債７－１０ヘッジ無",
+  "exch": "東",
+  "title": "NEXT FUNDS ブルームバーグ米国国債（7-10年）インデックス（為替ヘッジなし）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575181.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196860",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2554",
+  "name": "ＮＦ米社債ヘ有",
+  "exch": "東",
+  "title": "NEXT FUNDS ブルームバーグ米国投資適格社債（1-10年）インデックス（為替ヘッジあり）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575178.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196859",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2520",
+  "name": "ＮＦ新興国株式ヘ無",
+  "exch": "東",
+  "title": "NEXT FUNDS 新興国株式・MSCIエマージング・マーケット・インデックス（為替ヘッジなし）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575165.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196858",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2519",
+  "name": "ＮＦ新興国債券ヘ無",
+  "exch": "東",
+  "title": "NEXT FUNDS 新興国債券・J.P.モルガン・エマージング・マーケット・ボンド・インデックス・プラス（為替ヘッジなし）連動型上場投信　決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575161.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196857",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2515",
+  "name": "ＮＦ外ＲＥＩＴヘ無",
+  "exch": "東",
+  "title": "NEXT FUNDS 外国REIT・S&amp;P先進国REIT指数（除く日本・為替ヘッジなし）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575174.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196856",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2514",
+  "name": "ＮＦ外株ヘッジ有",
+  "exch": "東",
+  "title": "NEXT FUNDS 外国株式・MSCI-KOKUSAI指数（為替ヘッジあり）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575147.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196855",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2513",
+  "name": "ＮＦ外株ヘッジ無",
+  "exch": "東",
+  "title": "NEXT FUNDS 外国株式・MSCI-KOKUSAI指数（為替ヘッジなし）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575135.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196854",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2512",
+  "name": "ＮＦ外債ヘッジ有",
+  "exch": "東",
+  "title": "NEXT FUNDS 外国債券・FTSE世界国債インデックス（除く日本・為替ヘッジあり）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575132.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196853",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2511",
+  "name": "ＮＦ外債ヘッジ無",
+  "exch": "東",
+  "title": "NEXT FUNDS 外国債券・FTSE世界国債インデックス（除く日本・為替ヘッジなし）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575129.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196852",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2510",
+  "name": "ＮＦ国内債券",
+  "exch": "東",
+  "title": "NEXT FUNDS 国内債券・NOMURA-BPI総合連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575124.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196851",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2246",
+  "name": "仏債７－１０ヘッジ有",
+  "exch": "東",
+  "title": "NEXT FUNDS ブルームバーグ・フランス国債（7-10年）インデックス（為替ヘッジあり）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575171.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196850",
+  "date": "2025-10-17",
+  "time": "13:00",
+  "code": "2245",
+  "name": "独債７－１０ヘッジ有",
+  "exch": "東",
+  "title": "NEXT FUNDS ブルームバーグ・ドイツ国債（7-10年）インデックス（為替ヘッジあり）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575168.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196845",
+  "date": "2025-10-17",
+  "time": "12:00",
+  "code": "5943",
+  "name": "ノーリツ",
+  "exch": "東",
+  "title": "株式会社荻原製作所の株式交付（簡易株式交付）による子会社化に関する当社決議の取り消しと有価証券届出書提出に向けた作業開始のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575264.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1196823",
+  "date": "2025-10-17",
+  "time": "10:10",
+  "code": "1398",
+  "name": "ＳＭＤＡＭ　Ｊリート",
+  "exch": "東",
+  "title": "2025年9月期　決算短信（2025年3月9日～2025年9月8日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251017575120.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196818",
+  "date": "2025-10-17",
+  "time": "08:30",
+  "code": "9238",
+  "name": "Ｇ－バリューＣ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574861.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1196813",
+  "date": "2025-10-17",
+  "time": "08:00",
+  "code": "431A",
+  "name": "Ｇ－ユーソナー",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574650.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ }
+]

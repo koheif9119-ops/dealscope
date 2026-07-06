@@ -1,0 +1,308 @@
+[
+ {
+  "id": "tdnet-1216569",
+  "date": "2026-01-19",
+  "time": "17:30",
+  "code": "9250",
+  "name": "Ｇ－ＧＲＣＳ",
+  "exch": "東",
+  "title": "2025年11月期 決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535698.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1216568",
+  "date": "2026-01-19",
+  "time": "17:30",
+  "code": "9250",
+  "name": "Ｇ－ＧＲＣＳ",
+  "exch": "東",
+  "title": "当社連結子会社の吸収合併及び特別損失（抱合せ株式消滅差損）の計上に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535724.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1216567",
+  "date": "2026-01-19",
+  "time": "17:30",
+  "code": "9250",
+  "name": "Ｇ－ＧＲＣＳ",
+  "exch": "東",
+  "title": "株式会社フィックスターズとの資本業務提携契約の締結並びに株式会社Fixstars Investmentを割当予定先とする第三者割当による新株式の発行に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535719.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1216559",
+  "date": "2026-01-19",
+  "time": "17:00",
+  "code": "9942",
+  "name": "ジョイフル",
+  "exch": "福",
+  "title": "当社子会社（株式会社フレンドリー）による株式併合に伴う完全子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260109531765.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1216539",
+  "date": "2026-01-19",
+  "time": "16:00",
+  "code": "8894",
+  "name": "ＲＥＶＯＬＵＴＩＯＮ",
+  "exch": "東",
+  "title": "GVE株式会社との業務提携終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535560.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1216533",
+  "date": "2026-01-19",
+  "time": "16:00",
+  "code": "5341",
+  "name": "ＡＳＡＨＩ　ＥＩＴＯ",
+  "exch": "東",
+  "title": "2025年11月期 決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535444.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1216521",
+  "date": "2026-01-19",
+  "time": "15:30",
+  "code": "9169",
+  "name": "Ｐ－大伸社",
+  "exch": "東",
+  "title": "2025年11月期　決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535371.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1216520",
+  "date": "2026-01-19",
+  "time": "15:30",
+  "code": "8966",
+  "name": "Ｒ－平和ＲＥ",
+  "exch": "東",
+  "title": "2025年11月期 決算短信(REIT)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535635.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1216513",
+  "date": "2026-01-19",
+  "time": "15:30",
+  "code": "6914",
+  "name": "オプテックスグループ",
+  "exch": "東",
+  "title": "グループ内組織再編（連結子会社間の吸収分割及び吸収合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535405.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1216511",
+  "date": "2026-01-19",
+  "time": "15:30",
+  "code": "6248",
+  "name": "横田製作所",
+  "exch": "東",
+  "title": "（訂正）「公開買付けに準ずる行為として政令で定める買集め行為並びにその他の関係会社及び主要株主である筆頭株主の異動に関するお知らせ」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260112531967.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1216508",
+  "date": "2026-01-19",
+  "time": "15:30",
+  "code": "5631",
+  "name": "日製鋼所",
+  "exch": "東",
+  "title": "連結子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260116535105.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1216504",
+  "date": "2026-01-19",
+  "time": "15:30",
+  "code": "4260",
+  "name": "Ｇ－ハイブリッドテク",
+  "exch": "東",
+  "title": "MCP35株式会社（中核子会社：株式会社グルーヴ・システム）の株式取得に関する補足資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535478.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1216498",
+  "date": "2026-01-19",
+  "time": "15:00",
+  "code": "9033",
+  "name": "広電鉄",
+  "exch": "東",
+  "title": "株式会社A＆Cの株式取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260116534896.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1216486",
+  "date": "2026-01-19",
+  "time": "14:00",
+  "code": "8979",
+  "name": "Ｒ－スターツＰＲ",
+  "exch": "東",
+  "title": "（訂正）「2025年10月期 決算短信（REIT）」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535549.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1216479",
+  "date": "2026-01-19",
+  "time": "13:00",
+  "code": "2860",
+  "name": "ＤＡＸヘッジ有",
+  "exch": "東",
+  "title": "NEXT FUNDS ドイツ株式・DAX（為替ヘッジあり）連動型上場投信 中間決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535426.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1216478",
+  "date": "2026-01-19",
+  "time": "13:00",
+  "code": "2859",
+  "name": "ＳＴＯＸＸヘッジ有",
+  "exch": "東",
+  "title": "NEXT FUNDS ユーロ・ストックス50指数（為替ヘッジあり）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535428.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1216464",
+  "date": "2026-01-19",
+  "time": "09:00",
+  "code": "6835",
+  "name": "アライドＨＤ",
+  "exch": "東",
+  "title": "当社子会社による事業譲渡に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535329.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ }
+]

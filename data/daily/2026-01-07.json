@@ -1,0 +1,547 @@
+[
+ {
+  "id": "tdnet-1214581",
+  "date": "2026-01-07",
+  "time": "18:00",
+  "code": "9287",
+  "name": "Ｉ－ＪＩＦ",
+  "exch": "東",
+  "title": "（変更）「2025年11月期決算短信公表の延期に関するお知らせ」の一部変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107530337.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1214580",
+  "date": "2026-01-07",
+  "time": "18:00",
+  "code": "9287",
+  "name": "Ｉ－ＪＩＦ",
+  "exch": "東",
+  "title": "（変更）「MMパワーによるジャパン・インフラファンド投資法人投資口に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107530340.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1214579",
+  "date": "2026-01-07",
+  "time": "18:00",
+  "code": "8425",
+  "name": "みずほリース",
+  "exch": "東",
+  "title": "（変更）ＭＭパワー合同会社によるジャパン・インフラファンド投資法人投資口に対する公開買付けの買付条件等の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107529773.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214539",
+  "date": "2026-01-07",
+  "time": "16:05",
+  "code": "4246",
+  "name": "ＤＮＣ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ（会社法第165条第２項の規定による定款の定めに基づく自己株式の取得）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251225526651.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214541",
+  "date": "2026-01-07",
+  "time": "16:04",
+  "code": "8267",
+  "name": "イオン",
+  "exch": "東",
+  "title": "（開示事項の経過）株式会社ツルハホールディングス（証券コード3391）に対する公開買付け後の株式取得予定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251218522433.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け",
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214540",
+  "date": "2026-01-07",
+  "time": "16:04",
+  "code": "8267",
+  "name": "イオン",
+  "exch": "東",
+  "title": "株式会社ツルハホールディングス（証券コード3391）に対する公開買付けの結果及び子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260106529253.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214564",
+  "date": "2026-01-07",
+  "time": "16:00",
+  "code": "9861",
+  "name": "吉野家ＨＤ",
+  "exch": "東",
+  "title": "2026年2月期第3四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260106529489.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214547",
+  "date": "2026-01-07",
+  "time": "16:00",
+  "code": "3391",
+  "name": "ツルハＨＤ",
+  "exch": "東",
+  "title": "（開示事項の経過）イオン株式会社による当社株式に対する公開買付け後の株式取得予定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107530244.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け",
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214546",
+  "date": "2026-01-07",
+  "time": "16:00",
+  "code": "3391",
+  "name": "ツルハＨＤ",
+  "exch": "東",
+  "title": "イオン株式会社による当社株式に対する公開買付けの結果並びに親会社及びその他の関係会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107530246.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214545",
+  "date": "2026-01-07",
+  "time": "16:00",
+  "code": "3222",
+  "name": "Ｕ．Ｓ．Ｍ．Ｈ",
+  "exch": "東",
+  "title": "2026年２月期　第３四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260106529724.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1214534",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "9846",
+  "name": "天満屋ス",
+  "exch": "東",
+  "title": "2026年2月期　第3四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260105528994.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1214530",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "9793",
+  "name": "ダイセキ",
+  "exch": "東",
+  "title": "2026年2月期第3四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251222523980.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214528",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "9338",
+  "name": "Ｇ－ＩＮＦＯＲＩＣＨ",
+  "exch": "東",
+  "title": "CHARGESPOT (THAILAND) COMPANY LIMITED の株式取得についてのお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107530107.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1214525",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "9254",
+  "name": "Ｇ－ラバブルマーケ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107530205.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1214522",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "8844",
+  "name": "コスモスイニシア",
+  "exch": "東",
+  "title": "株式の追加取得（完全子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107530008.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1214513",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "7445",
+  "name": "ライトオン",
+  "exch": "東",
+  "title": "2026年8月期　第1四半期決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251228527800.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1214511",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "7318",
+  "name": "Ｇ－セレンディップ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107530047.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1214506",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "6841",
+  "name": "横河電",
+  "exch": "東",
+  "title": "自己株式取得状況および取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107530042.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214501",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "5891",
+  "name": "魁力屋",
+  "exch": "東",
+  "title": "（開示事項の経過）株式会社エムピーキッチンホールディングスの株式の取得（子会社化）完了のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107529965.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1214495",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "4527",
+  "name": "ロート薬",
+  "exch": "東",
+  "title": "タイを拠点とするウェルネス関連企業 Thann Oryza Co., Ltd. の 株式取得（子会社化）について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107529928.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214489",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "3961",
+  "name": "Ｇ－シルバーエッグ",
+  "exch": "東",
+  "title": "株式会社イルグルムによる当社株券等に対する公開買付けの結果並びに親会社、主要株主である筆頭株主及び支配株主（親会社を除く。）の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260105528610.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1214488",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "3690",
+  "name": "イルグルム",
+  "exch": "東",
+  "title": "シルバーエッグ・テクノロジー株式会社（証券コード：3961）の株券等に対する公開買付けの結果及び子会社の異動（特定子会社の異動）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107529757.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1214483",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "3612",
+  "name": "ワールド",
+  "exch": "東",
+  "title": "2026年２月期 第３四半期決算短信〔ＩＦＲＳ〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260106529603.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214482",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "3082",
+  "name": "きちりＨＤ",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260107530057.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1214480",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "2792",
+  "name": "ハニーズＨＬＤ",
+  "exch": "東",
+  "title": "2026年５月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260106529191.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214476",
+  "date": "2026-01-07",
+  "time": "15:30",
+  "code": "2670",
+  "name": "ＡＢＣマート",
+  "exch": "東",
+  "title": "2026年２月期第３四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260106529543.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214454",
+  "date": "2026-01-07",
+  "time": "15:00",
+  "code": "2659",
+  "name": "サンエー",
+  "exch": "東",
+  "title": "2026年２月期第３四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260106529404.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214453",
+  "date": "2026-01-07",
+  "time": "15:00",
+  "code": "1997",
+  "name": "暁飯島",
+  "exch": "東",
+  "title": "2026年８月期 第１四半期決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260106529555.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1214452",
+  "date": "2026-01-07",
+  "time": "15:00",
+  "code": "1719",
+  "name": "安藤ハザマ",
+  "exch": "東",
+  "title": "シンガポールの建設会社「QXY Resources Pte. Ltd.」の株式取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260106529447.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1214444",
+  "date": "2026-01-07",
+  "time": "13:00",
+  "code": "1376",
+  "name": "カネコ種苗",
+  "exch": "東",
+  "title": "2026年５月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260105528955.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ }
+]

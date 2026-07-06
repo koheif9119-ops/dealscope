@@ -1,0 +1,56 @@
+[
+ {
+  "id": "tdnet-1211445",
+  "date": "2025-12-13",
+  "time": "11:00",
+  "code": "9719",
+  "name": "ＳＣＳＫ",
+  "exch": "東",
+  "title": "住友商事の子会社であるSCインベストメンツ・マネジメントによる当社株券等に対する公開買付けの結果並びに主要株主及びその他の関係会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251204514723.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1211444",
+  "date": "2025-12-13",
+  "time": "10:30",
+  "code": "8053",
+  "name": "住友商",
+  "exch": "東",
+  "title": "ＳＣＳＫ株式会社の株券等（証券コード：9719）に対する公開買付けの結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251213518620.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1211443",
+  "date": "2025-12-13",
+  "time": "10:30",
+  "code": "4937",
+  "name": "Ｇ－Ｗａｑｏｏ",
+  "exch": "東",
+  "title": "SBCメディカルグループ株式会社による当社株式に対する公開買付けの結果並びに親会社、その他の関係会社、筆頭株主及び主要株主の異動のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251213519423.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ }
+]

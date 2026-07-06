@@ -1,0 +1,400 @@
+[
+ {
+  "id": "tdnet-1196802",
+  "date": "2025-10-16",
+  "time": "18:00",
+  "code": "1401",
+  "name": "Ｇ－エムビーエス",
+  "exch": "東",
+  "title": "資本業務提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574565.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1196788",
+  "date": "2025-10-16",
+  "time": "16:30",
+  "code": "3538",
+  "name": "ウイルプラスＨＤ",
+  "exch": "東",
+  "title": "事業譲受に向けた基本合意書締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574666.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196779",
+  "date": "2025-10-16",
+  "time": "16:00",
+  "code": "303A",
+  "name": "Ｇ－ｖｉｓｕｍｏ",
+  "exch": "東",
+  "title": "株式会社ReviCoとの吸収合併契約締結及び臨時株主総会開催のための基準日設定のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250926563601.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1196778",
+  "date": "2025-10-16",
+  "time": "16:00",
+  "code": "2001",
+  "name": "ニップン",
+  "exch": "東",
+  "title": "(訂正)自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574853.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1196774",
+  "date": "2025-10-16",
+  "time": "15:45",
+  "code": "4202",
+  "name": "ダイセル",
+  "exch": "東",
+  "title": "連結子会社との会社分割を伴うグループ企業再編計画に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574649.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1196767",
+  "date": "2025-10-16",
+  "time": "15:30",
+  "code": "9325",
+  "name": "ファイズＨＤ",
+  "exch": "東",
+  "title": "株式会社誠ノ真の株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574635.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196758",
+  "date": "2025-10-16",
+  "time": "15:30",
+  "code": "7056",
+  "name": "Ｐ－マルク",
+  "exch": "東",
+  "title": "2025年８月期  決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251015574383.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196754",
+  "date": "2025-10-16",
+  "time": "15:30",
+  "code": "6634",
+  "name": "ネクスＧ",
+  "exch": "東",
+  "title": "（開示事項の経過）連結子会社の異動（株式交換）の完了及び 株式会社ＣＡＩＣＡ　ＤＩＧＩＴＡＬ（証券コード：2315）の持分法適用会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251015574371.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196751",
+  "date": "2025-10-16",
+  "time": "15:30",
+  "code": "6189",
+  "name": "グローバルキッズＣ",
+  "exch": "東",
+  "title": "連結子会社における事業譲渡に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574804.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196750",
+  "date": "2025-10-16",
+  "time": "15:30",
+  "code": "6098",
+  "name": "リクルートＨＤ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574627.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1196747",
+  "date": "2025-10-16",
+  "time": "15:30",
+  "code": "5242",
+  "name": "Ｇ－アイズ",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251014573208.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1196741",
+  "date": "2025-10-16",
+  "time": "15:30",
+  "code": "3481",
+  "name": "Ｒ－三菱地所物流",
+  "exch": "東",
+  "title": "2025年８月期　決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574624.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196740",
+  "date": "2025-10-16",
+  "time": "15:30",
+  "code": "3462",
+  "name": "Ｒ－ＮＭＦ",
+  "exch": "東",
+  "title": "2025年8月期　決算短信（REIT）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251015574016.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196737",
+  "date": "2025-10-16",
+  "time": "15:30",
+  "code": "2972",
+  "name": "Ｒ－サンケイＲＥ",
+  "exch": "東",
+  "title": "2025年８月期　決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251015574171.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196771",
+  "date": "2025-10-16",
+  "time": "15:15",
+  "code": "7282",
+  "name": "豊田合",
+  "exch": "東",
+  "title": "芦森工業株式会社株券等（証券コード：3526）に対する公開買付けの買付条件等の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251015573618.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1196770",
+  "date": "2025-10-16",
+  "time": "15:15",
+  "code": "3526",
+  "name": "芦森工",
+  "exch": "東",
+  "title": "(変更)「その他の関係会社である豊田合成株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574790.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196722",
+  "date": "2025-10-16",
+  "time": "14:30",
+  "code": "195A",
+  "name": "Ｇ－ＭＵＳＣＡＴ　Ｇ",
+  "exch": "東",
+  "title": "株式会社かならぼの株式の株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574711.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1196700",
+  "date": "2025-10-16",
+  "time": "11:00",
+  "code": "233A",
+  "name": "ｉＦインドＮ５０",
+  "exch": "東",
+  "title": "2025年9月期（2025年3月5日～2025年9月4日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574553.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196698",
+  "date": "2025-10-16",
+  "time": "11:00",
+  "code": "1488",
+  "name": "ｉＦＪリート",
+  "exch": "東",
+  "title": "2025年9月期（2025年3月5日～2025年9月4日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574549.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1196696",
+  "date": "2025-10-16",
+  "time": "10:30",
+  "code": "8023",
+  "name": "ＤＡＩＫＯＸＴ",
+  "exch": "東",
+  "title": "(訂正)「2026年３月期第１四半期決算短信〔日本基準〕(連結)」等の訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574536.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1196695",
+  "date": "2025-10-16",
+  "time": "10:30",
+  "code": "5943",
+  "name": "ノーリツ",
+  "exch": "東",
+  "title": "(訂正)適時開示資料「株式会社荻原製作所の株式交付（簡易株式交付）による子会社化に関するお知らせ」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251016574492.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1196681",
+  "date": "2025-10-16",
+  "time": "08:00",
+  "code": "7911",
+  "name": "ＴＯＰＰＡＮ　ＨＤ",
+  "exch": "東",
+  "title": "テクセンドフォトマスク株式会社の東京証券取引所プライム市場上場及び子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251015574258.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ }
+]

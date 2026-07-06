@@ -1,0 +1,165 @@
+[
+ {
+  "id": "tdnet-1213800",
+  "date": "2025-12-29",
+  "time": "18:30",
+  "code": "5022",
+  "name": "Ｐ－レボインター",
+  "exch": "東",
+  "title": "継続企業の前提に関する事項の注記についてのお知らせ及び（訂正）「2026年３月期 中間決算短信〔日本基準〕（非連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251229527993.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1213795",
+  "date": "2025-12-29",
+  "time": "16:30",
+  "code": "2375",
+  "name": "ギグワークス",
+  "exch": "東",
+  "title": "株式取得（連結子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251229527982.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1213792",
+  "date": "2025-12-29",
+  "time": "16:00",
+  "code": "2908",
+  "name": "フジッコ",
+  "exch": "東",
+  "title": "（開示事項の経過）タイ国のFB Food Service (2017) Co., Ltd.の株式の取得完了（子会社化）及び子会社設立手続き完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251225526175.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1213794",
+  "date": "2025-12-29",
+  "time": "15:50",
+  "code": "2935",
+  "name": "ピックルスＨＤ",
+  "exch": "東",
+  "title": "2026年２月期　第３四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251229527872.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1213781",
+  "date": "2025-12-29",
+  "time": "15:30",
+  "code": "2685",
+  "name": "アンドエスティＨＤ",
+  "exch": "東",
+  "title": "2026年２月期　第３四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251226527664.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1213779",
+  "date": "2025-12-29",
+  "time": "15:30",
+  "code": "2388",
+  "name": "Ｇ－ウェッジＨＤ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251229527907.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1213776",
+  "date": "2025-12-29",
+  "time": "12:35",
+  "code": "6537",
+  "name": "Ｇ－ＷＡＳＨハウス",
+  "exch": "東",
+  "title": "スターチャージエネルギージャパン株式会社との系統用分散型蓄電池事業における業務提携契約締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251229527912.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1213769",
+  "date": "2025-12-29",
+  "time": "11:30",
+  "code": "324A",
+  "name": "Ｇ－ブッキングＲ",
+  "exch": "東",
+  "title": "(開示事項の経過)事業譲受完了のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251226527036.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1213762",
+  "date": "2025-12-29",
+  "time": "10:10",
+  "code": "2011",
+  "name": "ＳＭＤＡＭ日本高配当",
+  "exch": "東",
+  "title": "2025年11月期　決算短信（2025年5月21日～2025年11月20日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251229527857.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "id": "tdnet-1166708",
+  "date": "2025-07-07",
+  "time": "17:00",
+  "code": "6425",
+  "name": "ユニバーサル",
+  "exch": "東",
+  "title": "（訂正）「2025年12月期 第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250707509453.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1166706",
+  "date": "2025-07-07",
+  "time": "17:00",
+  "code": "2908",
+  "name": "フジッコ",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250707509230.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1166698",
+  "date": "2025-07-07",
+  "time": "16:30",
+  "code": "2334",
+  "name": "Ｇ－イオレ",
+  "exch": "東",
+  "title": "（開示事項の経過）暗号資産金融事業参入の詳細について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250707509346.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "参入"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1166689",
+  "date": "2025-07-07",
+  "time": "16:00",
+  "code": "5463",
+  "name": "丸一鋼管",
+  "exch": "東",
+  "title": "株式分割、株式分割に伴う定款の一部変更、自己株式取得に係る事項の一部変更、配当予想の修正ならびに株主優待制度の変更等に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250707509268.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1166677",
+  "date": "2025-07-07",
+  "time": "15:30",
+  "code": "9956",
+  "name": "バローＨＤ",
+  "exch": "東",
+  "title": "株式会社ドミー株券に対する公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250707509050.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1166672",
+  "date": "2025-07-07",
+  "time": "15:30",
+  "code": "9558",
+  "name": "Ｇ－ジャパニアス",
+  "exch": "東",
+  "title": "2025年11月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250707509107.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1166655",
+  "date": "2025-07-07",
+  "time": "15:30",
+  "code": "6395",
+  "name": "タダノ",
+  "exch": "東",
+  "title": "株式会社タダノ（証券コード：6395）に対する公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250707509314.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1166653",
+  "date": "2025-07-07",
+  "time": "15:30",
+  "code": "5301",
+  "name": "東海カーボン",
+  "exch": "東",
+  "title": "BRIDGESTONE CARBON BLACK(THAILAND) CO.,LTD.の株式取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250707509031.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1166650",
+  "date": "2025-07-07",
+  "time": "15:30",
+  "code": "4825",
+  "name": "ＷＮＩウェザー",
+  "exch": "東",
+  "title": "2025年５月期 決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250707509056.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1166638",
+  "date": "2025-07-07",
+  "time": "15:30",
+  "code": "3353",
+  "name": "メディ一光Ｇ",
+  "exch": "東",
+  "title": "2026年２月期　第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250704508802.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1166636",
+  "date": "2025-07-07",
+  "time": "15:30",
+  "code": "3186",
+  "name": "ネクステージ",
+  "exch": "東",
+  "title": "2025年11月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250703508007.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1166626",
+  "date": "2025-07-07",
+  "time": "15:30",
+  "code": "241A",
+  "name": "Ｇ－ＲＯＸＸ",
+  "exch": "東",
+  "title": "会社分割（簡易新設分割）による子会社設立に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250701506512.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1166624",
+  "date": "2025-07-07",
+  "time": "15:30",
+  "code": "2408",
+  "name": "ＫＧ情報",
+  "exch": "東",
+  "title": "2025年12月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250704508391.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1166616",
+  "date": "2025-07-07",
+  "time": "15:00",
+  "code": "2789",
+  "name": "カルラ",
+  "exch": "東",
+  "title": "2026年２月期　第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250704508523.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1166609",
+  "date": "2025-07-07",
+  "time": "14:30",
+  "code": "8923",
+  "name": "トーセイ",
+  "exch": "東",
+  "title": "2025年11月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250704508292.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1166576",
+  "date": "2025-07-07",
+  "time": "10:30",
+  "code": "2934",
+  "name": "Ｇ－Ｊフロンティア",
+  "exch": "東",
+  "title": "株式会社TORIHADAとの業務提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250704508738.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ }
+]

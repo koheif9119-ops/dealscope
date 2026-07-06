@@ -1,0 +1,524 @@
+[
+ {
+  "id": "tdnet-1190309",
+  "date": "2025-09-03",
+  "time": "19:30",
+  "code": "4464",
+  "name": "ソフト９９",
+  "exch": "東",
+  "title": "（変更）「堯アセットマネジメント（株）による（株）ソフト９９コーポレーション（証券コード：4464）の株式に対する公開買付けの開始に関するお知らせ」の変更",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903553069.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1190307",
+  "date": "2025-09-03",
+  "time": "18:30",
+  "code": "6957",
+  "name": "芝浦電子",
+  "exch": "東",
+  "title": "(訂正)公開買付届出書の訂正届出書提出に伴う「株式会社芝浦電子(証券コード：6957)に対する公開買付けの開始に関するお知らせ」及び買付条件等変更",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903553016.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190303",
+  "date": "2025-09-03",
+  "time": "17:30",
+  "code": "9284",
+  "name": "Ｉ－カナディアンソラ",
+  "exch": "東",
+  "title": "(変更)「ヒューリック株式会社による本投資法人(証券コード9284)投資口に対する公開買付けに関する意見表明に関するお知らせ」の一部変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552930.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190301",
+  "date": "2025-09-03",
+  "time": "17:30",
+  "code": "3003",
+  "name": "ヒューリック",
+  "exch": "東",
+  "title": "（変更）カナディアン・ソーラー・インフラ投資法人投資口（証券コード：9284）に対する公開買付けの買付条件等の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552828.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190294",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1697",
+  "name": "大豆ＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552402.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190293",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1696",
+  "name": "コーンＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552401.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190292",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1695",
+  "name": "小麦ＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552400.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190291",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1694",
+  "name": "ニッケルＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552399.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190290",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1693",
+  "name": "銅ＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552398.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190289",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1692",
+  "name": "アルミＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552397.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190288",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1691",
+  "name": "ガソリンＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552396.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190287",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1690",
+  "name": "原油ＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552395.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190286",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1689",
+  "name": "ガスＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552394.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190285",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1688",
+  "name": "穀物ＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552393.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190284",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1687",
+  "name": "アグリＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552392.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190283",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1686",
+  "name": "メタルＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552391.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190282",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1685",
+  "name": "エナジーＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552390.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190281",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1684",
+  "name": "商品ＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552389.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190280",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1676",
+  "name": "キンゾクＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552387.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190279",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1675",
+  "name": "パラジＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552386.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190278",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1674",
+  "name": "プラチナＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552385.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190277",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1673",
+  "name": "銀ＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552384.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190276",
+  "date": "2025-09-03",
+  "time": "17:00",
+  "code": "1672",
+  "name": "金ＥＴＦ",
+  "exch": "東",
+  "title": "令和7年12月期　中間決算短信（令和7年1月1日～令和7年6月30日)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552383.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190298",
+  "date": "2025-09-03",
+  "time": "16:45",
+  "code": "7715",
+  "name": "長野計器",
+  "exch": "東",
+  "title": "（開示事項の経過）自己株式取得に係る事項の確定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552708.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190233",
+  "date": "2025-09-03",
+  "time": "15:30",
+  "code": "6758",
+  "name": "ソニーグループ",
+  "exch": "東",
+  "title": "金融事業のパーシャル・スピンオフの実行に関する決議のお知らせ（子会社株式の現物配当及び子会社の異動）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250902552328.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190207",
+  "date": "2025-09-03",
+  "time": "15:30",
+  "code": "3439",
+  "name": "三ツ知",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）修正後発事象にかかる「2025年６月期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250902552295.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1190202",
+  "date": "2025-09-03",
+  "time": "15:30",
+  "code": "2911",
+  "name": "旭松食品",
+  "exch": "東",
+  "title": "連結子会社の異動（持分一部譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250902551651.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1190192",
+  "date": "2025-09-03",
+  "time": "15:00",
+  "code": "8217",
+  "name": "オークワ",
+  "exch": "東",
+  "title": "自己株式取得 状況に関するお知らせ（会社法第165条第２項の規定による定款の定めに基づく自己株式の取得）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250901551458.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190179",
+  "date": "2025-09-03",
+  "time": "11:45",
+  "code": "331A",
+  "name": "メディックス",
+  "exch": "東",
+  "title": "株式会社Sales Labの株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250902552115.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ }
+]

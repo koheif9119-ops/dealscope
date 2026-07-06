@@ -1,0 +1,453 @@
+[
+ {
+  "id": "tdnet-1194434",
+  "date": "2025-10-02",
+  "time": "17:45",
+  "code": "9600",
+  "name": "アイネット",
+  "exch": "東",
+  "title": "OFI・01株式会社による当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251002567701.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1194433",
+  "date": "2025-10-02",
+  "time": "17:45",
+  "code": "8591",
+  "name": "オリックス",
+  "exch": "東",
+  "title": "オリックス株式会社の子会社（OFI・01株式会社）による株式会社アイネットに対する公開買付けの開始について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250930565114.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1194423",
+  "date": "2025-10-02",
+  "time": "16:30",
+  "code": "1960",
+  "name": "サンテック",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年３月期　第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251001566948.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1194422",
+  "date": "2025-10-02",
+  "time": "16:30",
+  "code": "1960",
+  "name": "サンテック",
+  "exch": "東",
+  "title": "（再訂正・数値データ再訂正）「2025年３月期　決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251001566946.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1194420",
+  "date": "2025-10-02",
+  "time": "16:00",
+  "code": "9872",
+  "name": "北恵",
+  "exch": "東",
+  "title": "2025年11月期第3四半期決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251002567515.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1194414",
+  "date": "2025-10-02",
+  "time": "16:00",
+  "code": "6469",
+  "name": "放電精密",
+  "exch": "東",
+  "title": "2026年２月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250924561301.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1194329",
+  "date": "2025-10-02",
+  "time": "15:45",
+  "code": "3035",
+  "name": "ＫＴＫ",
+  "exch": "東",
+  "title": "2025年8月期 決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250925562087.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1194402",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "9793",
+  "name": "ダイセキ",
+  "exch": "東",
+  "title": "株式会社ダイセキ環境ソリューション（証券コード：1712）の株式に対する公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251002567189.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1194400",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "9793",
+  "name": "ダイセキ",
+  "exch": "東",
+  "title": "2026年２月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250926562823.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1194397",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "9242",
+  "name": "Ｇ－メディア総研",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251001566189.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1194394",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "8920",
+  "name": "東祥",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251002567352.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1194386",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "8016",
+  "name": "オンワードＨＤ",
+  "exch": "東",
+  "title": "2026年２月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251001567021.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1194363",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "4612",
+  "name": "日ペイントＨＤ",
+  "exch": "東",
+  "title": "（訂正）特定子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251002567509.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1194360",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "4464",
+  "name": "ソフト９９",
+  "exch": "東",
+  "title": "（変更）「堯AM（株）による（株）ソフト９９コーポレーション（証券コード：4464）の株式に対する公開買付けの開始に関するお知らせ」の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251002567635.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1194357",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "4060",
+  "name": "Ｇ－ｒａｋｕｍｏ",
+  "exch": "東",
+  "title": "（開示事項の経過）AvePoint Japan株式会社との業務提携に関する進捗状況のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250926563169.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1194352",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "3549",
+  "name": "クスリのアオキＨＤ",
+  "exch": "東",
+  "title": "2026年５月期 第1四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251002567431.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1194351",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "3498",
+  "name": "霞ヶ関キャピタル",
+  "exch": "東",
+  "title": "2025年8月期  決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251002567451.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1194348",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "2830",
+  "name": "アヲハタ",
+  "exch": "東",
+  "title": "2025年11月期　第３四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251001567031.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1194345",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "2809",
+  "name": "キユーピー",
+  "exch": "東",
+  "title": "2025年11月期 第3四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250930565857.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1194339",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "2493",
+  "name": "イーサポート",
+  "exch": "東",
+  "title": "2025年11月期　第3四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251001566945.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1194337",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "1712",
+  "name": "ダイセキＳ",
+  "exch": "東",
+  "title": "親会社である株式会社ダイセキによる当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251002567428.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1194335",
+  "date": "2025-10-02",
+  "time": "15:30",
+  "code": "1712",
+  "name": "ダイセキＳ",
+  "exch": "東",
+  "title": "2026年２月期第２四半期(中間期)決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251001566884.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1194324",
+  "date": "2025-10-02",
+  "time": "15:00",
+  "code": "5273",
+  "name": "三谷セキサン",
+  "exch": "東",
+  "title": "連結子会社の異動（株式譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251002567141.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1194319",
+  "date": "2025-10-02",
+  "time": "14:00",
+  "code": "6817",
+  "name": "スミダ",
+  "exch": "東",
+  "title": "（開示事項の経過）欧州連結子会社による株式取得対価の払込完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251002566000.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1194313",
+  "date": "2025-10-02",
+  "time": "13:30",
+  "code": "8276",
+  "name": "平和堂",
+  "exch": "東",
+  "title": "2026年2月期第2四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251001566782.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ }
+]

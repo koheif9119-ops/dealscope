@@ -1,0 +1,272 @@
+[
+ {
+  "id": "tdnet-1210048",
+  "date": "2025-12-03",
+  "time": "17:00",
+  "code": "7914",
+  "name": "共同印",
+  "exch": "東",
+  "title": "（開示事項の経過）自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203514299.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1210034",
+  "date": "2025-12-03",
+  "time": "16:30",
+  "code": "4834",
+  "name": "キャリアバンク",
+  "exch": "札",
+  "title": "公開買付けへの応募及び持分法適用関連会社の異動に伴う特別利益の計上見込みに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203514285.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1210039",
+  "date": "2025-12-03",
+  "time": "16:20",
+  "code": "7619",
+  "name": "田中商事",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2026年３月期　第2四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203514266.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1210024",
+  "date": "2025-12-03",
+  "time": "16:00",
+  "code": "6458",
+  "name": "新晃工業",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203513903.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209999",
+  "date": "2025-12-03",
+  "time": "15:30",
+  "code": "8057",
+  "name": "内田洋行",
+  "exch": "東",
+  "title": "2026年7月期 第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251202513366.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209989",
+  "date": "2025-12-03",
+  "time": "15:30",
+  "code": "6841",
+  "name": "横河電",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203513796.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209976",
+  "date": "2025-12-03",
+  "time": "15:30",
+  "code": "4027",
+  "name": "テイカ",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201513063.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209975",
+  "date": "2025-12-03",
+  "time": "15:30",
+  "code": "3802",
+  "name": "エコミック",
+  "exch": "東",
+  "title": "自己株式の取得及び自己株式の公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203514148.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209958",
+  "date": "2025-12-03",
+  "time": "15:30",
+  "code": "1333",
+  "name": "マルハニチロ",
+  "exch": "東",
+  "title": "連結子会社株式の追加取得による完全子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203513982.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209945",
+  "date": "2025-12-03",
+  "time": "14:30",
+  "code": "9890",
+  "name": "マキヤ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正） 「2026年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203514043.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209928",
+  "date": "2025-12-03",
+  "time": "12:00",
+  "code": "2134",
+  "name": "キタハマキャピタル",
+  "exch": "東",
+  "title": "エレビスタ株式会社との業務提携契約締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203513814.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209918",
+  "date": "2025-12-03",
+  "time": "11:00",
+  "code": "6654",
+  "name": "不二電機工業",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203513801.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209913",
+  "date": "2025-12-03",
+  "time": "10:45",
+  "code": "1326",
+  "name": "ＳＰＤＲゴール",
+  "exch": "東",
+  "title": "2025年9月期ＳＰＤＲゴールド・シェア決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203513868.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1209906",
+  "date": "2025-12-03",
+  "time": "10:00",
+  "code": "4299",
+  "name": "ハイマックス",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ-3）による自己株式取得結果及び自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512675.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209898",
+  "date": "2025-12-03",
+  "time": "10:00",
+  "code": "218A",
+  "name": "Ｇ－リベラウェア",
+  "exch": "東",
+  "title": "新製品自動巡視型カメラ「トリノス」発売開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203513776.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "新製品"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ }
+]

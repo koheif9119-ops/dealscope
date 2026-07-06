@@ -1,0 +1,490 @@
+[
+ {
+  "id": "tdnet-1190647",
+  "date": "2025-09-05",
+  "time": "18:00",
+  "code": "7793",
+  "name": "Ｇ－イメージマジック",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250905553742.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1190636",
+  "date": "2025-09-05",
+  "time": "17:00",
+  "code": "4263",
+  "name": "Ｇ－サスメド",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552603.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1190622",
+  "date": "2025-09-05",
+  "time": "16:00",
+  "code": "7610",
+  "name": "テイツー",
+  "exch": "東",
+  "title": "当社孫会社の出資持分取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553721.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1190614",
+  "date": "2025-09-05",
+  "time": "16:00",
+  "code": "3816",
+  "name": "大和コン",
+  "exch": "東",
+  "title": "中期経営計画「DCX 2030」策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553707.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1190613",
+  "date": "2025-09-05",
+  "time": "16:00",
+  "code": "3816",
+  "name": "大和コン",
+  "exch": "東",
+  "title": "2025年7月期 決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553705.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1190604",
+  "date": "2025-09-05",
+  "time": "16:00",
+  "code": "2150",
+  "name": "ケアネット",
+  "exch": "東",
+  "title": "（訂正）Curie 1による公開買付届出書の訂正届出書の提出に伴う「Curie 1によるケアネット株式に対する公開買付けの開始に関するお知らせ」の訂正",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553644.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190603",
+  "date": "2025-09-05",
+  "time": "16:00",
+  "code": "2150",
+  "name": "ケアネット",
+  "exch": "東",
+  "title": "（訂正）「Curie １株式会社による当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553645.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190525",
+  "date": "2025-09-05",
+  "time": "15:45",
+  "code": "3733",
+  "name": "ソフトウェアＳ",
+  "exch": "東",
+  "title": "2025年10月期第3四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250903552988.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1190532",
+  "date": "2025-09-05",
+  "time": "15:40",
+  "code": "5971",
+  "name": "共和工業",
+  "exch": "東",
+  "title": "2026年4月期 第1四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250902552006.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1190530",
+  "date": "2025-09-05",
+  "time": "15:40",
+  "code": "3854",
+  "name": "アイル",
+  "exch": "東",
+  "title": "中期経営計画（2026年７月期～2028年７月期）策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250905554072.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190527",
+  "date": "2025-09-05",
+  "time": "15:40",
+  "code": "3854",
+  "name": "アイル",
+  "exch": "東",
+  "title": "2025年７月期　決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250905554027.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190597",
+  "date": "2025-09-05",
+  "time": "15:30",
+  "code": "9678",
+  "name": "カナモト",
+  "exch": "東",
+  "title": "2025年10月期　第３四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553392.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190595",
+  "date": "2025-09-05",
+  "time": "15:30",
+  "code": "9417",
+  "name": "スマートバリュー",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250905554014.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1190594",
+  "date": "2025-09-05",
+  "time": "15:30",
+  "code": "9072",
+  "name": "ニッコンＨＤ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250905553794.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190588",
+  "date": "2025-09-05",
+  "time": "15:30",
+  "code": "7605",
+  "name": "フジコーポレーション",
+  "exch": "東",
+  "title": "2025年10月期第3四半期決算短信〔日本基準〕(非連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553371.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1190571",
+  "date": "2025-09-05",
+  "time": "15:30",
+  "code": "6267",
+  "name": "ゼネパッカー",
+  "exch": "東",
+  "title": "2025年７月期　決算短信[日本基準]（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250818543831.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1190567",
+  "date": "2025-09-05",
+  "time": "15:30",
+  "code": "5463",
+  "name": "丸一鋼管",
+  "exch": "東",
+  "title": "簡易株式交換による丸一鋼販株式会社の完全子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553691.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190566",
+  "date": "2025-09-05",
+  "time": "15:30",
+  "code": "5186",
+  "name": "ニッタ",
+  "exch": "東",
+  "title": "自己株式の取得及び自己株式の公開買付けに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553238.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190565",
+  "date": "2025-09-05",
+  "time": "15:30",
+  "code": "4627",
+  "name": "ナトコ",
+  "exch": "東",
+  "title": "2025年10月期　第３四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553393.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1190559",
+  "date": "2025-09-05",
+  "time": "15:30",
+  "code": "3662",
+  "name": "エイチームＨＤ",
+  "exch": "東",
+  "title": "2025年７月期 決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250905554065.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190546",
+  "date": "2025-09-05",
+  "time": "15:30",
+  "code": "3082",
+  "name": "きちりＨＤ",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250905554079.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1190536",
+  "date": "2025-09-05",
+  "time": "15:30",
+  "code": "1873",
+  "name": "日本ハウスＨＤ",
+  "exch": "東",
+  "title": "2026年４月期第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250905553899.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190518",
+  "date": "2025-09-05",
+  "time": "15:00",
+  "code": "6142",
+  "name": "富士精工",
+  "exch": "名",
+  "title": "当社連結子会社の異動（出資譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250905553977.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1190515",
+  "date": "2025-09-05",
+  "time": "15:00",
+  "code": "4996",
+  "name": "クミアイ化",
+  "exch": "東",
+  "title": "2025年10月期第３四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553358.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190512",
+  "date": "2025-09-05",
+  "time": "15:00",
+  "code": "2910",
+  "name": "ロックフィルド",
+  "exch": "東",
+  "title": "2026年4月期　第1四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553641.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190508",
+  "date": "2025-09-05",
+  "time": "14:35",
+  "code": "7741",
+  "name": "ＨＯＹＡ",
+  "exch": "東",
+  "title": "会社分割（簡易吸収分割）及び音声合成ソフトウェア事業の事業譲渡に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250905553914.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡",
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1190488",
+  "date": "2025-09-05",
+  "time": "12:00",
+  "code": "7279",
+  "name": "ハイレックス",
+  "exch": "東",
+  "title": "2025年10月期 第3四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250904553529.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ }
+]

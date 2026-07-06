@@ -1,0 +1,833 @@
+[
+ {
+  "id": "tdnet-1230458",
+  "date": "2026-03-05",
+  "time": "19:00",
+  "code": "7860",
+  "name": "エイベックス",
+  "exch": "東",
+  "title": "完全子会社の吸収合併(簡易合併)に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576905.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230450",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "7173",
+  "name": "東京きらぼしＦＧ",
+  "exch": "東",
+  "title": "（訂正）「2024年３月期 第３四半期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576810.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230449",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "7173",
+  "name": "東京きらぼしＦＧ",
+  "exch": "東",
+  "title": "（訂正）「2024年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260304575222.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230448",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "7173",
+  "name": "東京きらぼしＦＧ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2025年３月期 第１四半期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260304575225.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230447",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "7173",
+  "name": "東京きらぼしＦＧ",
+  "exch": "東",
+  "title": "（訂正）「2025年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260304575228.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230446",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "7173",
+  "name": "東京きらぼしＦＧ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2025年３月期 第３四半期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260304575229.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230445",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "7173",
+  "name": "東京きらぼしＦＧ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2025年３月期 決算短信〔日本基準〕（連結）」の 一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260304575233.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230444",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "7173",
+  "name": "東京きらぼしＦＧ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年３月期 第１四半期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260304575235.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230443",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "7173",
+  "name": "東京きらぼしＦＧ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260304575238.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230442",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "7173",
+  "name": "東京きらぼしＦＧ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年３月期 第３四半期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260304575263.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230441",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "7173",
+  "name": "東京きらぼしＦＧ",
+  "exch": "東",
+  "title": "過年度の有価証券報告書等の訂正報告書の提出及び「2026年３月期 第３四半期 決算短信〔日本基準〕（連結）」等の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260304575268.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信",
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230437",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "3632",
+  "name": "グリーＨＤ",
+  "exch": "東",
+  "title": "公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576405.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230435",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "2585",
+  "name": "ライフドリンクＣ",
+  "exch": "東",
+  "title": "連結子会社による株式取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576473.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230434",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "2585",
+  "name": "ライフドリンクＣ",
+  "exch": "東",
+  "title": "自動販売機事業の吸収分割による承継及びポッカサッポロ社との業務提携協議開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576471.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230432",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "2435",
+  "name": "シダー",
+  "exch": "東",
+  "title": "株式取得（子会社化）に伴う資金の借入に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573481.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1230431",
+  "date": "2026-03-05",
+  "time": "17:00",
+  "code": "2435",
+  "name": "シダー",
+  "exch": "東",
+  "title": "株式会社ダブルエイチオーの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573467.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1230415",
+  "date": "2026-03-05",
+  "time": "16:00",
+  "code": "6351",
+  "name": "鶴見製",
+  "exch": "東",
+  "title": "（開示事項の経過）富士丸産業株式会社の株式の取得（完全子会社化）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576307.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230399",
+  "date": "2026-03-05",
+  "time": "16:00",
+  "code": "2521",
+  "name": "上場米国ヘッジあり",
+  "exch": "東",
+  "title": "2026年1月期（2025年1月21日～2026年1月20日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576559.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230398",
+  "date": "2026-03-05",
+  "time": "16:00",
+  "code": "2240",
+  "name": "上場Ｓ＆Ｐインバース",
+  "exch": "東",
+  "title": "2026年1月期（2025年1月21日～2026年1月20日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576567.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230397",
+  "date": "2026-03-05",
+  "time": "16:00",
+  "code": "2239",
+  "name": "上場Ｓ＆Ｐレバ２倍",
+  "exch": "東",
+  "title": "2026年1月期（2025年1月21日～2026年1月20日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576564.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230396",
+  "date": "2026-03-05",
+  "time": "16:00",
+  "code": "1681",
+  "name": "上場ＭＳエマ",
+  "exch": "東",
+  "title": "2026年1月期（2025年1月21日～2026年1月20日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576546.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230395",
+  "date": "2026-03-05",
+  "time": "16:00",
+  "code": "1680",
+  "name": "上場ＭＳコク",
+  "exch": "東",
+  "title": "2026年1月期（2025年1月21日～2026年1月20日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576541.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230394",
+  "date": "2026-03-05",
+  "time": "16:00",
+  "code": "1554",
+  "name": "上場ＭＳ世",
+  "exch": "東",
+  "title": "2026年1月期（2025年1月21日～2026年1月20日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576553.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230393",
+  "date": "2026-03-05",
+  "time": "16:00",
+  "code": "1547",
+  "name": "上場米国",
+  "exch": "東",
+  "title": "2026年1月期（2025年1月21日～2026年1月20日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576548.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230392",
+  "date": "2026-03-05",
+  "time": "16:00",
+  "code": "1495",
+  "name": "上場アジアリート",
+  "exch": "東",
+  "title": "2026年1月期（2025年7月21日～2026年1月20日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576556.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230391",
+  "date": "2026-03-05",
+  "time": "16:00",
+  "code": "1322",
+  "name": "上場パンタ",
+  "exch": "東",
+  "title": "2026年1月期（2025年1月21日～2026年1月20日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576539.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230385",
+  "date": "2026-03-05",
+  "time": "15:30",
+  "code": "8267",
+  "name": "イオン",
+  "exch": "東",
+  "title": "株式会社サンデー株券等（証券コード：7450）に対する公開買付けの結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576669.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230383",
+  "date": "2026-03-05",
+  "time": "15:30",
+  "code": "7957",
+  "name": "フジコピアン",
+  "exch": "東",
+  "title": "中期経営計画（2026～2030）策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576489.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1230378",
+  "date": "2026-03-05",
+  "time": "15:30",
+  "code": "7590",
+  "name": "タカショー",
+  "exch": "東",
+  "title": "2026年１月期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260304576008.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1230376",
+  "date": "2026-03-05",
+  "time": "15:30",
+  "code": "7450",
+  "name": "サンデー",
+  "exch": "東",
+  "title": "親会社であるイオン株式会社による当社株券等に対する公開買付けの結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576350.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230372",
+  "date": "2026-03-05",
+  "time": "15:30",
+  "code": "6951",
+  "name": "日電子",
+  "exch": "東",
+  "title": "自己株式の公開買付けの結果及び自己株式の取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576384.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230371",
+  "date": "2026-03-05",
+  "time": "15:30",
+  "code": "6869",
+  "name": "シスメックス",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定及び自己株式の消却に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576354.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230359",
+  "date": "2026-03-05",
+  "time": "15:30",
+  "code": "4061",
+  "name": "デンカ",
+  "exch": "東",
+  "title": "（訂正）「株式会社カイノスの株券等（証券コード：4556） に対する公開買付けの開始に関するお知らせ」及び公開買付開始公告の訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576415.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230357",
+  "date": "2026-03-05",
+  "time": "15:30",
+  "code": "3556",
+  "name": "Ｇ－リネットジャパン",
+  "exch": "東",
+  "title": "ソーシャルケア事業 中期計画『Social Care Growth ＆ Roll-up 2030』",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576272.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期計画"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1230355",
+  "date": "2026-03-05",
+  "time": "15:30",
+  "code": "3556",
+  "name": "Ｇ－リネットジャパン",
+  "exch": "東",
+  "title": "ソーシャルケア事業 中期計画『Social Care Growth ＆ Roll-up 2030』策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576240.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期計画"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1230336",
+  "date": "2026-03-05",
+  "time": "15:00",
+  "code": "3172",
+  "name": "ティーライフ",
+  "exch": "東",
+  "title": "2026年７月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260217563972.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1230333",
+  "date": "2026-03-05",
+  "time": "15:00",
+  "code": "1543",
+  "name": "純パラ信",
+  "exch": "東",
+  "title": "2026年1月期(2025年1月21日～2026年1月20日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576644.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230332",
+  "date": "2026-03-05",
+  "time": "15:00",
+  "code": "1542",
+  "name": "純銀信託",
+  "exch": "東",
+  "title": "2026年1月期(2025年1月21日～2026年1月20日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576635.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230331",
+  "date": "2026-03-05",
+  "time": "15:00",
+  "code": "1541",
+  "name": "純プラ信",
+  "exch": "東",
+  "title": "2026年1月期(2025年1月21日～2026年1月20日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576617.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230330",
+  "date": "2026-03-05",
+  "time": "15:00",
+  "code": "1540",
+  "name": "純金信託",
+  "exch": "東",
+  "title": "2026年1月期(2025年1月21日～2026年1月20日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576604.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1230324",
+  "date": "2026-03-05",
+  "time": "13:30",
+  "code": "7716",
+  "name": "ナカニシ",
+  "exch": "東",
+  "title": "当社連結子会社による株式取得（孫会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576377.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1230310",
+  "date": "2026-03-05",
+  "time": "12:00",
+  "code": "3133",
+  "name": "Ｇ－海帆",
+  "exch": "東",
+  "title": "「小売電気事業者である株式会社どんぐり電力の株式の取得（子会社化）に関するお知らせ」補足説明資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576381.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1230309",
+  "date": "2026-03-05",
+  "time": "12:00",
+  "code": "3133",
+  "name": "Ｇ－海帆",
+  "exch": "東",
+  "title": "小売電気事業者である株式会社どんぐり電力の株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576369.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1230308",
+  "date": "2026-03-05",
+  "time": "12:00",
+  "code": "274A",
+  "name": "ガーデン",
+  "exch": "東",
+  "title": "（開示事項の経過）事業譲受に関する譲受時資産・負債の金額確定について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260305576276.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1230304",
+  "date": "2026-03-05",
+  "time": "12:00",
+  "code": "1928",
+  "name": "積水ハウス",
+  "exch": "東",
+  "title": "積水ハウスグループ第7次中期経営計画（2026年度～2028年度）の策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260304576067.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1230303",
+  "date": "2026-03-05",
+  "time": "12:00",
+  "code": "1928",
+  "name": "積水ハウス",
+  "exch": "東",
+  "title": "2026年1月期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260304576061.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ }
+]

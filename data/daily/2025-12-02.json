@@ -1,0 +1,238 @@
+[
+ {
+  "id": "tdnet-1209858",
+  "date": "2025-12-02",
+  "time": "16:00",
+  "code": "2551",
+  "name": "マルサンアイ",
+  "exch": "名",
+  "title": "（訂正・数値データ訂正あり） 「2025 年9 月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251202513154.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1209851",
+  "date": "2025-12-02",
+  "time": "15:30",
+  "code": "9993",
+  "name": "ヤマザワ",
+  "exch": "東",
+  "title": "自己株式の公開買付けの結果及び取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251202513257.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209841",
+  "date": "2025-12-02",
+  "time": "15:30",
+  "code": "9020",
+  "name": "ＪＲ東",
+  "exch": "東",
+  "title": "会社分割（簡易吸収分割）による事業の承継に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201513123.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209838",
+  "date": "2025-12-02",
+  "time": "15:30",
+  "code": "8267",
+  "name": "イオン",
+  "exch": "東",
+  "title": "株式会社ツルハホールディングス（証券コード3391）に対する公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251202513540.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209827",
+  "date": "2025-12-02",
+  "time": "15:30",
+  "code": "6654",
+  "name": "不二電機工業",
+  "exch": "東",
+  "title": "2026年1月期 第3四半期決算短信[日本基準](非連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251125508704.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209824",
+  "date": "2025-12-02",
+  "time": "15:30",
+  "code": "6255",
+  "name": "Ｇ－ＮＰＣ",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251202513245.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1209822",
+  "date": "2025-12-02",
+  "time": "15:30",
+  "code": "5900",
+  "name": "ダイケン",
+  "exch": "東",
+  "title": "公開買付けへの応募及び特別利益の計上見込み関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251202513166.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209817",
+  "date": "2025-12-02",
+  "time": "15:30",
+  "code": "4750",
+  "name": "ダイサン",
+  "exch": "東",
+  "title": "2026年４月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251202513389.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1209809",
+  "date": "2025-12-02",
+  "time": "15:30",
+  "code": "3558",
+  "name": "Ｇ－ジェイドグループ",
+  "exch": "東",
+  "title": "（開示事項の経過）株式会社ロイヤルからの事業譲受を目的とした新設分割会社の株式取得（子会社化）完了のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251202513427.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化",
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1209806",
+  "date": "2025-12-02",
+  "time": "15:30",
+  "code": "3391",
+  "name": "ツルハＨＤ",
+  "exch": "東",
+  "title": "イオン株式会社による当社株式に対する公開買付けの開始に関する意見表明のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251202513532.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209774",
+  "date": "2025-12-02",
+  "time": "12:00",
+  "code": "4078",
+  "name": "堺化学",
+  "exch": "東",
+  "title": "自己株式取得の取得状況及び取得終了に関するお知らせ（会社法第459条第1項の規定による定款の定めに基づく自己株式の取得）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251202513377.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209766",
+  "date": "2025-12-02",
+  "time": "11:45",
+  "code": "8934",
+  "name": "サンフロンティア",
+  "exch": "東",
+  "title": "サンフロンティア不動産株式会社（証券コード 8934）に対する公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251119505863.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1209769",
+  "date": "2025-12-02",
+  "time": "11:30",
+  "code": "3094",
+  "name": "スーパーＶ",
+  "exch": "東",
+  "title": "支配株主である株式会社OICグループによる当社株券等に対する公開買付けの結果並びに主要株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251202513256.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ }
+]

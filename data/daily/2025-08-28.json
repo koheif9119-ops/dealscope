@@ -1,0 +1,509 @@
+[
+ {
+  "id": "tdnet-1189267",
+  "date": "2025-08-28",
+  "time": "18:00",
+  "code": "3645",
+  "name": "Ｇ－メディカルネット",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828549226.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1189266",
+  "date": "2025-08-28",
+  "time": "18:00",
+  "code": "3645",
+  "name": "Ｇ－メディカルネット",
+  "exch": "東",
+  "title": "中期経営計画策定のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828549152.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1189260",
+  "date": "2025-08-28",
+  "time": "17:15",
+  "code": "6957",
+  "name": "芝浦電子",
+  "exch": "東",
+  "title": "(変更)2025年5月1日付「ミネベアミツミ株式会社による当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828549186.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1189259",
+  "date": "2025-08-28",
+  "time": "17:00",
+  "code": "6479",
+  "name": "ミネベアミツミ",
+  "exch": "東",
+  "title": "（変更）「株式会社芝浦電子（証券コード：6957）に対する公開買付けの開始に関するお知らせ」の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828548775.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1189258",
+  "date": "2025-08-28",
+  "time": "17:00",
+  "code": "5126",
+  "name": "Ｇ－ポーターズ",
+  "exch": "東",
+  "title": "パーソルテンプスタッフ株式会社と子会社の運営に係る業務提携に向けた基本合意書締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828548780.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1189242",
+  "date": "2025-08-28",
+  "time": "16:30",
+  "code": "6028",
+  "name": "テクノプロＨＤ",
+  "exch": "東",
+  "title": "（変更）公開買付届出書の訂正届出書の提出に伴う「テクノプロ・ホールディングス株式会社の株券等に対する公開買付けの開始に関するお知らせ」の変更",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250827548312.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1189241",
+  "date": "2025-08-28",
+  "time": "16:30",
+  "code": "4626",
+  "name": "太陽ＨＤ",
+  "exch": "東",
+  "title": "中期経営計画策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828548713.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1189240",
+  "date": "2025-08-28",
+  "time": "16:30",
+  "code": "398A",
+  "name": "Ｐ－リアルクオリティ",
+  "exch": "東",
+  "title": "2025年12月期　中間決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828549101.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1189238",
+  "date": "2025-08-28",
+  "time": "16:30",
+  "code": "2694",
+  "name": "焼肉坂井ＨＤ",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250827548346.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1189222",
+  "date": "2025-08-28",
+  "time": "16:00",
+  "code": "7050",
+  "name": "Ｇ－フロンティアＩ",
+  "exch": "東",
+  "title": "ＮＰＵ株式会社の株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828548834.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1189220",
+  "date": "2025-08-28",
+  "time": "16:00",
+  "code": "6590",
+  "name": "芝浦",
+  "exch": "東",
+  "title": "株式会社Photo electron Soulとの資本業務提携及び第三者割当増資の引き受けに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250827547859.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1189214",
+  "date": "2025-08-28",
+  "time": "16:00",
+  "code": "2435",
+  "name": "シダー",
+  "exch": "東",
+  "title": "一部事業所の事業譲渡及び事業廃止に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250827548443.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1189209",
+  "date": "2025-08-28",
+  "time": "15:30",
+  "code": "9557",
+  "name": "Ｇ－エアクロ",
+  "exch": "東",
+  "title": "持分法適用関連会社の異動（連結子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828548853.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1189205",
+  "date": "2025-08-28",
+  "time": "15:30",
+  "code": "9275",
+  "name": "ナルミヤ",
+  "exch": "東",
+  "title": "株式交換契約に係る臨時株主総会の承認可決に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250825547077.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1189191",
+  "date": "2025-08-28",
+  "time": "15:30",
+  "code": "6958",
+  "name": "ＣＭＫ",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250827548500.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1189182",
+  "date": "2025-08-28",
+  "time": "15:30",
+  "code": "6551",
+  "name": "ツナグＧＨＤ",
+  "exch": "東",
+  "title": "中期経営計画『Circular Recruiting』の策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250827548311.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1189171",
+  "date": "2025-08-28",
+  "time": "15:30",
+  "code": "5242",
+  "name": "Ｇ－アイズ",
+  "exch": "東",
+  "title": "rimad株式会社の株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250827548569.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1189156",
+  "date": "2025-08-28",
+  "time": "15:30",
+  "code": "3109",
+  "name": "シキボウ",
+  "exch": "東",
+  "title": "(開示事項の経過)事業譲渡契約の締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828548969.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1189155",
+  "date": "2025-08-28",
+  "time": "15:30",
+  "code": "3103",
+  "name": "ユニチカ",
+  "exch": "東",
+  "title": "（開示事項の経過）子会社における事業譲渡及び子会社（孫会社）の異動（株式譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828548628.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1189154",
+  "date": "2025-08-28",
+  "time": "15:30",
+  "code": "3103",
+  "name": "ユニチカ",
+  "exch": "東",
+  "title": "（開示事項の経過）子会社の異動を伴う株式譲渡に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828548622.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1189153",
+  "date": "2025-08-28",
+  "time": "15:30",
+  "code": "3073",
+  "name": "ＤＤグループ",
+  "exch": "東",
+  "title": "ＰＣＧＶＩ-１株式会社による当社株式に対する公開買付けの結果並びに親会社及び主要株主である筆頭株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828549019.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1189152",
+  "date": "2025-08-28",
+  "time": "15:30",
+  "code": "3064",
+  "name": "ＭＲＯ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828548807.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1189142",
+  "date": "2025-08-28",
+  "time": "15:30",
+  "code": "198A",
+  "name": "Ｇ－ポストプライム",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828548843.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1189136",
+  "date": "2025-08-28",
+  "time": "15:00",
+  "code": "6380",
+  "name": "オリチエン工業",
+  "exch": "東",
+  "title": "（開示事項の経過）片山チエン株式会社との業務提携契約の締結完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828548770.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1189119",
+  "date": "2025-08-28",
+  "time": "13:00",
+  "code": "189A",
+  "name": "Ｇ－Ｄ＆Ｍカンパニー",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250826547524.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1189097",
+  "date": "2025-08-28",
+  "time": "09:00",
+  "code": "6957",
+  "name": "芝浦電子",
+  "exch": "東",
+  "title": "(変更)2025年5月21日付「YAGEO Electronics Japan合同会社による当社株式に対する公開買付けに関する意見表明(留保)のお知らせ」の一部変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250828548596.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1189092",
+  "date": "2025-08-28",
+  "time": "08:35",
+  "code": "9235",
+  "name": "Ｇ－売れるネットＧ",
+  "exch": "東",
+  "title": "【重要IR】売れるネット広告社グループ、『SOBAプロジェクト』子会社化および『SOBAエデュケーション』孫会社化に関する説明資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250827548468.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1189093",
+  "date": "2025-08-28",
+  "time": "08:30",
+  "code": "9235",
+  "name": "Ｇ－売れるネットＧ",
+  "exch": "東",
+  "title": "株式譲渡契約および簡易株式交付による株式会社SOBAプロジェクトの子会社化および株式会社SOBAエデュケーションの孫会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250827548324.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化",
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ }
+]

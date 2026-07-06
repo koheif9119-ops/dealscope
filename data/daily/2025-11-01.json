@@ -1,0 +1,20 @@
+[
+ {
+  "id": "tdnet-1199842",
+  "date": "2025-11-01",
+  "time": "10:00",
+  "code": "6455",
+  "name": "モリタＨＤ",
+  "exch": "東",
+  "title": "（数値データ訂正）「2026年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）」における数値データ（XBRL）の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251031585582.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ }
+]

@@ -1,0 +1,671 @@
+[
+ {
+  "id": "tdnet-1229904",
+  "date": "2026-03-02",
+  "time": "17:30",
+  "code": "7259",
+  "name": "アイシン",
+  "exch": "東",
+  "title": "（開示事項の経過）自己株式の公開買付け実施に向けた進捗状況のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260212555617.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229891",
+  "date": "2026-03-02",
+  "time": "17:00",
+  "code": "8103",
+  "name": "明和産",
+  "exch": "東",
+  "title": "（開示事項の経過）自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573549.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229864",
+  "date": "2026-03-02",
+  "time": "16:30",
+  "code": "7865",
+  "name": "ピープル",
+  "exch": "東",
+  "title": "2026年１月期　決算短信[日本基準]（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302572939.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1229844",
+  "date": "2026-03-02",
+  "time": "16:20",
+  "code": "1349",
+  "name": "アジア債券",
+  "exch": "東",
+  "title": "2026年6月期 アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）中間決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573660.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1229841",
+  "date": "2026-03-02",
+  "time": "16:00",
+  "code": "9319",
+  "name": "中央倉庫",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573051.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229823",
+  "date": "2026-03-02",
+  "time": "16:00",
+  "code": "7043",
+  "name": "Ｇ－アルー",
+  "exch": "東",
+  "title": "(訂正)「2025年12月期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573489.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1229813",
+  "date": "2026-03-02",
+  "time": "16:00",
+  "code": "6081",
+  "name": "Ｇ－アライドアーキ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2025 年12 月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260226570800.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1229802",
+  "date": "2026-03-02",
+  "time": "16:00",
+  "code": "4231",
+  "name": "タイガーポリ",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302572612.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1229795",
+  "date": "2026-03-02",
+  "time": "16:00",
+  "code": "3121",
+  "name": "マーチャント",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の進捗状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302572898.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1229792",
+  "date": "2026-03-02",
+  "time": "16:00",
+  "code": "2884",
+  "name": "ヨシムラ・Ｆ・ＨＤ",
+  "exch": "東",
+  "title": "連結子会社間の吸収合併完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260227571522.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229789",
+  "date": "2026-03-02",
+  "time": "16:00",
+  "code": "2734",
+  "name": "サーラ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260227572188.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229608",
+  "date": "2026-03-02",
+  "time": "15:45",
+  "code": "8920",
+  "name": "東祥",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573631.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1229727",
+  "date": "2026-03-02",
+  "time": "15:30",
+  "code": "7088",
+  "name": "フォーラムエンジニア",
+  "exch": "東",
+  "title": "自己株式の取得及び自己株式の公開買付けに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573095.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1229718",
+  "date": "2026-03-02",
+  "time": "15:30",
+  "code": "6810",
+  "name": "マクセル",
+  "exch": "東",
+  "title": "株式会社村田製作所及び株式会社東北村田製作所の一次電池事業の譲受に伴う新会社の株式取得(子会社化)の完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260225568404.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229717",
+  "date": "2026-03-02",
+  "time": "15:30",
+  "code": "6753",
+  "name": "シャープ",
+  "exch": "東",
+  "title": "株式会社シナプスイノベーションの株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302572932.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229712",
+  "date": "2026-03-02",
+  "time": "15:30",
+  "code": "6533",
+  "name": "オーケストラＨＤ",
+  "exch": "東",
+  "title": "（訂正）「自己株式取得に係る事項の決定に関するお知らせ」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573205.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229700",
+  "date": "2026-03-02",
+  "time": "15:30",
+  "code": "5981",
+  "name": "東製綱",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302572786.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229681",
+  "date": "2026-03-02",
+  "time": "15:30",
+  "code": "4848",
+  "name": "フルキャストＨＤ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260227572268.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229661",
+  "date": "2026-03-02",
+  "time": "15:30",
+  "code": "3987",
+  "name": "Ｇ－エコモット",
+  "exch": "東",
+  "title": "株式会社藤山水産加工の株式取得（連結子会社化）及び新たな事業の開始に関する決議のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302572771.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1229635",
+  "date": "2026-03-02",
+  "time": "15:30",
+  "code": "2593",
+  "name": "伊藤園",
+  "exch": "東",
+  "title": "2026年４月期　第３四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260224567955.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229626",
+  "date": "2026-03-02",
+  "time": "15:30",
+  "code": "2323",
+  "name": "ｆｏｎｆｕｎ",
+  "exch": "東",
+  "title": "株式会社YNPの完全子会社化に関する補足説明資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573562.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1229625",
+  "date": "2026-03-02",
+  "time": "15:30",
+  "code": "2323",
+  "name": "ｆｏｎｆｕｎ",
+  "exch": "東",
+  "title": "株式会社YNPの株式の取得（完全子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573557.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1229579",
+  "date": "2026-03-02",
+  "time": "14:30",
+  "code": "6201",
+  "name": "豊田織",
+  "exch": "東",
+  "title": "（変更）「トヨタ不動産株式会社による当社株式に対する公開買付けに関する賛同及び応募推奨の意見表明のお知らせ」の一部変更について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573011.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1229578",
+  "date": "2026-03-02",
+  "time": "14:30",
+  "code": "6201",
+  "name": "豊田織",
+  "exch": "東",
+  "title": "株式会社豊田自動織機（証券コード:6201）の株券等に対する公開買付けの買付条件等の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573007.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1229576",
+  "date": "2026-03-02",
+  "time": "14:00",
+  "code": "9824",
+  "name": "泉州電業",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302572894.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229563",
+  "date": "2026-03-02",
+  "time": "14:00",
+  "code": "4011",
+  "name": "Ｇ－ヘッドウォーター",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2025年12月期決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573120.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1229562",
+  "date": "2026-03-02",
+  "time": "14:00",
+  "code": "4011",
+  "name": "Ｇ－ヘッドウォーター",
+  "exch": "東",
+  "title": "2025年12月期通期決算短信補足資料（修正版）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573035.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1229551",
+  "date": "2026-03-02",
+  "time": "13:30",
+  "code": "6448",
+  "name": "ブラザー",
+  "exch": "東",
+  "title": "会社分割（簡易吸収分割）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573088.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229543",
+  "date": "2026-03-02",
+  "time": "13:00",
+  "code": "2180",
+  "name": "サニーサイドアップ",
+  "exch": "東",
+  "title": "ビルコム株式会社の株式の取得（子会社化）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260226570787.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1229540",
+  "date": "2026-03-02",
+  "time": "12:30",
+  "code": "7606",
+  "name": "Ｕアローズ",
+  "exch": "東",
+  "title": "（開示事項の経過）連結子会社の株式譲渡完了および取締役の辞任に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260225568609.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229538",
+  "date": "2026-03-02",
+  "time": "12:30",
+  "code": "7603",
+  "name": "ジーイエット",
+  "exch": "東",
+  "title": "（開示事項の経過）株式会社コーエンの株式取得（子会社化）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302572831.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1229536",
+  "date": "2026-03-02",
+  "time": "12:30",
+  "code": "5122",
+  "name": "オカモト",
+  "exch": "東",
+  "title": "自己株式取得状況（途中経過）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302573067.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229493",
+  "date": "2026-03-02",
+  "time": "11:10",
+  "code": "348A",
+  "name": "ＭＸＳ読売３３３日株",
+  "exch": "東",
+  "title": "ＭＡＸＩＳ読売３３３日本株上場投信 決算短信（2026年1月期）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302572829.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1229492",
+  "date": "2026-03-02",
+  "time": "11:10",
+  "code": "221A",
+  "name": "ＭＸＳ日経半導体株",
+  "exch": "東",
+  "title": "ＭＡＸＩＳ日経半導体株上場投信 決算短信（2026年1月期）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302572806.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1229478",
+  "date": "2026-03-02",
+  "time": "10:00",
+  "code": "3222",
+  "name": "Ｕ．Ｓ．Ｍ．Ｈ",
+  "exch": "東",
+  "title": "「マックスバリュ関東(株)・ダイエー関東事業・イオンマーケット(株)」との経営統合完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260302572515.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "経営統合"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1229456",
+  "date": "2026-03-02",
+  "time": "08:00",
+  "code": "3678",
+  "name": "メディアドゥ",
+  "exch": "東",
+  "title": "Seven Seas Entertainment, LLCの持分取得（連結子会社化）に関する補足説明資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260227572347.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1229455",
+  "date": "2026-03-02",
+  "time": "08:00",
+  "code": "3678",
+  "name": "メディアドゥ",
+  "exch": "東",
+  "title": "Seven Seas Entertainment, LLCの持分取得（連結子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260227572345.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ }
+]

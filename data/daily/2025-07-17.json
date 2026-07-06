@@ -1,0 +1,238 @@
+[
+ {
+  "id": "tdnet-1185053",
+  "date": "2025-07-17",
+  "time": "17:30",
+  "code": "8798",
+  "name": "アドバンスクリエイト",
+  "exch": "東",
+  "title": "第三者割当による新株式の発行、業務提携、定款の一部変更、資本金及び資本準備金の額の減少、剰余金の処分、主要株主等の異動のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717516343.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1185050",
+  "date": "2025-07-17",
+  "time": "17:30",
+  "code": "7157",
+  "name": "Ｇ－ライフネット",
+  "exch": "東",
+  "title": "株式会社アドバンスクリエイトとの資本業務提携及び第三者割当の方法による同社株式取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717515957.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1185067",
+  "date": "2025-07-17",
+  "time": "16:30",
+  "code": "2930",
+  "name": "北の達人",
+  "exch": "東",
+  "title": "機関投資家・アナリスト向け決算説明会及び中期経営計画説明会を開催いたしました",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717516284.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1185084",
+  "date": "2025-07-17",
+  "time": "16:00",
+  "code": "6146",
+  "name": "ディスコ",
+  "exch": "東",
+  "title": "2026年3月期第1四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515409.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1185081",
+  "date": "2025-07-17",
+  "time": "16:00",
+  "code": "4395",
+  "name": "Ｇ－アクリート",
+  "exch": "東",
+  "title": "簡易株式交付によるフォーグローブ株式会社の子会社化の結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717516013.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1185075",
+  "date": "2025-07-17",
+  "time": "16:00",
+  "code": "3083",
+  "name": "スターシーズ",
+  "exch": "東",
+  "title": "RE100電力株式会社との業務提携契約の締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717516123.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1185073",
+  "date": "2025-07-17",
+  "time": "16:00",
+  "code": "1518",
+  "name": "三井松島ＨＤ",
+  "exch": "東",
+  "title": "自己株式の公開買付けの結果及び自己株式の取得状況 並びに主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717515888.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1185137",
+  "date": "2025-07-17",
+  "time": "15:30",
+  "code": "8977",
+  "name": "Ｒ－阪急阪神",
+  "exch": "東",
+  "title": "2025年5月期　決算短信(REIT)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717516081.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1185133",
+  "date": "2025-07-17",
+  "time": "15:30",
+  "code": "8960",
+  "name": "Ｒ－ユナイテド",
+  "exch": "東",
+  "title": "2025年5月期　決算短信（REIT）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515613.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1185124",
+  "date": "2025-07-17",
+  "time": "15:30",
+  "code": "7090",
+  "name": "Ｇ－リグア",
+  "exch": "東",
+  "title": "（開示事項の経過）連結子会社の異動（株式譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717516077.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1185101",
+  "date": "2025-07-17",
+  "time": "15:30",
+  "code": "3283",
+  "name": "Ｒ－プロロジ",
+  "exch": "東",
+  "title": "2025年5月期 決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717516053.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1185156",
+  "date": "2025-07-17",
+  "time": "13:00",
+  "code": "2860",
+  "name": "ＤＡＸヘッジ有",
+  "exch": "東",
+  "title": "NEXT FUNDS ドイツ株式・DAX（為替ヘッジあり）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717515911.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1185155",
+  "date": "2025-07-17",
+  "time": "13:00",
+  "code": "2859",
+  "name": "ＳＴＯＸＸヘッジ有",
+  "exch": "東",
+  "title": "NEXT FUNDS ユーロ・ストックス50指数（為替ヘッジあり）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717515906.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ }
+]

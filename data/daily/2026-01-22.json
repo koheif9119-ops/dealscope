@@ -1,0 +1,203 @@
+[
+ {
+  "id": "tdnet-1216901",
+  "date": "2026-01-22",
+  "time": "17:00",
+  "code": "365A",
+  "name": "伊澤タオル",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ(会社法第１６５条第２項の規定による定款の定めに基づく自己株式の取得)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260122536898.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1216896",
+  "date": "2026-01-22",
+  "time": "16:00",
+  "code": "8151",
+  "name": "東陽テクニカ",
+  "exch": "東",
+  "title": "ソニックガード株式会社の株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535605.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1216843",
+  "date": "2026-01-22",
+  "time": "15:35",
+  "code": "3624",
+  "name": "Ｇ－アクセルＭ",
+  "exch": "東",
+  "title": "ウェルネスモアラボラトリーズ株式会社の発行済み転換社債型新株予約権付社債の新株予約権行使ならびに同社の連結子会社化（予定）に係る手続き開始のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260121536799.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1216879",
+  "date": "2026-01-22",
+  "time": "15:30",
+  "code": "8976",
+  "name": "Ｒ－大和ＯＦ",
+  "exch": "東",
+  "title": "2025年11月期 決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260121536738.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1216877",
+  "date": "2026-01-22",
+  "time": "15:30",
+  "code": "8908",
+  "name": "毎日コムネット",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260121536694.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1216867",
+  "date": "2026-01-22",
+  "time": "15:30",
+  "code": "6971",
+  "name": "京セラ",
+  "exch": "東",
+  "title": "当社ケミカル事業の新設子会社への会社分割による承継及び新設子会社の株式の譲渡に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260122536940.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1216866",
+  "date": "2026-01-22",
+  "time": "15:30",
+  "code": "6098",
+  "name": "リクルートＨＤ",
+  "exch": "東",
+  "title": "孫会社の異動(株式譲渡)について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260122536884.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1216860",
+  "date": "2026-01-22",
+  "time": "15:30",
+  "code": "4848",
+  "name": "フルキャストＨＤ",
+  "exch": "東",
+  "title": "RGF タレントソリューションズ株式会社及びRGF International Recruitment Holdings Limitedの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260119535768.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1216858",
+  "date": "2026-01-22",
+  "time": "15:30",
+  "code": "4203",
+  "name": "住友ベーク",
+  "exch": "東",
+  "title": "京セラ株式会社のケミカル事業の一部を吸収分割により承継する新設会社の株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260121536790.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1216834",
+  "date": "2026-01-22",
+  "time": "14:00",
+  "code": "8617",
+  "name": "光世証",
+  "exch": "東",
+  "title": "2026年３月期　第３四半期決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260121536620.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1216804",
+  "date": "2026-01-22",
+  "time": "08:30",
+  "code": "4464",
+  "name": "ソフト９９",
+  "exch": "東",
+  "title": "ECM マスター ファンド SPV ３による当社株式に対する公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260122536810.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ }
+]

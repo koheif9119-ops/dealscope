@@ -1,0 +1,547 @@
+[
+ {
+  "id": "tdnet-1212991",
+  "date": "2025-12-23",
+  "time": "17:30",
+  "code": "1557",
+  "name": "ＳＰＤＲ５００",
+  "exch": "東",
+  "title": "2025年9月期SPDR S&amp;P500 ETF決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524985.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1212970",
+  "date": "2025-12-23",
+  "time": "17:15",
+  "code": "2315",
+  "name": "ＣＡＩＣＡ　Ｄ",
+  "exch": "東",
+  "title": "株式交付による株式会社善光総合研究所の子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524619.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1212985",
+  "date": "2025-12-23",
+  "time": "17:00",
+  "code": "5856",
+  "name": "エルアイイーエイチ",
+  "exch": "東",
+  "title": "連結子会社の異動（株式譲渡）及び教育関連事業廃止に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524661.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1212981",
+  "date": "2025-12-23",
+  "time": "17:00",
+  "code": "4092",
+  "name": "日本化",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251219523058.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1212979",
+  "date": "2025-12-23",
+  "time": "17:00",
+  "code": "3976",
+  "name": "Ｇ－シャノン",
+  "exch": "東",
+  "title": "(開示事項の経過)「グループ再編（株式会社Innovation X Solutionsの株式譲渡及び子会社間の事業の一部譲渡）に関するお知らせ」に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524888.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1212978",
+  "date": "2025-12-23",
+  "time": "17:00",
+  "code": "3970",
+  "name": "Ｇ－イノベーション",
+  "exch": "東",
+  "title": "(開示事項の経過)「グループ再編（株式会社Innovation X Solutionsの株式譲渡及び子会社間の事業の一部譲渡）に関するお知らせ」に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201512570.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1212974",
+  "date": "2025-12-23",
+  "time": "17:00",
+  "code": "2653",
+  "name": "イオン九州",
+  "exch": "東",
+  "title": "（開示事項の経過及び変更）株式会社トキハインダストリーの株式譲渡実行予定日変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524355.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1212964",
+  "date": "2025-12-23",
+  "time": "16:30",
+  "code": "2667",
+  "name": "イメージワン",
+  "exch": "東",
+  "title": "株式会社ブランとの資本業務提携契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251222523773.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1212956",
+  "date": "2025-12-23",
+  "time": "16:00",
+  "code": "7138",
+  "name": "Ｇ－ＴＯＲＩＣＯ",
+  "exch": "東",
+  "title": "「資本業務提携契約の締結、第三者割当により発行される新株式及び第10回新株予約権の発行、並びに主要株主である筆頭株主の異動(見込み)のお知らせ」一部変更",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524748.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1212951",
+  "date": "2025-12-23",
+  "time": "16:00",
+  "code": "6060",
+  "name": "こころネット",
+  "exch": "東",
+  "title": "株式交換契約に関する臨時株主総会の承認可決のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524579.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1212946",
+  "date": "2025-12-23",
+  "time": "16:00",
+  "code": "5021",
+  "name": "コスモエネルギーＨＤ",
+  "exch": "東",
+  "title": "連結子会社の吸収合併に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524506.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1212938",
+  "date": "2025-12-23",
+  "time": "16:00",
+  "code": "357A",
+  "name": "Ｐ－エフアンドエフ",
+  "exch": "東",
+  "title": "（訂正）「2026年3月期中間決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251222524057.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1212931",
+  "date": "2025-12-23",
+  "time": "16:00",
+  "code": "2354",
+  "name": "ＹＥ　ＤＩＧＩＴＡＬ",
+  "exch": "東",
+  "title": "2026年２月期 第３四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251222523613.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1212854",
+  "date": "2025-12-23",
+  "time": "15:40",
+  "code": "3160",
+  "name": "大光",
+  "exch": "東",
+  "title": "株式会社大光（証券コード3160）に対する公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251222523837.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1212921",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "8944",
+  "name": "ランビジネス",
+  "exch": "東",
+  "title": "有限会社エフイーエヌの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524690.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1212920",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "8173",
+  "name": "上新電",
+  "exch": "東",
+  "title": "株式会社ＤＯのリフォームの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251219523287.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1212911",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "7182",
+  "name": "ゆうちょ銀行",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ（会社法第459条第１項の規定による定款の定めに基づく自己株式の取得）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251222524027.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1212907",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "6702",
+  "name": "富士通",
+  "exch": "東",
+  "title": "連結子会社（富士通ホーム&amp;オフィスサービス株式会社）との吸収合併（簡易吸収合併）契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524816.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1212906",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "6702",
+  "name": "富士通",
+  "exch": "東",
+  "title": "連結子会社（富士通フロンテック株式会社）との会社分割（簡易吸収分割）契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524770.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1212895",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "5076",
+  "name": "インフロニアＨＤ",
+  "exch": "東",
+  "title": "三井住友建設株式会社の完全子会社化について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251219523136.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1212891",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "4884",
+  "name": "Ｇ－クリングル",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251222523851.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1212888",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "4716",
+  "name": "日本オラクル",
+  "exch": "東",
+  "title": "2026年5月期 第2四半期（中間期）決算短信〔日本基準〕(非連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251222523567.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1212886",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "4689",
+  "name": "ＬＩＮＥヤフー",
+  "exch": "東",
+  "title": "当社完全子会社であるLINE Pay株式会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251222524216.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1212884",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "4678",
+  "name": "秀英",
+  "exch": "東",
+  "title": "中期経営計画策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524464.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1212881",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "4421",
+  "name": "ＤＩシステム",
+  "exch": "東",
+  "title": "株式会社エム・アイ・シーの株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251222524197.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1212873",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "3457",
+  "name": "Ａｎｄ　Ｄｏ　ＨＬＤ",
+  "exch": "東",
+  "title": "当社子会社のリフォーム事業譲渡（連結子会社の異動）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251222523955.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動",
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1212872",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "3358",
+  "name": "ワイエスフード",
+  "exch": "東",
+  "title": "（開示事項の経過）株式会社バーガーレボリューションの株式取得（連結子会社化）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524852.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1212862",
+  "date": "2025-12-23",
+  "time": "15:30",
+  "code": "2374",
+  "name": "セントケアＨＤ",
+  "exch": "東",
+  "title": "株式会社Colorによる当社株券等に対する公開買付けの結果並びに親会社、その他の関係会社及び主要株主である筆頭株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524795.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1212840",
+  "date": "2025-12-23",
+  "time": "15:00",
+  "code": "1905",
+  "name": "テノックス",
+  "exch": "東",
+  "title": "ジャパンホームシールド株式会社との資本・業務提携 同社第三者割当増資の引受、及び同社普通株式の譲受に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524623.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1212811",
+  "date": "2025-12-23",
+  "time": "11:00",
+  "code": "3055",
+  "name": "ほくたけ",
+  "exch": "札",
+  "title": "立会外自己株式取得取引による自己株式の取得結果および取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251223524359.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ }
+]

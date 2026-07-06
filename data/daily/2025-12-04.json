@@ -1,0 +1,275 @@
+[
+ {
+  "id": "tdnet-1210184",
+  "date": "2025-12-04",
+  "time": "18:00",
+  "code": "7984",
+  "name": "コクヨ",
+  "exch": "東",
+  "title": "Thien Long Group Corporationの子会社化及び公開買付けに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251204514639.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1210178",
+  "date": "2025-12-04",
+  "time": "17:30",
+  "code": "3802",
+  "name": "エコミック",
+  "exch": "東",
+  "title": "（訂正）「自己株式の取得及び自己株式の公開買付けの開始に関するお知らせ」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251204514983.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1210176",
+  "date": "2025-12-04",
+  "time": "17:05",
+  "code": "6838",
+  "name": "多摩川ＨＤ",
+  "exch": "東",
+  "title": "中期経営計画の策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251204514711.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1210172",
+  "date": "2025-12-04",
+  "time": "16:30",
+  "code": "9401",
+  "name": "ＴＢＳＨＤ",
+  "exch": "東",
+  "title": "特定子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251204514825.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1210147",
+  "date": "2025-12-04",
+  "time": "15:30",
+  "code": "7984",
+  "name": "コクヨ",
+  "exch": "東",
+  "title": "持分法適用関連会社6社の完全子会社化および連結子会社間の吸収合併に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251204514624.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化",
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1210134",
+  "date": "2025-12-04",
+  "time": "15:30",
+  "code": "4917",
+  "name": "マンダム",
+  "exch": "東",
+  "title": "（変更）カロンＨＤによる公開買付届出書の訂正届出書の提出に伴う「マンダムの株券等に対する公開買付けの開始に関するお知らせ」の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203514003.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1210132",
+  "date": "2025-12-04",
+  "time": "15:30",
+  "code": "4707",
+  "name": "キタック",
+  "exch": "東",
+  "title": "令和７年10月期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251118505645.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1210125",
+  "date": "2025-12-04",
+  "time": "15:30",
+  "code": "3323",
+  "name": "レカム",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2025年９月期決算短信〔ＩＦＲＳ〕（連結）」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251204514808.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1210123",
+  "date": "2025-12-04",
+  "time": "15:30",
+  "code": "3252",
+  "name": "地主",
+  "exch": "東",
+  "title": "産業ファンド投資法人との共同事業による「地主・KJRM合同会社」の組成及び匿名組合出資（特定子会社の異動）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203514425.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1210104",
+  "date": "2025-12-04",
+  "time": "15:00",
+  "code": "3172",
+  "name": "ティーライフ",
+  "exch": "東",
+  "title": "2026年７月期　第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251124508165.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1210098",
+  "date": "2025-12-04",
+  "time": "12:00",
+  "code": "6696",
+  "name": "Ｇ－トラースＯＰ",
+  "exch": "東",
+  "title": "2026年１月期 第３四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251204514437.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1210093",
+  "date": "2025-12-04",
+  "time": "12:00",
+  "code": "1928",
+  "name": "積水ハウス",
+  "exch": "東",
+  "title": "2026年1月期 第3四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251203513865.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1210086",
+  "date": "2025-12-04",
+  "time": "11:00",
+  "code": "3723",
+  "name": "Ｇ－ファルコム",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251201513093.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1210082",
+  "date": "2025-12-04",
+  "time": "10:30",
+  "code": "2433",
+  "name": "博報堂ＤＹ",
+  "exch": "東",
+  "title": "株式会社デジタルホールディングス株券等に対する公開買付けの結果及び子会社の異動（特定子会社の異動）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251204514508.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1210081",
+  "date": "2025-12-04",
+  "time": "10:30",
+  "code": "2389",
+  "name": "デジタルＨＤ",
+  "exch": "東",
+  "title": "株式会社博報堂ＤＹホールディングスによる当社株券等に対する公開買付けの結果並びに親会社及び主要株主である筆頭株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120251204514584.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ }
+]

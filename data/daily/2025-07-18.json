@@ -1,0 +1,437 @@
+[
+ {
+  "id": "tdnet-1184760",
+  "date": "2025-07-18",
+  "time": "17:00",
+  "code": "2776",
+  "name": "新都ＨＤ",
+  "exch": "東",
+  "title": "簡易株式交付による龍一商事株式会社の子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718517105.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1184802",
+  "date": "2025-07-18",
+  "time": "16:30",
+  "code": "9249",
+  "name": "日本エコシステム",
+  "exch": "東",
+  "title": "完全子会社との会社分割(簡易吸収分割)に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718517165.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1184824",
+  "date": "2025-07-18",
+  "time": "16:00",
+  "code": "6081",
+  "name": "Ｇ－アライドアーキ",
+  "exch": "東",
+  "title": "2025年12月期第1四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250708510257.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1184811",
+  "date": "2025-07-18",
+  "time": "16:00",
+  "code": "3645",
+  "name": "Ｇ－メディカルネット",
+  "exch": "東",
+  "title": "2025年５月期　決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718517083.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1184806",
+  "date": "2025-07-18",
+  "time": "16:00",
+  "code": "155A",
+  "name": "Ｇ－情報戦略",
+  "exch": "東",
+  "title": "AI人材育成やAI導入支援サービスを提供するx3d株式会社との業務提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718517115.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1184852",
+  "date": "2025-07-18",
+  "time": "15:40",
+  "code": "7463",
+  "name": "アドヴァングループ",
+  "exch": "東",
+  "title": "2026年３月期 第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718517116.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1184950",
+  "date": "2025-07-18",
+  "time": "15:30",
+  "code": "9169",
+  "name": "Ｐ－大伸社",
+  "exch": "東",
+  "title": "2025年11月期　中間決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718516540.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1184943",
+  "date": "2025-07-18",
+  "time": "15:30",
+  "code": "8976",
+  "name": "Ｒ－大和ＯＦ",
+  "exch": "東",
+  "title": "2025年５月期 決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717516388.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1184937",
+  "date": "2025-07-18",
+  "time": "15:30",
+  "code": "8253",
+  "name": "クレセゾン",
+  "exch": "東",
+  "title": "連結子会社の会社分割及び異動（株式譲渡）に関する基本合意書締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718516985.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1184922",
+  "date": "2025-07-18",
+  "time": "15:30",
+  "code": "6923",
+  "name": "スタンレー電",
+  "exch": "東",
+  "title": "（開示事項の経過）スタンレー電気と三菱電機モビリティの会社分割による次世代車両用ランプシステム事業の合弁会社設立に関わる統合契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718517020.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1184905",
+  "date": "2025-07-18",
+  "time": "15:30",
+  "code": "5933",
+  "name": "アルインコ",
+  "exch": "東",
+  "title": "2026年３月期 第1四半期 決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718516805.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1184899",
+  "date": "2025-07-18",
+  "time": "15:30",
+  "code": "4929",
+  "name": "アジュバンＨＤ",
+  "exch": "東",
+  "title": "2026年３月期 第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718516558.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1184892",
+  "date": "2025-07-18",
+  "time": "15:30",
+  "code": "4477",
+  "name": "Ｇ－ＢＡＳＥ",
+  "exch": "東",
+  "title": "株式会社Eストアーの株式取得（完全子会社化）完了のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718516875.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1184890",
+  "date": "2025-07-18",
+  "time": "15:30",
+  "code": "4388",
+  "name": "Ｇ－エーアイ",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718516955.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1184882",
+  "date": "2025-07-18",
+  "time": "15:30",
+  "code": "3696",
+  "name": "セレス",
+  "exch": "東",
+  "title": "ポイントサイト「Point Income」の事業譲受に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718516903.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1184869",
+  "date": "2025-07-18",
+  "time": "15:30",
+  "code": "3223",
+  "name": "エスエルディー",
+  "exch": "東",
+  "title": "親会社に対する公開買付けの開始に関するお知らせについて",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717516244.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1184863",
+  "date": "2025-07-18",
+  "time": "15:30",
+  "code": "2438",
+  "name": "Ｇ－アスカネット",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250716515670.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1184860",
+  "date": "2025-07-18",
+  "time": "15:30",
+  "code": "2411",
+  "name": "ゲンダイＡＧ",
+  "exch": "東",
+  "title": "2026年3月期第1四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717516400.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1184969",
+  "date": "2025-07-18",
+  "time": "15:00",
+  "code": "3988",
+  "name": "ＳＹＳＨＤ",
+  "exch": "東",
+  "title": "株式会社アイビーシステムの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718516580.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1184986",
+  "date": "2025-07-18",
+  "time": "14:00",
+  "code": "5423",
+  "name": "東製鉄",
+  "exch": "東",
+  "title": "2026年３月期第１四半期決算短信〔日本基準〕(非連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718516779.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1184993",
+  "date": "2025-07-18",
+  "time": "13:30",
+  "code": "8089",
+  "name": "ナイス",
+  "exch": "東",
+  "title": "完全子会社(スマートパワー株式会社)の吸収合併(簡易合併・略式合併)に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717516352.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1184995",
+  "date": "2025-07-18",
+  "time": "13:00",
+  "code": "6101",
+  "name": "ツガミ",
+  "exch": "東",
+  "title": "自己株式の取得終了・取得結果および自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250717515980.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1185009",
+  "date": "2025-07-18",
+  "time": "11:30",
+  "code": "4443",
+  "name": "Ｓａｎｓａｎ",
+  "exch": "東",
+  "title": "（数値データ追加）「2025 年 5 月期決算短信〔日本基準〕（連結）」 における数値データ（XBRL）について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718516614.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1185020",
+  "date": "2025-07-18",
+  "time": "11:00",
+  "code": "210A",
+  "name": "ｉＦ日経高リート",
+  "exch": "東",
+  "title": "2025年6月期（2024年12月5日～2025年6月4日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250718516581.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ }
+]

@@ -1,0 +1,382 @@
+[
+ {
+  "id": "tdnet-1236550",
+  "date": "2026-04-02",
+  "time": "17:00",
+  "code": "8518",
+  "name": "アジア投資",
+  "exch": "東",
+  "title": "KICホールディングス株式会社の100％子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260402597620.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1236535",
+  "date": "2026-04-02",
+  "time": "16:00",
+  "code": "6198",
+  "name": "Ｇ－キャリア",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260402597563.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1236533",
+  "date": "2026-04-02",
+  "time": "16:00",
+  "code": "3933",
+  "name": "チエル",
+  "exch": "東",
+  "title": "（開示事項の経過）連結子会社における事業譲渡の完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260331594161.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1236527",
+  "date": "2026-04-02",
+  "time": "16:00",
+  "code": "142A",
+  "name": "Ｇ－ジンジブ",
+  "exch": "東",
+  "title": "（開示事項の経過）株式会社ジンジブキャリアの株式取得（連結子会社化）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260402597504.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1236511",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "7545",
+  "name": "西松屋チェ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260402597421.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1236510",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "7545",
+  "name": "西松屋チェ",
+  "exch": "東",
+  "title": "2026年２月期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260326590522.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1236509",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "7447",
+  "name": "ナガイレーベ",
+  "exch": "東",
+  "title": "2026年８月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260401595936.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1236505",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "7036",
+  "name": "Ｇ－イーエムネットＪ",
+  "exch": "東",
+  "title": "（数値データ訂正）2025年12月期　第2四半期（中間期）決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260402597608.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1236504",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "7036",
+  "name": "Ｇ－イーエムネットＪ",
+  "exch": "東",
+  "title": "（数値データ訂正）2024年12月期　決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260402597584.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1236493",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "5844",
+  "name": "京都ＦＧ",
+  "exch": "東",
+  "title": "「中期経営計画（2026～2028年度）」策定のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260401595771.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1236481",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "3549",
+  "name": "クスリのアオキＨＤ",
+  "exch": "東",
+  "title": "2026年５月期 第3四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260402597412.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1236480",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "3498",
+  "name": "霞ヶ関キャピタル",
+  "exch": "東",
+  "title": "2026年8月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260401596435.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1236476",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "3113",
+  "name": "ＵＮＩＶＡ・Ｏａｋ",
+  "exch": "東",
+  "title": "株式会社ユニヴァ・ペイキャストの株式取得（子会社化）に向けた基本合意書締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260402597386.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1236475",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "2972",
+  "name": "Ｒ－サンケイＲＥ",
+  "exch": "東",
+  "title": "（開示事項の経過）Tiger LPS・Lion LPSのサンケイリアルエステート投資法人（証券コード：2972）投資口に対する公開買付けに関する交付予定金額・交付予定時期",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260402597293.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1236474",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "2972",
+  "name": "Ｒ－サンケイＲＥ",
+  "exch": "東",
+  "title": "（変更）「Tiger LPS・Lion LPSのサンケイリアルエステート投資法人（証券コード：2972）投資口に対する公開買付けに関する賛同意見表明・応募推奨」の一部変更",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260402597291.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1236473",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "2972",
+  "name": "Ｒ－サンケイＲＥ",
+  "exch": "東",
+  "title": "Tiger LPS及びLion LPSによるサンケイリアルエステート投資法人（証券コード：2972）投資口に対する公開買付けの買付条件等の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260402597281.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1236468",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "275A",
+  "name": "ハンワホームズ",
+  "exch": "名",
+  "title": "2026年２月期決算短信[日本基準]（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260401597119.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1236461",
+  "date": "2026-04-02",
+  "time": "15:30",
+  "code": "2493",
+  "name": "イーサポート",
+  "exch": "東",
+  "title": "2026年11月期 第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260401596818.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1236443",
+  "date": "2026-04-02",
+  "time": "13:30",
+  "code": "8276",
+  "name": "平和堂",
+  "exch": "東",
+  "title": "2026年2月期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260401596685.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1236420",
+  "date": "2026-04-02",
+  "time": "10:00",
+  "code": "2201",
+  "name": "森永菓",
+  "exch": "東",
+  "title": "（開示事項の経過）MyMo Holdco, Inc.の株式取得完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260402597183.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1236411",
+  "date": "2026-04-02",
+  "time": "08:00",
+  "code": "542A",
+  "name": "Ｇ－ビタブリッドＪ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260331594246.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ }
+]

@@ -1,0 +1,219 @@
+[
+ {
+  "id": "tdnet-1257484",
+  "date": "2026-06-03",
+  "time": "16:45",
+  "code": "7046",
+  "name": "Ｇ－ＴＤＳＥ",
+  "exch": "東",
+  "title": "新中期経営計画 SHIFT2028 エッセンス版",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260602559006.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1257483",
+  "date": "2026-06-03",
+  "time": "16:45",
+  "code": "7046",
+  "name": "Ｇ－ＴＤＳＥ",
+  "exch": "東",
+  "title": "2026年3月期決算および 新中期経営計画「SHIFT2028」 説明会資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260529555602.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1257479",
+  "date": "2026-06-03",
+  "time": "16:30",
+  "code": "1914",
+  "name": "日基礎",
+  "exch": "東",
+  "title": "中期経営計画（2026年度～2028年度）の策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260603561959.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1257450",
+  "date": "2026-06-03",
+  "time": "15:30",
+  "code": "9698",
+  "name": "クレオ",
+  "exch": "東",
+  "title": "自己株式取得の取得状況に関するお知らせ（会社法第459条第1項の規定による定款の定めに基づく自己株式の取得）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260602559252.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1257443",
+  "date": "2026-06-03",
+  "time": "15:30",
+  "code": "9235",
+  "name": "Ｇ－売れるネットＧ",
+  "exch": "東",
+  "title": "（変更・経過開示）コールセンターおよびBPO事業会社「株式会社Step y’s」株式取得（子会社化）に関する基本合意書締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260602560849.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1257436",
+  "date": "2026-06-03",
+  "time": "15:30",
+  "code": "8057",
+  "name": "内田洋行",
+  "exch": "東",
+  "title": "2026年７月期　第３四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260602560867.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1257434",
+  "date": "2026-06-03",
+  "time": "15:30",
+  "code": "8015",
+  "name": "豊田通商",
+  "exch": "東",
+  "title": "自己株式の公開買付けの結果及び自己株式の取得終了、主要株主の異動並びに自己株式の消却に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260603561744.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1257405",
+  "date": "2026-06-03",
+  "time": "15:30",
+  "code": "3082",
+  "name": "きちりＨＤ",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260603561320.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1257401",
+  "date": "2026-06-03",
+  "time": "15:30",
+  "code": "2432",
+  "name": "ディーエヌエー",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ（2026年５月度）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260603561329.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1257389",
+  "date": "2026-06-03",
+  "time": "15:00",
+  "code": "342A",
+  "name": "Ｆ－光貴",
+  "exch": "福",
+  "title": "（訂正）2026年3月期決算短信〔日本基準〕（非連結）の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260603561620.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1257358",
+  "date": "2026-06-03",
+  "time": "11:30",
+  "code": "3925",
+  "name": "ダブルスタンダード",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)2026年３月期 決算短信[日本基準]（連結）の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260528553293.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1257334",
+  "date": "2026-06-03",
+  "time": "08:30",
+  "code": "6768",
+  "name": "タムラ製",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正)「2026年3月期決算短信[日本基準](連結)」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260602559783.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ }
+]

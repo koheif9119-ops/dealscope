@@ -1,0 +1,456 @@
+[
+ {
+  "id": "tdnet-1241543",
+  "date": "2026-04-21",
+  "time": "19:00",
+  "code": "6543",
+  "name": "日宣",
+  "exch": "東",
+  "title": "2026年2月期 決算説明資料及び新中期経営計画説明資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507816.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241540",
+  "date": "2026-04-21",
+  "time": "18:35",
+  "code": "9278",
+  "name": "ブックオフＧＨＤ",
+  "exch": "東",
+  "title": "連結子会社間の会社分割（吸収分割）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507675.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241524",
+  "date": "2026-04-21",
+  "time": "16:30",
+  "code": "375A",
+  "name": "Ｐ－ＹＡＫＨＤ",
+  "exch": "東",
+  "title": "完全子会社によるRISE ON株式会社の株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507379.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1241501",
+  "date": "2026-04-21",
+  "time": "15:30",
+  "code": "9793",
+  "name": "ダイセキ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年2月期　決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507501.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241500",
+  "date": "2026-04-21",
+  "time": "15:30",
+  "code": "9763",
+  "name": "丸建リース",
+  "exch": "東",
+  "title": "有限会社大地リースの株式取得（子会社化）完了に関するお知らせ （開示事項の経過報告）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507256.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241496",
+  "date": "2026-04-21",
+  "time": "15:30",
+  "code": "8954",
+  "name": "Ｒ－オリックスＦ",
+  "exch": "東",
+  "title": "2026年2月期 決算短信(REIT)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507261.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1241494",
+  "date": "2026-04-21",
+  "time": "15:30",
+  "code": "8953",
+  "name": "Ｒ－都市ファンド",
+  "exch": "東",
+  "title": "2026年2月期　決算短信(REIT)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420507023.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1241493",
+  "date": "2026-04-21",
+  "time": "15:30",
+  "code": "8518",
+  "name": "アジア投資",
+  "exch": "東",
+  "title": "当社100％子会社の株式会社おみやげカンパニーHDの運営するおみやげファンド1号の増額方針の決定及び特定子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507326.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241492",
+  "date": "2026-04-21",
+  "time": "15:30",
+  "code": "8225",
+  "name": "タカチホ",
+  "exch": "東",
+  "title": "（開示事項の経過）日本アジア投資株式会社との業務提携に基づくファンド出資に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506478.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241487",
+  "date": "2026-04-21",
+  "time": "15:30",
+  "code": "7501",
+  "name": "ティムコ",
+  "exch": "東",
+  "title": "堅果シナジ一投資事業有限責任組合による当社株式に対する 公開買付けに関する意見表明（留保）のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507271.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241479",
+  "date": "2026-04-21",
+  "time": "15:30",
+  "code": "6058",
+  "name": "ベクトル",
+  "exch": "東",
+  "title": "株式会社AILESの株式取得（連結子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507289.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241471",
+  "date": "2026-04-21",
+  "time": "15:30",
+  "code": "4684",
+  "name": "オービック",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定及び自己株式の消却に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506650.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241470",
+  "date": "2026-04-21",
+  "time": "15:30",
+  "code": "4684",
+  "name": "オービック",
+  "exch": "東",
+  "title": "2026年３月期　決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506584.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241460",
+  "date": "2026-04-21",
+  "time": "15:30",
+  "code": "3440",
+  "name": "日創グループ",
+  "exch": "東",
+  "title": "（数値データ訂正）「2026年８月期第１四半期決算短信〔日本基準〕（連結）」における数値データ（XBRL）の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420507015.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241454",
+  "date": "2026-04-21",
+  "time": "15:30",
+  "code": "3091",
+  "name": "ブロンコＢ",
+  "exch": "東",
+  "title": "2026年12月期第1四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506528.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241448",
+  "date": "2026-04-21",
+  "time": "15:00",
+  "code": "7419",
+  "name": "ノジマ",
+  "exch": "東",
+  "title": "日立グローバルライフソリューションズ株式会社が設立する新会社（名称未定）の 株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507475.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241445",
+  "date": "2026-04-21",
+  "time": "15:00",
+  "code": "4733",
+  "name": "ＯＢＣ",
+  "exch": "東",
+  "title": "2026年３月期 決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506480.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241440",
+  "date": "2026-04-21",
+  "time": "14:00",
+  "code": "6326",
+  "name": "クボタ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506418.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1241437",
+  "date": "2026-04-21",
+  "time": "13:00",
+  "code": "6888",
+  "name": "アクモス",
+  "exch": "東",
+  "title": "子会社の吸収合併に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507280.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241434",
+  "date": "2026-04-21",
+  "time": "13:00",
+  "code": "346A",
+  "name": "Ｓ＆Ｐ５００半導体",
+  "exch": "東",
+  "title": "NEXT FUNDS S&amp;P 500 半導体・半導体製造装置35％キャップ指数連動型上場投信 中間決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507170.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1241433",
+  "date": "2026-04-21",
+  "time": "13:00",
+  "code": "2634",
+  "name": "Ｓ＆Ｐ５００ヘッジ有",
+  "exch": "東",
+  "title": "NEXT FUNDS S&amp;P 500 指数（為替ヘッジあり）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507168.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1241432",
+  "date": "2026-04-21",
+  "time": "13:00",
+  "code": "2633",
+  "name": "Ｓ＆Ｐ５００ヘッジ無",
+  "exch": "東",
+  "title": "NEXT FUNDS S&amp;P 500 指数（為替ヘッジなし）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507165.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1241421",
+  "date": "2026-04-21",
+  "time": "11:00",
+  "code": "4750",
+  "name": "ダイサン",
+  "exch": "東",
+  "title": "Penguin Engineering &amp; Construction Pte. Ltd.の株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260421507241.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1241385",
+  "date": "2026-04-21",
+  "time": "08:00",
+  "code": "554A",
+  "name": "Ｇ－バトンズ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506527.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1241384",
+  "date": "2026-04-21",
+  "time": "08:00",
+  "code": "268A",
+  "name": "リガク",
+  "exch": "東",
+  "title": "Onto Innovation Inc.との資本業務提携の締結、並びに主要株主である筆頭株主及びその他の関係会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260420506920.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ }
+]

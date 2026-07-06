@@ -1,0 +1,814 @@
+[
+ {
+  "id": "tdnet-1188542",
+  "date": "2025-08-22",
+  "time": "18:15",
+  "code": "7047",
+  "name": "Ｇ－ポート",
+  "exch": "東",
+  "title": "当社代表取締役社長CEO春日博文による当社株式取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546325.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1188543",
+  "date": "2025-08-22",
+  "time": "18:00",
+  "code": "4743",
+  "name": "アイティフォー",
+  "exch": "東",
+  "title": "持分法適用関連会社の株式追加取得（連結子会社化）についての基本合意書の締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546039.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1188526",
+  "date": "2025-08-22",
+  "time": "17:00",
+  "code": "7087",
+  "name": "ウイルテック",
+  "exch": "東",
+  "title": "当社グループ長期ビジョン「Future Vision 2035」策定のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546203.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "長期ビジョン"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1188511",
+  "date": "2025-08-22",
+  "time": "16:30",
+  "code": "6028",
+  "name": "テクノプロＨＤ",
+  "exch": "東",
+  "title": "（変更）公開買付届出書の訂正届出書の提出に伴う「テクノプロ・ホールディングス株式会社の株券等に対する公開買付けの開始に関するお知らせ」の変更",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545969.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188509",
+  "date": "2025-08-22",
+  "time": "16:30",
+  "code": "5254",
+  "name": "Ｇ－Ａｒｅｎｔ",
+  "exch": "東",
+  "title": "(開示事項の経過)連結子会社の吸収合併契約締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546177.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1188488",
+  "date": "2025-08-22",
+  "time": "16:00",
+  "code": "4054",
+  "name": "Ｇ－日本情報Ｃ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545985.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1188477",
+  "date": "2025-08-22",
+  "time": "16:00",
+  "code": "1887",
+  "name": "日本国土開発",
+  "exch": "東",
+  "title": "（訂正）「2025年５月期決算短信〔日本基準〕(連結)」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546124.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1188476",
+  "date": "2025-08-22",
+  "time": "16:00",
+  "code": "1677",
+  "name": "上場外債",
+  "exch": "東",
+  "title": "2025年7月期（2025年1月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546043.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188475",
+  "date": "2025-08-22",
+  "time": "16:00",
+  "code": "1566",
+  "name": "上場ＥＭ債",
+  "exch": "東",
+  "title": "2025年7月期（2025年1月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546051.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188474",
+  "date": "2025-08-22",
+  "time": "16:00",
+  "code": "1555",
+  "name": "上場Ａリート",
+  "exch": "東",
+  "title": "2025年7月期（2025年1月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546045.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188473",
+  "date": "2025-08-22",
+  "time": "16:00",
+  "code": "1487",
+  "name": "上場米債ヘッジあり",
+  "exch": "東",
+  "title": "2025年7月期（2025年1月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546059.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188472",
+  "date": "2025-08-22",
+  "time": "16:00",
+  "code": "1486",
+  "name": "上場米債ヘッジなし",
+  "exch": "東",
+  "title": "2025年7月期（2025年1月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546065.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188469",
+  "date": "2025-08-22",
+  "time": "16:00",
+  "code": "1358",
+  "name": "上場日経２倍",
+  "exch": "東",
+  "title": "2025年7月期（2024年7月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546054.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188463",
+  "date": "2025-08-22",
+  "time": "15:30",
+  "code": "9699",
+  "name": "ニシオＨＤ",
+  "exch": "東",
+  "title": "ニシオホールディングス株式会社（証券コード：9699）に対する公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250821545688.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1188459",
+  "date": "2025-08-22",
+  "time": "15:30",
+  "code": "9505",
+  "name": "北陸電力",
+  "exch": "東",
+  "title": "連結子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545765.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1188457",
+  "date": "2025-08-22",
+  "time": "15:30",
+  "code": "9240",
+  "name": "Ｇ－デリバリコンサル",
+  "exch": "東",
+  "title": "当社代表取締役の保有株式を用いた株式譲渡予約権契約に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545815.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1188443",
+  "date": "2025-08-22",
+  "time": "15:30",
+  "code": "7317",
+  "name": "Ｇ－松屋Ｒ＆Ｄ",
+  "exch": "東",
+  "title": "ベトナム新工場建設に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545800.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "新工場"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1188433",
+  "date": "2025-08-22",
+  "time": "15:30",
+  "code": "5890",
+  "name": "Ｐ－オフィスバスター",
+  "exch": "東",
+  "title": "2025年12月期 中間決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545928.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188432",
+  "date": "2025-08-22",
+  "time": "15:30",
+  "code": "5367",
+  "name": "ニッカトー",
+  "exch": "東",
+  "title": "美濃窯業株式会社との資本提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545805.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1188431",
+  "date": "2025-08-22",
+  "time": "15:30",
+  "code": "5356",
+  "name": "美濃窯業",
+  "exch": "東",
+  "title": "株式会社ニッカトーとの資本提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250821545682.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1188417",
+  "date": "2025-08-22",
+  "time": "15:30",
+  "code": "2743",
+  "name": "ピクセル",
+  "exch": "東",
+  "title": "連結子会社への事業譲渡に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545997.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188404",
+  "date": "2025-08-22",
+  "time": "15:30",
+  "code": "156A",
+  "name": "Ｇ－マテリアルＧ",
+  "exch": "東",
+  "title": "株式会社トレプロの株式取得に関する株式譲渡契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546143.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1188397",
+  "date": "2025-08-22",
+  "time": "15:00",
+  "code": "7488",
+  "name": "ヤガミ",
+  "exch": "名",
+  "title": "2026年４月期 第１四半期決算短信[日本基準](連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250821545525.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1188395",
+  "date": "2025-08-22",
+  "time": "14:30",
+  "code": "9450",
+  "name": "ファイバーゲート",
+  "exch": "東",
+  "title": "連結子会社の株式取得（孫会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250821545589.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1188390",
+  "date": "2025-08-22",
+  "time": "14:30",
+  "code": "3987",
+  "name": "Ｇ－エコモット",
+  "exch": "東",
+  "title": "連結子会社の異動（株式譲渡）及び特別利益計上に関するお知らせ（株式会社パワーでんきイノベーション）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546001.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1188387",
+  "date": "2025-08-22",
+  "time": "13:45",
+  "code": "1773",
+  "name": "ＹＴＬ",
+  "exch": "東",
+  "title": "2025年６月期（2024年７月～2025年６月）年次決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250731526204.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1188383",
+  "date": "2025-08-22",
+  "time": "13:00",
+  "code": "6957",
+  "name": "芝浦電子",
+  "exch": "東",
+  "title": "(変更)2025年5月21日付「YAGEO Electronics Japan合同会社による当社株式に対する公開買付けに関する意見表明(留保)のお知らせ」の一部変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822546003.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188379",
+  "date": "2025-08-22",
+  "time": "12:00",
+  "code": "4825",
+  "name": "ＷＮＩウェザー",
+  "exch": "東",
+  "title": "(訂正)「2025年５月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545952.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1188368",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1654",
+  "name": "ｉＦブロッサム",
+  "exch": "東",
+  "title": "2025年7月期（2025年1月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545823.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188367",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1653",
+  "name": "ｉＦＥＳＧセレクト",
+  "exch": "東",
+  "title": "2025年7月期（2025年1月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545831.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188366",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1652",
+  "name": "ｉＦ女性活躍ＷＩＮ",
+  "exch": "東",
+  "title": "2025年7月期（2025年1月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545837.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188365",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1599",
+  "name": "ｉＦＪＰＸ日経４００",
+  "exch": "東",
+  "title": "2025年7月期（2025年1月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545808.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188364",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1585",
+  "name": "ｉＦＥＸ－Ｆ",
+  "exch": "東",
+  "title": "2025年7月期（2025年1月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545841.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188363",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1479",
+  "name": "ｉＦＭＳＣＩ人材設備",
+  "exch": "東",
+  "title": "2025年7月期（2025年1月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545817.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188362",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1466",
+  "name": "ｉＦＪ４００Ｗベア",
+  "exch": "東",
+  "title": "2026年1月期　中間決算短信（2025年1月11日～2025年7月10日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545896.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188361",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1457",
+  "name": "ｉＦＴＰＸベア",
+  "exch": "東",
+  "title": "2026年1月期　中間決算短信（2025年1月11日～2025年7月10日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545889.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188360",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1456",
+  "name": "ｉＦ２２５ベア",
+  "exch": "東",
+  "title": "2026年1月期　中間決算短信（2025年1月11日～2025年7月10日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545883.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188359",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1368",
+  "name": "ｉＦＴＰＸＷベア",
+  "exch": "東",
+  "title": "2026年1月期　中間決算短信（2025年1月11日～2025年7月10日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545876.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188358",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1367",
+  "name": "ｉＦＴＰＸダブル",
+  "exch": "東",
+  "title": "2026年1月期　中間決算短信（2025年1月11日～2025年7月10日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545870.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188357",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1366",
+  "name": "ｉＦ２２５Ｗベア",
+  "exch": "東",
+  "title": "2026年1月期　中間決算短信（2025年1月11日～2025年7月10日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545865.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188356",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1365",
+  "name": "ｉＦ２２５ダブル",
+  "exch": "東",
+  "title": "2026年1月期　中間決算短信（2025年1月11日～2025年7月10日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545861.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188355",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1320",
+  "name": "ｉＦ２２５年１",
+  "exch": "東",
+  "title": "2025年7月期（2024年7月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545848.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188354",
+  "date": "2025-08-22",
+  "time": "11:00",
+  "code": "1305",
+  "name": "ｉＦＴＰＸ年１",
+  "exch": "東",
+  "title": "2025年7月期（2024年7月11日～2025年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545857.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1188352",
+  "date": "2025-08-22",
+  "time": "10:30",
+  "code": "9027",
+  "name": "ロジネットＪ",
+  "exch": "札",
+  "title": "立会外自己株式取得取引による自己株式の取得結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545855.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1188348",
+  "date": "2025-08-22",
+  "time": "10:00",
+  "code": "4765",
+  "name": "ＳＢＩＧアセットＭ",
+  "exch": "東",
+  "title": "（訂正）「ＳＢＩ岡三アセットマネジメント株式会社の株式交付（簡易株式交付） による子会社化及び子会社（特定子会社）の異動のお知らせ」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250822545798.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ }
+]
