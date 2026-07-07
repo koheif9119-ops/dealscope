@@ -1,7 +1,7 @@
 {
  "TDnet": {
-  "ok": false,
-  "error": "2026-07-06: The read operation timed out"
+  "ok": true,
+  "error": null
  },
  "EDINET": {
   "ok": true,
