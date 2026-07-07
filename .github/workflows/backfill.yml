@@ -1,16 +1,16 @@
-﻿# 驕主悉縺ｮ髢狗､ｺ縺ｮ縺輔°縺ｮ縺ｼ繧雁叙蠕暦ｼ亥次蜑・蝗槭□縺代ょｿ・ｦ√↑繧画焔蜍輔〒蜀榊ｮ溯｡悟庄閭ｽ・・
-# 蜀榊ｮ溯｡後ヨ繝ｪ繧ｬ繝ｼ: 2026-07-06・井ｿ晏ｭ倩｡晉ｪ√・菫ｮ豁｣蠕鯉ｼ・
+# 過去の開示のさかのぼり取得（原則1回だけ。必要なら手動で再実行可能）
+# 再実行トリガー: 2026-07-07（7/1〜7/5を新キーワードで取り直し）
 name: backfill
 
 on:
   workflow_dispatch:
     inputs:
       days:
-        description: "縺輔°縺ｮ縺ｼ繧区律謨ｰ"
+        description: "さかのぼる日数"
         default: "365"
   push:
     branches: [main]
-    paths: [".github/workflows/backfill.yml"]   # 縺薙・繝輔ぃ繧､繝ｫ縺ｮ霑ｽ蜉譎ゅ↓閾ｪ蜍輔〒1蝗櫁ｵｰ繧・
+    paths: [".github/workflows/backfill.yml"]   # このファイルの変更時に自動で走る
 
 permissions:
   contents: write
@@ -29,22 +29,22 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: 萓晏ｭ倥Λ繧､繝悶Λ繝ｪ繧偵う繝ｳ繧ｹ繝医・繝ｫ
+      - name: 依存ライブラリをインストール
         run: pip install -r scripts/requirements.txt
 
-      - name: 縺輔°縺ｮ縺ｼ繧雁叙蠕・
+      - name: さかのぼり取得
         working-directory: scripts
         run: python backfill.py ${{ github.event.inputs.days || '365' }}
 
-      - name: 螟画峩縺後≠繧後・繧ｳ繝溘ャ繝・
+      - name: 変更があればコミット
         run: |
           git config user.name "dealscope-bot"
           git config user.email "dealscope-bot@users.noreply.github.com"
           git add data
           if git diff --cached --quiet; then
-            echo "螟画峩縺ｪ縺暦ｼ医さ繝溘ャ繝医＠縺ｾ縺帙ｓ・・
+            echo "変更なし（コミットしません）"
           else
-            git commit -m "驕主悉繝・・繧ｿ縺ｮ縺輔°縺ｮ縺ｼ繧雁叙蠕・
+            git commit -m "過去データのさかのぼり取得"
             git pull --rebase origin main
             git push
           fi
