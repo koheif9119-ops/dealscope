@@ -24312,6 +24312,456 @@
   "market": "プライム"
  },
  {
+  "id": "tdnet-1167668",
+  "date": "2025-07-09",
+  "time": "16:00",
+  "code": "4745",
+  "name": "東京個別",
+  "exch": "東",
+  "title": "2026年２月期第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250708510263.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1167742",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "9946",
+  "name": "ミニストップ株式会社",
+  "exch": "東",
+  "title": "2026年2月期第１四半期決算短信補足",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250708509988.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167741",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "9946",
+  "name": "ミニストップ株式会社",
+  "exch": "東",
+  "title": "2026年２月期第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250708509984.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167736",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "9560",
+  "name": "株式会社プログリット",
+  "exch": "東",
+  "title": "2025年8月期　第3四半期決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250709510562.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1167727",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "8166",
+  "name": "株式会社タカキュー",
+  "exch": "東",
+  "title": "2026年2月期　第1四半期決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250630504457.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1167726",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "8103",
+  "name": "明和産業株式会社",
+  "exch": "東",
+  "title": "株式会社タカロクの株式の取得（子会社化）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250709510734.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167725",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "8058",
+  "name": "三菱商事株式会社",
+  "exch": "東",
+  "title": "三菱食品株式会社株式（証券コード：7451）に対する公開買付けの結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250702507277.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167723",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "7730",
+  "name": "マニー株式会社",
+  "exch": "東",
+  "title": "2025年8月期 第3四半期決算短信[日本基準](連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250618592615.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167720",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "7581",
+  "name": "株式会社サイゼリヤ",
+  "exch": "東",
+  "title": "2025年8月期 第3四半期決算短信[日本基準](連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250703506869.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167719",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "7451",
+  "name": "三菱食品株式会社",
+  "exch": "東",
+  "title": "支配株主である三菱商事株式会社による当社株式に対する公開買付けの結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250709510679.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1167717",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "7445",
+  "name": "株式会社ライトオン",
+  "exch": "東",
+  "title": "2025年8月期　第3四半期決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250704508543.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1167716",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "7161",
+  "name": "株式会社じもとホールディングス",
+  "exch": "東",
+  "title": "（訂正） 「 2025 年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250708510076.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1167712",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "6814",
+  "name": "古野電気株式会社",
+  "exch": "東",
+  "title": "2026年２月期　第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250704508615.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167709",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "6552",
+  "name": "株式会社ＧａｍｅＷｉｔｈ",
+  "exch": "東",
+  "title": "2025年５月期 決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250709510729.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1167705",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "6183",
+  "name": "株式会社ベルシステム２４ホールディングス",
+  "exch": "東",
+  "title": "2026年２月期第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250709510351.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167696",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "3697",
+  "name": "株式会社ＳＨＩＦＴ",
+  "exch": "東",
+  "title": "2025年８月期　第３四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250709510601.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167694",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "3686",
+  "name": "株式会社ディー・エル・イー",
+  "exch": "東",
+  "title": "日本アジア投資株式会社との業務提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250708510246.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1167690",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "3490",
+  "name": "株式会社アズ企画設計",
+  "exch": "東",
+  "title": "2026年2月期 第1四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250709510523.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1167685",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "3093",
+  "name": "株式会社トレジャー・ファクトリー",
+  "exch": "東",
+  "title": "2026年２月期 第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250707509062.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167683",
+  "date": "2025-07-09",
+  "time": "15:30",
+  "code": "2670",
+  "name": "株式会社エービーシー・マート",
+  "exch": "東",
+  "title": "2026年２月期 第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250708509653.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167751",
+  "date": "2025-07-09",
+  "time": "15:00",
+  "code": "7921",
+  "name": "株式会社ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ",
+  "exch": "東",
+  "title": "中期経営計画の業績目標の修正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250709510766.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167750",
+  "date": "2025-07-09",
+  "time": "15:00",
+  "code": "7921",
+  "name": "株式会社ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ",
+  "exch": "東",
+  "title": "2025年５月期　決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250708509794.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167757",
+  "date": "2025-07-09",
+  "time": "14:00",
+  "code": "7525",
+  "name": "リックス株式会社",
+  "exch": "東",
+  "title": "連結子会社による孫会社の吸収合併に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250707509422.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1167796",
+  "date": "2025-07-09",
+  "time": "11:00",
+  "code": "2016",
+  "name": "ｉＦ米国債７１０Ｈ有",
+  "exch": "東",
+  "title": "2025年5月期（2024年11月26日～2025年5月25日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250709510334.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1167795",
+  "date": "2025-07-09",
+  "time": "11:00",
+  "code": "2015",
+  "name": "ｉＦ米国債７１０Ｈ無",
+  "exch": "東",
+  "title": "2025年5月期（2024年11月26日～2025年5月25日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120250709510329.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "tdnet-1166885",
   "date": "2025-07-08",
   "time": "17:30",
