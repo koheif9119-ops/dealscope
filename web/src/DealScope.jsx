@@ -143,8 +143,11 @@ export default function DealScope() {
   const [archResults, setArchResults] = useState(null);
   const [archLoading, setArchLoading] = useState(false);
 
-  const runArchiveSearch = async () => {
+  const runArchiveSearch = async (opts = {}) => {
     if (archLoading) return;
+    const useQuery = opts.query != null ? opts.query : archQuery;
+    const useGenre = opts.genre != null ? opts.genre : archGenre;
+    const usePeriod = opts.period != null ? opts.period : archPeriod;
     setArchLoading(true);
     try {
       let months = archMonths;
@@ -153,7 +156,7 @@ export default function DealScope() {
         months = r.ok ? await r.json() : [];
         setArchMonths(months);
       }
-      const n = archPeriod === "all" ? months.length : Number(archPeriod);
+      const n = usePeriod === "all" ? months.length : Number(usePeriod);
       const target = months.slice(-n);
       let all = [];
       for (const m of target) {
@@ -163,9 +166,9 @@ export default function DealScope() {
         }
         all = all.concat(archCache.get(m));
       }
-      const q = archQuery.trim();
+      const q = useQuery.trim();
       const hits = all.filter((i) =>
-        (archGenre === "all" || i.genre === archGenre) &&
+        (useGenre === "all" || i.genre === useGenre) &&
         (!q || i.name.includes(q) || i.title.includes(q) || i.code.includes(q)));
       hits.sort((a, b) => (a.date + a.time < b.date + b.time ? 1 : -1));
       setArchResults({ total: hits.length, items: hits.slice(0, 300) });
@@ -478,6 +481,15 @@ export default function DealScope() {
           history={items.filter((i) => i.code === profile.code)}
           onClose={() => setProfile(null)}
           flash={flash}
+          onSearchAll={(code) => {
+            setProfile(null);
+            setShowSaved(false);
+            setShowArchive(true);
+            setArchQuery(code);
+            setArchGenre("all");
+            setArchPeriod("all");
+            runArchiveSearch({ query: code, genre: "all", period: "all" });
+          }}
         />
       )}
 
@@ -552,7 +564,7 @@ function Row({ item, saved, onSave, onOpen, onProfile, hideSave, showDate }) {
 /* ---------- 企業情報ポップアップ ----------
    会社概要（業種・売上・営業利益）は companies.json（有報から自動抽出）を表示。
    「アプローチ文面を作る」でテンプレート差し込み画面に切り替わる。 */
-function ProfileModal({ item, prof, history, onClose, flash }) {
+function ProfileModal({ item, prof, history, onClose, flash, onSearchAll }) {
   const [view, setView] = useState("profile"); // "profile" | "compose"
   const [templates] = useState(() => loadTemplates());
   const [my] = useState(() => loadMyInfo());
@@ -641,6 +653,7 @@ function ProfileModal({ item, prof, history, onClose, flash }) {
               ))}
             </ul>
 
+            <button className="ds-btn ds-btn-sub ds-btn-block" onClick={() => onSearchAll(item.code)}>この会社の過去の開示をすべて見る（M&A履歴など）</button>
             <button className="ds-compose-btn" onClick={startCompose}>この開示でアプローチ文面を作る</button>
             <p className="ds-note">文面の雛形と差出人情報は、右上の人型アイコン（マイページ）で登録できます。</p>
           </div>
@@ -981,6 +994,8 @@ const CSS = `
 .ds-note { font-size: 11px; color: var(--ink-2); margin: 8px 0 0; line-height: 1.6; }
 .ds-tpl-row { display: flex; gap: 8px; margin-bottom: 10px; }
 .ds-tpl-row .ds-select { flex: 1; }
+
+.ds-btn-block { display: block; width: 100%; margin: 6px 0 8px; padding: 10px 14px; }
 
 /* ---- 過去検索 ---- */
 .ds-arch-controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 14px; }
