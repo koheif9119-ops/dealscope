@@ -654,6 +654,12 @@ function ProfileModal({ item, prof, history, onClose, flash, onSearchAll }) {
             </ul>
 
             <button className="ds-btn ds-btn-sub ds-btn-block" onClick={() => onSearchAll(item.code)}>この会社の過去の開示をすべて見る（M&A履歴など）</button>
+            <button
+              className="ds-btn ds-btn-sub ds-btn-block"
+              onClick={() => window.open(`https://www.google.com/search?q=${encodeURIComponent(item.name + " 公式サイト")}`, "_blank", "noopener,noreferrer")}
+            >
+              会社の公式サイトを探す
+            </button>
             <button className="ds-compose-btn" onClick={startCompose}>この開示でアプローチ文面を作る</button>
             <p className="ds-note">文面の雛形と差出人情報は、右上の人型アイコン（マイページ）で登録できます。</p>
           </div>

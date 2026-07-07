@@ -44,6 +44,11 @@ jobs:
           EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
         run: python build_companies.py
 
+      - name: 正式社名への置き換え（TDnetの省略名を補正）
+        working-directory: scripts
+        continue-on-error: true
+        run: python apply_names.py
+
       - name: 変更があればコミット
         run: |
           git config user.name "dealscope-bot"
