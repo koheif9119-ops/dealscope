@@ -1,5 +1,41 @@
 [
  {
+  "id": "tdnet-1264121",
+  "date": "2026-07-07",
+  "time": "18:40",
+  "code": "2371",
+  "name": "カカクコム",
+  "exch": "東",
+  "title": "Kamgras １株式会社による株式会社カカクコム（証券コード：2371）の株券等に対する公開買付けに係る公開買付期間の延長に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707589248.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1264103",
+  "date": "2026-07-07",
+  "time": "17:00",
+  "code": "4735",
+  "name": "京進",
+  "exch": "東",
+  "title": "2027年２月期 第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707589209.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "edinet-S100YPAA",
   "date": "2026-07-07",
   "time": "16:50",
@@ -17,6 +53,134 @@
   "market": "スタンダード"
  },
  {
+  "id": "tdnet-1264099",
+  "date": "2026-07-07",
+  "time": "16:30",
+  "code": "9651",
+  "name": "日プロ",
+  "exch": "東",
+  "title": "2026年５月期 決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702587244.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1264095",
+  "date": "2026-07-07",
+  "time": "16:30",
+  "code": "6577",
+  "name": "Ｇ－ベストワンドット",
+  "exch": "東",
+  "title": "2030年中期経営計画（事業計画及び成長可能性に関する事項）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707589149.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画",
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1264093",
+  "date": "2026-07-07",
+  "time": "16:30",
+  "code": "4679",
+  "name": "田谷",
+  "exch": "東",
+  "title": "（訂正）「事業譲受に関するお知らせ」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707588889.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1264092",
+  "date": "2026-07-07",
+  "time": "16:30",
+  "code": "3538",
+  "name": "ウイルプラスＨＤ",
+  "exch": "東",
+  "title": "（訂正）「当社子会社による事業譲受に関するお知らせ」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707589160.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1264091",
+  "date": "2026-07-07",
+  "time": "16:30",
+  "code": "3445",
+  "name": "ＲＳＴＥＣＨ",
+  "exch": "東",
+  "title": "（訂正）「当社連結子会社「有研半導体硅材料株式会社」による 「安徽晶隆半導体科技有限公司」の株式取得（子会社化）に関するお知らせ」の 一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707589163.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1264085",
+  "date": "2026-07-07",
+  "time": "16:00",
+  "code": "6469",
+  "name": "放電精密",
+  "exch": "東",
+  "title": "2027年２月期 第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260619575101.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1264082",
+  "date": "2026-07-07",
+  "time": "16:00",
+  "code": "281A",
+  "name": "Ｇ－インフォメティス",
+  "exch": "東",
+  "title": "2026年12月期第１四半期決算短信〔日本基準〕（連結）(公認会計士等による期中レビューの完了及び開示事項の変更)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260706588435.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "edinet-S100YO1C",
   "date": "2026-07-07",
   "time": "15:33",
@@ -32,6 +196,276 @@
   ],
   "isCorrection": true,
   "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1264070",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "9740",
+  "name": "ＣＳＰ",
+  "exch": "東",
+  "title": "2027年２月期 第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707588789.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1264057",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "6841",
+  "name": "横河電",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707588760.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1264054",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "5631",
+  "name": "日製鋼所",
+  "exch": "東",
+  "title": "中期経営計画「JGP2028」アップデートの策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260706588597.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1264051",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "5243",
+  "name": "Ｇ－ｎｏｔｅ",
+  "exch": "東",
+  "title": "2026年11月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707588920.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1264044",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "3396",
+  "name": "フェリシモ",
+  "exch": "東",
+  "title": "2027年２月期 第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260706588359.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1264038",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "2918",
+  "name": "わらべや",
+  "exch": "東",
+  "title": "2027年２月期  第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260706588103.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1264037",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "2792",
+  "name": "ハニーズＨＬＤ",
+  "exch": "東",
+  "title": "2026年５月期　決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260706588413.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1264034",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "2734",
+  "name": "サーラ",
+  "exch": "東",
+  "title": "リフォームを核としたストック住宅ビジネス拡大に向けた事業再編に伴う当社連結子会社間の吸収合併に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707588638.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1264032",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "2734",
+  "name": "サーラ",
+  "exch": "東",
+  "title": "2026年11月期  第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707588636.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1264031",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "2726",
+  "name": "パルグループＨＤ",
+  "exch": "東",
+  "title": "2027年2月期 第1四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260706588479.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1264027",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "2408",
+  "name": "ＫＧ情報",
+  "exch": "東",
+  "title": "2026年12月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707588686.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1264026",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "1948",
+  "name": "弘電社",
+  "exch": "東",
+  "title": "株式会社きんでんによる当社株式に対する公開買付けの結果並びに主要株主及びその他の関係会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707588701.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1264025",
+  "date": "2026-07-07",
+  "time": "15:30",
+  "code": "1944",
+  "name": "きんでん",
+  "exch": "東",
+  "title": "株式会社弘電社（証券コード：1948）の株券に対する公開買付けの結果及び関連会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707588891.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1264022",
+  "date": "2026-07-07",
+  "time": "15:20",
+  "code": "7619",
+  "name": "田中商事",
+  "exch": "東",
+  "title": "連結範囲の変更（非連結子会社の連結子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260629583395.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1264019",
+  "date": "2026-07-07",
+  "time": "15:00",
+  "code": "2659",
+  "name": "サンエー",
+  "exch": "東",
+  "title": "2027年２月期第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260706588349.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
  },
  {
   "id": "edinet-S100YPAC",
@@ -69,6 +503,24 @@
   "isCorrection": false
  },
  {
+  "id": "tdnet-1263989",
+  "date": "2026-07-07",
+  "time": "10:00",
+  "code": "8306",
+  "name": "三菱ＵＦＪ",
+  "exch": "東",
+  "title": "2026年3月期 決算短信（連結）＜米国会計基準＞",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260707588680.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "edinet-S100YP3N",
   "date": "2026-07-07",
   "time": "09:41",
@@ -84,6 +536,25 @@
   ],
   "isCorrection": false,
   "market": "不明"
+ },
+ {
+  "id": "tdnet-1263983",
+  "date": "2026-07-07",
+  "time": "08:55",
+  "code": "3445",
+  "name": "ＲＳＴＥＣＨ",
+  "exch": "東",
+  "title": "当社連結子会社「有研半導体硅材料株式会社」による 「安徽晶隆半導体科技有限公司」の株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260706588628.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
  },
  {
   "id": "prtimes-eb4edbdd25a4",
