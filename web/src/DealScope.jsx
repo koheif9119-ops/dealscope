@@ -319,6 +319,15 @@ export default function DealScope() {
     else flash("原文のリンクがありません");
   };
 
+  const copyJcn = async (jcn) => {
+    try {
+      await navigator.clipboard.writeText(jcn);
+      flash("法人番号をコピーしました");
+    } catch (e) {
+      flash("コピーできませんでした");
+    }
+  };
+
   return (
     <div className="ds-root">
       <style>{CSS}</style>
@@ -416,6 +425,8 @@ export default function DealScope() {
                     onProfile={() => item.code !== "—" && setProfile(item)}
                     hideSave
                     showDate
+                    jcn={(jcnMap[item.code] || {}).jcn}
+                    onJcnCopy={copyJcn}
                   />
                 ))}
               </ul>
@@ -482,6 +493,8 @@ export default function DealScope() {
                   onSave={() => toggleBookmark(item.id)}
                   onOpen={() => openPdf(item)}
                   onProfile={() => item.code !== "—" && setProfile(item)}
+                  jcn={(jcnMap[item.code] || {}).jcn}
+                  onJcnCopy={copyJcn}
                 />
               ))}
             </ul>
@@ -534,7 +547,7 @@ function LogoMark() {
 }
 
 /* ---------- 一覧の行 ---------- */
-function Row({ item, saved, onSave, onOpen, onProfile, hideSave, showDate }) {
+function Row({ item, saved, onSave, onOpen, onProfile, hideSave, showDate, jcn, onJcnCopy }) {
   const g = GENRE_META[item.genre] || GENRE_META.news;
   const isMA = item.genre === "ma";
   const hasProfile = item.code !== "—";
@@ -557,6 +570,11 @@ function Row({ item, saved, onSave, onOpen, onProfile, hideSave, showDate }) {
             <span className="ds-name">{item.name}</span>
           )}
           <span className="ds-market">{item.exch !== "—" ? item.exch + "・" : ""}{item.market !== "—" ? item.market : ""}</span>
+          {jcn && (
+            <button className="ds-jcn" onClick={() => onJcnCopy(jcn)} title="クリックで法人番号をコピー">
+              {jcn}
+            </button>
+          )}
           <span className="ds-src">{item.src}</span>
         </div>
         <button className="ds-title" onClick={onOpen} title="原文を開く">
@@ -658,7 +676,27 @@ function ProfileModal({ item, prof, jcn, history, onClose, flash, onSearchAll })
             <table className="ds-modal-table">
               <tbody>
                 <tr><th>証券コード</th><td>{item.code}</td></tr>
-                {jcn ? <tr><th>法人番号</th><td className="ds-td-url">{jcn}</td></tr> : null}
+                {jcn ? (
+                  <tr>
+                    <th>法人番号</th>
+                    <td>
+                      <button
+                        className="ds-jcn"
+                        onClick={async () => {
+                          try {
+                            await navigator.clipboard.writeText(jcn);
+                            flash("法人番号をコピーしました");
+                          } catch (e) {
+                            flash("コピーできませんでした");
+                          }
+                        }}
+                        title="クリックでコピー"
+                      >
+                        {jcn}
+                      </button>
+                    </td>
+                  </tr>
+                ) : null}
                 <tr><th>市場</th><td>{item.exch !== "—" ? item.exch + "証・" : ""}{item.market}</td></tr>
                 {prof && prof.industry ? <tr><th>業種</th><td>{prof.industry}</td></tr> : null}
                 {prof && prof.employees != null ? <tr><th>従業員数</th><td>{prof.employees.toLocaleString()}名</td></tr> : null}
@@ -1026,6 +1064,17 @@ const CSS = `
 .ds-tpl-row .ds-select { flex: 1; }
 
 .ds-btn-block { display: block; width: 100%; margin: 6px 0 8px; padding: 10px 14px; }
+
+/* ---- 法人番号（クリックでコピー。一覧ではPC表示のみ） ---- */
+.ds-jcn {
+  font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; font-weight: 500;
+  color: var(--ink-2); background: none; border: 1px dashed var(--line);
+  border-radius: 4px; padding: 0 6px; cursor: copy;
+}
+.ds-jcn:hover { color: var(--navy); border-color: var(--navy); }
+@media (max-width: 560px) {
+  .ds-row .ds-jcn { display: none; }
+}
 
 /* ---- 過去検索 ---- */
 .ds-arch-controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 14px; }
