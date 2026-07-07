@@ -4,7 +4,7 @@ name: fetch
 on:
   schedule:
     - cron: "0 23 * * 0-4"      # 平日 8:00 JST（朝の一括取得）
-    - cron: "0,30 0-9 * * 1-5"  # 平日 9:00〜18:30 JST の30分おき
+    - cron: "0,30 0-11 * * 1-5"  # 平日 9:00〜20:30 JST の30分おき
   workflow_dispatch: {}          # 手動実行も可能
   push:
     branches: [main]             # コード修正時にも再公開する

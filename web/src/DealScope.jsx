@@ -215,20 +215,37 @@ export default function DealScope() {
     flash._t = window.setTimeout(() => setToast(null), 2400);
   }, []);
 
-  /* latest.json の取得（キャッシュ回避のためクエリ付き） */
+  /* latest.json の取得。
+     「更新」ボタン時は配信サーバーのキャッシュ（約10分）を避けるため、
+     GitHub本体から直接最新のコミット内容を取得する（失敗時は通常経路に戻る）。 */
+  const fetchLatest = async (fresh) => {
+    if (fresh) {
+      try {
+        const r = await fetch(
+          "https://api.github.com/repos/koheif9119-ops/dealscope/contents/data/latest.json?ref=main",
+          { headers: { Accept: "application/vnd.github.raw+json" }, cache: "no-store" }
+        );
+        if (r.ok) return await r.json();
+      } catch (e) { /* 取得できなければ通常経路へ */ }
+    }
+    const res = await fetch(`${DATA_URL}?ts=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return res.json();
+  };
+
   const loadData = async (isRefresh, prevItems) => {
     if (isRefresh) setRefreshing(true);
     try {
-      const res = await fetch(`${DATA_URL}?ts=${Date.now()}`, { cache: "no-store" });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const json = await res.json();
+      const json = await fetchLatest(isRefresh);
       const incoming = json.items || [];
       if (isRefresh) {
         const prevIds = new Set((prevItems || []).map((i) => i.id));
         const marked = incoming.map((i) => (prevIds.has(i.id) ? i : { ...i, isNew: true }));
         const n = marked.filter((i) => i.isNew).length;
         setItems(marked);
-        flash(n > 0 ? `新着 ${n} 件を取得しました` : "新着の開示はありません");
+        flash(n > 0
+          ? `新着 ${n} 件を取得しました`
+          : `新着の開示はありません（${fmtUpdated(json.updatedAt)}時点のデータです）`);
       } else {
         setItems(incoming);
       }
