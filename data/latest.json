@@ -1,6 +1,92 @@
 {
- "updatedAt": "2026-07-07T00:43:09+09:00",
+ "updatedAt": "2026-07-07T19:48:05+09:00",
  "items": [
+  {
+   "id": "edinet-S100YPAA",
+   "date": "2026-07-07",
+   "time": "16:50",
+   "code": "6867",
+   "name": "リーダー電子株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第72期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YPAA",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YO1C",
+   "date": "2026-07-07",
+   "time": "15:33",
+   "code": "6233",
+   "name": "ＫＬＡＳＳ株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第77期(2024/10/01－2025/09/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO1C",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YPAC",
+   "date": "2026-07-07",
+   "time": "14:46",
+   "code": "5133",
+   "name": "株式会社テリロジーホールディングス",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第4期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YPAC",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-eec185506c85",
+   "date": "2026-07-07",
+   "time": "11:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A",
+    "PMI"
+   ],
+   "title": "日本M&AセンターHDと関西学院大学がPMI分野で共同研究を開始 中小M&AのPMI実態を解明",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000605.000081927.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100YP3N",
+   "date": "2026-07-07",
+   "time": "09:41",
+   "code": "7488",
+   "name": "株式会社ヤガミ",
+   "exch": "—",
+   "title": "有価証券報告書－第61期(2025/04/21－2026/04/20)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YP3N",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
   {
    "id": "prtimes-eb4edbdd25a4",
    "date": "2026-07-06",
