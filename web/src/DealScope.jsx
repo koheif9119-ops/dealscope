@@ -179,12 +179,17 @@ export default function DealScope() {
     }
   };
 
-  /* 企業プロフィール帳の読み込み */
+  /* 企業プロフィール帳と法人番号マスタの読み込み */
+  const [jcnMap, setJcnMap] = useState({});
   useEffect(() => {
     fetch(`data/companies.json?ts=${Date.now()}`, { cache: "no-store" })
       .then((r) => (r.ok ? r.json() : {}))
       .then((j) => setCompanies(j || {}))
       .catch(() => setCompanies({}));
+    fetch(`data/master/jcn.json?ts=${Date.now()}`, { cache: "no-store" })
+      .then((r) => (r.ok ? r.json() : {}))
+      .then((j) => setJcnMap(j || {}))
+      .catch(() => setJcnMap({}));
   }, []);
 
   /* ブックマークの読み込み（localStorageに永続化） */
@@ -495,6 +500,7 @@ export default function DealScope() {
         <ProfileModal
           item={profile}
           prof={companies[profile.code]}
+          jcn={(jcnMap[profile.code] || {}).jcn}
           history={items.filter((i) => i.code === profile.code)}
           onClose={() => setProfile(null)}
           flash={flash}
@@ -581,7 +587,7 @@ function Row({ item, saved, onSave, onOpen, onProfile, hideSave, showDate }) {
 /* ---------- 企業情報ポップアップ ----------
    会社概要（業種・売上・営業利益）は companies.json（有報から自動抽出）を表示。
    「アプローチ文面を作る」でテンプレート差し込み画面に切り替わる。 */
-function ProfileModal({ item, prof, history, onClose, flash, onSearchAll }) {
+function ProfileModal({ item, prof, jcn, history, onClose, flash, onSearchAll }) {
   const [view, setView] = useState("profile"); // "profile" | "compose"
   const [templates] = useState(() => loadTemplates());
   const [my] = useState(() => loadMyInfo());
@@ -623,7 +629,7 @@ function ProfileModal({ item, prof, history, onClose, flash, onSearchAll }) {
       <div className="ds-modal" role="dialog" aria-modal="true" aria-label={item.name + " の企業情報"} onClick={(e) => e.stopPropagation()}>
         <div className="ds-modal-head">
           <div>
-            <span className="ds-modal-code">{item.code}</span>
+            <span className="ds-modal-code">{item.code}{jcn ? `｜法人番号 ${jcn}` : ""}</span>
             <h3>{item.name}</h3>
             <p className="ds-modal-market">{item.exch !== "—" ? item.exch + "証・" : ""}{item.market}{prof && prof.industry ? ` ／ ${prof.industry}` : ""}</p>
           </div>
@@ -652,6 +658,7 @@ function ProfileModal({ item, prof, history, onClose, flash, onSearchAll }) {
             <table className="ds-modal-table">
               <tbody>
                 <tr><th>証券コード</th><td>{item.code}</td></tr>
+                {jcn ? <tr><th>法人番号</th><td className="ds-td-url">{jcn}</td></tr> : null}
                 <tr><th>市場</th><td>{item.exch !== "—" ? item.exch + "証・" : ""}{item.market}</td></tr>
                 {prof && prof.industry ? <tr><th>業種</th><td>{prof.industry}</td></tr> : null}
                 {prof && prof.employees != null ? <tr><th>従業員数</th><td>{prof.employees.toLocaleString()}名</td></tr> : null}

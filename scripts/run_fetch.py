@@ -7,6 +7,7 @@ import os
 from datetime import datetime, timedelta
 
 import build_bundles
+import build_jcn
 import build_master
 import classify
 import fetch_edinet
@@ -29,6 +30,13 @@ def main():
         except Exception as e:  # noqa: BLE001
             print("市場区分マスタの作成に失敗（続行します）:", e)
     master = read_json(MASTER_PATH, {})
+
+    # 法人番号マスタが無ければ作る（失敗しても取得は続行）
+    if not os.path.exists(build_jcn.JCN_PATH):
+        try:
+            build_jcn.main()
+        except Exception as e:  # noqa: BLE001
+            print("法人番号マスタの作成に失敗（続行します）:", e)
 
     today = datetime.now(JST).date()
     has_history = os.path.isdir(DAILY_DIR) and any(

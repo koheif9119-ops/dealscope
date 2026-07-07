@@ -20,7 +20,12 @@ def name_map():
     for code, info in read_json(MASTER_PATH, {}).items():
         if info.get("name"):
             names[code] = info["name"]
-    # EDINETの正式社名（株式会社〜付き）で上書き
+    # EDINETコードリストの正式社名（株式会社〜付き・全上場分）で上書き
+    jcn_path = os.path.join(DATA_DIR, "master", "jcn.json")
+    for code, info in read_json(jcn_path, {}).items():
+        if info.get("name"):
+            names[code] = info["name"]
+    # 有報対照表の提出者名（最新の提出時点の名称）でさらに上書き
     for code, entry in read_json(INDEX_PATH, {}).get("codes", {}).items():
         if entry.get("name"):
             names[code] = entry["name"]

@@ -26,6 +26,10 @@ jobs:
         working-directory: scripts
         run: python build_master.py
 
+      - name: 法人番号マスタを更新
+        working-directory: scripts
+        run: python build_jcn.py
+
       - name: 変更があればコミット
         run: |
           git config user.name "dealscope-bot"
