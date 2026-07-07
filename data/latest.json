@@ -1,6 +1,24 @@
 {
- "updatedAt": "2026-07-07T20:21:38+09:00",
+ "updatedAt": "2026-07-07T22:19:33+09:00",
  "items": [
+  {
+   "id": "prtimes-585d84ec76aa",
+   "date": "2026-07-07",
+   "time": "22:10",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A",
+    "事業承継"
+   ],
+   "title": "【青山芸術】【設計事務所向け/匿名参加無料】「うちにM&Aは関係ない」は本当？ M&A・事業承継の５つの「誤解」と建築M&Aの進め方解説",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000492.000071141.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "tdnet-1264121",
    "date": "2026-07-07",
