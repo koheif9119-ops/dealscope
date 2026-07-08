@@ -1,0 +1,122 @@
+[
+ {
+  "id": "edinet-S100YPJM",
+  "date": "2026-07-08",
+  "time": "17:00",
+  "code": "3133",
+  "name": "株式会社海帆",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第23期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YPJM",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "prtimes-585d84ec76aa",
+  "date": "2026-07-08",
+  "time": "16:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A",
+   "事業承継"
+  ],
+  "title": "【青山芸術】【設計事務所向け/匿名参加無料】「うちにM&Aは関係ない」は本当？ M&A・事業承継の５つの「誤解」と建築M&Aの進め方解説",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000492.000071141.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-0fe482e57ddc",
+  "date": "2026-07-08",
+  "time": "16:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "コラボテクノ株式会社との統合進捗およびAI駆動型開発・FDEモデルによる事業シナジー創出に関するお知らせ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000196.000033941.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "edinet-S100YPJD",
+  "date": "2026-07-08",
+  "time": "16:20",
+  "code": "1447",
+  "name": "ＳＡＡＦホールディングス株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第8期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YPJD",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100YOIE",
+  "date": "2026-07-08",
+  "time": "15:00",
+  "code": "4528",
+  "name": "小野薬品工業株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第78期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOIE",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YPHI",
+  "date": "2026-07-08",
+  "time": "13:39",
+  "code": "7864",
+  "name": "株式会社フジシールインターナショナル",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第68期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YPHI",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YPE4",
+  "date": "2026-07-08",
+  "time": "09:30",
+  "code": "7991",
+  "name": "マミヤ・オーピー株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第84期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YPE4",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ }
+]
