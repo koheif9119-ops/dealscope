@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-09T19:39:39+09:00",
+ "updatedAt": "2026-07-09T20:25:38+09:00",
  "items": [
   {
    "id": "tdnet-1264502",
@@ -18,6 +18,23 @@
    ],
    "isCorrection": false,
    "market": "プライム"
+  },
+  {
+   "id": "prtimes-3d38d8adb9d7",
+   "date": "2026-07-09",
+   "time": "16:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "neoAI、金融・電力の重要インフラ5社と資本業務提携を同時締結",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000051.000109048.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "tdnet-1264402",
