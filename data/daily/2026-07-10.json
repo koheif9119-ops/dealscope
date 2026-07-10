@@ -126,6 +126,23 @@
   "market": "スタンダード"
  },
  {
+  "id": "prtimes-bf97c26be280",
+  "date": "2026-07-10",
+  "time": "16:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "当社連結子会社エー・アンド・デイによるエーディーシーの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000009.000173041.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1264822",
   "date": "2026-07-10",
   "time": "16:30",
@@ -1636,6 +1653,23 @@
   ],
   "isCorrection": false,
   "market": "プライム"
+ },
+ {
+  "id": "prtimes-257f1044b5e5",
+  "date": "2026-07-10",
+  "time": "14:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "オープンネーム事業承継プラットフォーム「relay（リレイ）」、東京都品川区に特化した後継者募集特設ページを開設。しながわ！後継者塾やセミナーなど、地域に根ざした承継支援プログラムを展開",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000522.000053134.html",
+  "src": "PR TIMES",
+  "isCorrection": false
  },
  {
   "id": "tdnet-1264588",
