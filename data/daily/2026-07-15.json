@@ -1,5 +1,420 @@
 [
  {
+  "id": "prtimes-6c3333431e50",
+  "date": "2026-07-15",
+  "time": "21:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "株式会社地域新聞社に対する買収提案に関する予告書の送付について",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000004.000177954.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-1c965faecdd2",
+  "date": "2026-07-15",
+  "time": "21:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "オランダの空調販売・工事・保守会社APACグループとCOMPACグループを買収",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000422.000120285.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-d8cf477991db",
+  "date": "2026-07-15",
+  "time": "19:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "Callisto、タウンズと資本業務提携 医療データ基盤・AI活用基盤の構築を推進",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000009.000116169.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1266169",
+  "date": "2026-07-15",
+  "time": "19:00",
+  "code": "7063",
+  "name": "株式会社Ｂｉｒｄｍａｎ",
+  "exch": "東",
+  "title": "（開示事項の経過）株式会社マーベリックの株式取得（子会社化）の日程の一部見直しに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594849.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266168",
+  "date": "2026-07-15",
+  "time": "18:30",
+  "code": "197A",
+  "name": "株式会社タウンズ",
+  "exch": "東",
+  "title": "中期経営計画の更新に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594265.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266165",
+  "date": "2026-07-15",
+  "time": "18:00",
+  "code": "9212",
+  "name": "Ｇｒｅｅｎ　Ｅａｒｔｈ　Ｉｎｓｔｉｔｕｔｅ株式会社",
+  "exch": "東",
+  "title": "中長期ビジョン策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715593711.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "長期ビジョン"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266164",
+  "date": "2026-07-15",
+  "time": "18:00",
+  "code": "6086",
+  "name": "シンメンテホールディングス株式会社",
+  "exch": "東",
+  "title": "2027年2月期 第1四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260625580586.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266163",
+  "date": "2026-07-15",
+  "time": "18:00",
+  "code": "6086",
+  "name": "シンメンテホールディングス株式会社",
+  "exch": "東",
+  "title": "株式会社三機サービスとシンメンテホールディングス株式会社との経営統合契約及び株式交換契約の締結等に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594252.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "経営統合",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266160",
+  "date": "2026-07-15",
+  "time": "18:00",
+  "code": "6044",
+  "name": "株式会社三機サービス",
+  "exch": "東",
+  "title": "2026年５月期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260714593474.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266159",
+  "date": "2026-07-15",
+  "time": "18:00",
+  "code": "6044",
+  "name": "株式会社三機サービス",
+  "exch": "東",
+  "title": "経営統合に伴う株式の取扱い等に関するご案内",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594826.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "経営統合"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266157",
+  "date": "2026-07-15",
+  "time": "18:00",
+  "code": "6044",
+  "name": "株式会社三機サービス",
+  "exch": "東",
+  "title": "補足資料　株式会社三機サービスとシンメンテホールディングス株式会社との経営統合契約及び株式交換契約の締結等に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715593859.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "経営統合",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266156",
+  "date": "2026-07-15",
+  "time": "18:00",
+  "code": "6044",
+  "name": "株式会社三機サービス",
+  "exch": "東",
+  "title": "株式会社三機サービスとシンメンテホールディングス株式会社との経営統合契約及び株式交換契約の締結等に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715593822.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "経営統合",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266128",
+  "date": "2026-07-15",
+  "time": "17:30",
+  "code": "4071",
+  "name": "株式会社プラスアルファ・コンサルティング",
+  "exch": "東",
+  "title": "（訂正）ラクスとの資本業務提携に関する覚書の締結、当社株式の売出し並びに主要株主、主要株主である筆頭株主及びその他の関係会社の異動予定の一部訂正",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594785.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1266106",
+  "date": "2026-07-15",
+  "time": "17:15",
+  "code": "6085",
+  "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+  "exch": "東",
+  "title": "2027年２月期　第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594752.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266103",
+  "date": "2026-07-15",
+  "time": "17:15",
+  "code": "3557",
+  "name": "ユナイテッド＆コレクティブ株式会社",
+  "exch": "東",
+  "title": "2027年２月期　第１四半期決算短信［日本基準］（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594769.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266117",
+  "date": "2026-07-15",
+  "time": "17:00",
+  "code": "5893",
+  "name": "Ｐ－ＲＡＶＩＰＡ",
+  "exch": "東",
+  "title": "2026年11月期 中間決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594541.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1266116",
+  "date": "2026-07-15",
+  "time": "17:00",
+  "code": "5572",
+  "name": "株式会社Ｒｉｄｇｅ－ｉ",
+  "exch": "東",
+  "title": "（開示事項の経過）連結子会社の異動（株式譲渡）に関する臨時株主総会の承認可決についてのお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715593877.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266110",
+  "date": "2026-07-15",
+  "time": "17:00",
+  "code": "317A",
+  "name": "Ｐ－ＳＭＳＤＴｅｃｈ",
+  "exch": "東",
+  "title": "2026年５月期 決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594649.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "prtimes-301704083212",
+  "date": "2026-07-15",
+  "time": "16:41",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "株式会社ABEJAによる当社の完全子会社化および吸収合併に関するお知らせ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000082.000118521.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1266083",
+  "date": "2026-07-15",
+  "time": "16:40",
+  "code": "9241",
+  "name": "株式会社フューチャーリンクネットワーク",
+  "exch": "東",
+  "title": "2026年８月期 第３四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594751.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266096",
+  "date": "2026-07-15",
+  "time": "16:30",
+  "code": "414A",
+  "name": "株式会社オーバーラップホールディングス",
+  "exch": "東",
+  "title": "2026年８月期 第３四半期決算短信〔ＩＦＲＳ〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594101.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266092",
+  "date": "2026-07-15",
+  "time": "16:30",
+  "code": "3547",
+  "name": "株式会社串カツ田中ホールディングス",
+  "exch": "東",
+  "title": "2026年11月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594631.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266088",
+  "date": "2026-07-15",
+  "time": "16:30",
+  "code": "3189",
+  "name": "株式会社ＡＮＡＰホールディングス",
+  "exch": "東",
+  "title": "2026年8月期第3四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594380.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1266082",
   "date": "2026-07-15",
   "time": "16:00",
