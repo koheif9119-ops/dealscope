@@ -1,5 +1,186 @@
 [
  {
+  "id": "prtimes-82e16c8c12c6",
+  "date": "2026-07-16",
+  "time": "21:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "Infoblox、Kentikの買収で最終合意",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000003.000184889.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1266340",
+  "date": "2026-07-16",
+  "time": "19:50",
+  "code": "509A",
+  "name": "Ｉ－Ｇライト・再エネ",
+  "exch": "東",
+  "title": "2026年５月期 決算短信（インフラファンド）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595505.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1266336",
+  "date": "2026-07-16",
+  "time": "19:00",
+  "code": "414A",
+  "name": "株式会社オーバーラップホールディングス",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年８月期 第３四半期決算短信〔ＩＦＲＳ〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595376.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266325",
+  "date": "2026-07-16",
+  "time": "17:30",
+  "code": "477A",
+  "name": "株式会社スタートライン",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（非連結）」の一部訂正のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595403.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "prtimes-6d105d9f59dd",
+  "date": "2026-07-16",
+  "time": "17:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "「デジタル化・AI導入補助金2026」の対象ITツールにM&A買い手支援BPaaS「DealFlow」が登録",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000036.000116962.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1266322",
+  "date": "2026-07-16",
+  "time": "17:10",
+  "code": "7076",
+  "name": "名南Ｍ＆Ａ株式会社",
+  "exch": "名",
+  "title": "連結子会社の吸収合併（簡易合併・略式合併）及び債権放棄に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594707.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1266317",
+  "date": "2026-07-16",
+  "time": "17:00",
+  "code": "549A",
+  "name": "ヒトトヒトホールディングス株式会社",
+  "exch": "東",
+  "title": "株式取得（子会社化）資金の借入に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595000.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266316",
+  "date": "2026-07-16",
+  "time": "17:00",
+  "code": "549A",
+  "name": "ヒトトヒトホールディングス株式会社",
+  "exch": "東",
+  "title": "株式取得（子会社化）に関するお知らせ　補足説明資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716594999.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266315",
+  "date": "2026-07-16",
+  "time": "17:00",
+  "code": "549A",
+  "name": "ヒトトヒトホールディングス株式会社",
+  "exch": "東",
+  "title": "株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594853.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266306",
+  "date": "2026-07-16",
+  "time": "16:30",
+  "code": "3279",
+  "name": "Ｒ－ＡＰＩ",
+  "exch": "東",
+  "title": "2026年５月期決算短信（REIT）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594040.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "tdnet-1266289",
   "date": "2026-07-16",
   "time": "16:00",
