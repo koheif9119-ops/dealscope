@@ -1,5 +1,380 @@
 [
  {
+  "id": "tdnet-1266289",
+  "date": "2026-07-16",
+  "time": "16:00",
+  "code": "5572",
+  "name": "株式会社Ｒｉｄｇｅ－ｉ",
+  "exch": "東",
+  "title": "（開示事項の経過）連結子会社の異動（株式譲渡）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594821.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266286",
+  "date": "2026-07-16",
+  "time": "16:00",
+  "code": "4923",
+  "name": "コタ株式会社",
+  "exch": "東",
+  "title": "2027年３月期第１四半期決算短信の開示が四半期末後45日を超えることに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595033.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1266220",
+  "date": "2026-07-16",
+  "time": "15:40",
+  "code": "8966",
+  "name": "Ｒ－平和ＲＥ",
+  "exch": "東",
+  "title": "2026年5月期 決算短信(REIT)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595009.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1266218",
+  "date": "2026-07-16",
+  "time": "15:40",
+  "code": "5990",
+  "name": "株式会社スーパーツール",
+  "exch": "東",
+  "title": "2027年3月期第1四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260702586553.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266274",
+  "date": "2026-07-16",
+  "time": "15:30",
+  "code": "8977",
+  "name": "Ｒ－阪急阪神",
+  "exch": "東",
+  "title": "2026年5月期 決算短信(REIT)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595176.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1266270",
+  "date": "2026-07-16",
+  "time": "15:30",
+  "code": "7808",
+  "name": "株式会社シー・エス・ランバー",
+  "exch": "東",
+  "title": "2026年５月期　決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595189.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266263",
+  "date": "2026-07-16",
+  "time": "15:30",
+  "code": "7097",
+  "name": "株式会社さくらさくプラス",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年７月期 第３四半期決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595232.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266257",
+  "date": "2026-07-16",
+  "time": "15:30",
+  "code": "6189",
+  "name": "株式会社グローバルキッズＣＯＭＰＡＮＹ",
+  "exch": "東",
+  "title": "完全子会社間の吸収合併に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594338.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266254",
+  "date": "2026-07-16",
+  "time": "15:30",
+  "code": "5644",
+  "name": "株式会社メタルアート",
+  "exch": "東",
+  "title": "Gerbera holdings株式会社による株式会社メタルアートの普通株式に対する公開買付けに係る買付条件等の変更についての考え方に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716594903.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266245",
+  "date": "2026-07-16",
+  "time": "15:30",
+  "code": "4381",
+  "name": "ビープラッツ株式会社",
+  "exch": "東",
+  "title": "「AI課金」市場と当社事業戦略について～事業計画及び成長可能性に関する事項の補足説明～",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595116.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266243",
+  "date": "2026-07-16",
+  "time": "15:30",
+  "code": "4100",
+  "name": "戸田工業株式会社",
+  "exch": "東",
+  "title": "持分法適用関連会社の異動（株式譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260715594722.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266234",
+  "date": "2026-07-16",
+  "time": "15:30",
+  "code": "3283",
+  "name": "Ｒ－プロロジ",
+  "exch": "東",
+  "title": "2026年5月期決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595085.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1266228",
+  "date": "2026-07-16",
+  "time": "15:30",
+  "code": "2780",
+  "name": "株式会社コメ兵ホールディングス",
+  "exch": "東",
+  "title": "株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595075.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YQYG",
+  "date": "2026-07-16",
+  "time": "15:28",
+  "code": "1982",
+  "name": "日比谷総合設備株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第61期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YQYG",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1266215",
+  "date": "2026-07-16",
+  "time": "15:00",
+  "code": "9322",
+  "name": "川西倉庫株式会社",
+  "exch": "東",
+  "title": "（訂正）「子会社の異動を伴う株式取得及び特定子会社の異動に関するお知らせ」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595032.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社の異動"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-07e2fe19e519",
+  "date": "2026-07-16",
+  "time": "14:41",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "【ROLEUP】M&Aリーグテーブル「中規模市場 日本M&Aファイナンシャル・アドバイザリー・レビュー2026年 上半期」にて、５千万ドル以下公表案件_案件数ベース８位（前年21位）にランクイン",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000039.000117636.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-0aff14822d75",
+  "date": "2026-07-16",
+  "time": "14:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "TOB"
+  ],
+  "title": "シフト管理とスポットワーク募集を一体化するハイブリッド型シフトシステム「マッチボックスシフト」の正式提供を開始",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000182.000068701.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1266202",
+  "date": "2026-07-16",
+  "time": "13:00",
+  "code": "317A",
+  "name": "Ｐ－ＳＭＳＤＴｅｃｈ",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595160.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "edinet-S100YO71",
+  "date": "2026-07-16",
+  "time": "10:59",
+  "code": "4403",
+  "name": "日油株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第103期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO71",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1266177",
+  "date": "2026-07-16",
+  "time": "10:00",
+  "code": "2683",
+  "name": "株式会社魚喜",
+  "exch": "東",
+  "title": "事業譲受に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260709590263.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YQR5",
+  "date": "2026-07-16",
+  "time": "09:04",
+  "code": "6470",
+  "name": "大豊工業株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第120期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YQR5",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
   "id": "prtimes-6c3333431e50",
   "date": "2026-07-15",
   "time": "21:10",
