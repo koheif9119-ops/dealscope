@@ -1,5 +1,22 @@
 [
  {
+  "id": "edinet-S100YRA4",
+  "date": "2026-07-17",
+  "time": "16:28",
+  "code": "9238",
+  "name": "バリュークリエーション株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第18期(2025/03/01－2026/02/28)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YRA4",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
   "id": "edinet-S100YRA3",
   "date": "2026-07-17",
   "time": "16:25",
