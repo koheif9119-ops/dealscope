@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-07-17T16:35:14+09:00",
+ "updatedAt": "2026-07-17T21:03:33+09:00",
  "items": [
+  {
+   "id": "tdnet-1266639",
+   "date": "2026-07-17",
+   "time": "18:00",
+   "code": "8089",
+   "name": "ナイス株式会社",
+   "exch": "東",
+   "title": "株式会社山大（証券コード：7426）に対する公開買付けの買付条件等の変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595443.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1266637",
+   "date": "2026-07-17",
+   "time": "18:00",
+   "code": "7426",
+   "name": "株式会社　山大",
+   "exch": "東",
+   "title": "（変更）「ナイス株式会社による当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260717596133.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1266631",
+   "date": "2026-07-17",
+   "time": "17:30",
+   "code": "8154",
+   "name": "加賀電子株式会社",
+   "exch": "東",
+   "title": "新光商事株式会社（証券コード：8141）の普通株式に対する公開買付けの買付条件等の変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260717595841.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1266630",
+   "date": "2026-07-17",
+   "time": "17:30",
+   "code": "8141",
+   "name": "新光商事株式会社",
+   "exch": "東",
+   "title": "（変更）「加賀電子株式会社による当社株式に対する公開買付けに関する 意見表明に関するお知らせ」の一部変更について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260717595595.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "edinet-S100YRA4",
    "date": "2026-07-17",
@@ -51,6 +123,42 @@
    ],
    "isCorrection": true,
    "market": "グロース"
+  },
+  {
+   "id": "tdnet-1266594",
+   "date": "2026-07-17",
+   "time": "16:15",
+   "code": "2371",
+   "name": "株式会社カカクコム",
+   "exch": "東",
+   "title": "Kamgras １株式会社による株式会社カカクコム（証券コード：2371）の株券等に対する公開買付けの買付条件等の変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595466.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1266593",
+   "date": "2026-07-17",
+   "time": "16:15",
+   "code": "2371",
+   "name": "株式会社カカクコム",
+   "exch": "東",
+   "title": "（変更）「Kamgras １株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595464.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
   },
   {
    "id": "tdnet-1266575",
