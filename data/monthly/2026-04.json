@@ -3424,6 +3424,23 @@
   "market": "プライム"
  },
  {
+  "id": "prtimes-2e94ee9e2af5",
+  "date": "2026-04-28",
+  "time": "17:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "人手不足が深刻化する建設業界で創業71年の企業が「会社を残す決断」アパート建築のBest Stage初のM&A",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000014.000125197.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1243198",
   "date": "2026-04-28",
   "time": "17:00",
