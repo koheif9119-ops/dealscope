@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-07-21T16:56:53+09:00",
+ "updatedAt": "2026-07-21T18:19:48+09:00",
  "items": [
+  {
+   "id": "tdnet-1266840",
+   "date": "2026-07-21",
+   "time": "17:00",
+   "code": "6200",
+   "name": "株式会社インソース",
+   "exch": "東",
+   "title": "2026年９月期第３四半期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596691.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1266838",
+   "date": "2026-07-21",
+   "time": "17:00",
+   "code": "6200",
+   "name": "株式会社インソース",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定及び自己株式の消却に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596687.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "prtimes-33619fb3d3d1",
    "date": "2026-07-21",
