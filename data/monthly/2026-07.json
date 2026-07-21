@@ -1,5 +1,41 @@
 [
  {
+  "id": "prtimes-d12bc2ed95be",
+  "date": "2026-07-21",
+  "time": "23:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A",
+   "事業承継"
+  ],
+  "title": "船井総研あがたFAS、無料資料「マンガで分かる飲食店のM&A -承継編-」を公開。暖簾や味を次代へつなぐ、飲食店の事業承継をマンガで解説。",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000018.000184273.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1266857",
+  "date": "2026-07-21",
+  "time": "19:00",
+  "code": "6200",
+  "name": "株式会社インソース",
+  "exch": "東",
+  "title": "（訂正）「自己株式取得に係る事項の決定及び自己株式の消却に関するお知らせ」の一部訂正(文言追加)について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721597047.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
   "id": "tdnet-1266840",
   "date": "2026-07-21",
   "time": "17:00",
