@@ -1,0 +1,537 @@
+[
+ {
+  "id": "prtimes-33619fb3d3d1",
+  "date": "2026-07-21",
+  "time": "16:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第9弾、テア・カカバゼ――競合を50％超引き離す圧倒的シェア。M&Aと家族経営の資本構成から読み解く家電小売の絶対優位性",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000372.000158730.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1266830",
+  "date": "2026-07-21",
+  "time": "16:30",
+  "code": "7578",
+  "name": "株式会社ニチリョク",
+  "exch": "東",
+  "title": "(開示事項の中止)子会社への事業譲渡、監査等委員会設置会社への移行、 商号の変更及び定款の一部変更並びに子会社の商号変更の中止に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596917.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266820",
+  "date": "2026-07-21",
+  "time": "16:30",
+  "code": "3951",
+  "name": "朝日印刷株式会社",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596847.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YRK7",
+  "date": "2026-07-21",
+  "time": "16:20",
+  "code": "2593",
+  "name": "株式会社伊藤園",
+  "exch": "東",
+  "title": "有価証券報告書－第61期(2025/05/01－2026/04/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YRK7",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1266794",
+  "date": "2026-07-21",
+  "time": "16:00",
+  "code": "3750",
+  "name": "株式会社ＡＤＲ１２０Ｓ",
+  "exch": "東",
+  "title": "2026年度～2028年度　中期経営計画の策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260717595904.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266783",
+  "date": "2026-07-21",
+  "time": "16:00",
+  "code": "1844",
+  "name": "株式会社大盛工業",
+  "exch": "東",
+  "title": "連結子会社の異動（株式譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260717596016.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YR88",
+  "date": "2026-07-21",
+  "time": "15:37",
+  "code": "9206",
+  "name": "株式会社スターフライヤー",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第24期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YR88",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266714",
+  "date": "2026-07-21",
+  "time": "15:35",
+  "code": "6644",
+  "name": "大崎電気工業株式会社",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260717595964.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YRFE",
+  "date": "2026-07-21",
+  "time": "15:35",
+  "code": "556A",
+  "name": "犬猫生活株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第8期(2025/05/01－2026/04/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YRFE",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266780",
+  "date": "2026-07-21",
+  "time": "15:30",
+  "code": "9820",
+  "name": "エムティジェネックス株式会社",
+  "exch": "東",
+  "title": "株式会社ネクストの株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596874.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266779",
+  "date": "2026-07-21",
+  "time": "15:30",
+  "code": "9629",
+  "name": "ピー・シー・エー株式会社",
+  "exch": "東",
+  "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260717596022.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1266774",
+  "date": "2026-07-21",
+  "time": "15:30",
+  "code": "9264",
+  "name": "ポエック株式会社",
+  "exch": "東",
+  "title": "（開示事項の経過）マルコ電機技術株式会社の株式取得（子会社化）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596337.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266754",
+  "date": "2026-07-21",
+  "time": "15:30",
+  "code": "6787",
+  "name": "株式会社メイコー",
+  "exch": "東",
+  "title": "連結子会社の増資及び特定子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596393.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1266732",
+  "date": "2026-07-21",
+  "time": "15:30",
+  "code": "4441",
+  "name": "トビラシステムズ株式会社",
+  "exch": "東",
+  "title": "（開示事項の経過）資本業務提携に伴う株式会社プロディライトの株式取得完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596609.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266726",
+  "date": "2026-07-21",
+  "time": "15:30",
+  "code": "3803",
+  "name": "イメージ情報開発株式会社",
+  "exch": "東",
+  "title": "株式会社ｆｏｎｆｕｎとの業務提携契約締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596574.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266718",
+  "date": "2026-07-21",
+  "time": "15:30",
+  "code": "2323",
+  "name": "株式会社ｆｏｎｆｕｎ",
+  "exch": "東",
+  "title": "イメージ情報開発株式会社との業務提携契約締結に関するお知らせ システム開発・SES領域における協業によりDX需要取り込みと成長を加速",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596727.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266717",
+  "date": "2026-07-21",
+  "time": "15:30",
+  "code": "196A",
+  "name": "株式会社ＭＦＳ",
+  "exch": "東",
+  "title": "グループ組織再編（完全子会社との会社分割）によるINVASE事業の承継に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596467.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100YR8R",
+  "date": "2026-07-21",
+  "time": "15:30",
+  "code": "9206",
+  "name": "株式会社スターフライヤー",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第23期(2024/04/01－2025/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YR8R",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266701",
+  "date": "2026-07-21",
+  "time": "14:30",
+  "code": "8131",
+  "name": "株式会社ミツウロコグループホールディングス",
+  "exch": "東",
+  "title": "（訂正）「商業施設運営事業の再編に伴う当社と子会社との会社分割に関するお知らせ」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596738.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YRHX",
+  "date": "2026-07-21",
+  "time": "14:16",
+  "code": "8421",
+  "name": "信金中央金庫",
+  "exch": "—",
+  "title": "訂正有価証券報告書－第76期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YRHX",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1266688",
+  "date": "2026-07-21",
+  "time": "14:00",
+  "code": "2388",
+  "name": "株式会社ウェッジホールディングス",
+  "exch": "東",
+  "title": "子会社株式売却に伴う子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596717.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100YR44",
+  "date": "2026-07-21",
+  "time": "13:45",
+  "code": "2923",
+  "name": "サトウ食品株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第66期(2025/05/01－2026/04/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YR44",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YQ47",
+  "date": "2026-07-21",
+  "time": "13:09",
+  "code": "6943",
+  "name": "ＮＫＫスイッチズ株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第73期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YQ47",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1266677",
+  "date": "2026-07-21",
+  "time": "11:30",
+  "code": "296A",
+  "name": "令和アカウンティング・ホールディングス株式会社",
+  "exch": "東",
+  "title": "株式会社ZetaXとの業務提携について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260717595874.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266674",
+  "date": "2026-07-21",
+  "time": "11:30",
+  "code": "296A",
+  "name": "令和アカウンティング・ホールディングス株式会社",
+  "exch": "東",
+  "title": "2027年３月期　第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260717595695.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100YQ6Y",
+  "date": "2026-07-21",
+  "time": "11:04",
+  "code": "8267",
+  "name": "イオン株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第101期(2025/03/01－2026/02/28)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YQ6Y",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1266669",
+  "date": "2026-07-21",
+  "time": "11:00",
+  "code": "7607",
+  "name": "株式会社進和",
+  "exch": "東",
+  "title": "中期経営計画の策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596486.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1266663",
+  "date": "2026-07-21",
+  "time": "10:00",
+  "code": "9342",
+  "name": "株式会社スマサポ",
+  "exch": "東",
+  "title": "事業譲受及び業務提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596398.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1266658",
+  "date": "2026-07-21",
+  "time": "09:00",
+  "code": "3279",
+  "name": "Ｒ－ＡＰＩ",
+  "exch": "東",
+  "title": "（訂正）2026年５月期 決算短信（REIT）の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596349.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1266654",
+  "date": "2026-07-21",
+  "time": "08:30",
+  "code": "6768",
+  "name": "株式会社タムラ製作所",
+  "exch": "東",
+  "title": "EMG Power Electric S.r.l.の株式取得（連結子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716595175.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ }
+]
