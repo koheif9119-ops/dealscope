@@ -1,6 +1,23 @@
 {
- "updatedAt": "2026-07-22T16:56:36+09:00",
+ "updatedAt": "2026-07-22T18:18:02+09:00",
  "items": [
+  {
+   "id": "prtimes-1b183e86be31",
+   "date": "2026-07-22",
+   "time": "17:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "物流業界大手AZ-COM丸和ホールディングス株式会社と資本業務提携",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000327.000054018.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "prtimes-77dbe9d9bca4",
    "date": "2026-07-22",
