@@ -1,6 +1,520 @@
 {
- "updatedAt": "2026-07-22T00:27:06+09:00",
+ "updatedAt": "2026-07-22T16:56:36+09:00",
  "items": [
+  {
+   "id": "prtimes-77dbe9d9bca4",
+   "date": "2026-07-22",
+   "time": "16:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "買収"
+   ],
+   "title": "経済産業省の「「企業買収における行動指針」の解釈について（案）」、「「企業買収における行動指針」のポイント（案）」及び「「企業買収における行動指針」Q&A（案）」に対する意見を提出",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000042.000075293.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-5691b27f7b42",
+   "date": "2026-07-22",
+   "time": "16:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "子会社化"
+   ],
+   "title": "株式会社花屋敷浮舟園の株式取得を通じた、当社初の旅館リブランドプロジェクト着手のお知らせ",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000402.000048076.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-3b3776b0ceaf",
+   "date": "2026-07-22",
+   "time": "16:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "ユーロマネー誌より日本におけるベスト・インターナショナル・バンク、ベスト・インベストメントバンク・フォー・M&Aを受賞",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000122.000004844.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100YR3G",
+   "date": "2026-07-22",
+   "time": "16:01",
+   "code": "7777",
+   "name": "株式会社スリー・ディー・マトリックス",
+   "exch": "東",
+   "title": "有価証券報告書－第22期(2025/05/01－2026/04/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YR3G",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1267030",
+   "date": "2026-07-22",
+   "time": "16:00",
+   "code": "5576",
+   "name": "株式会社オービーシステム",
+   "exch": "東",
+   "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596401.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1267020",
+   "date": "2026-07-22",
+   "time": "16:00",
+   "code": "4446",
+   "name": "Ｌｉｎｋ－Ｕグループ株式会社",
+   "exch": "東",
+   "title": "連結子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721597067.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1267019",
+   "date": "2026-07-22",
+   "time": "16:00",
+   "code": "4446",
+   "name": "Ｌｉｎｋ－Ｕグループ株式会社",
+   "exch": "東",
+   "title": "連結子会社の異動（持分法適用関連会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260722597443.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1267017",
+   "date": "2026-07-22",
+   "time": "16:00",
+   "code": "3472",
+   "name": "Ｒ－日本ホテル＆レジ",
+   "exch": "東",
+   "title": "2026年5月期　決算短信（ＲＥＩＴ）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260717596196.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1267014",
+   "date": "2026-07-22",
+   "time": "16:00",
+   "code": "2552",
+   "name": "上場ＪリートＭ",
+   "exch": "東",
+   "title": "2026年6月期（2025年12月9日～2026年6月8日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260722597536.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1267010",
+   "date": "2026-07-22",
+   "time": "16:00",
+   "code": "1518",
+   "name": "三井松島ホールディングス株式会社",
+   "exch": "東",
+   "title": "株式会社山洋の株式取得（子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260722597615.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1266939",
+   "date": "2026-07-22",
+   "time": "15:31",
+   "code": "1436",
+   "name": "株式会社グリーンエナジー＆カンパニー",
+   "exch": "東",
+   "title": "（訂正・数値データ訂正）「2026年４月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260722597394.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100YRPF",
+   "date": "2026-07-22",
+   "time": "15:31",
+   "code": "9204",
+   "name": "スカイマーク株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第30期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YRPF",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1266987",
+   "date": "2026-07-22",
+   "time": "15:30",
+   "code": "7532",
+   "name": "株式会社パン・パシフィック・インターナショナルホールディングス",
+   "exch": "東",
+   "title": "株式交換による1株に満たない端数の処理に伴う自己株式の買取りに関するお知らせ（会社法第234条第４項及び第５項の規定に基づく自己株式の買取り）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596628.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式交換"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1266966",
+   "date": "2026-07-22",
+   "time": "15:30",
+   "code": "4733",
+   "name": "株式会社オービックビジネスコンサルタント",
+   "exch": "東",
+   "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596926.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1266965",
+   "date": "2026-07-22",
+   "time": "15:30",
+   "code": "4684",
+   "name": "株式会社オービック",
+   "exch": "東",
+   "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596752.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1266962",
+   "date": "2026-07-22",
+   "time": "15:30",
+   "code": "4179",
+   "name": "株式会社ジーネクスト",
+   "exch": "東",
+   "title": "資本提携の解消及び業務提携の継続に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260722597310.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "資本提携"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1266961",
+   "date": "2026-07-22",
+   "time": "15:30",
+   "code": "4053",
+   "name": "株式会社Ｓｕｎ　Ａｓｔｅｒｉｓｋ",
+   "exch": "東",
+   "title": "持分法適用会社の異動（子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260722597270.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1266958",
+   "date": "2026-07-22",
+   "time": "15:30",
+   "code": "3824",
+   "name": "メディアファイブ株式会社",
+   "exch": "福",
+   "title": "（訂正・数値データ訂正）「2026年５月期決算短信〔日本基準〕（非連結）」の一部訂正に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260722597347.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "地方"
+  },
+  {
+   "id": "tdnet-1266948",
+   "date": "2026-07-22",
+   "time": "15:30",
+   "code": "3091",
+   "name": "株式会社ブロンコビリー",
+   "exch": "東",
+   "title": "2026年12月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596924.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1266928",
+   "date": "2026-07-22",
+   "time": "15:00",
+   "code": "7380",
+   "name": "株式会社十六フィナンシャルグループ",
+   "exch": "東",
+   "title": "「長期ビジョン『16Ｖｉｓｉｏｎ10』」で目指す姿および「第２次中期経営計画」における計数目標の見直しに関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596970.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画",
+    "長期ビジョン"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YROC",
+   "date": "2026-07-22",
+   "time": "13:53",
+   "code": "3444",
+   "name": "株式会社菊池製作所",
+   "exch": "東",
+   "title": "有価証券報告書－第51期(2025/05/01－2026/04/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YROC",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YRR3",
+   "date": "2026-07-22",
+   "time": "13:47",
+   "code": "7901",
+   "name": "株式会社マツモト",
+   "exch": "東",
+   "title": "有価証券報告書－第38期(2025/05/01－2026/04/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YRR3",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1266910",
+   "date": "2026-07-22",
+   "time": "13:00",
+   "code": "1430",
+   "name": "ファーストコーポレーション株式会社",
+   "exch": "東",
+   "title": "中央日本土地建物株式会社との資本業務提携及び第三者割当による自己株式の処分に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721597126.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "資本業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1266901",
+   "date": "2026-07-22",
+   "time": "12:00",
+   "code": "3070",
+   "name": "株式会社ジェリービーンズグループ",
+   "exch": "東",
+   "title": "エンターテインメント分野における株式会社JTBとの業務提携基本合意のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260714592927.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "prtimes-35bee5a26df7",
+   "date": "2026-07-22",
+   "time": "10:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A",
+    "PMI"
+   ],
+   "title": "【PMI支援】建設業同士のM&A、専門家によるPMIで体制整備し上場企業基準へ",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000608.000081927.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100YR5P",
+   "date": "2026-07-22",
+   "time": "10:00",
+   "code": "1873",
+   "name": "株式会社日本ハウスホールディングス",
+   "exch": "東",
+   "title": "有価証券報告書－第58期(2025/05/01－2026/04/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YR5P",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YRIV",
+   "date": "2026-07-22",
+   "time": "09:45",
+   "code": "3031",
+   "name": "株式会社ラクーンホールディングス",
+   "exch": "東",
+   "title": "有価証券報告書－第30期(2025/05/01－2026/04/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YRIV",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YR73",
+   "date": "2026-07-22",
+   "time": "09:10",
+   "code": "5971",
+   "name": "株式会社共和工業所",
+   "exch": "東",
+   "title": "有価証券報告書－第67期(2025/05/01－2026/04/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YR73",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1266877",
+   "date": "2026-07-22",
+   "time": "08:00",
+   "code": "593A",
+   "name": "Ｇ－ティアフォー",
+   "exch": "東",
+   "title": "事業計画及び成長可能性に関する事項",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596913.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "成長可能性に関する事項"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
   {
    "id": "prtimes-d12bc2ed95be",
    "date": "2026-07-21",
