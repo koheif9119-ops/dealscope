@@ -1,5 +1,24 @@
 [
  {
+  "id": "tdnet-1267247",
+  "date": "2026-07-23",
+  "time": "17:00",
+  "code": "4845",
+  "name": "株式会社スカラ",
+  "exch": "東",
+  "title": "株式会社テラの株式取得(子会社化)に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260723597950.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1267238",
   "date": "2026-07-23",
   "time": "16:30",
