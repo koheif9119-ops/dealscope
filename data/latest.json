@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-07-24T16:56:24+09:00",
+ "updatedAt": "2026-07-24T18:11:46+09:00",
  "items": [
+  {
+   "id": "tdnet-1267641",
+   "date": "2026-07-24",
+   "time": "17:00",
+   "code": "7769",
+   "name": "リズム株式会社",
+   "exch": "東",
+   "title": "新設会社の株式取得に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260724598939.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1267636",
+   "date": "2026-07-24",
+   "time": "17:00",
+   "code": "6653",
+   "name": "株式会社正興電機製作所",
+   "exch": "東",
+   "title": "2026年12月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260724599132.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1267628",
+   "date": "2026-07-24",
+   "time": "17:00",
+   "code": "4829",
+   "name": "日本エンタープライズ株式会社",
+   "exch": "東",
+   "title": "会社分割による持株会社体制移行に伴う吸収分割契約の締結および定款の一部変更（商号および事業目的等の一部変更）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260724599395.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "会社分割"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1267623",
+   "date": "2026-07-24",
+   "time": "17:00",
+   "code": "3823",
+   "name": "ＴＨＥ　ＷＨＹ　ＨＯＷ　ＤＯ　ＣＯＭＰＡＮＹ株式会社",
+   "exch": "東",
+   "title": "営業外費用（社債償還損）の計上及び（訂正・数値データ訂正）「2026年４月期　決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596746.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
   {
    "id": "tdnet-1267611",
    "date": "2026-07-24",
