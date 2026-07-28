@@ -1,6 +1,60 @@
 {
- "updatedAt": "2026-07-28T17:05:50+09:00",
+ "updatedAt": "2026-07-28T18:48:53+09:00",
  "items": [
+  {
+   "id": "tdnet-1267994",
+   "date": "2026-07-28",
+   "time": "18:30",
+   "code": "3903",
+   "name": "株式会社ｇｕｍｉ",
+   "exch": "東",
+   "title": "グループ内組織再編（子会社に対する債権放棄、現物分配による子会社株式の取得、および完全子会社の吸収合併）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260728500851.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1267993",
+   "date": "2026-07-28",
+   "time": "18:00",
+   "code": "6059",
+   "name": "株式会社ウチヤマホールディングス",
+   "exch": "東",
+   "title": "特定子会社の異動に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260728501204.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1267990",
+   "date": "2026-07-28",
+   "time": "17:00",
+   "code": "8367",
+   "name": "株式会社南都銀行",
+   "exch": "東",
+   "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260728500631.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "edinet-S100YSPI",
    "date": "2026-07-28",
