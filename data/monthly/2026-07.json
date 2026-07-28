@@ -1,5 +1,22 @@
 [
  {
+  "id": "prtimes-9ef11e15d595",
+  "date": "2026-07-29",
+  "time": "00:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "訪日外国人向け診療案内プラットフォーム「トラベラーズホスピタル（通称：とらほす）」を運営する株式会社メディ・エンジンがSEVENRICH GROUPへ参画",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000012.000177291.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1267994",
   "date": "2026-07-28",
   "time": "18:30",
@@ -16,6 +33,23 @@
   ],
   "isCorrection": false,
   "market": "プライム"
+ },
+ {
+  "id": "prtimes-0358a628edb8",
+  "date": "2026-07-28",
+  "time": "18:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "日鉄興和不動産とアジラ、AI・人流データ活用による次世代施設運営の共創に向けて資本業務提携",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000351.000043312.html",
+  "src": "PR TIMES",
+  "isCorrection": false
  },
  {
   "id": "tdnet-1267993",
