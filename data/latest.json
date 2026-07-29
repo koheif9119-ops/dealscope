@@ -1,6 +1,584 @@
 {
- "updatedAt": "2026-07-29T17:11:26+09:00",
+ "updatedAt": "2026-07-29T19:13:47+09:00",
  "items": [
+  {
+   "id": "tdnet-1268298",
+   "date": "2026-07-29",
+   "time": "19:00",
+   "code": "4689",
+   "name": "ＬＩＮＥヤフー株式会社",
+   "exch": "東",
+   "title": "(経過開示)BCPE Blitz Caymanによる株式会社カカクコムに対する公開買付けの開始予定及び当社によるBCPE Blitz Caymanへの間接的な共同出資予定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260716594887.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1268295",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "8141",
+   "name": "新光商事株式会社",
+   "exch": "東",
+   "title": "加賀電子株式会社による当社株式に対する公開買付けに関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502506.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1268294",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2069",
+   "name": "低ベータ５０ＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502500.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268293",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2068",
+   "name": "高ベータ３０ＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502499.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268292",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2067",
+   "name": "野村ＡＩ７０ＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502498.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268291",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2066",
+   "name": "東証リートＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502497.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268290",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2065",
+   "name": "日本株配当貴族ＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502496.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268289",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2050",
+   "name": "ニッチトップ中小型",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502495.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268288",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2048",
+   "name": "高配株＄ヘッジＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502494.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268287",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2047",
+   "name": "インドベアＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502493.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268286",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2046",
+   "name": "インドブルＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502492.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268285",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2045",
+   "name": "シンガポールリート",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502491.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268284",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2044",
+   "name": "米国配当貴族ＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502490.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268283",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2043",
+   "name": "アセアン５０ＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502489.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268282",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2042",
+   "name": "グロース２５０ＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502488.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268281",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2041",
+   "name": "ＮＹダウベアＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502487.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268280",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2040",
+   "name": "ＮＹダウブルＥＴＮ",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502486.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268279",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2039",
+   "name": "ドバイ原油先物ベア",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502485.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268278",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2038",
+   "name": "ドバイ原油先物ブル",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502484.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268277",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2037",
+   "name": "金先物ベア",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502483.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268276",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2036",
+   "name": "金先物ダブルブル",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502482.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268275",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2034",
+   "name": "ＫＯＳＰＩベア",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502481.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268274",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2033",
+   "name": "ＫＯＳＰＩブル",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502480.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268273",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2032",
+   "name": "ハンセンベア",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502479.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268272",
+   "date": "2026-07-29",
+   "time": "18:30",
+   "code": "2031",
+   "name": "ハンセンブル",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502478.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1268270",
+   "date": "2026-07-29",
+   "time": "18:00",
+   "code": "9439",
+   "name": "株式会社エム・エイチ・グループ",
+   "exch": "東",
+   "title": "特別目的会社（ＳＰＣ）の株式取得（子会社化及び孫会社化）並びに新規事業の開始に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260728501302.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1268264",
+   "date": "2026-07-29",
+   "time": "17:30",
+   "code": "4722",
+   "name": "フューチャー株式会社",
+   "exch": "東",
+   "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260728501236.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1268263",
+   "date": "2026-07-29",
+   "time": "17:30",
+   "code": "4722",
+   "name": "フューチャー株式会社",
+   "exch": "東",
+   "title": "合同会社キーウェスト・ネットワークによるフューチャー株式会社（証券コード：4722）に対する公開買付けの開始に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502269.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1268260",
+   "date": "2026-07-29",
+   "time": "17:30",
+   "code": "4262",
+   "name": "ニフティライフスタイル株式会社",
+   "exch": "東",
+   "title": "レプリス株式会社の子会社化に関する補足資料",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502221.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1268259",
+   "date": "2026-07-29",
+   "time": "17:30",
+   "code": "4262",
+   "name": "ニフティライフスタイル株式会社",
+   "exch": "東",
+   "title": "レプリス株式会社の株式の取得（子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502030.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1268252",
+   "date": "2026-07-29",
+   "time": "17:00",
+   "code": "6928",
+   "name": "株式会社エノモト",
+   "exch": "東",
+   "title": "主要株主および主要株主である筆頭株主の異動（予定）ならびに公開買付けに準ずる行為として政令で定める買い集め行為に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502223.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1268249",
+   "date": "2026-07-29",
+   "time": "17:00",
+   "code": "359A",
+   "name": "Ｐ－ネクストステージ",
+   "exch": "東",
+   "title": "株式会社クアランタの株式取得（子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729501406.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
   {
    "id": "tdnet-1268243",
    "date": "2026-07-29",
