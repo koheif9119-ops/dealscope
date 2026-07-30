@@ -1,5 +1,95 @@
 [
  {
+  "id": "tdnet-1268724",
+  "date": "2026-07-30",
+  "time": "18:00",
+  "code": "6946",
+  "name": "日本アビオニクス株式会社",
+  "exch": "東",
+  "title": "２０２７年３月期　第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260728500716.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1268719",
+  "date": "2026-07-30",
+  "time": "17:30",
+  "code": "8254",
+  "name": "株式会社さいか屋",
+  "exch": "東",
+  "title": "自己株式取得状況及び取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260729502538.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1268716",
+  "date": "2026-07-30",
+  "time": "17:30",
+  "code": "5449",
+  "name": "大阪製鐵株式会社",
+  "exch": "東",
+  "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260730502781.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1268709",
+  "date": "2026-07-30",
+  "time": "17:00",
+  "code": "7908",
+  "name": "株式会社きもと",
+  "exch": "東",
+  "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260730503644.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1268705",
+  "date": "2026-07-30",
+  "time": "17:00",
+  "code": "3843",
+  "name": "フリービット株式会社",
+  "exch": "東",
+  "title": "2026年４月期有価証券報告書の提出期限延長に係る承認申請書提出のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260730503783.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "tdnet-1268697",
   "date": "2026-07-30",
   "time": "16:50",
@@ -840,6 +930,23 @@
   ],
   "isCorrection": true,
   "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-c0acb5a9c972",
+  "date": "2026-07-30",
+  "time": "15:41",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "『売れるネット広告社グループ(9235)』全案件「黒字」で、売上は一気に「2.6倍」へ今期M&A第6号完了で【売上48.8億円以上】のグループに！",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000467.000073846.html",
+  "src": "PR TIMES",
+  "isCorrection": false
  },
  {
   "id": "tdnet-1268461",
