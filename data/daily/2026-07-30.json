@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1268725",
+  "date": "2026-07-30",
+  "time": "18:30",
+  "code": "441A",
+  "name": "ＮＥ株式会社",
+  "exch": "東",
+  "title": "（開示事項の経過）ふるさと納税支援事業の「事業譲渡契約書」締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260730503483.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "tdnet-1268724",
   "date": "2026-07-30",
   "time": "18:00",
