@@ -1,6 +1,60 @@
 {
- "updatedAt": "2026-07-31T18:34:29+09:00",
+ "updatedAt": "2026-08-01T01:27:37+09:00",
  "items": [
+  {
+   "id": "prtimes-fd64019a4875",
+   "date": "2026-08-01",
+   "time": "01:10",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "買収"
+   ],
+   "title": "『【再放送】VMWare買収後の状況・問題点と移行の選択肢とは？』というテーマのウェビナーを開催",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000005510.000054842.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1269568",
+   "date": "2026-07-31",
+   "time": "19:00",
+   "code": "3993",
+   "name": "株式会社ＰＫＳＨＡ　Ｔｅｃｈｎｏｌｏｇｙ",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260731505886.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1269564",
+   "date": "2026-07-31",
+   "time": "19:00",
+   "code": "2134",
+   "name": "北浜キャピタルパートナーズ株式会社",
+   "exch": "東",
+   "title": "連結子会社の異動（株式譲渡）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260731505366.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式譲渡",
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "tdnet-1269555",
    "date": "2026-07-31",
