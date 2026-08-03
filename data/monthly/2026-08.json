@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1270129",
+  "date": "2026-08-03",
+  "time": "21:00",
+  "code": "7744",
+  "name": "ノーリツ鋼機株式会社",
+  "exch": "東",
+  "title": "AlphaTheta株式会社によるMAVEN SAS株式取得完了のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260803506737.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "tdnet-1270127",
   "date": "2026-08-03",
   "time": "18:40",
