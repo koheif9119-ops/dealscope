@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-04T19:15:23+09:00",
+ "updatedAt": "2026-08-04T21:25:13+09:00",
  "items": [
   {
    "id": "prtimes-a1ce390528ae",
@@ -32,6 +32,23 @@
    ],
    "title": "「RCI2号投資事業有限責任組合」の設立について",
    "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000025.000100027.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-e6a5377a340d",
+   "date": "2026-08-04",
+   "time": "17:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "JAPAN AI、大塚商会と資本業務提携 ～全国の中堅・中小企業へAI導入を加速～",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000164.000124536.html",
    "src": "PR TIMES",
    "isCorrection": false
   },
@@ -1382,6 +1399,23 @@
    ],
    "isCorrection": false,
    "market": "プライム"
+  },
+  {
+   "id": "prtimes-8537750442b9",
+   "date": "2026-08-04",
+   "time": "15:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "リコージャパンとナレッジワーク、AIによる営業現場のDX支援に向けた資本業務提携契約を締結",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000149.000063428.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "tdnet-1270253",
