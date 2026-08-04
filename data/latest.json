@@ -1,6 +1,58 @@
 {
- "updatedAt": "2026-08-04T17:09:59+09:00",
+ "updatedAt": "2026-08-04T19:15:23+09:00",
  "items": [
+  {
+   "id": "prtimes-a1ce390528ae",
+   "date": "2026-08-04",
+   "time": "18:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "雇用契約・M&A契約などの専門的な確認を、プロンプト設計不要ですぐに開始。「LegalOnアシスタント」に、法律事務所ZeLo監修プロンプトを追加",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000795.000036601.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-f74426ddba6b",
+   "date": "2026-08-04",
+   "time": "17:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "「RCI2号投資事業有限責任組合」の設立について",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000025.000100027.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1270462",
+   "date": "2026-08-04",
+   "time": "17:10",
+   "code": "1787",
+   "name": "株式会社ナカボーテック",
+   "exch": "東",
+   "title": "（訂正）資本業務提携契約の締結、資本技術提携の解消、自己株式の取得並びに主要株主である筆頭株主及びその他の関係会社の異動に関するお知らせの一部訂正",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260804508757.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "資本業務提携"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
   {
    "id": "tdnet-1270456",
    "date": "2026-08-04",
