@@ -1,6 +1,23 @@
 [
  {
   "id": "prtimes-a1ce390528ae",
+  "date": "2026-08-05",
+  "time": "06:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "雇用契約・M&A契約などの専門的な確認を、プロンプト設計不要ですぐに開始。「LegalOnアシスタント」に、法律事務所ZeLo監修プロンプトを追加",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000795.000036601.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-a1ce390528ae",
   "date": "2026-08-04",
   "time": "18:40",
   "code": "—",
