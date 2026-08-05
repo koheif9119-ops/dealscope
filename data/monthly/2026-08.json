@@ -1,5 +1,112 @@
 [
  {
+  "id": "tdnet-1271047",
+  "date": "2026-08-05",
+  "time": "18:30",
+  "code": "7063",
+  "name": "株式会社Ｂｉｒｄｍａｎ",
+  "exch": "東",
+  "title": "株式会社GAKUSEI RUNWAYとの業務提携及び新たな事業の開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805510819.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1271041",
+  "date": "2026-08-05",
+  "time": "17:55",
+  "code": "2395",
+  "name": "株式会社新日本科学",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2027年３月期　第１四半期決算短信［日本基準］（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805510172.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271043",
+  "date": "2026-08-05",
+  "time": "17:30",
+  "code": "6996",
+  "name": "ニチコン株式会社",
+  "exch": "東",
+  "title": "2027年3月期第1四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260730503747.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "prtimes-ff07e64839be",
+  "date": "2026-08-05",
+  "time": "17:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "大栄パーカー株式会社の事業承継を実施",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000027.000046422.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1271038",
+  "date": "2026-08-05",
+  "time": "17:00",
+  "code": "6877",
+  "name": "ＯＢＡＲＡ　ＧＲＯＵＰ株式会社",
+  "exch": "東",
+  "title": "2026年９月期第３四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805510001.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1271032",
+  "date": "2026-08-05",
+  "time": "17:00",
+  "code": "2335",
+  "name": "株式会社キューブシステム",
+  "exch": "東",
+  "title": "連結子会社の異動（持分譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805510313.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "prtimes-e97c1f56497b",
   "date": "2026-08-05",
   "time": "16:40",
