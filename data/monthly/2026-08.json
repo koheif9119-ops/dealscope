@@ -1,5 +1,94 @@
 [
  {
+  "id": "prtimes-b11cf07c8898",
+  "date": "2026-08-05",
+  "time": "21:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "Lumen、Alkiraの買収を完了し、AI時代のネットワークに向けた統合デジタルプラットフォームの展開を加速",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000010.000108547.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1271052",
+  "date": "2026-08-05",
+  "time": "20:00",
+  "code": "4320",
+  "name": "株式会社ＣＥホールディングス",
+  "exch": "東",
+  "title": "2026年９月期  第３四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805510461.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1271051",
+  "date": "2026-08-05",
+  "time": "20:00",
+  "code": "4320",
+  "name": "株式会社ＣＥホールディングス",
+  "exch": "東",
+  "title": "自己株式の公開買付けの開始予定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805510437.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1271050",
+  "date": "2026-08-05",
+  "time": "20:00",
+  "code": "4320",
+  "name": "株式会社ＣＥホールディングス",
+  "exch": "東",
+  "title": "SK-03株式会社による当社株式に対する公開買付けに関する賛同及び応募中立の意見表明に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805510436.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1271049",
+  "date": "2026-08-05",
+  "time": "20:00",
+  "code": "4320",
+  "name": "株式会社ＣＥホールディングス",
+  "exch": "東",
+  "title": "SK-03株式会社による株式会社ＣＥホールディングスの株式（証券コード4320） に対する公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805510843.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1271047",
   "date": "2026-08-05",
   "time": "18:30",
