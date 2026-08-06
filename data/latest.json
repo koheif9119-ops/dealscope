@@ -1,6 +1,58 @@
 {
- "updatedAt": "2026-08-06T08:55:55+09:00",
+ "updatedAt": "2026-08-06T11:11:44+09:00",
  "items": [
+  {
+   "id": "edinet-S100YUM9",
+   "date": "2026-08-06",
+   "time": "10:54",
+   "code": "4224",
+   "name": "ロンシール工業株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第83期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YUM9",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YUN8",
+   "date": "2026-08-06",
+   "time": "10:52",
+   "code": "4224",
+   "name": "ロンシール工業株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第82期(2024/04/01－2025/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YUN8",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1271081",
+   "date": "2026-08-06",
+   "time": "10:00",
+   "code": "6678",
+   "name": "株式会社テクノメディカ",
+   "exch": "東",
+   "title": "（訂正）「2027年３月期 第１四半期決算短信〔日本基準〕（非連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806511165.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
   {
    "id": "prtimes-ab6fced35b10",
    "date": "2026-08-06",
