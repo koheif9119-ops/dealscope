@@ -1,7 +1,7 @@
 {
  "TDnet": {
-  "ok": true,
-  "error": null
+  "ok": false,
+  "error": "2026-08-06: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
  },
  "EDINET": {
   "ok": true,
