@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-08-07T18:58:19+09:00",
+ "updatedAt": "2026-08-07T19:56:33+09:00",
  "items": [
+  {
+   "id": "tdnet-1273508",
+   "date": "2026-08-07",
+   "time": "19:50",
+   "code": "7567",
+   "name": "株式会社栄電子",
+   "exch": "東",
+   "title": "2027年3月期 第1四半期 決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807515828.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1273505",
+   "date": "2026-08-07",
+   "time": "19:30",
+   "code": "3948",
+   "name": "光ビジネスフォーム株式会社",
+   "exch": "東",
+   "title": "（訂正）「2026年12月期 第２四半期決算短信〔日本基準〕（非連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807515845.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
   {
    "id": "prtimes-e44283611ef5",
    "date": "2026-08-07",
