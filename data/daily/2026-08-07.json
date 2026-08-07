@@ -1,5 +1,240 @@
 [
  {
+  "id": "tdnet-1271940",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "6699",
+  "name": "ダイヤモンドエレクトリックホールディングス株式会社",
+  "exch": "東",
+  "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806511461.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1271939",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "6485",
+  "name": "前澤給装工業株式会社",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ToSTNeT－３）による自己株式の取得結果 および自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807514083.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1271938",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "5974",
+  "name": "中国工業株式会社",
+  "exch": "東",
+  "title": "若柳化成工業株式会社の株式取得（完全子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260803506528.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1271937",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "5237",
+  "name": "株式会社ノザワ",
+  "exch": "東",
+  "title": "2027年３月期　第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260803507495.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1271934",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "5105",
+  "name": "ＴＯＹＯ　ＴＩＲＥ株式会社",
+  "exch": "東",
+  "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805510263.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271933",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "4061",
+  "name": "デンカ株式会社",
+  "exch": "東",
+  "title": "株式報酬制度における株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806513088.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271929",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "4061",
+  "name": "デンカ株式会社",
+  "exch": "東",
+  "title": "2027年3月期　第1四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806512746.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271925",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "3405",
+  "name": "株式会社クラレ",
+  "exch": "東",
+  "title": "2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805510620.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271922",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "2501",
+  "name": "サッポロホールディングス株式会社",
+  "exch": "東",
+  "title": "「中期経営計画2027-2030」策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807513701.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271921",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "2501",
+  "name": "サッポロホールディングス株式会社",
+  "exch": "東",
+  "title": "2026年12月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806513172.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271920",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "2270",
+  "name": "雪印メグミルク株式会社",
+  "exch": "東",
+  "title": "2027年３月期 第１四半期 決算短信　補足説明資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807513690.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271919",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "2270",
+  "name": "雪印メグミルク株式会社",
+  "exch": "東",
+  "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807513668.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271918",
+  "date": "2026-08-07",
+  "time": "11:00",
+  "code": "1921",
+  "name": "株式会社　巴コーポレーション",
+  "exch": "東",
+  "title": "令和９年３月期　第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596498.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1271909",
   "date": "2026-08-07",
   "time": "10:00",
@@ -52,6 +287,40 @@
   ],
   "isCorrection": false,
   "market": "プライム"
+ },
+ {
+  "id": "prtimes-8934bac98f97",
+  "date": "2026-08-07",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "株式会社多角形による株式会社ユニークの株式取得に関するお知らせ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000005.000154495.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-81aec479432d",
+  "date": "2026-08-07",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "Laspy、リコーリースと資本業務提携を締結",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000035.000092071.html",
+  "src": "PR TIMES",
+  "isCorrection": false
  },
  {
   "id": "tdnet-1271891",
