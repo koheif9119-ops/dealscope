@@ -1,6 +1,112 @@
 {
- "updatedAt": "2026-08-07T17:55:01+09:00",
+ "updatedAt": "2026-08-07T18:58:19+09:00",
  "items": [
+  {
+   "id": "prtimes-e44283611ef5",
+   "date": "2026-08-07",
+   "time": "18:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "株式会社キタムラの全株式取得による事業承継のお知らせ",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000001.000188290.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-a21142a0082b",
+   "date": "2026-08-07",
+   "time": "18:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "買収"
+   ],
+   "title": "ポーランドの鉄道車両用電機品メーカーMEDCOM Sp. z o.o.を買収",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000433.000120285.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1273503",
+   "date": "2026-08-07",
+   "time": "18:30",
+   "code": "4335",
+   "name": "ＩＰＳホールディングス株式会社",
+   "exch": "東",
+   "title": "2026年６月期 決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807515764.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1273497",
+   "date": "2026-08-07",
+   "time": "18:10",
+   "code": "6227",
+   "name": "ＡＩメカテック株式会社",
+   "exch": "東",
+   "title": "（数値データ訂正）「2026年６月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807515672.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1273501",
+   "date": "2026-08-07",
+   "time": "18:00",
+   "code": "9274",
+   "name": "ＫＰＰグループホールディングス株式会社",
+   "exch": "東",
+   "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807515643.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1273500",
+   "date": "2026-08-07",
+   "time": "18:00",
+   "code": "3948",
+   "name": "光ビジネスフォーム株式会社",
+   "exch": "東",
+   "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806513285.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "tdnet-1273493",
    "date": "2026-08-07",
@@ -33,6 +139,23 @@
    ],
    "title": "グループ会社の三陽電工が多点センシング技術に関する特許を取得",
    "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000025.000046422.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-86c721dd0ef2",
+   "date": "2026-08-07",
+   "time": "17:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "日本M&Aセンター、第7回「アトツギ甲子園」（中小企業庁主催）にゴールドスポンサーとして協賛",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000619.000081927.html",
    "src": "PR TIMES",
    "isCorrection": false
   },
@@ -736,6 +859,24 @@
    ],
    "isCorrection": false,
    "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-aa5d37cb44dc",
+   "date": "2026-08-07",
+   "time": "16:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A",
+    "子会社化"
+   ],
+   "title": "アヴェンタ株式会社、千葉県成田市における情報インフラを担う「株式会社エリート情報社」のM&Aによる子会社化（株式譲渡契約）に関するお知らせ ～世界の玄関口・成田の街づくりと経営支援を推進～",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000001.000188472.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "edinet-S100YVDP",
