@@ -1,5 +1,149 @@
 [
  {
+  "id": "tdnet-1271909",
+  "date": "2026-08-07",
+  "time": "10:00",
+  "code": "7213",
+  "name": "レシップホールディングス株式会社",
+  "exch": "東",
+  "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806512707.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1271901",
+  "date": "2026-08-07",
+  "time": "10:00",
+  "code": "5076",
+  "name": "インフロニア・ホールディングス株式会社",
+  "exch": "東",
+  "title": "2027年３月期第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260804509076.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271897",
+  "date": "2026-08-07",
+  "time": "10:00",
+  "code": "2815",
+  "name": "アリアケジャパン株式会社",
+  "exch": "東",
+  "title": "2027年3月期　第１四半期決算短信［日本基準］（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806513491.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271891",
+  "date": "2026-08-07",
+  "time": "09:30",
+  "code": "5969",
+  "name": "株式会社ロブテックス",
+  "exch": "東",
+  "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260804507903.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1271890",
+  "date": "2026-08-07",
+  "time": "09:00",
+  "code": "4326",
+  "name": "株式会社インテージホールディングス",
+  "exch": "東",
+  "title": "2026年６月期決算の状況および第15次中期経営計画",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806513529.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271889",
+  "date": "2026-08-07",
+  "time": "09:00",
+  "code": "1820",
+  "name": "西松建設株式会社",
+  "exch": "東",
+  "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806513006.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1271885",
+  "date": "2026-08-07",
+  "time": "08:00",
+  "code": "2503",
+  "name": "キリンホールディングス株式会社",
+  "exch": "東",
+  "title": "Jamieson Wellness Inc.の株式取得（完全子会社化）に関する契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806513094.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "prtimes-596f256f2106",
+  "date": "2026-08-07",
+  "time": "08:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "「年金・退職金を取り崩すだけの老後」にしない。60代の民泊M&A成約事例から学ぶ、60代・50代から始める年金以外の現金収入づくりで老後のお金問題を解決するシニアの資産形成セミナーを8月15日開催",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000153.000125953.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1271873",
   "date": "2026-08-06",
   "time": "17:00",
