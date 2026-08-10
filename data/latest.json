@@ -1,6 +1,113 @@
 {
- "updatedAt": "2026-08-10T08:25:35+09:00",
+ "updatedAt": "2026-08-10T10:23:47+09:00",
  "items": [
+  {
+   "id": "tdnet-1273534",
+   "date": "2026-08-10",
+   "time": "10:00",
+   "code": "9444",
+   "name": "株式会社トーシンホールディングス",
+   "exch": "東",
+   "title": "第41期有価証券報告書の提出期限延長に係る承認申請書提出のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260810516133.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1273532",
+   "date": "2026-08-10",
+   "time": "10:00",
+   "code": "6743",
+   "name": "大同信号株式会社",
+   "exch": "東",
+   "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806512764.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YUI9",
+   "date": "2026-08-10",
+   "time": "09:14",
+   "code": "6905",
+   "name": "コーセル株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第57期(2025/05/21－2026/05/20)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YUI9",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1273518",
+   "date": "2026-08-10",
+   "time": "09:00",
+   "code": "3727",
+   "name": "株式会社アプリックス",
+   "exch": "東",
+   "title": "当社連結子会社のスマートモバイルコミュニケーションズとジェイフロンティア株式会社との業務提携契約の締結に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260809515946.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1273517",
+   "date": "2026-08-10",
+   "time": "09:00",
+   "code": "2934",
+   "name": "ジェイフロンティア株式会社",
+   "exch": "東",
+   "title": "株式会社アプリックスの連結子会社であるスマートモバイルコミュニケーションズ株式会社との業務提携契約の締結に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260809515910.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1273513",
+   "date": "2026-08-10",
+   "time": "08:45",
+   "code": "5334",
+   "name": "日本特殊陶業株式会社",
+   "exch": "東",
+   "title": "Wells Vehicle Electronics Holdings Corp.及びWells Vehicle Electronics, L.P.自動車部品事業の撤退に伴う一部事業譲渡のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260810515948.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "事業譲渡"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "tdnet-1273508",
    "date": "2026-08-07",
