@@ -1,5 +1,42 @@
 [
  {
+  "id": "tdnet-1274229",
+  "date": "2026-08-10",
+  "time": "18:20",
+  "code": "444A",
+  "name": "Ｐ－アイテル",
+  "exch": "東",
+  "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260810517123.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1274241",
+  "date": "2026-08-10",
+  "time": "18:00",
+  "code": "5255",
+  "name": "株式会社モンスターラボ",
+  "exch": "東",
+  "title": "連結子会社の異動（株式交換）及び持分法適用関連会社の異動並びに利益の計上見込みに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260810517063.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "tdnet-1274212",
   "date": "2026-08-10",
   "time": "17:00",
@@ -233,6 +270,23 @@
   ],
   "isCorrection": false,
   "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-b7d3e7d66d60",
+  "date": "2026-08-10",
+  "time": "16:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "県内初！紀の川市で事業承継ネットワークを設立",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000057.000173667.html",
+  "src": "PR TIMES",
+  "isCorrection": false
  },
  {
   "id": "prtimes-72da832ce14a",
