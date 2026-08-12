@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1274276",
+  "date": "2026-08-12",
+  "time": "09:00",
+  "code": "3241",
+  "name": "株式会社ウィル",
+  "exch": "東",
+  "title": "2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260721596798.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1274266",
   "date": "2026-08-12",
   "time": "08:00",
