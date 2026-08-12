@@ -1,6 +1,24 @@
 {
- "updatedAt": "2026-08-12T17:46:11+09:00",
+ "updatedAt": "2026-08-12T18:58:50+09:00",
  "items": [
+  {
+   "id": "tdnet-1274790",
+   "date": "2026-08-12",
+   "time": "18:30",
+   "code": "389A",
+   "name": "Ｐ－八光オート",
+   "exch": "東",
+   "title": "2026年12月期中間決算短信〔日本基準〕(非連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260812518502.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
   {
    "id": "tdnet-1274786",
    "date": "2026-08-12",
