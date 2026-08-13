@@ -1,5 +1,41 @@
 [
  {
+  "id": "tdnet-1275414",
+  "date": "2026-08-13",
+  "time": "19:00",
+  "code": "7462",
+  "name": "株式会社ＣＡＰＩＴＡ",
+  "exch": "東",
+  "title": "株式会社桃の木による株式会社ＣＡＰＩＴＡ（証券コード：7462）の株券等に対する公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519458.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1275413",
+  "date": "2026-08-13",
+  "time": "19:00",
+  "code": "7462",
+  "name": "株式会社ＣＡＰＩＴＡ",
+  "exch": "東",
+  "title": "株式会社桃の木による当社株式に対する公開買付けに関する意見表明のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519711.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1275409",
   "date": "2026-08-13",
   "time": "18:30",
