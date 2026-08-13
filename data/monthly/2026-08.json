@@ -1,5 +1,40 @@
 [
  {
+  "id": "tdnet-1275419",
+  "date": "2026-08-14",
+  "time": "08:00",
+  "code": "4875",
+  "name": "メディシノバ・インク",
+  "exch": "東",
+  "title": "2026年12月期 第2四半期（中間期）決算短信〔米国基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519351.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-4bde35cdf36e",
+  "date": "2026-08-13",
+  "time": "22:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "2度の社員承継を経験した白潟総研創業者・白潟敏朗氏が登壇。事業承継の「1勝1敗」の核心を語る勉強会を9月1日(火)に開催",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000129.000016218.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1275414",
   "date": "2026-08-13",
   "time": "19:00",
