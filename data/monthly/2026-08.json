@@ -1,5 +1,75 @@
 [
  {
+  "id": "prtimes-7eadd905432d",
+  "date": "2026-08-13",
+  "time": "09:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "民泊開業・副業・不動産投資を考える会社員・シニアへ。「毎月使える現金収入」を増やす収益化済み民泊M&A特別セミナー8月21日開催～元銀行マンが教える政府系金融機関と公式連携した堅実な投資法",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000156.000125953.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-da1d3e7a43d0",
+  "date": "2026-08-13",
+  "time": "09:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "【9/10 仙台】事業承継・第二創業期に潜む「経営理念の空中分解」を防ぐには？地域中核企業のスケールアップを阻む『ミドル層の断絶壁』打破セミナー",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000580.000048039.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1274797",
+  "date": "2026-08-13",
+  "time": "08:59",
+  "code": "8912",
+  "name": "株式会社エリアクエスト",
+  "exch": "東",
+  "title": "2026年6月期　決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260727500253.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1274796",
+  "date": "2026-08-13",
+  "time": "08:30",
+  "code": "4896",
+  "name": "株式会社ケイファーマ",
+  "exch": "東",
+  "title": "2026年12月期第２四半期（中間期）決算短信〔日本基準〕(非連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260812517813.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "tdnet-1274790",
   "date": "2026-08-12",
   "time": "18:30",
