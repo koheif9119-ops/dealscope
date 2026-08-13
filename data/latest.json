@@ -1,6 +1,347 @@
 {
- "updatedAt": "2026-08-13T16:21:12+09:00",
+ "updatedAt": "2026-08-13T17:50:10+09:00",
  "items": [
+  {
+   "id": "tdnet-1275404",
+   "date": "2026-08-13",
+   "time": "17:30",
+   "code": "7042",
+   "name": "株式会社アクセスグループ・ホールディングス",
+   "exch": "東",
+   "title": "アスリート学生向け就職支援サービス「スポキャリ事業」に関する株式会社スポキャリとの業務提携契約についてのお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519250.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1275402",
+   "date": "2026-08-13",
+   "time": "17:30",
+   "code": "6579",
+   "name": "ログリー株式会社",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519078.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1275400",
+   "date": "2026-08-13",
+   "time": "17:30",
+   "code": "602A",
+   "name": "Ｐ－レックス",
+   "exch": "東",
+   "title": "2026年12月期 中間決算短信〔日本基準〕（非連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807514839.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100YWQ2",
+   "date": "2026-08-13",
+   "time": "17:12",
+   "code": "1447",
+   "name": "ＳＡＡＦホールディングス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第8期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YWQ2",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1275399",
+   "date": "2026-08-13",
+   "time": "17:00",
+   "code": "9501",
+   "name": "東京電力ホールディングス株式会社",
+   "exch": "東",
+   "title": "2027年３月期　第１四半期決算短信〔日本基準〕(連結)(公認会計士等による期中レビューの完了)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519261.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1275396",
+   "date": "2026-08-13",
+   "time": "17:00",
+   "code": "7356",
+   "name": "Ｒｅｔｔｙ株式会社",
+   "exch": "東",
+   "title": "2026年９月期第３四半期決算短信〔日本基準〕(非連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519807.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1275395",
+   "date": "2026-08-13",
+   "time": "17:00",
+   "code": "6513",
+   "name": "株式会社オリジン",
+   "exch": "東",
+   "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260812518385.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1275394",
+   "date": "2026-08-13",
+   "time": "17:00",
+   "code": "5103",
+   "name": "昭和ホールディングス株式会社",
+   "exch": "東",
+   "title": "2027年3月期第1四半期決算短信の開示が四半期末後45日を超えることに関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519811.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1275393",
+   "date": "2026-08-13",
+   "time": "17:00",
+   "code": "5035",
+   "name": "ＨＯＵＳＥＩ株式会社",
+   "exch": "東",
+   "title": "（訂正・数値データ訂正）「2026年12月期　第2四半期（中間期）決算短信〔日本基準〕(連結)」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519806.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1275392",
+   "date": "2026-08-13",
+   "time": "17:00",
+   "code": "4819",
+   "name": "株式会社デジタルガレージ",
+   "exch": "東",
+   "title": "持分法適用会社（株式会社カカクコム）株式に関する公開買付けの条件の変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260812518709.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1275391",
+   "date": "2026-08-13",
+   "time": "17:00",
+   "code": "4819",
+   "name": "株式会社デジタルガレージ",
+   "exch": "東",
+   "title": "2027年３月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260812518702.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1275387",
+   "date": "2026-08-13",
+   "time": "17:00",
+   "code": "2332",
+   "name": "株式会社クエスト",
+   "exch": "東",
+   "title": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260812518401.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1275381",
+   "date": "2026-08-13",
+   "time": "16:30",
+   "code": "7078",
+   "name": "ＩＮＣＬＵＳＩＶＥ　Ｈｏｌｄｉｎｇｓ株式会社",
+   "exch": "東",
+   "title": "2027年5月期第1四半期決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519616.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1275380",
+   "date": "2026-08-13",
+   "time": "16:30",
+   "code": "5974",
+   "name": "中国工業株式会社",
+   "exch": "東",
+   "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806511227.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1275377",
+   "date": "2026-08-13",
+   "time": "16:30",
+   "code": "3538",
+   "name": "株式会社ウイルプラスホールディングス",
+   "exch": "東",
+   "title": "2026年６月期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519195.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1275375",
+   "date": "2026-08-13",
+   "time": "16:30",
+   "code": "3445",
+   "name": "株式会社ＲＳ　Ｔｅｃｈｎｏｌｏｇｉｅｓ",
+   "exch": "東",
+   "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519115.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1275371",
+   "date": "2026-08-13",
+   "time": "16:30",
+   "code": "3358",
+   "name": "Ｔｒａｉｌｈｅａｄ　Ｇｌｏｂａｌ　Ｈｏｌｄｉｎｇｓ株式会社",
+   "exch": "東",
+   "title": "株式会社Onono Corporation及び株式会社Onono Villageとの業務提携に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813518946.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1275367",
+   "date": "2026-08-13",
+   "time": "16:15",
+   "code": "8066",
+   "name": "三谷商事株式会社",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519720.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1275369",
+   "date": "2026-08-13",
+   "time": "16:10",
+   "code": "5698",
+   "name": "株式会社エンビプロ・ホールディングス",
+   "exch": "東",
+   "title": "2026年６月期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807514708.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "tdnet-1275365",
    "date": "2026-08-13",
