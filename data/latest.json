@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-08-14T17:43:12+09:00",
+ "updatedAt": "2026-08-14T18:57:00+09:00",
  "items": [
+  {
+   "id": "tdnet-1276450",
+   "date": "2026-08-14",
+   "time": "18:10",
+   "code": "6071",
+   "name": "株式会社ＩＢＪ",
+   "exch": "東",
+   "title": "（訂正・数値データ訂正）「2026年12月期 第２四半期（中間期）決算短信[日本基準](連結)」の一部訂正に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260814521406.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1276453",
+   "date": "2026-08-14",
+   "time": "18:00",
+   "code": "7057",
+   "name": "株式会社エヌ・シー・エヌ",
+   "exch": "東",
+   "title": "2027年3月期 第1四半期 決算短信[日本基準]（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260814521413.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276451",
+   "date": "2026-08-14",
+   "time": "18:00",
+   "code": "3777",
+   "name": "株式会社環境フレンドリーホールディングス",
+   "exch": "東",
+   "title": "2026年12月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260812517918.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1276449",
+   "date": "2026-08-14",
+   "time": "17:45",
+   "code": "7790",
+   "name": "株式会社バルコス",
+   "exch": "名",
+   "title": "2026年12月期第2四半期決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260814521379.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "地方"
+  },
   {
    "id": "tdnet-1276447",
    "date": "2026-08-14",
