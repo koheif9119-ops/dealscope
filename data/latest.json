@@ -1,6 +1,77 @@
 {
- "updatedAt": "2026-08-14T08:35:52+09:00",
+ "updatedAt": "2026-08-14T10:39:06+09:00",
  "items": [
+  {
+   "id": "tdnet-1275429",
+   "date": "2026-08-14",
+   "time": "10:00",
+   "code": "2673",
+   "name": "夢みつけ隊株式会社",
+   "exch": "東",
+   "title": "令和9年3月期　第1四半期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807514249.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1275426",
+   "date": "2026-08-14",
+   "time": "10:00",
+   "code": "1443",
+   "name": "技研ホールディングス株式会社",
+   "exch": "東",
+   "title": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260807515488.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-3356af7ce5d1",
+   "date": "2026-08-14",
+   "time": "09:00",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "【出版記念セミナー】　「その承継が正しかったかどうかは交代後にこそ試される！東洋思想に学ぶ　「承継と後継者育成」の最適解」セミナーを、2026年9月17日に東京、2026年10月26日に大阪で開催",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000092.000065378.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1275422",
+   "date": "2026-08-14",
+   "time": "08:30",
+   "code": "2371",
+   "name": "株式会社カカクコム",
+   "exch": "東",
+   "title": "（変更）「Kamgras １株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813520123.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "tdnet-1275419",
    "date": "2026-08-14",
