@@ -1,6 +1,24 @@
 {
- "updatedAt": "2026-08-14T18:57:00+09:00",
+ "updatedAt": "2026-08-14T19:57:45+09:00",
  "items": [
+  {
+   "id": "tdnet-1276462",
+   "date": "2026-08-14",
+   "time": "19:45",
+   "code": "7578",
+   "name": "株式会社ニチリョク",
+   "exch": "東",
+   "title": "2027年3月期第1四半期決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260810517166.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "tdnet-1276450",
    "date": "2026-08-14",
