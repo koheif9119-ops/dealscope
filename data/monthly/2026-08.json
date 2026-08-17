@@ -17,6 +17,24 @@
   "isCorrection": false
  },
  {
+  "id": "prtimes-780d8bec835d",
+  "date": "2026-08-17",
+  "time": "17:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A",
+   "事業承継"
+  ],
+  "title": "M&Aナビ、高崎信用金庫と事業承継の分野で提携開始",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000077.000034108.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1276593",
   "date": "2026-08-17",
   "time": "16:20",
