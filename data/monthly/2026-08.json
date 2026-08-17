@@ -1,5 +1,22 @@
 [
  {
+  "id": "prtimes-4dde00681fc0",
+  "date": "2026-08-17",
+  "time": "17:56",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "中部STARTUP RUNWAY、スタートアップのM&A需要に対応し、M&A仲介5社が新たに参画",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000036.000064421.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1276593",
   "date": "2026-08-17",
   "time": "16:20",
