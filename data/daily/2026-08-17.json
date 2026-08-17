@@ -1,5 +1,133 @@
 [
  {
+  "id": "tdnet-1276593",
+  "date": "2026-08-17",
+  "time": "16:20",
+  "code": "9439",
+  "name": "株式会社エム・エイチ・グループ",
+  "exch": "東",
+  "title": "2026年6月期　決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260814521471.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1276620",
+  "date": "2026-08-17",
+  "time": "16:00",
+  "code": "8964",
+  "name": "Ｒ－三井不商業",
+  "exch": "東",
+  "title": "2026年6月期　決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260814521458.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276618",
+  "date": "2026-08-17",
+  "time": "16:00",
+  "code": "8061",
+  "name": "西華産業株式会社",
+  "exch": "東",
+  "title": "東京産業株式会社（証券コード：8070）株式の買集め行為に該当する株式取得についてのお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260817521817.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1276617",
+  "date": "2026-08-17",
+  "time": "16:00",
+  "code": "7814",
+  "name": "株式会社日本創発グループ",
+  "exch": "東",
+  "title": "株式会社脇田コウキ製本の株式の取得による子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260810517131.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1276616",
+  "date": "2026-08-17",
+  "time": "16:00",
+  "code": "7814",
+  "name": "株式会社日本創発グループ",
+  "exch": "東",
+  "title": "株式会社メタルクリエイションの株式取得及び簡易株式交換による完全子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260810517130.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1276612",
+  "date": "2026-08-17",
+  "time": "16:00",
+  "code": "6195",
+  "name": "株式会社ホープ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年３月期　決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260817521889.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1276605",
+  "date": "2026-08-17",
+  "time": "16:00",
+  "code": "3808",
+  "name": "株式会社オウケイウェイヴ",
+  "exch": "名",
+  "title": "株式会社オーケーウェブ中期経営計画説明資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260817521689.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
   "id": "tdnet-1276589",
   "date": "2026-08-17",
   "time": "15:30",
