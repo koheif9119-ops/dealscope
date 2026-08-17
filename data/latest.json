@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-17T12:46:00+09:00",
+ "updatedAt": "2026-08-17T13:37:19+09:00",
  "items": [
   {
    "id": "prtimes-12df44e42c2e",
@@ -89,6 +89,23 @@
    ],
    "isCorrection": true,
    "market": "地方"
+  },
+  {
+   "id": "prtimes-01d2a0809380",
+   "date": "2026-08-17",
+   "time": "11:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "マークスライフ、M&A専門子会社「マークスライフM&A株式会社」を設立し、事業を開始",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000082.000054696.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "tdnet-1276513",
