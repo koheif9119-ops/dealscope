@@ -1,6 +1,113 @@
 {
- "updatedAt": "2026-08-17T11:39:19+09:00",
+ "updatedAt": "2026-08-17T12:46:00+09:00",
  "items": [
+  {
+   "id": "prtimes-12df44e42c2e",
+   "date": "2026-08-17",
+   "time": "12:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "【M&Aベストパートナーズ×100万人のクラシックライブ】47都道府県ツアー！8月29日(土)下松市旗岡第一集会所にて開催",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000234.000088537.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1276516",
+   "date": "2026-08-17",
+   "time": "12:00",
+   "code": "3825",
+   "name": "株式会社リミックスポイント",
+   "exch": "東",
+   "title": "蓄電池事業における業務提携に関する補足説明資料",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260814521206.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276515",
+   "date": "2026-08-17",
+   "time": "12:00",
+   "code": "3825",
+   "name": "株式会社リミックスポイント",
+   "exch": "東",
+   "title": "株式会社REXEV（レクシヴ）との業務提携に関するお知らせ（エネルギープラットフォーム構築に向けた提携）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260814520820.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276514",
+   "date": "2026-08-17",
+   "time": "12:00",
+   "code": "3825",
+   "name": "株式会社リミックスポイント",
+   "exch": "東",
+   "title": "株式会社ナピルとの業務提携に関するお知らせ（EMSを中核としたエネルギープラットフォーム構築に向けた提携）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260814520753.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276509",
+   "date": "2026-08-17",
+   "time": "11:40",
+   "code": "4018",
+   "name": "株式会社Ｇｅｏｌｏｃａｔｉｏｎ　Ｔｅｃｈｎｏｌｏｇｙ",
+   "exch": "福",
+   "title": "（訂正）「2026年6月期　決算短信〔日本基準〕（非連結）」の一部訂正に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260817521707.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "地方"
+  },
+  {
+   "id": "tdnet-1276513",
+   "date": "2026-08-17",
+   "time": "11:30",
+   "code": "8798",
+   "name": "株式会社アドバンスクリエイト",
+   "exch": "東",
+   "title": "（訂正・数値データ訂正）「2025年9月期 第1四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260817521640.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
   {
    "id": "tdnet-1276462",
    "date": "2026-08-14",
