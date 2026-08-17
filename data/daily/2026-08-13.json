@@ -4460,6 +4460,23 @@
   "market": "スタンダード"
  },
  {
+  "id": "prtimes-0582f508b554",
+  "date": "2026-08-13",
+  "time": "13:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "Coaching Leaders Japanオランダ子会社が、Briddge Legal & Financeと資本業務提携を締結",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000020.000100883.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1274867",
   "date": "2026-08-13",
   "time": "13:00",
