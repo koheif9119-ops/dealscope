@@ -1,5 +1,41 @@
 [
  {
+  "id": "tdnet-1276681",
+  "date": "2026-08-18",
+  "time": "14:15",
+  "code": "9887",
+  "name": "株式会社松屋フーズホールディングス",
+  "exch": "東",
+  "title": "（訂正）「令和9年3月期第1四半期決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522411.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "prtimes-3faa66895594",
+  "date": "2026-08-18",
+  "time": "13:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A",
+   "事業承継"
+  ],
+  "title": "バトンズ、M&A実践型コーチングサービス「BATONZ M&Aコーチング」の提供開始",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000444.000034376.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "edinet-S100YXF2",
   "date": "2026-08-18",
   "time": "13:25",
