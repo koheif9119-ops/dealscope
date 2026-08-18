@@ -1,6 +1,276 @@
 {
- "updatedAt": "2026-08-18T14:54:24+09:00",
+ "updatedAt": "2026-08-18T16:35:00+09:00",
  "items": [
+  {
+   "id": "edinet-S100YXD8",
+   "date": "2026-08-18",
+   "time": "16:08",
+   "code": "3856",
+   "name": "Ａｂａｌａｎｃｅ株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第22期(2020/07/01－2021/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXD8",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276754",
+   "date": "2026-08-18",
+   "time": "16:00",
+   "code": "7707",
+   "name": "プレシジョン・システム・サイエンス株式会社",
+   "exch": "東",
+   "title": "(訂正)「2026年６月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522501.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1276748",
+   "date": "2026-08-18",
+   "time": "16:00",
+   "code": "3068",
+   "name": "株式会社ＷＤＩ",
+   "exch": "東",
+   "title": "当社連結子会社の株式取得（完全子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522209.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YX88",
+   "date": "2026-08-18",
+   "time": "15:49",
+   "code": "3160",
+   "name": "株式会社大光",
+   "exch": "東",
+   "title": "有価証券報告書－第76期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YX88",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276692",
+   "date": "2026-08-18",
+   "time": "15:35",
+   "code": "6327",
+   "name": "北川精機株式会社",
+   "exch": "東",
+   "title": "2026年６月期 決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260806512049.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276738",
+   "date": "2026-08-18",
+   "time": "15:30",
+   "code": "9237",
+   "name": "株式会社笑美面",
+   "exch": "東",
+   "title": "完全子会社との会社分割（簡易吸収分割）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522386.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "会社分割"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1276735",
+   "date": "2026-08-18",
+   "time": "15:30",
+   "code": "8798",
+   "name": "株式会社アドバンスクリエイト",
+   "exch": "東",
+   "title": "（訂正）「過年度の有価証券報告書等の訂正報告書の提出及び過年度の決算短信等の訂正に関するお知らせ」の一部訂正に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522454.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信",
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1276734",
+   "date": "2026-08-18",
+   "time": "15:30",
+   "code": "8190",
+   "name": "株式会社ヤマナカ",
+   "exch": "名",
+   "title": "主要株主の異動(予定)及び岡谷不動産株式会社による株式会社ヤマナカ(証券コード8190)の公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260817522045.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "地方"
+  },
+  {
+   "id": "tdnet-1276732",
+   "date": "2026-08-18",
+   "time": "15:30",
+   "code": "7532",
+   "name": "株式会社パン・パシフィック・インターナショナルホールディングス",
+   "exch": "東",
+   "title": "2026年6月期決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260809515913.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1276730",
+   "date": "2026-08-18",
+   "time": "15:30",
+   "code": "7318",
+   "name": "セレンディップ・ホールディングス株式会社",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522464.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1276729",
+   "date": "2026-08-18",
+   "time": "15:30",
+   "code": "7083",
+   "name": "ＡＨＣグループ株式会社",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522165.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1276718",
+   "date": "2026-08-18",
+   "time": "15:30",
+   "code": "4391",
+   "name": "ロジザード株式会社",
+   "exch": "東",
+   "title": "株式会社ストラソルアーキテクトの株式の取得（子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522346.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1276714",
+   "date": "2026-08-18",
+   "time": "15:30",
+   "code": "3844",
+   "name": "コムチュア株式会社",
+   "exch": "東",
+   "title": "主要株主及び主要株主である筆頭株主の異動（予定）、並びに公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522200.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1276708",
+   "date": "2026-08-18",
+   "time": "15:30",
+   "code": "3487",
+   "name": "Ｒ－ＣＲＥロジ",
+   "exch": "東",
+   "title": "2026年６月期 決算短信（REIT）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260813519337.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1276696",
+   "date": "2026-08-18",
+   "time": "15:30",
+   "code": "1999",
+   "name": "サイタホールディングス株式会社",
+   "exch": "福",
+   "title": "2026年6月期　決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260803506761.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "地方"
+  },
   {
    "id": "tdnet-1276681",
    "date": "2026-08-18",
@@ -18,6 +288,23 @@
    ],
    "isCorrection": true,
    "market": "プライム"
+  },
+  {
+   "id": "prtimes-b2125f8cdcbd",
+   "date": "2026-08-18",
+   "time": "14:01",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "【内定への近道】M&A仲介会社のキーパーソンと転職・就職希望者の交流会を8月27日に開催",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000031.000080445.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "prtimes-3faa66895594",
