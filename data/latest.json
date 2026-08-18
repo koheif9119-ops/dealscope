@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-18T17:31:44+09:00",
+ "updatedAt": "2026-08-18T19:35:15+09:00",
  "items": [
+  {
+   "id": "tdnet-1276792",
+   "date": "2026-08-18",
+   "time": "19:15",
+   "code": "3856",
+   "name": "Ａｂａｌａｎｃｅ株式会社",
+   "exch": "東",
+   "title": "過年度の有価証券報告書等の訂正報告書の提出及び過年度の決算短信の訂正に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522630.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信",
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
   {
    "id": "edinet-S100YXE2",
    "date": "2026-08-18",
