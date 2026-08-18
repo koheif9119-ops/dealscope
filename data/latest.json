@@ -1,6 +1,165 @@
 {
- "updatedAt": "2026-08-18T16:35:00+09:00",
+ "updatedAt": "2026-08-18T17:31:44+09:00",
  "items": [
+  {
+   "id": "edinet-S100YXE2",
+   "date": "2026-08-18",
+   "time": "17:06",
+   "code": "3856",
+   "name": "Ａｂａｌａｎｃｅ株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第26期(2024/07/01－2025/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXE2",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276772",
+   "date": "2026-08-18",
+   "time": "17:00",
+   "code": "3306",
+   "name": "日本製麻株式会社",
+   "exch": "東",
+   "title": "（開示事項の経過）株式会社Food Operation Japanの株式の取得（子会社化）完了に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522546.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276766",
+   "date": "2026-08-18",
+   "time": "17:00",
+   "code": "217A",
+   "name": "Ｐ－サポート",
+   "exch": "東",
+   "title": "フィールドコンサルタント株式会社の株式取得（子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260817522038.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100YXDX",
+   "date": "2026-08-18",
+   "time": "16:59",
+   "code": "3856",
+   "name": "Ａｂａｌａｎｃｅ株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第25期(2023/07/01－2024/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXDX",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YXDQ",
+   "date": "2026-08-18",
+   "time": "16:50",
+   "code": "3856",
+   "name": "Ａｂａｌａｎｃｅ株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第24期(2022/07/01－2023/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXDQ",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YXDH",
+   "date": "2026-08-18",
+   "time": "16:34",
+   "code": "3856",
+   "name": "Ａｂａｌａｎｃｅ株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第23期(2021/07/01－2022/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXDH",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276763",
+   "date": "2026-08-18",
+   "time": "16:30",
+   "code": "8560",
+   "name": "株式会社　宮崎太陽銀行",
+   "exch": "福",
+   "title": "自己株式取得に係る事項の一部変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522509.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "地方"
+  },
+  {
+   "id": "tdnet-1276762",
+   "date": "2026-08-18",
+   "time": "16:30",
+   "code": "471A",
+   "name": "ＮＳグループ株式会社",
+   "exch": "東",
+   "title": "（訂正）「2026年12月期第２四半期（中間期）決算短信〔IFRS〕（連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522470.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1276761",
+   "date": "2026-08-18",
+   "time": "16:30",
+   "code": "471A",
+   "name": "ＮＳグループ株式会社",
+   "exch": "東",
+   "title": "（訂正）「2026年12月期第１四半期決算短信〔IFRS〕（連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522469.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
   {
    "id": "edinet-S100YXD8",
    "date": "2026-08-18",
@@ -17,6 +176,24 @@
    ],
    "isCorrection": true,
    "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-f7df5ab09ba9",
+   "date": "2026-08-18",
+   "time": "16:04",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A",
+    "事業承継"
+   ],
+   "title": "障害福祉業界の事業承継・M&A支援に向け、ジャパンM&Aソリューション株式会社と業務提携契約を締結",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000010.000113523.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "tdnet-1276754",
