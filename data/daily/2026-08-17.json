@@ -53,6 +53,23 @@
   "market": "スタンダード"
  },
  {
+  "id": "prtimes-c499ccf00bdb",
+  "date": "2026-08-17",
+  "time": "16:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "株式会社セカンドハート、東証グロース上場のMRT株式会社と資本業務提携契約を締結",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000026.000135007.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1276620",
   "date": "2026-08-17",
   "time": "16:00",
