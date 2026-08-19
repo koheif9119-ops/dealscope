@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1276936",
+  "date": "2026-08-19",
+  "time": "17:00",
+  "code": "7063",
+  "name": "株式会社Ｂｉｒｄｍａｎ",
+  "exch": "東",
+  "title": "（訂正）2026年６月期 決算短信〔日本基準〕（連結）の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523246.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
   "id": "edinet-S100YXHH",
   "date": "2026-08-19",
   "time": "16:18",
