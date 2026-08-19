@@ -1,5 +1,255 @@
 [
  {
+  "id": "tdnet-1276831",
+  "date": "2026-08-19",
+  "time": "11:20",
+  "code": "3856",
+  "name": "Ａｂａｌａｎｃｅ株式会社",
+  "exch": "東",
+  "title": "過年度の有価証券報告書に係る監査報告書及び四半期レビュー報告書並びに期中レビュー報告書の意見不表明（結論不表明）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522935.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1276830",
+  "date": "2026-08-19",
+  "time": "11:20",
+  "code": "3856",
+  "name": "Ａｂａｌａｎｃｅ株式会社",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2026年３月期第２四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522872.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1276829",
+  "date": "2026-08-19",
+  "time": "11:20",
+  "code": "3856",
+  "name": "Ａｂａｌａｎｃｅ株式会社",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2026年３月期第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522868.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1276828",
+  "date": "2026-08-19",
+  "time": "11:20",
+  "code": "3856",
+  "name": "Ａｂａｌａｎｃｅ株式会社",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2025年３月期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522865.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1276827",
+  "date": "2026-08-19",
+  "time": "11:20",
+  "code": "3856",
+  "name": "Ａｂａｌａｎｃｅ株式会社",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2025年６月期第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522804.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YXG0",
+  "date": "2026-08-19",
+  "time": "10:02",
+  "code": "4057",
+  "name": "株式会社インターファクトリー",
+  "exch": "東",
+  "title": "有価証券報告書－第23期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXG0",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1276820",
+  "date": "2026-08-19",
+  "time": "10:00",
+  "code": "2523",
+  "name": "ＭＸＳトピ除く金融",
+  "exch": "東",
+  "title": "ＭＡＸＩＳ トピックス（除く金融）上場投信 決算短信（2026年7月期）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522769.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276819",
+  "date": "2026-08-19",
+  "time": "10:00",
+  "code": "2085",
+  "name": "ＭＸ高配日株ア",
+  "exch": "東",
+  "title": "ＭＡＸＩＳ高配当日本株アクティブ上場投信 決算短信（2026年7月期）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522763.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276817",
+  "date": "2026-08-19",
+  "time": "10:00",
+  "code": "1593",
+  "name": "ＭＸＳ４００",
+  "exch": "東",
+  "title": "ＭＡＸＩＳ ＪＰＸ日経インデックス４００上場投信 決算短信（2026年7月期）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522773.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276816",
+  "date": "2026-08-19",
+  "time": "10:00",
+  "code": "1553",
+  "name": "ＭＸＳ東海",
+  "exch": "名",
+  "title": "ＭＡＸＩＳ Ｓ＆Ｐ東海上場投信 決算短信（2026年7月期）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522776.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1276815",
+  "date": "2026-08-19",
+  "time": "10:00",
+  "code": "1485",
+  "name": "ＭＸＳ　Ｊ積極投資",
+  "exch": "東",
+  "title": "ＭＡＸＩＳ ＪＡＰＡＮ 設備・人材積極投資企業２００上場投信 決算短信（2026年7月期）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522747.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276813",
+  "date": "2026-08-19",
+  "time": "10:00",
+  "code": "1348",
+  "name": "ＭＸＳトピクス",
+  "exch": "東",
+  "title": "ＭＡＸＩＳ トピックス上場投信 決算短信（2026年7月期）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522752.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276812",
+  "date": "2026-08-19",
+  "time": "10:00",
+  "code": "1346",
+  "name": "ＭＸＳ２２５",
+  "exch": "東",
+  "title": "ＭＡＸＩＳ 日経２２５上場投信 決算短信（2026年7月期）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522756.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "prtimes-b2fe1a532137",
+  "date": "2026-08-19",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "株式会社ビズアップ総研「実践型M&A研修キャラバン」運営事務局業務を受託",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000041.000129267.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1276807",
   "date": "2026-08-19",
   "time": "09:50",
