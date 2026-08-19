@@ -1,6 +1,110 @@
 {
- "updatedAt": "2026-08-19T15:37:16+09:00",
+ "updatedAt": "2026-08-19T16:34:25+09:00",
  "items": [
+  {
+   "id": "edinet-S100YXHH",
+   "date": "2026-08-19",
+   "time": "16:18",
+   "code": "2776",
+   "name": "新都ホールディングス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第41期(2024/02/01－2025/01/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXHH",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YXHA",
+   "date": "2026-08-19",
+   "time": "16:17",
+   "code": "2776",
+   "name": "新都ホールディングス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第42期(2025/02/01－2026/01/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXHA",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276915",
+   "date": "2026-08-19",
+   "time": "16:00",
+   "code": "8772",
+   "name": "株式会社アサックス",
+   "exch": "東",
+   "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522997.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276904",
+   "date": "2026-08-19",
+   "time": "16:00",
+   "code": "3470",
+   "name": "Ｒ－マリモリート",
+   "exch": "東",
+   "title": "2026年6月期　決算短信（ＲＥＩＴ）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522195.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100YXKX",
+   "date": "2026-08-19",
+   "time": "15:51",
+   "code": "3409",
+   "name": "株式会社北紡",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第103期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXKX",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-be99348bc89b",
+   "date": "2026-08-19",
+   "time": "15:45",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "JR九州と株式会社Aegis AI(イージス エーアイ)が資本業務提携",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000001317.000037933.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "edinet-S100YXF5",
    "date": "2026-08-19",
@@ -34,6 +138,186 @@
    ],
    "isCorrection": false,
    "market": "プライム"
+  },
+  {
+   "id": "tdnet-1276902",
+   "date": "2026-08-19",
+   "time": "15:30",
+   "code": "9361",
+   "name": "伏木海陸運送株式会社",
+   "exch": "東",
+   "title": "（訂正・数値データ訂正）「2026年６月期　決算短信〔日本基準〕（連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260817522074.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276896",
+   "date": "2026-08-19",
+   "time": "15:30",
+   "code": "7515",
+   "name": "株式会社マルヨシセンター",
+   "exch": "東",
+   "title": "連結子会社株式の追加取得による完全子会社化に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522884.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276893",
+   "date": "2026-08-19",
+   "time": "15:30",
+   "code": "7318",
+   "name": "セレンディップ・ホールディングス株式会社",
+   "exch": "東",
+   "title": "新中期経営計画に関する追加FAQ公開のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522854.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1276887",
+   "date": "2026-08-19",
+   "time": "15:30",
+   "code": "6558",
+   "name": "クックビズ株式会社",
+   "exch": "東",
+   "title": "特定子会社の異動に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522320.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1276886",
+   "date": "2026-08-19",
+   "time": "15:30",
+   "code": "6558",
+   "name": "クックビズ株式会社",
+   "exch": "東",
+   "title": "ネットオン株式会社の第三者割当増資引受による株式の取得（連結子会社化）のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522319.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1276884",
+   "date": "2026-08-19",
+   "time": "15:30",
+   "code": "6298",
+   "name": "ワイエイシイホールディングス株式会社",
+   "exch": "東",
+   "title": "連結子会社間の吸収合併に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522592.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1276878",
+   "date": "2026-08-19",
+   "time": "15:30",
+   "code": "428A",
+   "name": "サイプレス・ホールディングス株式会社",
+   "exch": "東",
+   "title": "中期経営計画「BEYOND THE STANDARD」策定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523056.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1276871",
+   "date": "2026-08-19",
+   "time": "15:30",
+   "code": "3076",
+   "name": "あいホールディングス株式会社",
+   "exch": "東",
+   "title": "2026年6月期　決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805510310.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1276867",
+   "date": "2026-08-19",
+   "time": "15:30",
+   "code": "2153",
+   "name": "Ｅ・Ｊホールディングス株式会社",
+   "exch": "東",
+   "title": "持分法適用関連会社の異動（株式譲渡）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260817521696.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式譲渡"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "prtimes-8ef44e8d2f86",
+   "date": "2026-08-19",
+   "time": "14:00",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A",
+    "事業承継"
+   ],
+   "title": "ITリスクを最速５分で可視化する無料WEBサービスを提供開始。-YK Consulting株式会社が「M&A・事業承継 ITリスク診断」を公開しました",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000005.000186304.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "tdnet-1276855",
