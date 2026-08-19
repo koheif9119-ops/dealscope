@@ -1,5 +1,149 @@
 [
  {
+  "id": "tdnet-1276807",
+  "date": "2026-08-19",
+  "time": "09:50",
+  "code": "2221",
+  "name": "岩塚製菓株式会社",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522784.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1276811",
+  "date": "2026-08-19",
+  "time": "09:30",
+  "code": "2642",
+  "name": "ＳＭＴ低炭素日本株",
+  "exch": "東",
+  "title": "2026年7月期　決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522710.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276810",
+  "date": "2026-08-19",
+  "time": "09:30",
+  "code": "258A",
+  "name": "ＳＭＴ　内リート厳選",
+  "exch": "東",
+  "title": "2026年7月期　決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522718.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276809",
+  "date": "2026-08-19",
+  "time": "09:30",
+  "code": "257A",
+  "name": "ＳＭＴ　日本株厳選投",
+  "exch": "東",
+  "title": "2026年7月期　決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522716.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276808",
+  "date": "2026-08-19",
+  "time": "09:30",
+  "code": "170A",
+  "name": "ＳＭＴ　日本好配当株",
+  "exch": "東",
+  "title": "2026年7月期　決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522714.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276804",
+  "date": "2026-08-19",
+  "time": "08:30",
+  "code": "6305",
+  "name": "日立建機株式会社",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522695.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1276797",
+  "date": "2026-08-19",
+  "time": "08:00",
+  "code": "4413",
+  "name": "株式会社ボードルア",
+  "exch": "東",
+  "title": "ビーシーピーイー ネオン ケイマン エルピーによる株式会社ボードルア（証券コード：4413）に対する公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522642.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1276796",
+  "date": "2026-08-19",
+  "time": "08:00",
+  "code": "4413",
+  "name": "株式会社ボードルア",
+  "exch": "東",
+  "title": "MBOの実施及び応募の推奨に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260817521803.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "MBO"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "prtimes-c499ccf00bdb",
   "date": "2026-08-19",
   "time": "05:40",
