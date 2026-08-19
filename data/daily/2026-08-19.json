@@ -1,5 +1,94 @@
 [
  {
+  "id": "tdnet-1276847",
+  "date": "2026-08-19",
+  "time": "12:30",
+  "code": "3856",
+  "name": "Ａｂａｌａｎｃｅ株式会社",
+  "exch": "東",
+  "title": "2026年３月期有価証券報告書に係る監査報告書の意見不表明及び内部統制監査報告書の意見不表明に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523004.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1276845",
+  "date": "2026-08-19",
+  "time": "12:30",
+  "code": "3856",
+  "name": "Ａｂａｌａｎｃｅ株式会社",
+  "exch": "東",
+  "title": "2026年３月期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522973.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1276844",
+  "date": "2026-08-19",
+  "time": "12:30",
+  "code": "3856",
+  "name": "Ａｂａｌａｎｃｅ株式会社",
+  "exch": "東",
+  "title": "2026年３月期第３四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522969.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1276843",
+  "date": "2026-08-19",
+  "time": "12:00",
+  "code": "3825",
+  "name": "株式会社リミックスポイント",
+  "exch": "東",
+  "title": "系統用蓄電所（熊本県玉名市）の需給調整市場参入に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805509513.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "参入"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YXMA",
+  "date": "2026-08-19",
+  "time": "11:48",
+  "code": "3856",
+  "name": "Ａｂａｌａｎｃｅ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第27期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXMA",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1276831",
   "date": "2026-08-19",
   "time": "11:20",
@@ -88,6 +177,23 @@
   ],
   "isCorrection": true,
   "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-5287623be926",
+  "date": "2026-08-19",
+  "time": "10:02",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "ゼロ円寄付アプリのギバース、累計180万DLのおでかけエンタメアプリ『プラリー』事業を買収。ゼロ円寄付の共同発案者でもある連続起業家・木崎智之が個人資金で買収関連費用を全額負担",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000010.000157457.html",
+  "src": "PR TIMES",
+  "isCorrection": false
  },
  {
   "id": "edinet-S100YXG0",
