@@ -1,5 +1,131 @@
 [
  {
+  "id": "tdnet-1276855",
+  "date": "2026-08-19",
+  "time": "13:00",
+  "code": "294A",
+  "name": "気候変動ＥＴＦ",
+  "exch": "東",
+  "title": "NEXT FUNDS MSCIジャパン気候変動指数（セレクト）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522815.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276854",
+  "date": "2026-08-19",
+  "time": "13:00",
+  "code": "1328",
+  "name": "ＮＦ金価格",
+  "exch": "東",
+  "title": "NEXT FUNDS 金価格連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522812.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276853",
+  "date": "2026-08-19",
+  "time": "13:00",
+  "code": "1325",
+  "name": "ＮＦブラジル株",
+  "exch": "東",
+  "title": "NEXT FUNDS ブラジル株式指数・ボベスパ連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522810.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276852",
+  "date": "2026-08-19",
+  "time": "13:00",
+  "code": "1321",
+  "name": "ＮＦ日経２２５",
+  "exch": "東",
+  "title": "NEXT FUNDS 日経225連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522808.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276851",
+  "date": "2026-08-19",
+  "time": "13:00",
+  "code": "1319",
+  "name": "ＮＦ日経３００",
+  "exch": "東",
+  "title": "NEXT FUNDS 日経300株価指数連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522821.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276850",
+  "date": "2026-08-19",
+  "time": "13:00",
+  "code": "1309",
+  "name": "ＮＦ中国株上証５０",
+  "exch": "東",
+  "title": "NEXT FUNDS ChinaAMC・中国株式・上証50連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522806.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276849",
+  "date": "2026-08-19",
+  "time": "13:00",
+  "code": "1306",
+  "name": "ＮＦＴＯＰＩＸ",
+  "exch": "東",
+  "title": "NEXT FUNDS TOPIX連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522819.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "tdnet-1276847",
   "date": "2026-08-19",
   "time": "12:30",
@@ -87,6 +213,23 @@
   ],
   "isCorrection": false,
   "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-0b37bec337b3",
+  "date": "2026-08-19",
+  "time": "11:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "TVアニメ『進撃の巨人』POP UP STREET in 千束通り商店街を開催",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000167.000056785.html",
+  "src": "PR TIMES",
+  "isCorrection": false
  },
  {
   "id": "tdnet-1276831",
