@@ -1,6 +1,40 @@
 {
- "updatedAt": "2026-08-19T13:32:37+09:00",
+ "updatedAt": "2026-08-19T15:37:16+09:00",
  "items": [
+  {
+   "id": "edinet-S100YXF5",
+   "date": "2026-08-19",
+   "time": "15:35",
+   "code": "3549",
+   "name": "株式会社クスリのアオキホールディングス",
+   "exch": "東",
+   "title": "有価証券報告書－第28期(2025/05/21－2026/05/20)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXF5",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YXFQ",
+   "date": "2026-08-19",
+   "time": "15:33",
+   "code": "4443",
+   "name": "Ｓａｎｓａｎ株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第19期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXFQ",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "tdnet-1276855",
    "date": "2026-08-19",
@@ -126,6 +160,40 @@
    ],
    "isCorrection": false,
    "market": "不明"
+  },
+  {
+   "id": "prtimes-93e1699b8d91",
+   "date": "2026-08-19",
+   "time": "13:00",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "子会社化"
+   ],
+   "title": "ネオキャリア、北海道中標津町で空き家再生を手がける株式会社リサイエを子会社化",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000492.000011666.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-84b6abff2183",
+   "date": "2026-08-19",
+   "time": "13:00",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "米国企業Actus Consulting Groupとの資本業務提携（過半数株式取得・グループ化）に関するお知らせ -TCGは世界へ、中堅企業層の米国進出・事業拡大を支援-",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000374.000058707.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "tdnet-1276847",
