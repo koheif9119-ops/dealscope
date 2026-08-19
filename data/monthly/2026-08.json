@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1276943",
+  "date": "2026-08-19",
+  "time": "18:00",
+  "code": "1445",
+  "name": "Ｐ－ひかりＨＤ",
+  "exch": "東",
+  "title": "連結子会社（エムエイトアイ株式会社）の異動（株式譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522838.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "tdnet-1276936",
   "date": "2026-08-19",
   "time": "17:00",
