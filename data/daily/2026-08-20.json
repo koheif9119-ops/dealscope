@@ -1,5 +1,131 @@
 [
  {
+  "id": "tdnet-1276985",
+  "date": "2026-08-20",
+  "time": "12:10",
+  "code": "541A",
+  "name": "Ｏｎｅ高配当グロース",
+  "exch": "東",
+  "title": "2026年7月期（2026年3月23日～2026年7月8日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523617.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276988",
+  "date": "2026-08-20",
+  "time": "12:00",
+  "code": "2556",
+  "name": "Ｏｎｅ・Ｊリート",
+  "exch": "東",
+  "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523597.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276987",
+  "date": "2026-08-20",
+  "time": "12:00",
+  "code": "2553",
+  "name": "Ｏｎｅ・ＣＳＩ５００",
+  "exch": "東",
+  "title": "2026年7月期（2025年7月9日～2026年7月8日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523588.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276980",
+  "date": "2026-08-20",
+  "time": "11:30",
+  "code": "1498",
+  "name": "Ｏｎｅ・ＥＳＧ",
+  "exch": "東",
+  "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523563.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276979",
+  "date": "2026-08-20",
+  "time": "11:30",
+  "code": "1493",
+  "name": "Ｏｎｅ・中小型",
+  "exch": "東",
+  "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523554.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276978",
+  "date": "2026-08-20",
+  "time": "11:30",
+  "code": "1484",
+  "name": "Ｏｎｅ・設備人材投資",
+  "exch": "東",
+  "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523545.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276977",
+  "date": "2026-08-20",
+  "time": "11:30",
+  "code": "1474",
+  "name": "Ｏｎｅ・ＪＰＸ４００",
+  "exch": "東",
+  "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523536.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "tdnet-1276973",
   "date": "2026-08-20",
   "time": "11:00",
