@@ -1,5 +1,59 @@
 [
  {
+  "id": "tdnet-1276973",
+  "date": "2026-08-20",
+  "time": "11:00",
+  "code": "435A",
+  "name": "ｉＦ日本配当ローテ",
+  "exch": "東",
+  "title": "2026年7月期（2026年1月8日～2026年7月7日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523506.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276970",
+  "date": "2026-08-20",
+  "time": "11:00",
+  "code": "1473",
+  "name": "Ｏｎｅ・トピックス",
+  "exch": "東",
+  "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523526.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1276969",
+  "date": "2026-08-20",
+  "time": "11:00",
+  "code": "1369",
+  "name": "Ｏｎｅ・日経２２５",
+  "exch": "東",
+  "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523516.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "edinet-S100YXNS",
   "date": "2026-08-20",
   "time": "09:18",
