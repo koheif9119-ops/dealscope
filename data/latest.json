@@ -1,6 +1,79 @@
 {
- "updatedAt": "2026-08-20T16:37:46+09:00",
+ "updatedAt": "2026-08-20T17:33:27+09:00",
  "items": [
+  {
+   "id": "tdnet-1277113",
+   "date": "2026-08-20",
+   "time": "17:00",
+   "code": "9342",
+   "name": "株式会社スマサポ",
+   "exch": "東",
+   "title": "株式取得（子会社化）資金の借入に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523454.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1277112",
+   "date": "2026-08-20",
+   "time": "17:00",
+   "code": "9342",
+   "name": "株式会社スマサポ",
+   "exch": "東",
+   "title": "（訂正）「事業譲受及び業務提携に関するお知らせ」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523450.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "事業譲受"
+   ],
+   "isCorrection": true,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1277110",
+   "date": "2026-08-20",
+   "time": "17:00",
+   "code": "9027",
+   "name": "株式会社ロジネットジャパン",
+   "exch": "札",
+   "title": "自己株式の取得及び立会外自己株式取得取引による自己株式の買付け 並びに自己株式の消却に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523921.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "地方"
+  },
+  {
+   "id": "tdnet-1277089",
+   "date": "2026-08-20",
+   "time": "16:40",
+   "code": "3296",
+   "name": "Ｒ－日本リート",
+   "exch": "東",
+   "title": "2026年6月期決算短信(ＲＥＩＴ)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523868.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
   {
    "id": "tdnet-1277085",
    "date": "2026-08-20",
