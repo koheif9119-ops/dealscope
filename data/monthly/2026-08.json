@@ -1,5 +1,330 @@
 [
  {
+  "id": "tdnet-1277085",
+  "date": "2026-08-20",
+  "time": "16:15",
+  "code": "4011",
+  "name": "株式会社ヘッドウォータース",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年12月期第2四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523867.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1277079",
+  "date": "2026-08-20",
+  "time": "16:00",
+  "code": "7966",
+  "name": "リンテック株式会社",
+  "exch": "東",
+  "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)（公認会計士等による期中レビューの完了）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523359.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277078",
+  "date": "2026-08-20",
+  "time": "16:00",
+  "code": "7966",
+  "name": "リンテック株式会社",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523357.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277071",
+  "date": "2026-08-20",
+  "time": "16:00",
+  "code": "396A",
+  "name": "業界改革厳選ＲＥＩＴ",
+  "exch": "東",
+  "title": "2026年7月期（2026年1月13日～2026年7月12日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523782.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277068",
+  "date": "2026-08-20",
+  "time": "16:00",
+  "code": "395A",
+  "name": "業界改革厳選地銀",
+  "exch": "東",
+  "title": "2026年7月期（2025年7月16日～2026年7月12日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523765.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277067",
+  "date": "2026-08-20",
+  "time": "16:00",
+  "code": "394A",
+  "name": "業界改革厳選テレビ",
+  "exch": "東",
+  "title": "2026年7月期（2025年7月16日～2026年7月12日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523746.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277064",
+  "date": "2026-08-20",
+  "time": "16:00",
+  "code": "318A",
+  "name": "ＶＩＸ先物ＥＴＦ",
+  "exch": "東",
+  "title": "2027年1月期　中間決算短信（2026年1月16日～2026年7月15日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523739.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277062",
+  "date": "2026-08-20",
+  "time": "16:00",
+  "code": "1671",
+  "name": "ＷＴＩ原油ＥＴＦ",
+  "exch": "東",
+  "title": "2026年7月期（2026年1月16日～2026年7月15日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523792.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "prtimes-e23bcad145c7",
+  "date": "2026-08-20",
+  "time": "15:45",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A",
+   "PMI"
+  ],
+  "title": "M&AのITリスクを現役エンジニアが評価する、ITデューデリジェンスサービス「テクカリ for ITDD・PMI」提供開始",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000003.000179722.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1277009",
+  "date": "2026-08-20",
+  "time": "15:40",
+  "code": "4960",
+  "name": "ケミプロ化成株式会社",
+  "exch": "東",
+  "title": "第３期中期経営計画の進捗状況と業績計画修正のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522251.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277053",
+  "date": "2026-08-20",
+  "time": "15:30",
+  "code": "8928",
+  "name": "穴吹興産株式会社",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年６月期  決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523427.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277045",
+  "date": "2026-08-20",
+  "time": "15:30",
+  "code": "7603",
+  "name": "ジーイエット株式会社",
+  "exch": "東",
+  "title": "CLANE DESIGN株式会社の株式取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523756.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277040",
+  "date": "2026-08-20",
+  "time": "15:30",
+  "code": "7067",
+  "name": "ブランディングテクノロジー株式会社",
+  "exch": "東",
+  "title": "株式会社menu magazineの株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522858.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1277039",
+  "date": "2026-08-20",
+  "time": "15:30",
+  "code": "7058",
+  "name": "共栄セキュリティーサービス株式会社",
+  "exch": "東",
+  "title": "連結子会社による孫会社の吸収合併のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523560.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277036",
+  "date": "2026-08-20",
+  "time": "15:30",
+  "code": "6579",
+  "name": "ログリー株式会社",
+  "exch": "東",
+  "title": "連結子会社からの配当金受領及び連結子会社の異動（株式売却）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523361.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1277034",
+  "date": "2026-08-20",
+  "time": "15:30",
+  "code": "6503",
+  "name": "三菱電機株式会社",
+  "exch": "東",
+  "title": "米国PCI Energy Solutionsの完全子会社化について －スマートエナジー領域の強化－",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523603.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277033",
+  "date": "2026-08-20",
+  "time": "15:30",
+  "code": "6503",
+  "name": "三菱電機株式会社",
+  "exch": "東",
+  "title": "米国PCI Energy Solutionsの完全子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523076.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277021",
+  "date": "2026-08-20",
+  "time": "15:30",
+  "code": "3747",
+  "name": "株式会社インタートレード",
+  "exch": "東",
+  "title": "連結子会社の異動（株式譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523493.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "edinet-S100YXWI",
   "date": "2026-08-20",
   "time": "15:16",
@@ -33,6 +358,23 @@
   ],
   "isCorrection": false,
   "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-06309045f2af",
+  "date": "2026-08-20",
+  "time": "14:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "2年連続で新卒採用を拡大、2028年入社の採用人数を前年比約30％増へ初任給を月額5万7,700円引き上げ、月給28万8,500円に改定",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000051.000089580.html",
+  "src": "PR TIMES",
+  "isCorrection": false
  },
  {
   "id": "prtimes-b267dd14b549",
