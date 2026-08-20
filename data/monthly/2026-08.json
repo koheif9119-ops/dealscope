@@ -1,5 +1,39 @@
 [
  {
+  "id": "edinet-S100YXMM",
+  "date": "2026-08-20",
+  "time": "13:12",
+  "code": "4825",
+  "name": "株式会社ウェザーニューズ",
+  "exch": "東",
+  "title": "有価証券報告書－第40期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXMM",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YXSF",
+  "date": "2026-08-20",
+  "time": "12:43",
+  "code": "137A",
+  "name": "Ｃｏｃｏｌｉｖｅ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第10期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXSF",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "tdnet-1276985",
   "date": "2026-08-20",
   "time": "12:10",
