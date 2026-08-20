@@ -1,5 +1,91 @@
 [
  {
+  "id": "edinet-S100YXWI",
+  "date": "2026-08-20",
+  "time": "15:16",
+  "code": "2796",
+  "name": "ファーマライズホールディングス株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第40期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXWI",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277001",
+  "date": "2026-08-20",
+  "time": "15:00",
+  "code": "5698",
+  "name": "株式会社エンビプロ・ホールディングス",
+  "exch": "東",
+  "title": "長期ビジョン「En-Vision2035」策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523553.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "長期ビジョン"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-b267dd14b549",
+  "date": "2026-08-20",
+  "time": "13:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "売れるネット広告社グループ（9235）、一般社団法人日本情報技術協会とAI分野で戦略的パートナーシップを締結～AIエージェントと国際標準コードを活用、EC・広告・M&Aの高度化と企業価値向上へ～",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000475.000073846.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-66a44f774073",
+  "date": "2026-08-20",
+  "time": "13:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "船井総研あがたFAS、製造業の経営者向け「製造業M&A戦略セミナー」を2026年9月18日に名古屋で開催。譲り受けた側と譲り渡した側の経営者が同席し、グループイン前後を解説",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000027.000184273.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-2d58d8362671",
+  "date": "2026-08-20",
+  "time": "13:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "船井総研あがたFAS、無料資料「マンガでわかる事業承継-親族内承継編-」を公開。後継者が決まっている経営者に向けて、自社株の評価と10年の承継計画をマンガで解説",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000028.000184273.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "edinet-S100YXMM",
   "date": "2026-08-20",
   "time": "13:12",
