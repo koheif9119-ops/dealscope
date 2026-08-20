@@ -1,5 +1,40 @@
 [
  {
+  "id": "prtimes-dc528f4aed5e",
+  "date": "2026-08-20",
+  "time": "18:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "米国PCI Energy Solutions の完全子会社化に関するお知らせ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000435.000120285.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1277114",
+  "date": "2026-08-20",
+  "time": "17:30",
+  "code": "9219",
+  "name": "株式会社ギックス",
+  "exch": "東",
+  "title": "（訂正）「2026年６月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523759.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
   "id": "tdnet-1277113",
   "date": "2026-08-20",
   "time": "17:00",
