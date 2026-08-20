@@ -1,6 +1,23 @@
 {
- "updatedAt": "2026-08-20T08:18:10+09:00",
+ "updatedAt": "2026-08-20T10:00:51+09:00",
  "items": [
+  {
+   "id": "edinet-S100YXNS",
+   "date": "2026-08-20",
+   "time": "09:18",
+   "code": "3148",
+   "name": "株式会社クリエイトＳＤホールディングス",
+   "exch": "東",
+   "title": "有価証券報告書－第29期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXNS",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "prtimes-93e1699b8d91",
    "date": "2026-08-20",
