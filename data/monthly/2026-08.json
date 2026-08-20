@@ -1,5 +1,39 @@
 [
  {
+  "id": "prtimes-06309045f2af",
+  "date": "2026-08-21",
+  "time": "08:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "2年連続で新卒採用を拡大、2028年入社の採用人数を前年比約30％増へ初任給を月額5万7,700円引き上げ、月給28万8,500円に改定",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000051.000089580.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-7c080913fdca",
+  "date": "2026-08-21",
+  "time": "06:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "自分のAI会社をつくる。働かせる。仕事を受注する。そして、育てた会社をM&Aへ。「SoLoCo」9月1日正式ローンチ！正式ローンチを記念してキャンペーンを実施します！",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000026.000114735.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "prtimes-dc528f4aed5e",
   "date": "2026-08-20",
   "time": "18:00",
