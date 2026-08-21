@@ -1,6 +1,76 @@
 {
- "updatedAt": "2026-08-21T08:20:31+09:00",
+ "updatedAt": "2026-08-21T10:04:09+09:00",
  "items": [
+  {
+   "id": "prtimes-610a32659b10",
+   "date": "2026-08-21",
+   "time": "09:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "ヤドロク、温泉旅館事業承継ファンドを設立",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000002.000189433.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100YXLE",
+   "date": "2026-08-21",
+   "time": "09:30",
+   "code": "2303",
+   "name": "株式会社ドーン",
+   "exch": "東",
+   "title": "有価証券報告書－第35期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXLE",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1277130",
+   "date": "2026-08-21",
+   "time": "09:00",
+   "code": "1431",
+   "name": "株式会社Ｌｉｂ　Ｗｏｒｋ",
+   "exch": "東",
+   "title": "Lib Earth Shot 2029中期経営計画",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523660.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1277129",
+   "date": "2026-08-21",
+   "time": "09:00",
+   "code": "1431",
+   "name": "株式会社Ｌｉｂ　Ｗｏｒｋ",
+   "exch": "東",
+   "title": "中期経営計画「Lib Earth Shot 2029」策定のお知らせ（2026/7～2029/6）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523657.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
   {
    "id": "prtimes-06309045f2af",
    "date": "2026-08-21",
