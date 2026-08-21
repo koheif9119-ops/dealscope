@@ -1,6 +1,60 @@
 {
- "updatedAt": "2026-08-21T16:48:50+09:00",
+ "updatedAt": "2026-08-21T17:35:47+09:00",
  "items": [
+  {
+   "id": "tdnet-1277346",
+   "date": "2026-08-21",
+   "time": "17:00",
+   "code": "7098",
+   "name": "Ｐ－エージェント",
+   "exch": "東",
+   "title": "子会社の吸収合併並びに臨時株主総会招集のための基準日設定及び臨時株主総会の開催に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524538.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277340",
+   "date": "2026-08-21",
+   "time": "17:00",
+   "code": "4689",
+   "name": "ＬＩＮＥヤフー株式会社",
+   "exch": "東",
+   "title": "（経過開示）BCPE Blitz Cayman, L.P.による株式会社カカクコム（証券コード：2371）に対する公開買付けの開始予定に係る経過に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524246.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277339",
+   "date": "2026-08-21",
+   "time": "17:00",
+   "code": "4183",
+   "name": "三井化学株式会社",
+   "exch": "東",
+   "title": "(開示事項の経過)特定子会社の異動に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524596.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "tdnet-1277328",
    "date": "2026-08-21",
