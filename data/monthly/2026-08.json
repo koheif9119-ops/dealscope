@@ -1,5 +1,40 @@
 [
  {
+  "id": "prtimes-45736fdde134",
+  "date": "2026-08-21",
+  "time": "12:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "船井総研あがたFAS、社労士事務所の代表者向け無料オンラインセミナー「社労士事務所がM&Aで実現する『攻め』の事務所経営」を2026年9月19日から10月11日まで全4日程で開催",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000029.000184273.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1277175",
+  "date": "2026-08-21",
+  "time": "11:30",
+  "code": "296A",
+  "name": "令和アカウンティング・ホールディングス株式会社",
+  "exch": "東",
+  "title": "中期経営計画",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524177.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "tdnet-1277172",
   "date": "2026-08-21",
   "time": "11:00",
