@@ -1,6 +1,254 @@
 {
- "updatedAt": "2026-08-21T14:28:42+09:00",
+ "updatedAt": "2026-08-21T15:59:07+09:00",
  "items": [
+  {
+   "id": "tdnet-1277270",
+   "date": "2026-08-21",
+   "time": "15:45",
+   "code": "7509",
+   "name": "アイエーグループ株式会社",
+   "exch": "東",
+   "title": "（訂正・数値データ訂正）「2027年３月期　第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523290.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1277269",
+   "date": "2026-08-21",
+   "time": "15:45",
+   "code": "7509",
+   "name": "アイエーグループ株式会社",
+   "exch": "東",
+   "title": "（訂正・数値データ訂正）「2026年３月期　決算短信〔日本基準〕（連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523278.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-c838071abb95",
+   "date": "2026-08-21",
+   "time": "15:41",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "バトンズ、長岡市と連携し事業承継マッチングサイト「つなぐ、長岡」を公開",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000446.000034376.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100YXYC",
+   "date": "2026-08-21",
+   "time": "15:40",
+   "code": "7370",
+   "name": "株式会社Ｅｎｊｉｎ",
+   "exch": "東",
+   "title": "有価証券報告書－第20期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXYC",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1277260",
+   "date": "2026-08-21",
+   "time": "15:30",
+   "code": "9285",
+   "name": "Ｉ－東京インフラＦ",
+   "exch": "東",
+   "title": "2026年6月期　決算短信（インフラファンド）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523485.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277258",
+   "date": "2026-08-21",
+   "time": "15:30",
+   "code": "9090",
+   "name": "ＡＺ－ＣＯＭ丸和ホールディングス株式会社",
+   "exch": "東",
+   "title": "（開示事項の経過）連結子会社間の組織再編（吸収合併）及び 商号変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260817521704.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277248",
+   "date": "2026-08-21",
+   "time": "15:30",
+   "code": "7944",
+   "name": "ローランド株式会社",
+   "exch": "東",
+   "title": "配当原資、配当支払開始予定日の変更および「2026年12月期第２四半期（中間期）決算短信〔日本基準〕(連結)」の一部変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523330.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277231",
+   "date": "2026-08-21",
+   "time": "15:30",
+   "code": "6038",
+   "name": "株式会社イード",
+   "exch": "東",
+   "title": "連結子会社の吸収合併（略式合併）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524344.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1277226",
+   "date": "2026-08-21",
+   "time": "15:30",
+   "code": "4543",
+   "name": "テルモ株式会社",
+   "exch": "東",
+   "title": "子会社の異動に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524471.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YXUM",
+   "date": "2026-08-21",
+   "time": "15:30",
+   "code": "1377",
+   "name": "株式会社　サカタのタネ",
+   "exch": "東",
+   "title": "有価証券報告書－第85期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXUM",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277206",
+   "date": "2026-08-21",
+   "time": "15:15",
+   "code": "1773",
+   "name": "ワイ・ティー・エル・コーポレーション・バーハッド",
+   "exch": "東",
+   "title": "2026年６月期（2025年７月～2026年６月）年次決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523724.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YXXI",
+   "date": "2026-08-21",
+   "time": "15:01",
+   "code": "1887",
+   "name": "日本国土開発株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第97期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXXI",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277202",
+   "date": "2026-08-21",
+   "time": "15:00",
+   "code": "7488",
+   "name": "株式会社ヤガミ",
+   "exch": "名",
+   "title": "2027年４月期 第１四半期決算短信[日本基準](連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524124.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "地方"
+  },
+  {
+   "id": "tdnet-1277198",
+   "date": "2026-08-21",
+   "time": "15:00",
+   "code": "6557",
+   "name": "ＡＩＡＩグループ株式会社",
+   "exch": "東",
+   "title": "連結子会社間の会社分割（吸収分割）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524234.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "会社分割"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
   {
    "id": "edinet-S100YY2G",
    "date": "2026-08-21",
