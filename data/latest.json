@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-08-21T17:35:47+09:00",
+ "updatedAt": "2026-08-21T18:32:33+09:00",
  "items": [
+  {
+   "id": "tdnet-1277356",
+   "date": "2026-08-21",
+   "time": "18:20",
+   "code": "2371",
+   "name": "株式会社カカクコム",
+   "exch": "東",
+   "title": "「BCPE Blitz Cayman, L.P.による当社株券等に対する公開買付けの開始予定に関するお知らせ」の経過に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524675.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277359",
+   "date": "2026-08-21",
+   "time": "18:00",
+   "code": "2995",
+   "name": "Ｐ－ジェイレックス",
+   "exch": "東",
+   "title": "2026年６月期  決算短信〔日本基準〕（非連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524285.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
   {
    "id": "tdnet-1277346",
    "date": "2026-08-21",
