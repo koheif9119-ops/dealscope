@@ -1,5 +1,40 @@
 [
  {
+  "id": "edinet-S100YY0V",
+  "date": "2026-08-21",
+  "time": "13:26",
+  "code": "4716",
+  "name": "日本オラクル株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第41期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YY0V",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277188",
+  "date": "2026-08-21",
+  "time": "13:00",
+  "code": "7434",
+  "name": "株式会社オータケ",
+  "exch": "東",
+  "title": "2026年5月期有価証券報告書の提出期限延長申請の検討に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524042.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "prtimes-45736fdde134",
   "date": "2026-08-21",
   "time": "12:40",
