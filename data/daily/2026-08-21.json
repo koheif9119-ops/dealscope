@@ -1,5 +1,489 @@
 [
  {
+  "id": "tdnet-1277172",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "9027",
+  "name": "株式会社ロジネットジャパン",
+  "exch": "札",
+  "title": "立会外自己株式取得取引による自己株式の取得結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524170.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1277169",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2857",
+  "name": "ｉＳドイツ国債ヘジ",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524141.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277168",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2856",
+  "name": "ｉＳ米国債三七ヘジ",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524029.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277167",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2853",
+  "name": "ｉＳ気候外国債券ヘジ",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524107.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277166",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2649",
+  "name": "ｉＳＧＮＭＡ債ヘジ",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524100.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277165",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2622",
+  "name": "ｉＳ新興国債券へジ",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524095.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277164",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2621",
+  "name": "ｉＳ米国債二十へジ",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524134.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277163",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2620",
+  "name": "ｉＳ米国債一三",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524129.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277162",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2561",
+  "name": "ｉＳ日本国債",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524090.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277161",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "238A",
+  "name": "ｉＳ米国債二十五ヘジ",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524115.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277160",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "237A",
+  "name": "ｉＳ米国債二十五",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524113.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277159",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "236A",
+  "name": "ｉＳ日本国債七十",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524027.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277158",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2259",
+  "name": "ｉＳフランス国債ヘジ",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524167.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277157",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2258",
+  "name": "ｉＳ＄ＨＹ社債",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524144.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277156",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2257",
+  "name": "ｉＳ＄ＩＧ社債",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524150.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277155",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2256",
+  "name": "ｉＳ米国総合債券",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524163.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277154",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2255",
+  "name": "ｉＳ米国債二十",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524156.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277153",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "2012",
+  "name": "ｉＳ米国債０３月",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524109.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277151",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "1656",
+  "name": "ｉＳ米国債七十",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524125.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277150",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "1497",
+  "name": "ｉＳ米＄ＨＹ社債ヘジ",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524087.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277149",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "1496",
+  "name": "ｉＳ米＄ＩＧ社債ヘジ",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524084.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277148",
+  "date": "2026-08-21",
+  "time": "11:00",
+  "code": "1482",
+  "name": "ｉＳ米国債七十円へジ",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（2026年1月12日～2026年7月11日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524122.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "edinet-S100YXZQ",
+  "date": "2026-08-21",
+  "time": "10:05",
+  "code": "5885",
+  "name": "株式会社ジーデップ・アドバンス",
+  "exch": "東",
+  "title": "有価証券報告書－第11期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXZQ",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277142",
+  "date": "2026-08-21",
+  "time": "10:00",
+  "code": "539A",
+  "name": "ＮＺＡＭ　海外債券",
+  "exch": "東",
+  "title": "2026年７月期　決算短信（2026年３月18日～2026年７月15日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524161.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277136",
+  "date": "2026-08-21",
+  "time": "10:00",
+  "code": "2527",
+  "name": "ＮＺＡＭＪリートコア",
+  "exch": "東",
+  "title": "2026年７月期　決算短信（2026年１月16日～2026年７月15日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524152.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277134",
+  "date": "2026-08-21",
+  "time": "10:00",
+  "code": "1596",
+  "name": "ＮＺＡＭ　Ｅｘ―Ｆ",
+  "exch": "東",
+  "title": "2026年７月期　決算短信（2026年１月16日～2026年７月15日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524031.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "prtimes-2899f2dabce2",
+  "date": "2026-08-21",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "PMI"
+  ],
+  "title": "AI国際資格「PMI-CPMAI(TM)」に対応した日本語版試験対策コースを提供開始",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000031.000080540.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "prtimes-610a32659b10",
   "date": "2026-08-21",
   "time": "09:40",
