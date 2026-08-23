@@ -1,5 +1,39 @@
 [
  {
+  "id": "prtimes-610a32659b10",
+  "date": "2026-08-24",
+  "time": "04:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "ヤドロク、温泉旅館事業承継ファンドを設立",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000002.000189433.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-c85944ab5605",
+  "date": "2026-08-23",
+  "time": "16:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "【開催レポート】380名以上の経営者が集い、『頂点への道』講座アチーブメントテクノロジーコース特別講座 第80期を開催",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000649.000002398.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1277356",
   "date": "2026-08-21",
   "time": "18:20",
