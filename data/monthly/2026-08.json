@@ -1,5 +1,111 @@
 [
  {
+  "id": "tdnet-1277386",
+  "date": "2026-08-24",
+  "time": "11:00",
+  "code": "502A",
+  "name": "ＧＸ超短期円建債券",
+  "exch": "東",
+  "title": "2026年7月期（2026年1月27日～2026年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524811.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277385",
+  "date": "2026-08-24",
+  "time": "11:00",
+  "code": "380A",
+  "name": "ＧＸチャイナテック",
+  "exch": "東",
+  "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524814.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "edinet-S100YY3Q",
+  "date": "2026-08-24",
+  "time": "10:33",
+  "code": "2792",
+  "name": "株式会社ハニーズホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第48期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YY3Q",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277383",
+  "date": "2026-08-24",
+  "time": "10:30",
+  "code": "2108",
+  "name": "日本甜菜製糖株式会社",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了並びに自己株式の消却に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524660.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "prtimes-1a8f9b6cb359",
+  "date": "2026-08-24",
+  "time": "10:30",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "ウェルネスダイニング、医療DX大手ドクターズと資本業務提携　\"食×医療\"の連携で、患者とご家族を支える新たな仕組みづくりへ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000125.000054072.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1277381",
+  "date": "2026-08-24",
+  "time": "10:00",
+  "code": "9166",
+  "name": "株式会社ＧＥＮＤＡ",
+  "exch": "東",
+  "title": "株式会社サンリオとの業務提携契約締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524838.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "edinet-S100YY3G",
   "date": "2026-08-24",
   "time": "09:02",
