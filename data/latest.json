@@ -1,6 +1,130 @@
 {
- "updatedAt": "2026-08-24T15:50:38+09:00",
+ "updatedAt": "2026-08-24T16:54:41+09:00",
  "items": [
+  {
+   "id": "tdnet-1277524",
+   "date": "2026-08-24",
+   "time": "16:30",
+   "code": "8252",
+   "name": "株式会社　丸井グループ",
+   "exch": "東",
+   "title": "ユーロ円CB発行および自己株式取得に関する補足説明資料",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525162.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "prtimes-ba6c99b06e3c",
+   "date": "2026-08-24",
+   "time": "16:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "子会社化"
+   ],
+   "title": "【john masters organics】株式譲渡（完全子会社化）に関するお知らせ",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000390.000011608.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1277487",
+   "date": "2026-08-24",
+   "time": "16:05",
+   "code": "9241",
+   "name": "株式会社フューチャーリンクネットワーク",
+   "exch": "東",
+   "title": "会社分割（簡易新設分割）による子会社設立に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525217.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "会社分割"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1277517",
+   "date": "2026-08-24",
+   "time": "16:00",
+   "code": "9706",
+   "name": "日本空港ビルデング株式会社",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定及び自己株式の消却に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524607.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277515",
+   "date": "2026-08-24",
+   "time": "16:00",
+   "code": "9706",
+   "name": "日本空港ビルデング株式会社",
+   "exch": "東",
+   "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524594.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277504",
+   "date": "2026-08-24",
+   "time": "16:00",
+   "code": "7314",
+   "name": "株式会社小田原機器",
+   "exch": "東",
+   "title": "主要株主である筆頭株主の異動（予定）及び公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525190.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YYE5",
+   "date": "2026-08-24",
+   "time": "16:00",
+   "code": "7068",
+   "name": "フィードフォースグループ株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第21期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYE5",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
   {
    "id": "prtimes-ce49e8a76e7f",
    "date": "2026-08-24",
@@ -17,6 +141,42 @@
    "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000292.000012519.html",
    "src": "PR TIMES",
    "isCorrection": false
+  },
+  {
+   "id": "tdnet-1277486",
+   "date": "2026-08-24",
+   "time": "15:30",
+   "code": "9913",
+   "name": "日邦産業株式会社",
+   "exch": "東",
+   "title": "「中期経営計画2028」策定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525047.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1277471",
+   "date": "2026-08-24",
+   "time": "15:30",
+   "code": "6635",
+   "name": "株式会社大日光・エンジニアリング",
+   "exch": "東",
+   "title": "（訂正・数値データ訂正）「2026年12月期　第2四半期（中間期）決算短信〔日本基準〕(連結)」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524995.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
   },
   {
    "id": "edinet-S100YY3A",
