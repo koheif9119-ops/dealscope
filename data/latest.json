@@ -1,6 +1,276 @@
 {
- "updatedAt": "2026-08-24T11:43:14+09:00",
+ "updatedAt": "2026-08-24T12:51:20+09:00",
  "items": [
+  {
+   "id": "tdnet-1277406",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1654",
+   "name": "ｉＦブロッサム",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524961.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277405",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1653",
+   "name": "ｉＦＥＳＧセレクト",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524964.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277404",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1652",
+   "name": "ｉＦ女性活躍ＷＩＮ",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524967.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277403",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1599",
+   "name": "ｉＦＪＰＸ日経４００",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524951.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277402",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1585",
+   "name": "ｉＦＥＸ－Ｆ",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524948.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277401",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1479",
+   "name": "ｉＦＭＳＣＩ人材設備",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月11日～2026年7月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524954.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277400",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1466",
+   "name": "ｉＦＪ４００Ｗベア",
+   "exch": "東",
+   "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525021.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277399",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1457",
+   "name": "ｉＦＴＰＸベア",
+   "exch": "東",
+   "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524997.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277398",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1456",
+   "name": "ｉＦ２２５ベア",
+   "exch": "東",
+   "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524992.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277397",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1368",
+   "name": "ｉＦＴＰＸＷベア",
+   "exch": "東",
+   "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524989.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277396",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1367",
+   "name": "ｉＦＴＰＸダブル",
+   "exch": "東",
+   "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524983.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277395",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1366",
+   "name": "ｉＦ２２５Ｗベア",
+   "exch": "東",
+   "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524979.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277394",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1365",
+   "name": "ｉＦ２２５ダブル",
+   "exch": "東",
+   "title": "2027年1月期 中間決算短信（2026年1月11日～2026年7月10日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524976.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277393",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1320",
+   "name": "ｉＦ２２５年１",
+   "exch": "東",
+   "title": "2026年7月期（2025年7月11日～2026年7月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524919.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277392",
+   "date": "2026-08-24",
+   "time": "12:00",
+   "code": "1305",
+   "name": "ｉＦＴＰＸ年１",
+   "exch": "東",
+   "title": "2026年7月期（2025年7月11日～2026年7月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524945.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
   {
    "id": "tdnet-1277386",
    "date": "2026-08-24",
