@@ -1,5 +1,59 @@
 [
  {
+  "id": "tdnet-1277536",
+  "date": "2026-08-24",
+  "time": "17:00",
+  "code": "6239",
+  "name": "株式会社ナガオカ",
+  "exch": "東",
+  "title": "中期経営計画の策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525232.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277528",
+  "date": "2026-08-24",
+  "time": "17:00",
+  "code": "2323",
+  "name": "株式会社ｆｏｎｆｕｎ",
+  "exch": "東",
+  "title": "連結子会社（株式会社YNP）によるインサイドグロース株式会社のカスタマー派遣事業譲受に関する補足説明資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525266.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277527",
+  "date": "2026-08-24",
+  "time": "17:00",
+  "code": "2323",
+  "name": "株式会社ｆｏｎｆｕｎ",
+  "exch": "東",
+  "title": "連結子会社（株式会社YNP）によるインサイドグロース株式会社のカスタマー派遣事業譲受に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525263.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1277524",
   "date": "2026-08-24",
   "time": "16:30",
