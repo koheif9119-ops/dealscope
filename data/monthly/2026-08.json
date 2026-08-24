@@ -1,5 +1,40 @@
 [
  {
+  "id": "prtimes-7ed58572d224",
+  "date": "2026-08-24",
+  "time": "19:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "ハワイアン＆ウェディング衣装等の製造・販売・レンタルの3事業を手掛けるMuumuu Rainbow Fashion LLCの持分取得及び子会社化のお知らせ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000099.000006481.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1277558",
+  "date": "2026-08-24",
+  "time": "19:30",
+  "code": "7030",
+  "name": "株式会社スプリックス",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524038.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1277557",
   "date": "2026-08-24",
   "time": "19:00",
