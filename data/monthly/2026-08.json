@@ -270,6 +270,23 @@
   "market": "不明"
  },
  {
+  "id": "prtimes-878cba8fe493",
+  "date": "2026-08-24",
+  "time": "11:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "会社を売った人・買った人の\"生の声\"を聞く。M&A経験者と検討者のクローズド交流会「M&A本音ナイト」第三回を9月17日(木)に参謀BAR新宿で開催",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000144.000016218.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1277386",
   "date": "2026-08-24",
   "time": "11:00",
@@ -354,6 +371,23 @@
   ],
   "title": "ウェルネスダイニング、医療DX大手ドクターズと資本業務提携　\"食×医療\"の連携で、患者とご家族を支える新たな仕組みづくりへ",
   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000125.000054072.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-b826a3571471",
+  "date": "2026-08-24",
+  "time": "10:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "「会社の未来をつなぐ」株式会社サブスクCFO、第三者承継支援サービス「事業承継CFO」を開始",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000010.000170974.html",
   "src": "PR TIMES",
   "isCorrection": false
  },
