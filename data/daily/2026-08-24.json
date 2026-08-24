@@ -1,5 +1,56 @@
 [
  {
+  "id": "prtimes-ce49e8a76e7f",
+  "date": "2026-08-24",
+  "time": "15:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "ボルテックス、七十七銀行と「ポジティブ・インパクト・ファイナンス」契約を締結",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000292.000012519.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "edinet-S100YY3A",
+  "date": "2026-08-24",
+  "time": "14:46",
+  "code": "8908",
+  "name": "株式会社毎日コムネット",
+  "exch": "東",
+  "title": "有価証券報告書－第48期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YY3A",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-7fb73147ad41",
+  "date": "2026-08-24",
+  "time": "14:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "資本業務提携契約の締結、及び集合住宅向け光回線サービスの「3ブランド」体制での展開開始について",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000078.000006908.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "edinet-S100YXXB",
   "date": "2026-08-24",
   "time": "14:14",
