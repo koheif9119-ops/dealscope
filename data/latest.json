@@ -1,6 +1,24 @@
 {
- "updatedAt": "2026-08-24T18:42:24+09:00",
+ "updatedAt": "2026-08-24T19:33:43+09:00",
  "items": [
+  {
+   "id": "tdnet-1277557",
+   "date": "2026-08-24",
+   "time": "19:00",
+   "code": "6572",
+   "name": "オープングループ株式会社",
+   "exch": "東",
+   "title": "オープングループ株式会社（証券コード：6572）に対する公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525352.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "tdnet-1277555",
    "date": "2026-08-24",
