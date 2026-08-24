@@ -1,6 +1,40 @@
 {
- "updatedAt": "2026-08-24T08:16:02+09:00",
+ "updatedAt": "2026-08-24T10:03:17+09:00",
  "items": [
+  {
+   "id": "edinet-S100YY3G",
+   "date": "2026-08-24",
+   "time": "09:02",
+   "code": "2459",
+   "name": "アウンコンサルティング株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第28期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YY3G",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-312107489ca6",
+   "date": "2026-08-24",
+   "time": "08:00",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "「不動産も借入も増えた。財布の現金は？」元銀行マン×不動産特化税理士が“税引後の手残り”から考える収益化済み民泊M&Aセミナーを8月29日開催",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000159.000125953.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "prtimes-610a32659b10",
    "date": "2026-08-24",
