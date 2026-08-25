@@ -1,5 +1,22 @@
 [
  {
+  "id": "edinet-S100YYGF",
+  "date": "2026-08-25",
+  "time": "09:15",
+  "code": "3297",
+  "name": "株式会社東武住販",
+  "exch": "東",
+  "title": "有価証券報告書－第43期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYGF",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "prtimes-610a32659b10",
   "date": "2026-08-25",
   "time": "04:10",
