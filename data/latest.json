@@ -1,6 +1,166 @@
 {
- "updatedAt": "2026-08-25T14:58:57+09:00",
+ "updatedAt": "2026-08-25T15:57:36+09:00",
  "items": [
+  {
+   "id": "tdnet-1277657",
+   "date": "2026-08-25",
+   "time": "15:30",
+   "code": "8963",
+   "name": "Ｒ－ＩＮＶ",
+   "exch": "東",
+   "title": "2026年６月期決算短信(REIT)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525687.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277656",
+   "date": "2026-08-25",
+   "time": "15:30",
+   "code": "8766",
+   "name": "東京海上ホールディングス株式会社",
+   "exch": "東",
+   "title": "株式分割、株主優待制度の導入、株式分割に伴う定款の一部変更、配当予想の修正および自己株式取得に係る事項の変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525826.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277647",
+   "date": "2026-08-25",
+   "time": "15:30",
+   "code": "7590",
+   "name": "株式会社タカショー",
+   "exch": "東",
+   "title": "2027年１月期  第２四半期（中間期）決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525283.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1277643",
+   "date": "2026-08-25",
+   "time": "15:30",
+   "code": "6728",
+   "name": "株式会社　アルバック",
+   "exch": "東",
+   "title": "（開示事項の経過）連結子会社の会社分割（新設分割）完了に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525577.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "会社分割"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277633",
+   "date": "2026-08-25",
+   "time": "15:30",
+   "code": "4424",
+   "name": "株式会社Ａｍａｚｉａ",
+   "exch": "東",
+   "title": "非連結子会社の異動（株式譲渡）及び特別利益の計上に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525510.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式譲渡",
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1277622",
+   "date": "2026-08-25",
+   "time": "15:30",
+   "code": "3697",
+   "name": "株式会社ＳＨＩＦＴ",
+   "exch": "東",
+   "title": "当社子会社（DICO株式会社）の吸収合併（簡易合併）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525833.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YYMC",
+   "date": "2026-08-25",
+   "time": "15:30",
+   "code": "5575",
+   "name": "株式会社Ｇｌｏｂｅｅ",
+   "exch": "東",
+   "title": "有価証券報告書－第12期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYMC",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100YYKZ",
+   "date": "2026-08-25",
+   "time": "15:30",
+   "code": "6047",
+   "name": "株式会社Ｇｕｎｏｓｙ",
+   "exch": "東",
+   "title": "有価証券報告書－第14期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYKZ",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YYB1",
+   "date": "2026-08-25",
+   "time": "15:15",
+   "code": "7269",
+   "name": "スズキ株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第160期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYB1",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
   {
    "id": "tdnet-1277594",
    "date": "2026-08-25",
