@@ -1,5 +1,90 @@
 [
  {
+  "id": "edinet-S100YYIV",
+  "date": "2026-08-25",
+  "time": "11:00",
+  "code": "3021",
+  "name": "株式会社パシフィックネット",
+  "exch": "東",
+  "title": "有価証券報告書－第38期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYIV",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YYIN",
+  "date": "2026-08-25",
+  "time": "10:41",
+  "code": "9812",
+  "name": "株式会社テーオーホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第72期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYIN",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YYAI",
+  "date": "2026-08-25",
+  "time": "10:17",
+  "code": "9216",
+  "name": "ビーウィズ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第27期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYAI",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YXFY",
+  "date": "2026-08-25",
+  "time": "10:12",
+  "code": "9265",
+  "name": "ヤマシタヘルスケアホールディングス株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第9期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXFY",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YYHK",
+  "date": "2026-08-25",
+  "time": "10:07",
+  "code": "2791",
+  "name": "大黒天物産株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第40期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYHK",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "edinet-S100YYGF",
   "date": "2026-08-25",
   "time": "09:15",
