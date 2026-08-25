@@ -1,0 +1,36 @@
+[
+ {
+  "id": "prtimes-f79374982dbb",
+  "date": "2026-08-26",
+  "time": "07:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "株式会社ステージの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000958.000066462.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-dff105335fa1",
+  "date": "2026-08-26",
+  "time": "06:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "クロスプラス、8月25日(火)よりジュニア向けブランド「JENNI」のEC販売開始",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000311.000048997.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ }
+]
