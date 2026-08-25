@@ -1,6 +1,95 @@
 {
- "updatedAt": "2026-08-25T11:36:54+09:00",
+ "updatedAt": "2026-08-25T12:44:23+09:00",
  "items": [
+  {
+   "id": "tdnet-1277579",
+   "date": "2026-08-25",
+   "time": "12:01",
+   "code": "9424",
+   "name": "日本通信株式会社",
+   "exch": "東",
+   "title": "代表取締役社長兼CEO福田尚久による当社株式の取得および当該株式取得に伴う資金の貸付けに関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525340.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YXM1",
+   "date": "2026-08-25",
+   "time": "11:57",
+   "code": "5290",
+   "name": "株式会社ベルテクスコーポレーション",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第8期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXM1",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YYF7",
+   "date": "2026-08-25",
+   "time": "11:38",
+   "code": "3892",
+   "name": "株式会社岡山製紙",
+   "exch": "東",
+   "title": "有価証券報告書－第185期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYF7",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1277576",
+   "date": "2026-08-25",
+   "time": "11:30",
+   "code": "407A",
+   "name": "株式会社ＵＮＩＣＯＮホールディングス",
+   "exch": "東",
+   "title": "大豊建設株式会社との資本業務提携契約の締結及び主要株主の異動に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525524.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "資本業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1277572",
+   "date": "2026-08-25",
+   "time": "11:30",
+   "code": "1822",
+   "name": "大豊建設株式会社",
+   "exch": "東",
+   "title": "株式会社UNICONホールディングス(証券コード：407A)の株式取得及び資本業務提携契約の締結に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260821524483.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "資本業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "edinet-S100YYIV",
    "date": "2026-08-25",
