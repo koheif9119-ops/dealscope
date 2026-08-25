@@ -1,5 +1,132 @@
 [
  {
+  "id": "tdnet-1277697",
+  "date": "2026-08-25",
+  "time": "16:00",
+  "code": "9629",
+  "name": "ピー・シー・エー株式会社",
+  "exch": "東",
+  "title": "メンタルヘルス対策事業における組織再編に関するお知らせ（連結子会社間の会社分割（吸収分割））",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824524875.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277696",
+  "date": "2026-08-25",
+  "time": "16:00",
+  "code": "9425",
+  "name": "ＲｅＹｕｕ　Ｊａｐａｎ株式会社",
+  "exch": "東",
+  "title": "（開示事項の経過）株式会社あいプロの株式取得（子会社化）に関する株式譲渡契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525457.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化",
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277687",
+  "date": "2026-08-25",
+  "time": "16:00",
+  "code": "5726",
+  "name": "株式会社大阪チタニウムテクノロジーズ",
+  "exch": "東",
+  "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）（公認会計士等による期中レビューの完了）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260805509537.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277684",
+  "date": "2026-08-25",
+  "time": "16:00",
+  "code": "507A",
+  "name": "Ｐ－デジタルナレッジ",
+  "exch": "東",
+  "title": "（訂正）「2026年11月期 中間決算短信〔日本基準〕(連結)」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525378.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277682",
+  "date": "2026-08-25",
+  "time": "16:00",
+  "code": "4393",
+  "name": "株式会社バンク・オブ・イノベーション",
+  "exch": "東",
+  "title": "連結子会社の商号変更、代表取締役の異動及び会社分割（簡易新設分割）による子会社（孫会社）設立に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525532.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1277678",
+  "date": "2026-08-25",
+  "time": "16:00",
+  "code": "4326",
+  "name": "株式会社インテージホールディングス",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ（会社法第165条第2項の規定による定款の定めに基づく自己株式の取得）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525804.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YYH7",
+  "date": "2026-08-25",
+  "time": "16:00",
+  "code": "6552",
+  "name": "株式会社ＧａｍｅＷｉｔｈ",
+  "exch": "東",
+  "title": "有価証券報告書－第13期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYH7",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1277657",
   "date": "2026-08-25",
   "time": "15:30",
