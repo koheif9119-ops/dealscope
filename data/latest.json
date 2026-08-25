@@ -1,6 +1,116 @@
 {
- "updatedAt": "2026-08-25T16:45:31+09:00",
+ "updatedAt": "2026-08-25T17:37:13+09:00",
  "items": [
+  {
+   "id": "tdnet-1277718",
+   "date": "2026-08-25",
+   "time": "17:00",
+   "code": "9347",
+   "name": "日本管財ホールディングス株式会社",
+   "exch": "東",
+   "title": "特定子会社の異動に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525963.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277717",
+   "date": "2026-08-25",
+   "time": "17:00",
+   "code": "6533",
+   "name": "株式会社Ｏｒｃｈｅｓｔｒａ　Ｈｏｌｄｉｎｇｓ",
+   "exch": "東",
+   "title": "株式会社Orchestra Holdingsによる株式会社Sharing Innovationsの完全子会社化に関する株式交換契約締結（簡易株式交換）のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525597.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化",
+    "株式交換"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277714",
+   "date": "2026-08-25",
+   "time": "17:00",
+   "code": "5244",
+   "name": "株式会社ｊｉｇ．ｊｐ",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525954.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1277711",
+   "date": "2026-08-25",
+   "time": "17:00",
+   "code": "4178",
+   "name": "株式会社Ｓｈａｒｉｎｇ　Ｉｎｎｏｖａｔｉｏｎｓ",
+   "exch": "東",
+   "title": "株式会社Orchestra Holdingsによる株式会社Sharing Innovationsの完全子会社化に関する株式交換契約締結（簡易株式交換）のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525231.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化",
+    "株式交換"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1277707",
+   "date": "2026-08-25",
+   "time": "17:00",
+   "code": "3133",
+   "name": "株式会社海帆",
+   "exch": "東",
+   "title": "簡易株式交換によるスペーム株式会社の完全子会社化完了に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525776.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化",
+    "株式交換"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100YYKB",
+   "date": "2026-08-25",
+   "time": "16:55",
+   "code": "523A",
+   "name": "株式会社セイワホールディングス",
+   "exch": "東",
+   "title": "有価証券報告書－第6期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYKB",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
   {
    "id": "tdnet-1277697",
    "date": "2026-08-25",
