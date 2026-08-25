@@ -1,6 +1,23 @@
 {
- "updatedAt": "2026-08-25T13:34:41+09:00",
+ "updatedAt": "2026-08-25T14:28:09+09:00",
  "items": [
+  {
+   "id": "edinet-S100YYBG",
+   "date": "2026-08-25",
+   "time": "14:20",
+   "code": "4885",
+   "name": "室町ケミカル株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第80期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYBG",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "tdnet-1277587",
    "date": "2026-08-25",
@@ -192,6 +209,23 @@
    ],
    "isCorrection": false,
    "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-a82bf71684f8",
+   "date": "2026-08-25",
+   "time": "10:30",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "株式会社ファイナンス・プロデュース 共同創業者 松井克成、 日経オンラインセミナー「企業価値向上のためのM&A経営戦略」に登壇",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000005.000181331.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "edinet-S100YYAI",
