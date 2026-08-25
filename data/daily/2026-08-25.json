@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1277594",
+  "date": "2026-08-25",
+  "time": "14:30",
+  "code": "2388",
+  "name": "株式会社ウェッジホールディングス",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525777.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "edinet-S100YYBG",
   "date": "2026-08-25",
   "time": "14:20",
