@@ -1,5 +1,56 @@
 [
  {
+  "id": "edinet-S100YYOW",
+  "date": "2026-08-26",
+  "time": "17:04",
+  "code": "464A",
+  "name": "株式会社ＱＰＳホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第1期(2025/12/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYOW",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100YYV1",
+  "date": "2026-08-26",
+  "time": "16:47",
+  "code": "402A",
+  "name": "株式会社アクセルスペースホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第7期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYV1",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100YYDI",
+  "date": "2026-08-26",
+  "time": "16:42",
+  "code": "3349",
+  "name": "株式会社コスモス薬品",
+  "exch": "東",
+  "title": "有価証券報告書－第44期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYDI",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "edinet-S100YYO2",
   "date": "2026-08-26",
   "time": "16:36",
@@ -416,6 +467,23 @@
   ],
   "isCorrection": false,
   "market": "グロース"
+ },
+ {
+  "id": "prtimes-9aae3688ceeb",
+  "date": "2026-08-26",
+  "time": "15:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "Dynatrace、AIオブザーバビリティのリーダー企業Arizeを買収",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000026.000147272.html",
+  "src": "PR TIMES",
+  "isCorrection": false
  },
  {
   "id": "prtimes-737c764a2a3e",
