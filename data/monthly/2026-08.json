@@ -1,5 +1,126 @@
 [
  {
+  "id": "edinet-S100YYNO",
+  "date": "2026-08-26",
+  "time": "11:39",
+  "code": "7921",
+  "name": "株式会社ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ",
+  "exch": "東",
+  "title": "有価証券報告書－第89期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYNO",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277753",
+  "date": "2026-08-26",
+  "time": "11:00",
+  "code": "7170",
+  "name": "Ｐ－中央グループ",
+  "exch": "東",
+  "title": "令和8年12月期　中間決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526139.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277751",
+  "date": "2026-08-26",
+  "time": "10:30",
+  "code": "5162",
+  "name": "株式会社朝日ラバー",
+  "exch": "東",
+  "title": "公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526204.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YYQ5",
+  "date": "2026-08-26",
+  "time": "10:22",
+  "code": "2984",
+  "name": "ヤマイチエステート株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第37期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYQ5",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YYQ7",
+  "date": "2026-08-26",
+  "time": "10:21",
+  "code": "2984",
+  "name": "ヤマイチエステート株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第36期(2024/04/01－2025/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYQ7",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YYOS",
+  "date": "2026-08-26",
+  "time": "10:10",
+  "code": "6505",
+  "name": "東洋電機製造株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第165期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYOS",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-e1b057380a57",
+  "date": "2026-08-26",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "東海３社を軸にM&Aで鋳造事業を拡大！後継者難の製造業を再生する影山グループ、桑名で経営方針発表会を初開催",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000017.000106320.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "edinet-S100YYLT",
   "date": "2026-08-26",
   "time": "09:21",
