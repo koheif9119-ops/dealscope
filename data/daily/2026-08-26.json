@@ -1,5 +1,232 @@
 [
  {
+  "id": "edinet-S100YYO2",
+  "date": "2026-08-26",
+  "time": "16:36",
+  "code": "372A",
+  "name": "株式会社レント",
+  "exch": "東",
+  "title": "有価証券報告書－第42期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYO2",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YYT8",
+  "date": "2026-08-26",
+  "time": "16:32",
+  "code": "463A",
+  "name": "株式会社インテリックスホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第1期(2025/12/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYT8",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YYGU",
+  "date": "2026-08-26",
+  "time": "16:21",
+  "code": "6083",
+  "name": "ＥＲＩホールディングス株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第13期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYGU",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277848",
+  "date": "2026-08-26",
+  "time": "16:10",
+  "code": "3472",
+  "name": "Ｒ－日本ホテル＆レジ",
+  "exch": "東",
+  "title": "（訂正）「2026年5月期 決算短信（REIT）」の一部訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526539.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277866",
+  "date": "2026-08-26",
+  "time": "16:00",
+  "code": "7912",
+  "name": "大日本印刷株式会社",
+  "exch": "東",
+  "title": "オーストリア上場企業「AUSTRIACARD HOLDINGS AG」株式の公開買付け結果に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526245.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277863",
+  "date": "2026-08-26",
+  "time": "16:00",
+  "code": "6533",
+  "name": "株式会社Ｏｒｃｈｅｓｔｒａ　Ｈｏｌｄｉｎｇｓ",
+  "exch": "東",
+  "title": "株式会社Sharing Innovationsの完全子会社化に関する補足資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526584.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277857",
+  "date": "2026-08-26",
+  "time": "16:00",
+  "code": "4112",
+  "name": "保土谷化学工業株式会社",
+  "exch": "東",
+  "title": "（開示事項の経過）Framochem Francia-Magyar Finomkemiai Kft社の持分取得（完全子会社化）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526532.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277856",
+  "date": "2026-08-26",
+  "time": "16:00",
+  "code": "3840",
+  "name": "パス株式会社",
+  "exch": "東",
+  "title": "連結子会社の解散及び清算並びに事業の一部廃止及び業務提携の解消に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526559.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277850",
+  "date": "2026-08-26",
+  "time": "16:00",
+  "code": "1401",
+  "name": "株式会社エムビーエス",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2026年５月期決算短信〔日本基準〕（非連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525985.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100YYQB",
+  "date": "2026-08-26",
+  "time": "16:00",
+  "code": "1401",
+  "name": "株式会社エムビーエス",
+  "exch": "東",
+  "title": "有価証券報告書－第29期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYQB",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100YYN7",
+  "date": "2026-08-26",
+  "time": "16:00",
+  "code": "5932",
+  "name": "三協立山株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第81期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYN7",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YYQQ",
+  "date": "2026-08-26",
+  "time": "15:59",
+  "code": "2722",
+  "name": "株式会社ＩＫホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第45期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYQQ",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YY70",
+  "date": "2026-08-26",
+  "time": "15:53",
+  "code": "4043",
+  "name": "株式会社トクヤマ",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第162期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YY70",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
   "id": "edinet-S100YYUS",
   "date": "2026-08-26",
   "time": "15:36",
@@ -32,6 +259,61 @@
   ],
   "isCorrection": false,
   "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277835",
+  "date": "2026-08-26",
+  "time": "15:30",
+  "code": "8985",
+  "name": "Ｒ－ＪＨＲ",
+  "exch": "東",
+  "title": "2026年12月期 中間決算短信（ＲＥＩＴ）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825526085.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1277817",
+  "date": "2026-08-26",
+  "time": "15:30",
+  "code": "4840",
+  "name": "株式会社トライアイズ",
+  "exch": "東",
+  "title": "株式会社LIMNOの株式取得（子会社等の異動を伴う株式取得、特定子会社の異動）に向けた基本合意書締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526316.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277799",
+  "date": "2026-08-26",
+  "time": "15:30",
+  "code": "277A",
+  "name": "グロービング株式会社",
+  "exch": "東",
+  "title": "2026年５月期  決算短信〔ＩＦＲＳ〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525019.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
  },
  {
   "id": "edinet-S100YYQX",
