@@ -1,6 +1,57 @@
 {
- "updatedAt": "2026-08-26T13:35:32+09:00",
+ "updatedAt": "2026-08-26T14:30:37+09:00",
  "items": [
+  {
+   "id": "edinet-S100YYTC",
+   "date": "2026-08-26",
+   "time": "14:25",
+   "code": "205A",
+   "name": "株式会社ロゴスホールディングス",
+   "exch": "東",
+   "title": "有価証券報告書－第6期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYTC",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100YYNN",
+   "date": "2026-08-26",
+   "time": "14:12",
+   "code": "6460",
+   "name": "セガサミーホールディングス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第22期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYNN",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YYRG",
+   "date": "2026-08-26",
+   "time": "13:38",
+   "code": "4076",
+   "name": "株式会社シイエヌエス",
+   "exch": "東",
+   "title": "有価証券報告書－第41期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYRG",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
   {
    "id": "edinet-S100YYSK",
    "date": "2026-08-26",
@@ -445,6 +496,23 @@
    ],
    "isCorrection": false,
    "market": "不明"
+  },
+  {
+   "id": "prtimes-aca797f6e2c8",
+   "date": "2026-08-26",
+   "time": "10:55",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "買収"
+   ],
+   "title": "【三浦工業株式会社】三浦工業のグループ会社Cleaver-BrooksによるR.F. MacDonaldの買収に関するお知らせ",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000276.000028191.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "prtimes-1bee790488c8",
