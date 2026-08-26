@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-26T11:45:10+09:00",
+ "updatedAt": "2026-08-26T12:50:57+09:00",
  "items": [
   {
    "id": "edinet-S100YYNO",
@@ -35,6 +35,23 @@
    ],
    "isCorrection": false,
    "market": "不明"
+  },
+  {
+   "id": "prtimes-1bee790488c8",
+   "date": "2026-08-26",
+   "time": "10:41",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "MBO"
+   ],
+   "title": "POD Capital、エコグリーンホールディングスのMBOを支援",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000016.000089105.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "tdnet-1277751",
