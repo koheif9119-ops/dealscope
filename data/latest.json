@@ -1,6 +1,58 @@
 {
- "updatedAt": "2026-08-26T08:20:40+09:00",
+ "updatedAt": "2026-08-26T10:04:20+09:00",
  "items": [
+  {
+   "id": "edinet-S100YYLT",
+   "date": "2026-08-26",
+   "time": "09:21",
+   "code": "2153",
+   "name": "Ｅ・Ｊホールディングス株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第19期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYLT",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YYMP",
+   "date": "2026-08-26",
+   "time": "09:01",
+   "code": "4465",
+   "name": "株式会社ニイタカ",
+   "exch": "東",
+   "title": "有価証券報告書－第64期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYMP",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1277740",
+   "date": "2026-08-26",
+   "time": "08:45",
+   "code": "7523",
+   "name": "アールビバン株式会社",
+   "exch": "東",
+   "title": "株式会社Orsayによる当社株式に対する公開買付けの結果並びに親会社、主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526117.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "prtimes-f79374982dbb",
    "date": "2026-08-26",
@@ -792,6 +844,23 @@
    ],
    "title": "ヤドロク、温泉旅館事業承継ファンドを設立",
    "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000002.000189433.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-efe64a3ada24",
+   "date": "2026-08-24",
+   "time": "22:10",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "株式会社MAE、日本酒「IWA」の株式会社白岩と資本業務提携。立山の地で、米づくりから酒づくりまでを地域とともに育てる",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000024.000131566.html",
    "src": "PR TIMES",
    "isCorrection": false
   },

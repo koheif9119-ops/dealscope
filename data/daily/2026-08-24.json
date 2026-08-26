@@ -1,5 +1,22 @@
 [
  {
+  "id": "prtimes-efe64a3ada24",
+  "date": "2026-08-24",
+  "time": "22:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "株式会社MAE、日本酒「IWA」の株式会社白岩と資本業務提携。立山の地で、米づくりから酒づくりまでを地域とともに育てる",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000024.000131566.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "prtimes-7ed58572d224",
   "date": "2026-08-24",
   "time": "19:40",
