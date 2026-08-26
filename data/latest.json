@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-08-26T17:38:04+09:00",
+ "updatedAt": "2026-08-26T18:36:23+09:00",
  "items": [
+  {
+   "id": "tdnet-1277896",
+   "date": "2026-08-26",
+   "time": "18:00",
+   "code": "3903",
+   "name": "株式会社ｇｕｍｉ",
+   "exch": "東",
+   "title": "(訂正) 「グループ内組織再編（子会社に対する債権放棄、現物分配による子会社株式の取得、および完全子会社の吸収合併）に関するお知らせ」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526458.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1277895",
+   "date": "2026-08-26",
+   "time": "17:33",
+   "code": "7377",
+   "name": "ＤＮホールディングス株式会社",
+   "exch": "東",
+   "title": "「中期経営計画2029」策定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526667.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "edinet-S100YYOW",
    "date": "2026-08-26",
