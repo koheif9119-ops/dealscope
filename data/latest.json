@@ -1,6 +1,416 @@
 {
- "updatedAt": "2026-08-26T12:50:57+09:00",
+ "updatedAt": "2026-08-26T13:35:32+09:00",
  "items": [
+  {
+   "id": "edinet-S100YYSK",
+   "date": "2026-08-26",
+   "time": "13:33",
+   "code": "5869",
+   "name": "株式会社早稲田学習研究会",
+   "exch": "東",
+   "title": "有価証券報告書－第34期(2025/04/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYSK",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YYEW",
+   "date": "2026-08-26",
+   "time": "13:07",
+   "code": "9651",
+   "name": "日本プロセス株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第59期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYEW",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YYEO",
+   "date": "2026-08-26",
+   "time": "13:04",
+   "code": "1376",
+   "name": "カネコ種苗株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第79期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYEO",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1277781",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1633",
+   "name": "ＮＦ不動産Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 不動産（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526237.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277780",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1632",
+   "name": "ＮＦ金融Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 金融（除く銀行）（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526235.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277779",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1631",
+   "name": "ＮＦ銀行Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 銀行（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526233.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277778",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1630",
+   "name": "ＮＦ小売Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 小売（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526231.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277777",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1629",
+   "name": "ＮＦ商社卸売Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 商社・卸売（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526229.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277776",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1628",
+   "name": "ＮＦ運輸物流Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 運輸・物流（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526226.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277775",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1627",
+   "name": "ＮＦ電力ガスＴ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 電力・ガス（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526224.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277774",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1626",
+   "name": "ＮＦ情通・他Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 情報通信・サービスその他（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526200.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277773",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1625",
+   "name": "ＮＦ電機精密Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 電機・精密（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526195.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277772",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1624",
+   "name": "ＮＦ機械Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 機械（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526193.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277771",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1623",
+   "name": "ＮＦ鉄鋼非鉄Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 鉄鋼・非鉄（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526191.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277770",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1622",
+   "name": "ＮＦ自動車Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 自動車・輸送機（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526187.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277769",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1621",
+   "name": "ＮＦ医薬品Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 医薬品（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526185.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277768",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1620",
+   "name": "ＮＦ素材化学Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 素材・化学（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526183.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277767",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1619",
+   "name": "ＮＦ建設資材Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 建設・資材（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526160.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277766",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1618",
+   "name": "ＮＦエネ資源Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS エネルギー資源（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526157.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277765",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1617",
+   "name": "ＮＦ食品Ｔ１７",
+   "exch": "東",
+   "title": "NEXT FUNDS 食品（TOPIX－17）上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526155.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277764",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1615",
+   "name": "ＮＦ銀行業",
+   "exch": "東",
+   "title": "NEXT FUNDS 東証銀行業株価指数連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526152.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1277763",
+   "date": "2026-08-26",
+   "time": "13:00",
+   "code": "1311",
+   "name": "ＮＦＴＰＸ３０",
+   "exch": "東",
+   "title": "NEXT FUNDS TOPIX Core 30連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526150.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100YYFP",
+   "date": "2026-08-26",
+   "time": "12:53",
+   "code": "6496",
+   "name": "株式会社中北製作所",
+   "exch": "東",
+   "title": "有価証券報告書－第100期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYFP",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "edinet-S100YYNO",
    "date": "2026-08-26",
