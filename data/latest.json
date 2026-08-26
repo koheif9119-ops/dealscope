@@ -1,6 +1,177 @@
 {
- "updatedAt": "2026-08-26T14:30:37+09:00",
+ "updatedAt": "2026-08-26T15:41:03+09:00",
  "items": [
+  {
+   "id": "edinet-S100YYUS",
+   "date": "2026-08-26",
+   "time": "15:36",
+   "code": "340A",
+   "name": "株式会社ジグザグ",
+   "exch": "東",
+   "title": "有価証券報告書－第11期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYUS",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100YYRV",
+   "date": "2026-08-26",
+   "time": "15:31",
+   "code": "3791",
+   "name": "株式会社ＩＧポート",
+   "exch": "東",
+   "title": "有価証券報告書－第37期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYRV",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YYQX",
+   "date": "2026-08-26",
+   "time": "15:30",
+   "code": "277A",
+   "name": "グロービング株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第11期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYQX",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YYFR",
+   "date": "2026-08-26",
+   "time": "15:30",
+   "code": "1419",
+   "name": "タマホーム株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第28期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYFR",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YXP8",
+   "date": "2026-08-26",
+   "time": "15:30",
+   "code": "4198",
+   "name": "株式会社テンダ",
+   "exch": "東",
+   "title": "有価証券報告書－第31期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXP8",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YYNI",
+   "date": "2026-08-26",
+   "time": "15:23",
+   "code": "4577",
+   "name": "ダイト株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第84期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYNI",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YYIA",
+   "date": "2026-08-26",
+   "time": "15:15",
+   "code": "3824",
+   "name": "メディアファイブ株式会社",
+   "exch": "—",
+   "title": "有価証券報告書－第30期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYIA",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100YYS4",
+   "date": "2026-08-26",
+   "time": "15:03",
+   "code": "3645",
+   "name": "株式会社メディカルネット",
+   "exch": "東",
+   "title": "有価証券報告書－第25期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYS4",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "prtimes-737c764a2a3e",
+   "date": "2026-08-26",
+   "time": "14:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "スイッチメディア、伊藤忠商事と資本業務提携を締結し、リテールメディア領域における広告効果可視化を推進",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000116.000011256.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-34411c365117",
+   "date": "2026-08-26",
+   "time": "14:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A",
+    "事業承継"
+   ],
+   "title": "売り手手数料0円。飲食店の「閉店」を「承継」に変える飲食店特化のM&Aサービス『ミセウル』『ミセカウ』を提供開始",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000003.000189357.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "edinet-S100YYTC",
    "date": "2026-08-26",
