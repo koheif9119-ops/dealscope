@@ -1,5 +1,376 @@
 [
  {
+  "id": "edinet-S100YYT4",
+  "date": "2026-08-27",
+  "time": "16:00",
+  "code": "6044",
+  "name": "株式会社三機サービス",
+  "exch": "東",
+  "title": "有価証券報告書－第49期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYT4",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YZ3N",
+  "date": "2026-08-27",
+  "time": "15:51",
+  "code": "8795",
+  "name": "株式会社Ｔ＆Ｄホールディングス",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第20期(2023/04/01－2024/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZ3N",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YZ31",
+  "date": "2026-08-27",
+  "time": "15:51",
+  "code": "2769",
+  "name": "株式会社ヴィレッジヴァンガードコーポレーション",
+  "exch": "東",
+  "title": "有価証券報告書－第38期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZ31",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YZ0T",
+  "date": "2026-08-27",
+  "time": "15:46",
+  "code": "4829",
+  "name": "日本エンタープライズ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第38期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZ0T",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277993",
+  "date": "2026-08-27",
+  "time": "15:30",
+  "code": "6046",
+  "name": "株式会社リンクバル",
+  "exch": "東",
+  "title": "新規事業の開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827527074.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "新規事業"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277986",
+  "date": "2026-08-27",
+  "time": "15:30",
+  "code": "523A",
+  "name": "株式会社セイワホールディングス",
+  "exch": "東",
+  "title": "株式会社栄進電機の株式取得及び当社グループへの参画（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827527032.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1277982",
+  "date": "2026-08-27",
+  "time": "15:30",
+  "code": "463A",
+  "name": "株式会社インテリックスホールディングス",
+  "exch": "東",
+  "title": "株式取得（子会社化）に向けた基本合意書締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827526813.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277981",
+  "date": "2026-08-27",
+  "time": "15:30",
+  "code": "4430",
+  "name": "東海ソフト株式会社",
+  "exch": "東",
+  "title": "中期経営計画（2027年５月期～2029年５月期）の策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526650.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277976",
+  "date": "2026-08-27",
+  "time": "15:30",
+  "code": "3672",
+  "name": "株式会社オルトプラス",
+  "exch": "東",
+  "title": "（変更）「株式会社オカザキホールディングスとの資本業務提携及び（中略）同社株式取得（持分法適用関連会社化）に関するお知らせ」の一部変更について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827526947.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277973",
+  "date": "2026-08-27",
+  "time": "15:30",
+  "code": "3436",
+  "name": "株式会社ＳＵＭＣＯ",
+  "exch": "東",
+  "title": "連結子会社の異動（持分法適用関連会社への異動）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525046.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277958",
+  "date": "2026-08-27",
+  "time": "15:30",
+  "code": "2590",
+  "name": "ダイドーグループホールディングス株式会社",
+  "exch": "東",
+  "title": "2027年1月期  第2四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827526924.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277951",
+  "date": "2026-08-27",
+  "time": "15:30",
+  "code": "2148",
+  "name": "アイティメディア株式会社",
+  "exch": "東",
+  "title": "当社完全子会社（有限会社ネットビジョン）の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526748.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YYUD",
+  "date": "2026-08-27",
+  "time": "15:30",
+  "code": "4430",
+  "name": "東海ソフト株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第57期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYUD",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YY8G",
+  "date": "2026-08-27",
+  "time": "15:08",
+  "code": "4113",
+  "name": "田岡化学工業株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第126期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YY8G",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277948",
+  "date": "2026-08-27",
+  "time": "15:00",
+  "code": "7466",
+  "name": "ＳＰＫ株式会社",
+  "exch": "東",
+  "title": "株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526788.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1277942",
+  "date": "2026-08-27",
+  "time": "15:00",
+  "code": "2198",
+  "name": "アイ・ケイ・ケイホールディングス株式会社",
+  "exch": "東",
+  "title": "人事コンサルティングサービスの新規参入開始のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526142.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "参入"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YYVN",
+  "date": "2026-08-27",
+  "time": "15:00",
+  "code": "3501",
+  "name": "ＳＵＭＩＮＯＥ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第137期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYVN",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YYJX",
+  "date": "2026-08-27",
+  "time": "14:40",
+  "code": "7725",
+  "name": "株式会社インターアクション",
+  "exch": "東",
+  "title": "有価証券報告書－第34期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYJX",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YYQ0",
+  "date": "2026-08-27",
+  "time": "14:13",
+  "code": "3877",
+  "name": "中越パルプ工業株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第110期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYQ0",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YYF5",
+  "date": "2026-08-27",
+  "time": "14:12",
+  "code": "7673",
+  "name": "ダイコー通産株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第51期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYF5",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1277933",
+  "date": "2026-08-27",
+  "time": "13:00",
+  "code": "9812",
+  "name": "株式会社テーオーホールディングス",
+  "exch": "東",
+  "title": "中期経営計画の策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827526885.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "prtimes-d3e294d770b4",
   "date": "2026-08-27",
   "time": "12:40",
