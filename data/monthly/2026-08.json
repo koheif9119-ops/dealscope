@@ -1,5 +1,90 @@
 [
  {
+  "id": "prtimes-d3e294d770b4",
+  "date": "2026-08-27",
+  "time": "12:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "総務省担当者登壇！9/8（火）事業承継等人材マッチング支援事業を解説するオンラインセミナー",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000116.000112121.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "edinet-S100YXXZ",
+  "date": "2026-08-27",
+  "time": "12:17",
+  "code": "3760",
+  "name": "株式会社ケイブ",
+  "exch": "東",
+  "title": "有価証券報告書－第32期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXXZ",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YZ0G",
+  "date": "2026-08-27",
+  "time": "12:01",
+  "code": "505A",
+  "name": "株式会社ギークリー",
+  "exch": "東",
+  "title": "有価証券報告書－第16期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZ0G",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YYVJ",
+  "date": "2026-08-27",
+  "time": "10:44",
+  "code": "3321",
+  "name": "ミタチ産業株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第50期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYVJ",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100YYY4",
+  "date": "2026-08-27",
+  "time": "10:05",
+  "code": "7808",
+  "name": "株式会社シー・エス・ランバー",
+  "exch": "東",
+  "title": "有価証券報告書－第44期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYY4",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1277901",
   "date": "2026-08-26",
   "time": "18:30",

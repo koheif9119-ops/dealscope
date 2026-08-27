@@ -1,6 +1,91 @@
 {
- "updatedAt": "2026-08-26T19:31:08+09:00",
+ "updatedAt": "2026-08-27T13:11:34+09:00",
  "items": [
+  {
+   "id": "prtimes-d3e294d770b4",
+   "date": "2026-08-27",
+   "time": "12:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "総務省担当者登壇！9/8（火）事業承継等人材マッチング支援事業を解説するオンラインセミナー",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000116.000112121.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100YXXZ",
+   "date": "2026-08-27",
+   "time": "12:17",
+   "code": "3760",
+   "name": "株式会社ケイブ",
+   "exch": "東",
+   "title": "有価証券報告書－第32期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXXZ",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YZ0G",
+   "date": "2026-08-27",
+   "time": "12:01",
+   "code": "505A",
+   "name": "株式会社ギークリー",
+   "exch": "東",
+   "title": "有価証券報告書－第16期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZ0G",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YYVJ",
+   "date": "2026-08-27",
+   "time": "10:44",
+   "code": "3321",
+   "name": "ミタチ産業株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第50期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYVJ",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YYY4",
+   "date": "2026-08-27",
+   "time": "10:05",
+   "code": "7808",
+   "name": "株式会社シー・エス・ランバー",
+   "exch": "東",
+   "title": "有価証券報告書－第44期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYY4",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "tdnet-1277901",
    "date": "2026-08-26",
@@ -4470,807 +4555,6 @@
    ],
    "title": "自分のAI会社をつくる。働かせる。仕事を受注する。そして、育てた会社をM&Aへ。「SoLoCo」9月1日正式ローンチ！正式ローンチを記念してキャンペーンを実施します！",
    "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000026.000114735.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-dc528f4aed5e",
-   "date": "2026-08-20",
-   "time": "18:00",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "子会社化"
-   ],
-   "title": "米国PCI Energy Solutions の完全子会社化に関するお知らせ",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000435.000120285.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "tdnet-1277114",
-   "date": "2026-08-20",
-   "time": "17:30",
-   "code": "9219",
-   "name": "株式会社ギックス",
-   "exch": "東",
-   "title": "（訂正）「2026年６月期 決算短信〔日本基準〕（連結）」の一部訂正について",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523759.pdf",
-   "src": "TDnet",
-   "hasXbrl": true,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": true,
-   "market": "グロース"
-  },
-  {
-   "id": "tdnet-1277113",
-   "date": "2026-08-20",
-   "time": "17:00",
-   "code": "9342",
-   "name": "株式会社スマサポ",
-   "exch": "東",
-   "title": "株式取得（子会社化）資金の借入に関するお知らせ",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523454.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "ma",
-   "tags": [
-    "株式取得",
-    "子会社化"
-   ],
-   "isCorrection": false,
-   "market": "グロース"
-  },
-  {
-   "id": "tdnet-1277112",
-   "date": "2026-08-20",
-   "time": "17:00",
-   "code": "9342",
-   "name": "株式会社スマサポ",
-   "exch": "東",
-   "title": "（訂正）「事業譲受及び業務提携に関するお知らせ」の一部訂正について",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523450.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "ma",
-   "tags": [
-    "事業譲受"
-   ],
-   "isCorrection": true,
-   "market": "グロース"
-  },
-  {
-   "id": "tdnet-1277110",
-   "date": "2026-08-20",
-   "time": "17:00",
-   "code": "9027",
-   "name": "株式会社ロジネットジャパン",
-   "exch": "札",
-   "title": "自己株式の取得及び立会外自己株式取得取引による自己株式の買付け 並びに自己株式の消却に関するお知らせ",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523921.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "ma",
-   "tags": [
-    "株式取得"
-   ],
-   "isCorrection": false,
-   "market": "地方"
-  },
-  {
-   "id": "tdnet-1277089",
-   "date": "2026-08-20",
-   "time": "16:40",
-   "code": "3296",
-   "name": "Ｒ－日本リート",
-   "exch": "東",
-   "title": "2026年6月期決算短信(ＲＥＩＴ)",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523868.pdf",
-   "src": "TDnet",
-   "hasXbrl": true,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1277085",
-   "date": "2026-08-20",
-   "time": "16:15",
-   "code": "4011",
-   "name": "株式会社ヘッドウォータース",
-   "exch": "東",
-   "title": "（訂正・数値データ訂正）「2026年12月期第2四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523867.pdf",
-   "src": "TDnet",
-   "hasXbrl": true,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": true,
-   "market": "グロース"
-  },
-  {
-   "id": "tdnet-1277079",
-   "date": "2026-08-20",
-   "time": "16:00",
-   "code": "7966",
-   "name": "リンテック株式会社",
-   "exch": "東",
-   "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)（公認会計士等による期中レビューの完了）",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523359.pdf",
-   "src": "TDnet",
-   "hasXbrl": true,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "プライム"
-  },
-  {
-   "id": "tdnet-1277078",
-   "date": "2026-08-20",
-   "time": "16:00",
-   "code": "7966",
-   "name": "リンテック株式会社",
-   "exch": "東",
-   "title": "自己株式取得に係る事項の決定に関するお知らせ",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523357.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "ma",
-   "tags": [
-    "株式取得"
-   ],
-   "isCorrection": false,
-   "market": "プライム"
-  },
-  {
-   "id": "tdnet-1277071",
-   "date": "2026-08-20",
-   "time": "16:00",
-   "code": "396A",
-   "name": "業界改革厳選ＲＥＩＴ",
-   "exch": "東",
-   "title": "2026年7月期（2026年1月13日～2026年7月12日）決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523782.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1277068",
-   "date": "2026-08-20",
-   "time": "16:00",
-   "code": "395A",
-   "name": "業界改革厳選地銀",
-   "exch": "東",
-   "title": "2026年7月期（2025年7月16日～2026年7月12日）決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523765.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1277067",
-   "date": "2026-08-20",
-   "time": "16:00",
-   "code": "394A",
-   "name": "業界改革厳選テレビ",
-   "exch": "東",
-   "title": "2026年7月期（2025年7月16日～2026年7月12日）決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523746.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1277064",
-   "date": "2026-08-20",
-   "time": "16:00",
-   "code": "318A",
-   "name": "ＶＩＸ先物ＥＴＦ",
-   "exch": "東",
-   "title": "2027年1月期　中間決算短信（2026年1月16日～2026年7月15日）",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523739.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1277062",
-   "date": "2026-08-20",
-   "time": "16:00",
-   "code": "1671",
-   "name": "ＷＴＩ原油ＥＴＦ",
-   "exch": "東",
-   "title": "2026年7月期（2026年1月16日～2026年7月15日）決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523792.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "prtimes-e23bcad145c7",
-   "date": "2026-08-20",
-   "time": "15:45",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "M&A",
-    "PMI"
-   ],
-   "title": "M&AのITリスクを現役エンジニアが評価する、ITデューデリジェンスサービス「テクカリ for ITDD・PMI」提供開始",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000003.000179722.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "tdnet-1277009",
-   "date": "2026-08-20",
-   "time": "15:40",
-   "code": "4960",
-   "name": "ケミプロ化成株式会社",
-   "exch": "東",
-   "title": "第３期中期経営計画の進捗状況と業績計画修正のお知らせ",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260818522251.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "chukei",
-   "tags": [
-    "中期経営計画"
-   ],
-   "isCorrection": false,
-   "market": "スタンダード"
-  },
-  {
-   "id": "tdnet-1277053",
-   "date": "2026-08-20",
-   "time": "15:30",
-   "code": "8928",
-   "name": "穴吹興産株式会社",
-   "exch": "東",
-   "title": "（訂正・数値データ訂正）「2026年６月期  決算短信〔日本基準〕（連結）」の一部訂正について",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523427.pdf",
-   "src": "TDnet",
-   "hasXbrl": true,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": true,
-   "market": "スタンダード"
-  },
-  {
-   "id": "tdnet-1277045",
-   "date": "2026-08-20",
-   "time": "15:30",
-   "code": "7603",
-   "name": "ジーイエット株式会社",
-   "exch": "東",
-   "title": "CLANE DESIGN株式会社の株式取得に関するお知らせ",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523756.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "ma",
-   "tags": [
-    "株式取得"
-   ],
-   "isCorrection": false,
-   "market": "スタンダード"
-  },
-  {
-   "id": "tdnet-1277040",
-   "date": "2026-08-20",
-   "time": "15:30",
-   "code": "7067",
-   "name": "ブランディングテクノロジー株式会社",
-   "exch": "東",
-   "title": "株式会社menu magazineの株式の取得（子会社化）に関するお知らせ",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819522858.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "ma",
-   "tags": [
-    "子会社化"
-   ],
-   "isCorrection": false,
-   "market": "グロース"
-  },
-  {
-   "id": "tdnet-1277039",
-   "date": "2026-08-20",
-   "time": "15:30",
-   "code": "7058",
-   "name": "共栄セキュリティーサービス株式会社",
-   "exch": "東",
-   "title": "連結子会社による孫会社の吸収合併のお知らせ",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523560.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "ma",
-   "tags": [
-    "吸収合併"
-   ],
-   "isCorrection": false,
-   "market": "スタンダード"
-  },
-  {
-   "id": "tdnet-1277036",
-   "date": "2026-08-20",
-   "time": "15:30",
-   "code": "6579",
-   "name": "ログリー株式会社",
-   "exch": "東",
-   "title": "連結子会社からの配当金受領及び連結子会社の異動（株式売却）に関するお知らせ",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523361.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "ma",
-   "tags": [
-    "子会社の異動"
-   ],
-   "isCorrection": false,
-   "market": "グロース"
-  },
-  {
-   "id": "tdnet-1277034",
-   "date": "2026-08-20",
-   "time": "15:30",
-   "code": "6503",
-   "name": "三菱電機株式会社",
-   "exch": "東",
-   "title": "米国PCI Energy Solutionsの完全子会社化について －スマートエナジー領域の強化－",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523603.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "ma",
-   "tags": [
-    "子会社化"
-   ],
-   "isCorrection": false,
-   "market": "プライム"
-  },
-  {
-   "id": "tdnet-1277033",
-   "date": "2026-08-20",
-   "time": "15:30",
-   "code": "6503",
-   "name": "三菱電機株式会社",
-   "exch": "東",
-   "title": "米国PCI Energy Solutionsの完全子会社化に関するお知らせ",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260819523076.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "ma",
-   "tags": [
-    "子会社化"
-   ],
-   "isCorrection": false,
-   "market": "プライム"
-  },
-  {
-   "id": "tdnet-1277021",
-   "date": "2026-08-20",
-   "time": "15:30",
-   "code": "3747",
-   "name": "株式会社インタートレード",
-   "exch": "東",
-   "title": "連結子会社の異動（株式譲渡）に関するお知らせ",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523493.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "ma",
-   "tags": [
-    "株式譲渡",
-    "子会社の異動"
-   ],
-   "isCorrection": false,
-   "market": "スタンダード"
-  },
-  {
-   "id": "edinet-S100YXWI",
-   "date": "2026-08-20",
-   "time": "15:16",
-   "code": "2796",
-   "name": "ファーマライズホールディングス株式会社",
-   "exch": "東",
-   "title": "有価証券報告書－第40期(2025/06/01－2026/05/31)",
-   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXWI",
-   "src": "EDINET",
-   "genre": "kessan",
-   "tags": [
-    "有価証券報告書"
-   ],
-   "isCorrection": false,
-   "market": "スタンダード"
-  },
-  {
-   "id": "tdnet-1277001",
-   "date": "2026-08-20",
-   "time": "15:00",
-   "code": "5698",
-   "name": "株式会社エンビプロ・ホールディングス",
-   "exch": "東",
-   "title": "長期ビジョン「En-Vision2035」策定に関するお知らせ",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523553.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "chukei",
-   "tags": [
-    "長期ビジョン"
-   ],
-   "isCorrection": false,
-   "market": "スタンダード"
-  },
-  {
-   "id": "prtimes-06309045f2af",
-   "date": "2026-08-20",
-   "time": "14:00",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "事業承継"
-   ],
-   "title": "2年連続で新卒採用を拡大、2028年入社の採用人数を前年比約30％増へ初任給を月額5万7,700円引き上げ、月給28万8,500円に改定",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000051.000089580.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-b267dd14b549",
-   "date": "2026-08-20",
-   "time": "13:40",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "M&A"
-   ],
-   "title": "売れるネット広告社グループ（9235）、一般社団法人日本情報技術協会とAI分野で戦略的パートナーシップを締結～AIエージェントと国際標準コードを活用、EC・広告・M&Aの高度化と企業価値向上へ～",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000475.000073846.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-66a44f774073",
-   "date": "2026-08-20",
-   "time": "13:40",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "M&A"
-   ],
-   "title": "船井総研あがたFAS、製造業の経営者向け「製造業M&A戦略セミナー」を2026年9月18日に名古屋で開催。譲り受けた側と譲り渡した側の経営者が同席し、グループイン前後を解説",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000027.000184273.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-2d58d8362671",
-   "date": "2026-08-20",
-   "time": "13:40",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "事業承継"
-   ],
-   "title": "船井総研あがたFAS、無料資料「マンガでわかる事業承継-親族内承継編-」を公開。後継者が決まっている経営者に向けて、自社株の評価と10年の承継計画をマンガで解説",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000028.000184273.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "edinet-S100YXMM",
-   "date": "2026-08-20",
-   "time": "13:12",
-   "code": "4825",
-   "name": "株式会社ウェザーニューズ",
-   "exch": "東",
-   "title": "有価証券報告書－第40期(2025/06/01－2026/05/31)",
-   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXMM",
-   "src": "EDINET",
-   "genre": "kessan",
-   "tags": [
-    "有価証券報告書"
-   ],
-   "isCorrection": false,
-   "market": "プライム"
-  },
-  {
-   "id": "edinet-S100YXSF",
-   "date": "2026-08-20",
-   "time": "12:43",
-   "code": "137A",
-   "name": "Ｃｏｃｏｌｉｖｅ株式会社",
-   "exch": "東",
-   "title": "有価証券報告書－第10期(2025/06/01－2026/05/31)",
-   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXSF",
-   "src": "EDINET",
-   "genre": "kessan",
-   "tags": [
-    "有価証券報告書"
-   ],
-   "isCorrection": false,
-   "market": "グロース"
-  },
-  {
-   "id": "tdnet-1276985",
-   "date": "2026-08-20",
-   "time": "12:10",
-   "code": "541A",
-   "name": "Ｏｎｅ高配当グロース",
-   "exch": "東",
-   "title": "2026年7月期（2026年3月23日～2026年7月8日)決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523617.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1276988",
-   "date": "2026-08-20",
-   "time": "12:00",
-   "code": "2556",
-   "name": "Ｏｎｅ・Ｊリート",
-   "exch": "東",
-   "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523597.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1276987",
-   "date": "2026-08-20",
-   "time": "12:00",
-   "code": "2553",
-   "name": "Ｏｎｅ・ＣＳＩ５００",
-   "exch": "東",
-   "title": "2026年7月期（2025年7月9日～2026年7月8日)決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523588.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1276980",
-   "date": "2026-08-20",
-   "time": "11:30",
-   "code": "1498",
-   "name": "Ｏｎｅ・ＥＳＧ",
-   "exch": "東",
-   "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523563.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1276979",
-   "date": "2026-08-20",
-   "time": "11:30",
-   "code": "1493",
-   "name": "Ｏｎｅ・中小型",
-   "exch": "東",
-   "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523554.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1276978",
-   "date": "2026-08-20",
-   "time": "11:30",
-   "code": "1484",
-   "name": "Ｏｎｅ・設備人材投資",
-   "exch": "東",
-   "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523545.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1276977",
-   "date": "2026-08-20",
-   "time": "11:30",
-   "code": "1474",
-   "name": "Ｏｎｅ・ＪＰＸ４００",
-   "exch": "東",
-   "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523536.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1276973",
-   "date": "2026-08-20",
-   "time": "11:00",
-   "code": "435A",
-   "name": "ｉＦ日本配当ローテ",
-   "exch": "東",
-   "title": "2026年7月期（2026年1月8日～2026年7月7日）決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523506.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1276970",
-   "date": "2026-08-20",
-   "time": "11:00",
-   "code": "1473",
-   "name": "Ｏｎｅ・トピックス",
-   "exch": "東",
-   "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523526.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "tdnet-1276969",
-   "date": "2026-08-20",
-   "time": "11:00",
-   "code": "1369",
-   "name": "Ｏｎｅ・日経２２５",
-   "exch": "東",
-   "title": "2026年7月期（2026年1月9日～2026年7月8日)決算短信",
-   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523516.pdf",
-   "src": "TDnet",
-   "hasXbrl": false,
-   "genre": "kessan",
-   "tags": [
-    "決算短信"
-   ],
-   "isCorrection": false,
-   "market": "不明"
-  },
-  {
-   "id": "edinet-S100YXNS",
-   "date": "2026-08-20",
-   "time": "09:18",
-   "code": "3148",
-   "name": "株式会社クリエイトＳＤホールディングス",
-   "exch": "東",
-   "title": "有価証券報告書－第29期(2025/06/01－2026/05/31)",
-   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YXNS",
-   "src": "EDINET",
-   "genre": "kessan",
-   "tags": [
-    "有価証券報告書"
-   ],
-   "isCorrection": false,
-   "market": "プライム"
-  },
-  {
-   "id": "prtimes-93e1699b8d91",
-   "date": "2026-08-20",
-   "time": "07:10",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "子会社化"
-   ],
-   "title": "ネオキャリア、北海道中標津町で空き家再生を手がける株式会社リサイエを子会社化",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000492.000011666.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-84b6abff2183",
-   "date": "2026-08-20",
-   "time": "07:10",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "資本業務提携"
-   ],
-   "title": "米国企業Actus Consulting Groupとの資本業務提携（過半数株式取得・グループ化）に関するお知らせ -TCGは世界へ、中堅企業層の米国進出・事業拡大を支援-",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000374.000058707.html",
    "src": "PR TIMES",
    "isCorrection": false
   }
