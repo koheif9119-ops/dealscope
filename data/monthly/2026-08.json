@@ -1,5 +1,255 @@
 [
  {
+  "id": "tdnet-1278067",
+  "date": "2026-08-27",
+  "time": "18:00",
+  "code": "7037",
+  "name": "株式会社テノ．ホールディングス",
+  "exch": "東",
+  "title": "ピジョンハーツ株式会社の株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827527388.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1278063",
+  "date": "2026-08-27",
+  "time": "18:00",
+  "code": "3538",
+  "name": "株式会社ウイルプラスホールディングス",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2026年６月期決算短信〔日本基準〕(連結)」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827527408.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1278057",
+  "date": "2026-08-27",
+  "time": "17:15",
+  "code": "2371",
+  "name": "株式会社カカクコム",
+  "exch": "東",
+  "title": "Kamgras １株式会社による株式会社カカクコム（証券コード：2371）の株券等に対する公開買付けの買付条件等の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827527261.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1278055",
+  "date": "2026-08-27",
+  "time": "17:00",
+  "code": "9832",
+  "name": "株式会社オートバックスセブン",
+  "exch": "東",
+  "title": "特定子会社の異動（株式譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827526957.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1278051",
+  "date": "2026-08-27",
+  "time": "17:00",
+  "code": "7090",
+  "name": "株式会社リグア",
+  "exch": "東",
+  "title": "株式会社ストリートスマートとの資本業務提携契約の締結、第三者割当による新株式の発行及び第６回新株予約権の発行に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827527019.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100YZ57",
+  "date": "2026-08-27",
+  "time": "16:39",
+  "code": "189A",
+  "name": "株式会社Ｄ＆Ｍカンパニー",
+  "exch": "東",
+  "title": "有価証券報告書－第11期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZ57",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100YZ4E",
+  "date": "2026-08-27",
+  "time": "16:13",
+  "code": "198A",
+  "name": "ＰｏｓｔＰｒｉｍｅ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第7期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZ4E",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100YZ3S",
+  "date": "2026-08-27",
+  "time": "16:12",
+  "code": "8795",
+  "name": "株式会社Ｔ＆Ｄホールディングス",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第22期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZ3S",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100YZ3P",
+  "date": "2026-08-27",
+  "time": "16:04",
+  "code": "8795",
+  "name": "株式会社Ｔ＆Ｄホールディングス",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第21期(2024/04/01－2025/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZ3P",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1278030",
+  "date": "2026-08-27",
+  "time": "16:00",
+  "code": "6074",
+  "name": "株式会社ジェイエスエス",
+  "exch": "東",
+  "title": "株式会社ティップネスとの事業譲渡契約及びFASTGYM24フランチャイズ加盟契約締結のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525889.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1278026",
+  "date": "2026-08-27",
+  "time": "16:00",
+  "code": "4114",
+  "name": "株式会社日本触媒",
+  "exch": "東",
+  "title": "リチウムイオン電池用電解質LiFSI(イオネル)新工場建設計画の一部変更のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825525726.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "新工場"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1278023",
+  "date": "2026-08-27",
+  "time": "16:00",
+  "code": "3808",
+  "name": "株式会社オウケイウェイヴ",
+  "exch": "名",
+  "title": "（訂正・数値データ訂正）「2026年６月期決算短信〔日本基準〕(連結)」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526392.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "地方"
+ },
+ {
+  "id": "tdnet-1278022",
+  "date": "2026-08-27",
+  "time": "16:00",
+  "code": "3064",
+  "name": "株式会社ＭｏｎｏｔａＲＯ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827526817.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1278020",
+  "date": "2026-08-27",
+  "time": "16:00",
+  "code": "2593",
+  "name": "株式会社伊藤園",
+  "exch": "東",
+  "title": "連結子会社との会社分割（簡易吸収分割）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526550.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "edinet-S100YYT4",
   "date": "2026-08-27",
   "time": "16:00",
@@ -283,6 +533,23 @@
   ],
   "isCorrection": false,
   "market": "プライム"
+ },
+ {
+  "id": "prtimes-9e2d8970d008",
+  "date": "2026-08-27",
+  "time": "15:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "日清オイリオグループ株式会社とシコメルフードテック、資本業務提携を締結",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000043.000058297.html",
+  "src": "PR TIMES",
+  "isCorrection": false
  },
  {
   "id": "edinet-S100YYVN",
