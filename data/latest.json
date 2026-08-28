@@ -1,6 +1,323 @@
 {
- "updatedAt": "2026-08-28T03:21:51+09:00",
+ "updatedAt": "2026-08-28T15:28:17+09:00",
  "items": [
+  {
+   "id": "tdnet-1278139",
+   "date": "2026-08-28",
+   "time": "15:00",
+   "code": "9987",
+   "name": "株式会社スズケン",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260824525307.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YZ4M",
+   "date": "2026-08-28",
+   "time": "14:33",
+   "code": "6150",
+   "name": "タケダ機械株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第55期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZ4M",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1278130",
+   "date": "2026-08-28",
+   "time": "14:00",
+   "code": "7239",
+   "name": "株式会社タチエス",
+   "exch": "東",
+   "title": "（開示事項の経過）子会社の異動を伴う株式の取得及び特定子会社の異動に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260826526302.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YZDE",
+   "date": "2026-08-28",
+   "time": "13:53",
+   "code": "5967",
+   "name": "ＴＯＮＥ株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第91期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZDE",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-9c74d0d9bbbf",
+   "date": "2026-08-28",
+   "time": "13:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "子会社化"
+   ],
+   "title": "TKP、ほっかほっか亭のハークスレイより味工房スイセンの全保有株式を取得し、完全子会社化～拡大する懇親会需要に対応、料飲サービスの内製体制を強化～",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000559.000024137.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100YZCT",
+   "date": "2026-08-28",
+   "time": "13:19",
+   "code": "2462",
+   "name": "ライク株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第33期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZCT",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YZB3",
+   "date": "2026-08-28",
+   "time": "12:28",
+   "code": "4568",
+   "name": "第一三共株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第21期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZB3",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1278109",
+   "date": "2026-08-28",
+   "time": "12:00",
+   "code": "5858",
+   "name": "株式会社ＳＴＧ",
+   "exch": "東",
+   "title": "株式会社折居技研の株式の取得（子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828527521.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100YZBS",
+   "date": "2026-08-28",
+   "time": "11:39",
+   "code": "6380",
+   "name": "オリエンタルチエン工業株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第107期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZBS",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1278103",
+   "date": "2026-08-28",
+   "time": "11:30",
+   "code": "2689",
+   "name": "オルバヘルスケアホールディングス株式会社",
+   "exch": "東",
+   "title": "（訂正・数値データ訂正）「2026 年６月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828527708.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YZAA",
+   "date": "2026-08-28",
+   "time": "11:20",
+   "code": "9023",
+   "name": "東京地下鉄株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第22期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZAA",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1278099",
+   "date": "2026-08-28",
+   "time": "11:00",
+   "code": "3825",
+   "name": "株式会社リミックスポイント",
+   "exch": "東",
+   "title": "＜補足説明資料＞蓄電ソリューション事業の現状と中期経営計画目標の上方修正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827527172.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1278098",
+   "date": "2026-08-28",
+   "time": "11:00",
+   "code": "3825",
+   "name": "株式会社リミックスポイント",
+   "exch": "東",
+   "title": "中期経営計画の数値目標修正に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825526102.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1278097",
+   "date": "2026-08-28",
+   "time": "11:00",
+   "code": "3825",
+   "name": "株式会社リミックスポイント",
+   "exch": "東",
+   "title": "（開示事項の変更）株式会社光通信との業務提携に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825526100.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1278095",
+   "date": "2026-08-28",
+   "time": "11:00",
+   "code": "3825",
+   "name": "株式会社リミックスポイント",
+   "exch": "東",
+   "title": "（開示事項の経過）子会社の異動（株式譲渡）及び株主間契約締結に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260825526099.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式譲渡",
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100YZ2B",
+   "date": "2026-08-28",
+   "time": "10:35",
+   "code": "7888",
+   "name": "三光合成株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第93期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZ2B",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1278091",
+   "date": "2026-08-28",
+   "time": "10:30",
+   "code": "8131",
+   "name": "株式会社ミツウロコグループホールディングス",
+   "exch": "東",
+   "title": "自己株式立会外買付取引（ToSTNeT－3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827527376.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1278080",
+   "date": "2026-08-28",
+   "time": "08:30",
+   "code": "2371",
+   "name": "株式会社カカクコム",
+   "exch": "東",
+   "title": "（変更）「Kamgras １株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828527495.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "tdnet-1278067",
    "date": "2026-08-27",
