@@ -1,6 +1,133 @@
 {
- "updatedAt": "2026-08-28T17:51:53+09:00",
+ "updatedAt": "2026-08-29T05:40:13+09:00",
  "items": [
+  {
+   "id": "prtimes-1bee790488c8",
+   "date": "2026-08-29",
+   "time": "03:10",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "MBO"
+   ],
+   "title": "POD Capital、エコグリーンホールディングスのMBOを支援",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000016.000089105.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1278298",
+   "date": "2026-08-28",
+   "time": "22:30",
+   "code": "8473",
+   "name": "ＳＢＩホールディングス株式会社",
+   "exch": "東",
+   "title": "BASE株式会社株式（証券コード：4477）に対する公開買付けの開始及び同社との資本業務提携契約の締結に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828528173.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け",
+    "資本業務提携"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1278297",
+   "date": "2026-08-28",
+   "time": "22:30",
+   "code": "4477",
+   "name": "ＢＡＳＥ株式会社",
+   "exch": "東",
+   "title": "SBINM合同会社による当社株式に対する公開買付けに関する賛同及び応募中立の意見表明及びSBIHD株式会社との資本業務提携契約の締結に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828528141.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け",
+    "資本業務提携"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1278295",
+   "date": "2026-08-28",
+   "time": "22:30",
+   "code": "4477",
+   "name": "ＢＡＳＥ株式会社",
+   "exch": "東",
+   "title": "SBIホールディングスとの資本業務提携契約の締結等に関する補足説明資料",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828528137.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "資本業務提携"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1278293",
+   "date": "2026-08-28",
+   "time": "19:10",
+   "code": "3765",
+   "name": "ガンホー・オンライン・エンターテイメント株式会社",
+   "exch": "東",
+   "title": "株式会社ソニー・ミュージックエンタテインメントとの資本業務提携、株式の売出し、 主要株主、主要株主である筆頭株主及びその他の関係会社の異動",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828527929.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "資本業務提携"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1278291",
+   "date": "2026-08-28",
+   "time": "18:30",
+   "code": "8783",
+   "name": "ａｂｃ株式会社",
+   "exch": "東",
+   "title": "ZoomART Foundationとの業務提携及び暗号資産の譲渡に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828528123.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1278288",
+   "date": "2026-08-28",
+   "time": "18:00",
+   "code": "4812",
+   "name": "株式会社電通総研",
+   "exch": "東",
+   "title": "（追加）合同会社VICによる当社株式に対する公開買付けの開始予定に関する賛同の意見表明及び応募推奨に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828528106.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "edinet-S100YZFU",
    "date": "2026-08-28",
