@@ -1,6 +1,113 @@
 {
- "updatedAt": "2026-08-31T10:03:02+09:00",
+ "updatedAt": "2026-08-31T12:21:42+09:00",
  "items": [
+  {
+   "id": "tdnet-1278322",
+   "date": "2026-08-31",
+   "time": "11:20",
+   "code": "2288",
+   "name": "丸大食品株式会社",
+   "exch": "東",
+   "title": "雇用型執行役員等向け業績連動型株式報酬制度における株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260831528298.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1278318",
+   "date": "2026-08-31",
+   "time": "10:50",
+   "code": "7434",
+   "name": "株式会社オータケ",
+   "exch": "東",
+   "title": "2026年5月期有価証券報告書の提出期限延長に係る承認申請書提出のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260831528248.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1278321",
+   "date": "2026-08-31",
+   "time": "10:40",
+   "code": "552A",
+   "name": "ＭＸ米株ＡＩインフラ",
+   "exch": "東",
+   "title": "ＭＡＸＩＳ米国ＡＩインフラ株上場投信 決算短信（2026年7月期）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260831528461.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1278320",
+   "date": "2026-08-31",
+   "time": "10:40",
+   "code": "348A",
+   "name": "ＭＸＳ読売３３３日株",
+   "exch": "東",
+   "title": "ＭＡＸＩＳ読売３３３日本株上場投信 決算短信（2026年7月期）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260831528453.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1278319",
+   "date": "2026-08-31",
+   "time": "10:40",
+   "code": "221A",
+   "name": "ＭＸＳ日経半導体株",
+   "exch": "東",
+   "title": "ＭＡＸＩＳ日経半導体株上場投信 決算短信（2026年7月期）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260831528444.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "prtimes-221478442323",
+   "date": "2026-08-31",
+   "time": "10:00",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "「フィジカルAI×介護」が本格的にスタート。ドーナッツ ロボティクスが チャーム・ケア・コーポレーションと資本業務提携。ヒューマノイドによる新たな介護運営モデルを創出。",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000045.000057944.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "edinet-S100YYQN",
    "date": "2026-08-31",
