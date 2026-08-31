@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1278536",
+  "date": "2026-08-31",
+  "time": "19:00",
+  "code": "6578",
+  "name": "株式会社コレックホールディングス",
+  "exch": "東",
+  "title": "系統用蓄電池事業への参入及び蓄電池設備の取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260831528606.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "参入"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1278534",
   "date": "2026-08-31",
   "time": "18:30",
