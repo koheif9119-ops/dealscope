@@ -1,0 +1,143 @@
+[
+ {
+  "id": "edinet-S100YYQN",
+  "date": "2026-08-31",
+  "time": "10:00",
+  "code": "4923",
+  "name": "コタ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第47期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YYQN",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "prtimes-5d9d2167fc89",
+  "date": "2026-08-31",
+  "time": "09:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "税理士を起点に、事業承継の「最初の一歩」を。　　　　　　　　　事業承継×AI「承継Tech」正式提供開始",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000009.000144213.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1278310",
+  "date": "2026-08-31",
+  "time": "09:00",
+  "code": "7988",
+  "name": "株式会社ニフコ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ （会社法第165条第２項の規定による定款の定めに基づく自己株式の取得）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260831528280.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1278309",
+  "date": "2026-08-31",
+  "time": "09:00",
+  "code": "2934",
+  "name": "ジェイフロンティア株式会社",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260831528269.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "prtimes-1bee790488c8",
+  "date": "2026-08-31",
+  "time": "08:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "MBO"
+  ],
+  "title": "POD Capital、エコグリーンホールディングスのMBOを支援",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000016.000089105.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1278307",
+  "date": "2026-08-31",
+  "time": "08:30",
+  "code": "8001",
+  "name": "伊藤忠商事株式会社",
+  "exch": "東",
+  "title": "株式会社電通総研の株式（証券コード：4812）に対する公開買付けの開始予定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828528016.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1278306",
+  "date": "2026-08-31",
+  "time": "08:30",
+  "code": "4812",
+  "name": "株式会社電通総研",
+  "exch": "東",
+  "title": "（訂正）「合同会社VICによる当社株式に対する公開買付けの開始予定に関する賛同の意見表明及び応募推奨に関するお知らせ」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828528125.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "prtimes-63df79e5dd89",
+  "date": "2026-08-31",
+  "time": "08:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A",
+   "事業承継"
+  ],
+  "title": "M&Aキャピタルパートナーズ提供番組「THE 事業承継 その灯を消すな！」第16弾 放映のお知らせ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000540.000051639.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ }
+]
