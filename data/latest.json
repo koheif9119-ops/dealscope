@@ -1,6 +1,24 @@
 {
- "updatedAt": "2026-09-01T02:29:39+09:00",
+ "updatedAt": "2026-09-01T10:33:37+09:00",
  "items": [
+  {
+   "id": "tdnet-1278538",
+   "date": "2026-09-01",
+   "time": "08:00",
+   "code": "5592",
+   "name": "株式会社くすりの窓口",
+   "exch": "東",
+   "title": "自己株式取得状況に関するお知らせ（2026年8月度）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260831529058.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
   {
    "id": "prtimes-35177d58052e",
    "date": "2026-09-01",
@@ -15,6 +33,23 @@
    ],
    "title": "水中ドローンのFullDepthとエイト日本技術開発が資本業務提携",
    "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000064.000024434.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-9d78906c840d",
+   "date": "2026-08-31",
+   "time": "22:30",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "事業承継で失われる「会社の記憶」を資産に。HR Hero、統理発の「経営資産承継」事業に参画",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000004.000189573.html",
    "src": "PR TIMES",
    "isCorrection": false
   },

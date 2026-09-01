@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1278538",
+  "date": "2026-09-01",
+  "time": "08:00",
+  "code": "5592",
+  "name": "株式会社くすりの窓口",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ（2026年8月度）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260831529058.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "prtimes-35177d58052e",
   "date": "2026-09-01",
   "time": "02:10",
