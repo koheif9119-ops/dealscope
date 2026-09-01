@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-09-01T10:33:37+09:00",
+ "updatedAt": "2026-09-01T12:23:06+09:00",
  "items": [
+  {
+   "id": "tdnet-1278578",
+   "date": "2026-09-01",
+   "time": "11:00",
+   "code": "4845",
+   "name": "株式会社スカラ",
+   "exch": "東",
+   "title": "（開示事項の経過）株式会社テラの株式取得（子会社化)完了に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260827527355.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-5e24d32e604b",
+   "date": "2026-09-01",
+   "time": "10:00",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "MBO"
+   ],
+   "title": "衛星データ×AIで、日本の宇宙データインフラ構築を担うTellusがMBO。Tellus Globalを新設し、総額9億円超の資金調達を実施",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000001.000189525.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "tdnet-1278538",
    "date": "2026-09-01",
