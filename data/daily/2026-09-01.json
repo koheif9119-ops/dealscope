@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1278942",
+  "date": "2026-09-01",
+  "time": "20:45",
+  "code": "4420",
+  "name": "イーソル株式会社",
+  "exch": "東",
+  "title": "株式会社BCJ-110によるイーソル株式会社（証券コード：4420）の普通株式に対する公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260901529882.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1278937",
   "date": "2026-09-01",
   "time": "17:30",
