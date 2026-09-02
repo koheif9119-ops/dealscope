@@ -1,6 +1,368 @@
 {
- "updatedAt": "2026-09-02T09:46:49+09:00",
+ "updatedAt": "2026-09-02T16:35:00+09:00",
  "items": [
+  {
+   "id": "tdnet-1279062",
+   "date": "2026-09-02",
+   "time": "16:00",
+   "code": "2884",
+   "name": "株式会社ヨシムラ・フード・ホールディングス",
+   "exch": "東",
+   "title": "倖生工業株式会社の株式取得（子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260901529294.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1279061",
+   "date": "2026-09-02",
+   "time": "16:00",
+   "code": "2521",
+   "name": "上場米国ヘッジあり",
+   "exch": "東",
+   "title": "2027年1月期　中間決算短信（2026年1月21日～2026年7月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530671.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279059",
+   "date": "2026-09-02",
+   "time": "16:00",
+   "code": "2240",
+   "name": "上場Ｓ＆Ｐインバース",
+   "exch": "東",
+   "title": "2027年1月期　中間決算短信（2026年1月21日～2026年7月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530677.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279058",
+   "date": "2026-09-02",
+   "time": "16:00",
+   "code": "2239",
+   "name": "上場Ｓ＆Ｐレバ２倍",
+   "exch": "東",
+   "title": "2027年1月期　中間決算短信（2026年1月21日～2026年7月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530674.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279056",
+   "date": "2026-09-02",
+   "time": "16:00",
+   "code": "1681",
+   "name": "上場ＭＳエマ",
+   "exch": "東",
+   "title": "2027年1月期　中間決算短信（2026年1月21日～2026年7月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530638.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279055",
+   "date": "2026-09-02",
+   "time": "16:00",
+   "code": "1680",
+   "name": "上場ＭＳコク",
+   "exch": "東",
+   "title": "2027年1月期　中間決算短信（2026年1月21日～2026年7月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530634.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279054",
+   "date": "2026-09-02",
+   "time": "16:00",
+   "code": "1554",
+   "name": "上場ＭＳ世",
+   "exch": "東",
+   "title": "2027年1月期　中間決算短信（2026年1月21日～2026年7月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530667.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279053",
+   "date": "2026-09-02",
+   "time": "16:00",
+   "code": "1547",
+   "name": "上場米国",
+   "exch": "東",
+   "title": "2027年1月期　中間決算短信（2026年1月21日～2026年7月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530662.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279052",
+   "date": "2026-09-02",
+   "time": "16:00",
+   "code": "1495",
+   "name": "上場アジアリート",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月21日～2026年7月20日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530624.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279051",
+   "date": "2026-09-02",
+   "time": "16:00",
+   "code": "1322",
+   "name": "上場パンタ",
+   "exch": "東",
+   "title": "2027年1月期　中間決算短信（2026年1月21日～2026年7月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530629.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279042",
+   "date": "2026-09-02",
+   "time": "15:30",
+   "code": "8078",
+   "name": "阪和興業株式会社",
+   "exch": "東",
+   "title": "（開示事項の経過）米国Associated Steel Group, LLCの持分取得（連結子会社化）の完了及び連結子会社の増資に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828528116.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1279041",
+   "date": "2026-09-02",
+   "time": "15:30",
+   "code": "8057",
+   "name": "株式会社内田洋行",
+   "exch": "東",
+   "title": "2026年７月期　決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260901529425.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1279026",
+   "date": "2026-09-02",
+   "time": "15:30",
+   "code": "6177",
+   "name": "ＡｐｐＢａｎｋ株式会社",
+   "exch": "東",
+   "title": "（開示事項の経過）第15回新株予約権の譲渡承認及び新株予約権譲渡契約締結、合同会社ダブルアールとの資本業務提携の解消に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530660.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "資本業務提携"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1278998",
+   "date": "2026-09-02",
+   "time": "15:00",
+   "code": "6538",
+   "name": "株式会社ディスラプターズ",
+   "exch": "東",
+   "title": "自己株式取得状況に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260901529395.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1278995",
+   "date": "2026-09-02",
+   "time": "15:00",
+   "code": "5451",
+   "name": "株式会社ヨドコウ",
+   "exch": "東",
+   "title": "（開示事項の経過）連結子会社の異動（出資持分譲渡）の完了に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530380.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1278993",
+   "date": "2026-09-02",
+   "time": "15:00",
+   "code": "1543",
+   "name": "純パラ信",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月21日～2026年7月20日）中間決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530515.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1278992",
+   "date": "2026-09-02",
+   "time": "15:00",
+   "code": "1542",
+   "name": "純銀信託",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月21日～2026年7月20日）中間決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530511.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1278991",
+   "date": "2026-09-02",
+   "time": "15:00",
+   "code": "1541",
+   "name": "純プラ信",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月21日～2026年7月20日）中間決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530506.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1278990",
+   "date": "2026-09-02",
+   "time": "15:00",
+   "code": "1540",
+   "name": "純金信託",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月21日～2026年7月20日）中間決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530476.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1278971",
+   "date": "2026-09-02",
+   "time": "11:30",
+   "code": "6905",
+   "name": "コーセル株式会社",
+   "exch": "東",
+   "title": "（開示事項の経過）連結子会社の異動（株式譲渡）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260901530154.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式譲渡",
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "prtimes-4de6d803509c",
    "date": "2026-09-02",
