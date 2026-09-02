@@ -1,5 +1,93 @@
 [
  {
+  "id": "prtimes-4de6d803509c",
+  "date": "2026-09-02",
+  "time": "09:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "R-Edge、シイエム・シイと資本業務提携。AI×データで「情報を知能へ」変える、新たなデータプラットフォーム事業を共創",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000001.000189930.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-28f99bacf8c3",
+  "date": "2026-09-02",
+  "time": "09:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A",
+   "買収"
+  ],
+  "title": "【戦略的M&A（事業譲渡）】合同会社Riberte、株式会社ユニレージのシステム開発受託事業を買収",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000011.000153480.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1278949",
+  "date": "2026-09-02",
+  "time": "08:50",
+  "code": "7287",
+  "name": "日本精機株式会社",
+  "exch": "東",
+  "title": "連結子会社における一部事業譲渡に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260901529444.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-117c9b2870be",
+  "date": "2026-09-02",
+  "time": "08:38",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "金利上昇時代に考える「毎月の現金収入」30代・40代会社員、60代の実例から学ぶ「収益化済み民泊M&A。イチからイグジットまで」を9月4日開催。不動産投資・NISA・副業から民泊投資で外貨を稼ぐ人",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000160.000125953.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1278951",
+  "date": "2026-09-02",
+  "time": "08:30",
+  "code": "8001",
+  "name": "伊藤忠商事株式会社",
+  "exch": "東",
+  "title": "自己株式の公開買付けの結果並びに市場買付の開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902529238.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "tdnet-1278942",
   "date": "2026-09-01",
   "time": "20:45",
