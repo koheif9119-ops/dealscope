@@ -1,6 +1,58 @@
 {
- "updatedAt": "2026-09-03T16:43:44+09:00",
+ "updatedAt": "2026-09-03T21:33:04+09:00",
  "items": [
+  {
+   "id": "prtimes-f89712528b0c",
+   "date": "2026-09-03",
+   "time": "21:10",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "子会社化"
+   ],
+   "title": "不動産アセットマネジメント会社「HJアセット・マネージメント」を完全子会社化",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000029.000022647.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-732caa610ab5",
+   "date": "2026-09-03",
+   "time": "21:10",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "買収"
+   ],
+   "title": "コーン・フェリー、AMSの買収完了を発表",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000081.000030621.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1279254",
+   "date": "2026-09-03",
+   "time": "17:30",
+   "code": "4413",
+   "name": "株式会社ボードルア",
+   "exch": "東",
+   "title": "（訂正）「株式会社ボードルアの株券等に対する公開買付けの開始に関するお知らせ」及び公開買付開始公告の訂正に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260903531411.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
   {
    "id": "tdnet-1279211",
    "date": "2026-09-03",
