@@ -1,6 +1,249 @@
 {
- "updatedAt": "2026-09-03T11:46:34+09:00",
+ "updatedAt": "2026-09-03T16:43:44+09:00",
  "items": [
+  {
+   "id": "tdnet-1279211",
+   "date": "2026-09-03",
+   "time": "15:30",
+   "code": "8473",
+   "name": "ＳＢＩホールディングス株式会社",
+   "exch": "東",
+   "title": "株式会社ブランジスタ（証券コード：6176）株式の買集め行為に該当する株式取得についてのお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260903531214.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1279198",
+   "date": "2026-09-03",
+   "time": "15:30",
+   "code": "6654",
+   "name": "不二電機工業株式会社",
+   "exch": "東",
+   "title": "2027年1月期第2四半期(中間期)決算短信[日本基準](非連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260820523999.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1279189",
+   "date": "2026-09-03",
+   "time": "15:30",
+   "code": "4576",
+   "name": "株式会社デ・ウエスタン・セラピテクス研究所",
+   "exch": "東",
+   "title": "事業計画及び成長可能性に関する事項の更新に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260901530218.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "成長可能性に関する事項"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "prtimes-84746c032dc7",
+   "date": "2026-09-03",
+   "time": "15:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "株式会社エンタケア研究所、Right Brothers株式会社とM&A業界特化型ボードゲーム「M&Aマネジメントボードゲーム」を共同開発",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000024.000162174.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-fe60d963d2da",
+   "date": "2026-09-03",
+   "time": "14:41",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "三井不動産、NTTドコモ、三井不動産ネットワークイノベーション　資本業務提携契約を締結",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000001121.000051782.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-fd5a1e57f383",
+   "date": "2026-09-03",
+   "time": "14:41",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "三井不動産、NTTドコモ、三井不動産ネットワークイノベーション資本業務提携契約を締結",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000902.000118641.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1279155",
+   "date": "2026-09-03",
+   "time": "14:00",
+   "code": "3683",
+   "name": "株式会社サイバーリンクス",
+   "exch": "東",
+   "title": "（訂正）「中期経営計画策定に関するお知らせ」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260903531014.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-7c2c434964ed",
+   "date": "2026-09-03",
+   "time": "13:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "子会社化"
+   ],
+   "title": "たけびし、福井三菱電機機器販売株式会社を子会社化　北陸エリアでの事業基盤を強化",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000002.000190227.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100Z02J",
+   "date": "2026-09-03",
+   "time": "12:40",
+   "code": "3154",
+   "name": "メディアスホールディングス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第16期(2024/07/01－2025/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z02J",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100Z02N",
+   "date": "2026-09-03",
+   "time": "12:39",
+   "code": "3154",
+   "name": "メディアスホールディングス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第15期(2023/07/01－2024/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z02N",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100Z02T",
+   "date": "2026-09-03",
+   "time": "12:38",
+   "code": "3154",
+   "name": "メディアスホールディングス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第14期(2022/07/01－2023/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z02T",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100Z02X",
+   "date": "2026-09-03",
+   "time": "12:37",
+   "code": "3154",
+   "name": "メディアスホールディングス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第13期(2021/07/01－2022/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z02X",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100Z035",
+   "date": "2026-09-03",
+   "time": "12:34",
+   "code": "3154",
+   "name": "メディアスホールディングス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第12期(2020/07/01－2021/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z035",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1279142",
+   "date": "2026-09-03",
+   "time": "12:00",
+   "code": "8750",
+   "name": "株式会社第一ライフグループ",
+   "exch": "東",
+   "title": "ニュージーランド子会社パートナーズ・ライフ社によるFidelity Life社の子会社化（孫会社の異動）について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530857.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "prtimes-0428b7d6c515",
    "date": "2026-09-03",
