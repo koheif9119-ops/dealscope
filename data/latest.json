@@ -1,6 +1,23 @@
 {
- "updatedAt": "2026-09-03T09:54:53+09:00",
+ "updatedAt": "2026-09-03T11:46:34+09:00",
  "items": [
+  {
+   "id": "prtimes-0428b7d6c515",
+   "date": "2026-09-03",
+   "time": "11:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "PMI"
+   ],
+   "title": "IQOS初の“グローバルフラッグシップ”「IQOS フラッグシップ 銀座」9月4日（金）グランドオープン　IQOSの進化を牽引してきた日本で、ブランドの世界観に没入できる新たな体験を",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000193.000043993.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "prtimes-809214c6635e",
    "date": "2026-09-03",
