@@ -1,0 +1,53 @@
+[
+ {
+  "id": "prtimes-f89712528b0c",
+  "date": "2026-09-04",
+  "time": "09:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "不動産アセットマネジメント会社「HJアセット・マネージメント」を完全子会社化",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000029.000022647.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-84746c032dc7",
+  "date": "2026-09-04",
+  "time": "09:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "株式会社エンタケア研究所、Right Brothers株式会社とM&A業界特化型ボードゲーム「M&Aマネジメントボードゲーム」を共同開発",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000024.000162174.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "edinet-S100Z0B0",
+  "date": "2026-09-04",
+  "time": "09:02",
+  "code": "4465",
+  "name": "株式会社ニイタカ",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第64期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z0B0",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ }
+]
