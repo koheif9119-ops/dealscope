@@ -1,5 +1,95 @@
 [
  {
+  "id": "tdnet-1279282",
+  "date": "2026-09-04",
+  "time": "11:00",
+  "code": "5525",
+  "name": "Ｐ－フロンティアＨＤ",
+  "exch": "東",
+  "title": "株式会社クリアの第三者割当増資引受による株式の取得（連結子会社化）のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260904531520.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1279280",
+  "date": "2026-09-04",
+  "time": "11:00",
+  "code": "3825",
+  "name": "株式会社リミックスポイント",
+  "exch": "東",
+  "title": "（開示事項の経過）子会社の異動（株式譲渡）に係る前払金受領のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260904531709.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1279279",
+  "date": "2026-09-04",
+  "time": "11:00",
+  "code": "3825",
+  "name": "株式会社リミックスポイント",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ （会社法第459条第１項の規定による定款の定めに基づく自己株式の取得）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260904531707.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1279268",
+  "date": "2026-09-04",
+  "time": "10:00",
+  "code": "5034",
+  "name": "株式会社ｕｎｅｒｒｙ",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260904531508.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "prtimes-08d44d23bf9c",
+  "date": "2026-09-04",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "年間約50万人が受験するオンライン試験プラットフォームを運営するIBT総合研究所を承継",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000029.000175284.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "prtimes-f89712528b0c",
   "date": "2026-09-04",
   "time": "09:10",
