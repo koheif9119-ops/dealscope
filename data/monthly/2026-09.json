@@ -1,5 +1,57 @@
 [
  {
+  "id": "tdnet-1279430",
+  "date": "2026-09-07",
+  "time": "08:30",
+  "code": "8227",
+  "name": "株式会社しまむら",
+  "exch": "東",
+  "title": "事業譲受に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260906532178.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲受"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "prtimes-84746c032dc7",
+  "date": "2026-09-07",
+  "time": "05:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "株式会社エンタケア研究所、Right Brothers株式会社とM&A業界特化型ボードゲーム「M&Aマネジメントボードゲーム」を共同開発",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000024.000162174.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-0428b7d6c515",
+  "date": "2026-09-07",
+  "time": "03:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "PMI"
+  ],
+  "title": "IQOS初の“グローバルフラッグシップ”「IQOS フラッグシップ 銀座」9月4日（金）グランドオープン　IQOSの進化を牽引してきた日本で、ブランドの世界観に没入できる新たな体験を",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000193.000043993.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1279404",
   "date": "2026-09-04",
   "time": "16:00",
