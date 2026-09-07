@@ -1,6 +1,202 @@
 {
- "updatedAt": "2026-09-07T09:38:33+09:00",
+ "updatedAt": "2026-09-07T11:41:42+09:00",
  "items": [
+  {
+   "id": "tdnet-1279453",
+   "date": "2026-09-07",
+   "time": "11:30",
+   "code": "3261",
+   "name": "株式会社グランディーズ",
+   "exch": "東",
+   "title": "連結子会社間の吸収合併に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260903531306.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1279446",
+   "date": "2026-09-07",
+   "time": "11:00",
+   "code": "2849",
+   "name": "ＧＸ高配当ＥＳＧ日株",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月25日～2026年7月24日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532305.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279445",
+   "date": "2026-09-07",
+   "time": "11:00",
+   "code": "2627",
+   "name": "ＧＸｅコマース日株",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月25日～2026年7月24日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532302.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279444",
+   "date": "2026-09-07",
+   "time": "11:00",
+   "code": "2626",
+   "name": "ＧＸデジタル日株",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月25日～2026年7月24日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532318.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279443",
+   "date": "2026-09-07",
+   "time": "11:00",
+   "code": "2564",
+   "name": "ＧＸスーパーディビ",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月25日～2026年7月24日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532311.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279442",
+   "date": "2026-09-07",
+   "time": "11:00",
+   "code": "224A",
+   "name": "ＧＸウラニウム",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月25日～2026年7月24日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532316.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279441",
+   "date": "2026-09-07",
+   "time": "11:00",
+   "code": "223A",
+   "name": "ＧＸＡＩビッグデータ",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月25日～2026年7月24日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532300.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279440",
+   "date": "2026-09-07",
+   "time": "11:00",
+   "code": "2019",
+   "name": "ＧＸ優先証券隔月",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月25日～2026年7月24日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532326.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1279439",
+   "date": "2026-09-07",
+   "time": "11:00",
+   "code": "133A",
+   "name": "ＧＸ超短期米国債",
+   "exch": "東",
+   "title": "2026年7月期（2026年1月25日～2026年7月24日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532322.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "prtimes-a377a25ed2d8",
+   "date": "2026-09-07",
+   "time": "10:03",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "経営者のための新たな相談窓口「テラ・ブレインズ」が経営支援サービスを開始",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000003.000188828.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-2e629c5f538e",
+   "date": "2026-09-07",
+   "time": "10:00",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "アスエネ、M&Aでグループ参画したexroadのCarbon EXへの事業統合を完了",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000749.000058538.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "tdnet-1279430",
    "date": "2026-09-07",
