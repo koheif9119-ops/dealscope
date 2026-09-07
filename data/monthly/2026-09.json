@@ -1,5 +1,75 @@
 [
  {
+  "id": "prtimes-a05231117186",
+  "date": "2026-09-07",
+  "time": "22:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "PMI"
+  ],
+  "title": "「PMP(R)、新試験になったからこそ今始める。」　アジア太平洋地区でPMI教材販売数 No.1の日本プロジェクトソリューションズ株式会社が、新PMP(R)試験対応の資格取得支援を強化",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000044.000149507.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1279569",
+  "date": "2026-09-07",
+  "time": "18:30",
+  "code": "4272",
+  "name": "日本化薬株式会社",
+  "exch": "東",
+  "title": "三光化学工業株式会社の完全子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532718.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "prtimes-1b12d937e0b2",
+  "date": "2026-09-07",
+  "time": "17:41",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "TOB"
+  ],
+  "title": "オモロー山下さん、ラフ×ラフ高梨結さん出演の新番組『インベスター☆マスター』を配信開始 マーケットの大注目テーマ「TOB」をファイブスター投信・大木將充氏が徹底解説",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000283.000114007.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1279563",
+  "date": "2026-09-07",
+  "time": "17:00",
+  "code": "9729",
+  "name": "株式会社トーカイ",
+  "exch": "東",
+  "title": "会社分割（簡易吸収分割）による事業の承継に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532210.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "edinet-S100Z0VE",
   "date": "2026-09-07",
   "time": "16:02",
