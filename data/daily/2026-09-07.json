@@ -1,5 +1,222 @@
 [
  {
+  "id": "edinet-S100Z0VE",
+  "date": "2026-09-07",
+  "time": "16:02",
+  "code": "278A",
+  "name": "Ｔｅｒｒａ　Ｄｒｏｎｅ株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第10期(2025/02/01－2026/01/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z0VE",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1279554",
+  "date": "2026-09-07",
+  "time": "16:00",
+  "code": "7856",
+  "name": "萩原工業株式会社",
+  "exch": "東",
+  "title": "資本業務提携契約の締結、第三者割当による自己株式の処分並びに主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260904532079.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1279547",
+  "date": "2026-09-07",
+  "time": "16:00",
+  "code": "3979",
+  "name": "株式会社うるる",
+  "exch": "東",
+  "title": "（訂正）「2027年3月期 第1四半期決算短信〔日本基準〕(連結)」および「2027年3月期 第1四半期決算説明資料」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532297.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1279488",
+  "date": "2026-09-07",
+  "time": "15:40",
+  "code": "3854",
+  "name": "株式会社アイル",
+  "exch": "東",
+  "title": "中期経営計画（2027年７月期～2029年７月期）策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260904532047.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1279485",
+  "date": "2026-09-07",
+  "time": "15:40",
+  "code": "3854",
+  "name": "株式会社アイル",
+  "exch": "東",
+  "title": "2026年７月期　決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260904532017.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1279526",
+  "date": "2026-09-07",
+  "time": "15:30",
+  "code": "7856",
+  "name": "萩原工業株式会社",
+  "exch": "東",
+  "title": "2026年10月期 第３四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260904532067.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1279517",
+  "date": "2026-09-07",
+  "time": "15:30",
+  "code": "6841",
+  "name": "横河電機株式会社",
+  "exch": "東",
+  "title": "自己株式取得状況および取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532428.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1279515",
+  "date": "2026-09-07",
+  "time": "15:30",
+  "code": "6367",
+  "name": "ダイキン工業株式会社",
+  "exch": "東",
+  "title": "コミットメント型自己株式取得（FCSR）における事後調整のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532410.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1279506",
+  "date": "2026-09-07",
+  "time": "15:30",
+  "code": "3323",
+  "name": "レカム株式会社",
+  "exch": "東",
+  "title": "株式会社とみやの株式取得（子会社化）の完了及び 簡易株式交換の効力発生（完全子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532492.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1279501",
+  "date": "2026-09-07",
+  "time": "15:30",
+  "code": "3082",
+  "name": "株式会社きちりホールディングス",
+  "exch": "東",
+  "title": "会社分割（簡易新設分割）による子会社設立に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532464.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z0VF",
+  "date": "2026-09-07",
+  "time": "15:30",
+  "code": "0000",
+  "name": "クラサスケミカル株式会社",
+  "exch": "—",
+  "title": "有価証券報告書（法24条3項に基づくもの）－第2期(2025/01/01－2025/12/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z0VF",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1279467",
+  "date": "2026-09-07",
+  "time": "13:00",
+  "code": "9342",
+  "name": "株式会社スマサポ",
+  "exch": "東",
+  "title": "（開示事項の経過）株式会社トレードワンの株式取得（子会社化）完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532450.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "tdnet-1279453",
   "date": "2026-09-07",
   "time": "11:30",
