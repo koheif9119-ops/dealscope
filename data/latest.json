@@ -1,6 +1,259 @@
 {
- "updatedAt": "2026-09-08T11:53:50+09:00",
+ "updatedAt": "2026-09-08T16:47:38+09:00",
  "items": [
+  {
+   "id": "tdnet-1279693",
+   "date": "2026-09-08",
+   "time": "16:00",
+   "code": "9632",
+   "name": "スバル興業株式会社",
+   "exch": "東",
+   "title": "2027年１月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260908532897.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1279687",
+   "date": "2026-09-08",
+   "time": "16:00",
+   "code": "7814",
+   "name": "株式会社日本創発グループ",
+   "exch": "東",
+   "title": "子会社間の吸収合併及び特定子会社の異動に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260902530382.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社の異動",
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1279645",
+   "date": "2026-09-08",
+   "time": "15:45",
+   "code": "8473",
+   "name": "ＳＢＩホールディングス株式会社",
+   "exch": "東",
+   "title": "（訂正）公開買付届出書の訂正届出書の提出に伴う「BASE株式会社株式（証券コード：4477）に対する公開買付けの開始（略）」等の訂正に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260908533089.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1279646",
+   "date": "2026-09-08",
+   "time": "15:40",
+   "code": "7435",
+   "name": "株式会社ナ・デックス",
+   "exch": "東",
+   "title": "2027年４月期　第１四半期決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260828527776.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1279680",
+   "date": "2026-09-08",
+   "time": "15:30",
+   "code": "9636",
+   "name": "株式会社きんえい",
+   "exch": "東",
+   "title": "2027年１月期　第２四半期（中間期）決算短信［日本基準］（非連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260904531677.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1279675",
+   "date": "2026-09-08",
+   "time": "15:30",
+   "code": "7476",
+   "name": "アズワン株式会社",
+   "exch": "東",
+   "title": "自己株式の公開買付けの結果及び取得終了並びに主要株主の異動に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532717.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1279671",
+   "date": "2026-09-08",
+   "time": "15:30",
+   "code": "6841",
+   "name": "横河電機株式会社",
+   "exch": "東",
+   "title": "（訂正）「自己株式取得状況および取得終了に関するお知らせ （会社法第165 条第 2 項の規定による定款の定めに基づく自己株式の取得）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260908532991.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1279670",
+   "date": "2026-09-08",
+   "time": "15:30",
+   "code": "6635",
+   "name": "株式会社大日光・エンジニアリング",
+   "exch": "東",
+   "title": "当社連結子会社による子会社の設立及び特定子会社の異動に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532553.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1279668",
+   "date": "2026-09-08",
+   "time": "15:30",
+   "code": "6287",
+   "name": "株式会社サトー",
+   "exch": "東",
+   "title": "子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260908532841.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1279664",
+   "date": "2026-09-08",
+   "time": "15:30",
+   "code": "4880",
+   "name": "セルソース株式会社",
+   "exch": "東",
+   "title": "2026年10月期第3四半期決算短信〔日本基準〕(非連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532703.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1279653",
+   "date": "2026-09-08",
+   "time": "15:30",
+   "code": "2438",
+   "name": "株式会社アスカネット",
+   "exch": "東",
+   "title": "2027年４月期第１四半期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532355.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1279651",
+   "date": "2026-09-08",
+   "time": "15:30",
+   "code": "1436",
+   "name": "株式会社グリーンエナジー＆カンパニー",
+   "exch": "東",
+   "title": "2027年４月期第１四半期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260908533095.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1279639",
+   "date": "2026-09-08",
+   "time": "15:00",
+   "code": "3071",
+   "name": "株式会社ストリーム",
+   "exch": "東",
+   "title": "2027年１月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260904532061.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1279642",
+   "date": "2026-09-08",
+   "time": "14:46",
+   "code": "4238",
+   "name": "ミライアル株式会社",
+   "exch": "東",
+   "title": "2027年１月期  第２四半期（中間期）決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260908532943.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "tdnet-1279622",
    "date": "2026-09-08",
