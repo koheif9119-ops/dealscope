@@ -1,5 +1,59 @@
 [
  {
+  "id": "tdnet-1279701",
+  "date": "2026-09-08",
+  "time": "17:15",
+  "code": "8194",
+  "name": "株式会社ライフコーポレーション",
+  "exch": "東",
+  "title": "アルビス株式会社（証券コード：7475）に対する公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260905532133.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1279699",
+  "date": "2026-09-08",
+  "time": "17:15",
+  "code": "7475",
+  "name": "アルビス株式会社",
+  "exch": "東",
+  "title": "株式会社ライフコーポレーションによる当社株式に対する 公開買付けに関する賛同の意見表明及び応募推奨のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260908533017.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1279697",
+  "date": "2026-09-08",
+  "time": "16:30",
+  "code": "9941",
+  "name": "太洋物産株式会社",
+  "exch": "東",
+  "title": "プライムジャパン株式会社との業務提携解消に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260908532698.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1279693",
   "date": "2026-09-08",
   "time": "16:00",
