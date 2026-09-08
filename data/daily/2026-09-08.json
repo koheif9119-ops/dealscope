@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1279622",
+  "date": "2026-09-08",
+  "time": "11:00",
+  "code": "1382",
+  "name": "株式会社ホーブ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年６月期　決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260907532558.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1279613",
   "date": "2026-09-08",
   "time": "09:05",
