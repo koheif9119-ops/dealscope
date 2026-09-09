@@ -1,0 +1,70 @@
+[
+ {
+  "id": "prtimes-b689d778ddd6",
+  "date": "2026-09-09",
+  "time": "11:41",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "PMI"
+  ],
+  "title": "SDGs事業の立ち上げを支援する無料オンライン講座 ～PMI日本支部「2026年度 企業・NPO・行政のためのSDGsスタートアップ方法論習得コース」参加団体募集開始～",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000002.000168441.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-3aeee728d180",
+  "date": "2026-09-09",
+  "time": "11:41",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "ユニヴィスグループがFAを務めたM&A案件が成約｜株式会社dix-septによる株式会社UT-LIFEの株式取得",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000012.000116055.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "edinet-S100Z0OS",
+  "date": "2026-09-09",
+  "time": "10:59",
+  "code": "9267",
+  "name": "Ｇｅｎｋｙ　ＤｒｕｇＳｔｏｒｅｓ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第9期(2025/06/21－2026/06/20)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z0OS",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "prtimes-e0be5d617a76",
+  "date": "2026-09-09",
+  "time": "10:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "米国Trimble、GNSS補正情報配信会社 テラサット・ジャパン株式会社を買収。日本国内におけるリアルタイム・センチメートル級VRS補正サービスを拡大。",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000004.000185701.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ }
+]
