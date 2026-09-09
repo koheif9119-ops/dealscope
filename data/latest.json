@@ -1,6 +1,95 @@
 {
- "updatedAt": "2026-09-09T16:50:32+09:00",
+ "updatedAt": "2026-09-09T21:41:48+09:00",
  "items": [
+  {
+   "id": "tdnet-1279839",
+   "date": "2026-09-09",
+   "time": "20:00",
+   "code": "3989",
+   "name": "シェアリングテクノロジー株式会社",
+   "exch": "東",
+   "title": "MP-2606株式会社によるシェアリングテクノロジー株式会社（証券コード：3989）に対する公開買付けの開始に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260909533311.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1279838",
+   "date": "2026-09-09",
+   "time": "20:00",
+   "code": "3989",
+   "name": "シェアリングテクノロジー株式会社",
+   "exch": "東",
+   "title": "MP-2606株式会社による当社株券等に対する公開買付けに関する賛同及び応募推奨の意見表明のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260909533309.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "prtimes-f8e25023b7cb",
+   "date": "2026-09-09",
+   "time": "17:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "ボルテックス、事務所の現地内見でギフトカード3,000円分をプレゼント",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000294.000012519.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1279826",
+   "date": "2026-09-09",
+   "time": "17:00",
+   "code": "4099",
+   "name": "四国化成ホールディングス株式会社",
+   "exch": "東",
+   "title": "（開示事項の経過）自己株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260909533714.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1279824",
+   "date": "2026-09-09",
+   "time": "16:30",
+   "code": "9780",
+   "name": "株式会社ハリマビステム",
+   "exch": "東",
+   "title": "自己株式取得枠の拡大及び自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の買付けに関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260909533391.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "prtimes-e7b10d0393e0",
    "date": "2026-09-09",
