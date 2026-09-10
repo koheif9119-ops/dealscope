@@ -1,5 +1,40 @@
 [
  {
+  "id": "edinet-S100Z1B9",
+  "date": "2026-09-10",
+  "time": "10:03",
+  "code": "7509",
+  "name": "アイエーグループ株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第43期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z1B9",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1279852",
+  "date": "2026-09-10",
+  "time": "10:00",
+  "code": "5283",
+  "name": "株式会社高見澤",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年6月期　決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260909533780.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
   "id": "prtimes-4dfaf924f412",
   "date": "2026-09-10",
   "time": "06:10",
