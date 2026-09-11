@@ -1,5 +1,40 @@
 [
  {
+  "id": "edinet-S100Z1D3",
+  "date": "2026-09-11",
+  "time": "09:16",
+  "code": "8383",
+  "name": "株式会社　鳥取銀行",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第162期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z1D3",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1280084",
+  "date": "2026-09-11",
+  "time": "08:00",
+  "code": "618A",
+  "name": "Ｇ－ＫＯＭＰＥＩＴＯ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260910534321.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "prtimes-3ff444ff3716",
   "date": "2026-09-10",
   "time": "17:40",
