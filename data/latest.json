@@ -1,6 +1,41 @@
 {
- "updatedAt": "2026-09-11T09:47:30+09:00",
+ "updatedAt": "2026-09-11T11:49:03+09:00",
  "items": [
+  {
+   "id": "prtimes-f181eea51f18",
+   "date": "2026-09-11",
+   "time": "11:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "【M&Aベストパートナーズ×100万人のクラシックライブ】47都道府県ツアー！9月19日(土)イオンモール甲府昭和にて2公演開催",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000238.000088537.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-18585913a670",
+   "date": "2026-09-11",
+   "time": "11:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A",
+    "事業承継"
+   ],
+   "title": "トランビ、東京都「地域金融機関による事業承継ネットワーク構築支援事業」のM&A支援機関に採択",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000288.000027440.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "edinet-S100Z1D3",
    "date": "2026-09-11",
