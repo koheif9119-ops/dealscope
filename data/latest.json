@@ -1,6 +1,113 @@
 {
- "updatedAt": "2026-09-11T16:44:56+09:00",
+ "updatedAt": "2026-09-11T21:33:25+09:00",
  "items": [
+  {
+   "id": "prtimes-cdbcdd3df1ad",
+   "date": "2026-09-11",
+   "time": "21:10",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "【無名の中小企業が、若手採用・定着に成功した秘訣】中小企業経営者のための、若手人材から選ばれる会社のつくり方セミナー＜採用競争力編＞を、2026年10月8日にオンラインで開催",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000096.000065378.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1280398",
+   "date": "2026-09-11",
+   "time": "17:00",
+   "code": "460A",
+   "name": "ＢＲＡＮＵ株式会社",
+   "exch": "東",
+   "title": "2026年10月期第３四半期決算短信〔日本基準〕（非連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260908533058.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1280396",
+   "date": "2026-09-11",
+   "time": "17:00",
+   "code": "3483",
+   "name": "Ｐ－翔栄",
+   "exch": "東",
+   "title": "2026年７月期  決算短信〔日本基準〕（非連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260911535248.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1280392",
+   "date": "2026-09-11",
+   "time": "16:30",
+   "code": "6918",
+   "name": "株式会社アバールデータ",
+   "exch": "東",
+   "title": "株式会社アバールデータと株式会社テクノマセマティカルとの株式交換契約の締結（簡易株式交換）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260909533803.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式交換"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1280387",
+   "date": "2026-09-11",
+   "time": "16:30",
+   "code": "3787",
+   "name": "株式会社テクノマセマティカル",
+   "exch": "東",
+   "title": "株式会社アバールデータと株式会社テクノマセマティカルとの株式交換契約の締結（簡易株式交換）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260911534769.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式交換"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1280382",
+   "date": "2026-09-11",
+   "time": "16:30",
+   "code": "3161",
+   "name": "アゼアス株式会社",
+   "exch": "東",
+   "title": "2027年4月期第1四半期決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260909533773.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "tdnet-1280311",
    "date": "2026-09-11",
