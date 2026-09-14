@@ -1,6 +1,75 @@
 {
- "updatedAt": "2026-09-14T09:37:42+09:00",
+ "updatedAt": "2026-09-14T12:11:02+09:00",
  "items": [
+  {
+   "id": "prtimes-0bea63b03f60",
+   "date": "2026-09-14",
+   "time": "11:00",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "【M&Aベストパートナーズ×100万人のクラシックライブ】47都道府県ツアー！9月21日(月)イオンモール沖縄ライカムにて2公演開催",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000241.000088537.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100Z1YQ",
+   "date": "2026-09-14",
+   "time": "10:38",
+   "code": "9517",
+   "name": "イーレックス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第28期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z1YQ",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100Z1YS",
+   "date": "2026-09-14",
+   "time": "10:31",
+   "code": "9517",
+   "name": "イーレックス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第27期(2024/04/01－2025/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z1YS",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1280422",
+   "date": "2026-09-14",
+   "time": "10:10",
+   "code": "461A",
+   "name": "ＭＸ日株高配ＳＭＡＲ",
+   "exch": "東",
+   "title": "ＭＡＸＩＳ日本株高配当ＳＭＡＲＴ５０上場投信 決算短信（2026年8月期）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260914535423.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
   {
    "id": "prtimes-54f3258b14fe",
    "date": "2026-09-13",
