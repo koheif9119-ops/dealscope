@@ -1,5 +1,171 @@
 [
  {
+  "id": "tdnet-1280780",
+  "date": "2026-09-14",
+  "time": "23:45",
+  "code": "2612",
+  "name": "かどや製油株式会社",
+  "exch": "東",
+  "title": "株式会社ITG-Gホールディングスによる当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260914536265.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1280779",
+  "date": "2026-09-14",
+  "time": "23:45",
+  "code": "2612",
+  "name": "かどや製油株式会社",
+  "exch": "東",
+  "title": "株式会社ITG-Gホールディングスによるかどや製油株式会社（証券コード：2612）の普通株式に対する公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260914536264.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1280776",
+  "date": "2026-09-14",
+  "time": "20:00",
+  "code": "8848",
+  "name": "株式会社レオパレス２１",
+  "exch": "東",
+  "title": "シルバー事業の譲渡（特定子会社の異動を伴う株式譲渡）に関する基本合意書の締結並びに特別損失の計上及び業績予想の修正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260914536068.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1280774",
+  "date": "2026-09-14",
+  "time": "20:00",
+  "code": "8848",
+  "name": "株式会社レオパレス２１",
+  "exch": "東",
+  "title": "株式会社K891による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨並びに特定子会社の異動を伴う株式譲渡に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260914536142.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け",
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1280777",
+  "date": "2026-09-14",
+  "time": "19:45",
+  "code": "9435",
+  "name": "株式会社光通信",
+  "exch": "東",
+  "title": "公開買付け開始時点では子会社である株式会社K891における株式会社レオパレス21（証券コード：8848）の株券等に対する公開買付けの開始及び子会社の異動（関連",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260914536244.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1280771",
+  "date": "2026-09-14",
+  "time": "18:00",
+  "code": "525A",
+  "name": "Ｐ－ｍａｎｅｂｉ",
+  "exch": "東",
+  "title": "2026年7月期 決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260904531691.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1280770",
+  "date": "2026-09-14",
+  "time": "18:00",
+  "code": "4380",
+  "name": "株式会社Ｍマート",
+  "exch": "東",
+  "title": "2027年1月期第2四半期（中間期）決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260914536149.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1280769",
+  "date": "2026-09-14",
+  "time": "18:00",
+  "code": "4378",
+  "name": "株式会社ＣＩＮＣ",
+  "exch": "東",
+  "title": "連結子会社の吸収合併（簡易合併・略式合併）及び連結子会社への債権放棄、並びに連結決算から単体決算への移行に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260914536117.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1280768",
+  "date": "2026-09-14",
+  "time": "18:00",
+  "code": "359A",
+  "name": "Ｐ－ネクストステージ",
+  "exch": "東",
+  "title": "2026年７月期決算短信〔日本基準〕(非連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260914535670.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "tdnet-1280762",
   "date": "2026-09-14",
   "time": "17:30",
