@@ -1,6 +1,334 @@
 {
- "updatedAt": "2026-09-15T12:12:57+09:00",
+ "updatedAt": "2026-09-15T17:52:12+09:00",
  "items": [
+  {
+   "id": "prtimes-7d4d3cc07fad",
+   "date": "2026-09-15",
+   "time": "17:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "子会社化"
+   ],
+   "title": "クラウドプロ株式会社の株式取得（子会社化）に関するお知らせ",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000114.000091454.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1280934",
+   "date": "2026-09-15",
+   "time": "17:00",
+   "code": "4935",
+   "name": "株式会社リベルタ",
+   "exch": "東",
+   "title": "連結子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536786.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1280933",
+   "date": "2026-09-15",
+   "time": "17:00",
+   "code": "431A",
+   "name": "ユーソナー株式会社",
+   "exch": "東",
+   "title": "Empire State株式会社の株式取得（子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260914535978.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1280925",
+   "date": "2026-09-15",
+   "time": "16:30",
+   "code": "7363",
+   "name": "株式会社ベビーカレンダー",
+   "exch": "東",
+   "title": "株式会社オレンジページの株式取得（子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260726599677.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1280914",
+   "date": "2026-09-15",
+   "time": "16:00",
+   "code": "9816",
+   "name": "株式会社　ストライダーズ",
+   "exch": "東",
+   "title": "ムラキ株式会社との資本業務提携に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260909533480.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "資本業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1280912",
+   "date": "2026-09-15",
+   "time": "16:00",
+   "code": "8584",
+   "name": "株式会社ジャックス",
+   "exch": "東",
+   "title": "Solvvy株式会社との資本業務提携に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260914535758.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "資本業務提携"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1280909",
+   "date": "2026-09-15",
+   "time": "16:00",
+   "code": "7477",
+   "name": "ムラキ株式会社",
+   "exch": "東",
+   "title": "株式会社ストライダーズとの資本業務提携に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536698.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "資本業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1280906",
+   "date": "2026-09-15",
+   "time": "16:00",
+   "code": "7320",
+   "name": "Ｓｏｌｖｖｙ株式会社",
+   "exch": "東",
+   "title": "株式会社ジャックスとの資本業務提携及び第三者割当による自己株式の処分に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536509.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "資本業務提携"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1280901",
+   "date": "2026-09-15",
+   "time": "16:00",
+   "code": "4260",
+   "name": "株式会社ハイブリッドテクノロジーズ",
+   "exch": "東",
+   "title": "クラウドプロ株式会社の株式取得に関する補足資料",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536740.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1280900",
+   "date": "2026-09-15",
+   "time": "16:00",
+   "code": "4260",
+   "name": "株式会社ハイブリッドテクノロジーズ",
+   "exch": "東",
+   "title": "クラウドプロ株式会社の株式取得（子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536739.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1280860",
+   "date": "2026-09-15",
+   "time": "15:30",
+   "code": "4840",
+   "name": "株式会社トライアイズ",
+   "exch": "東",
+   "title": "株式会社LIMNOの株式取得（子会社等の異動を伴う株式取得、特定子会社の異動）及び株式譲渡契約締結に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536630.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "株式譲渡",
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1280852",
+   "date": "2026-09-15",
+   "time": "15:30",
+   "code": "411A",
+   "name": "Ｐ－マリタイムバンク",
+   "exch": "東",
+   "title": "2027年１月期 中間決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536563.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1280849",
+   "date": "2026-09-15",
+   "time": "15:30",
+   "code": "4063",
+   "name": "信越化学工業株式会社",
+   "exch": "東",
+   "title": "コミットメント型自己株式取得（FCSR）における事後調整のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536456.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1280837",
+   "date": "2026-09-15",
+   "time": "15:30",
+   "code": "3133",
+   "name": "株式会社海帆",
+   "exch": "東",
+   "title": "飲食事業における運営店舗の事業譲渡及び特別利益の発生に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536522.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "事業譲渡"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1280832",
+   "date": "2026-09-15",
+   "time": "15:30",
+   "code": "2678",
+   "name": "アスクル株式会社",
+   "exch": "東",
+   "title": "2027年5月期第1四半期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536496.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1280829",
+   "date": "2026-09-15",
+   "time": "15:30",
+   "code": "2492",
+   "name": "株式会社インフォマート",
+   "exch": "東",
+   "title": "連結子会社の異動（株式取得）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536581.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100Z1T7",
+   "date": "2026-09-15",
+   "time": "15:00",
+   "code": "3191",
+   "name": "株式会社ジョイフル本田",
+   "exch": "東",
+   "title": "有価証券報告書－第51期(2025/06/21－2026/06/20)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z1T7",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1280805",
+   "date": "2026-09-15",
+   "time": "13:00",
+   "code": "3276",
+   "name": "株式会社ＪＰＭＣ",
+   "exch": "東",
+   "title": "株式会社Amsterdam1及び株式会社Amsterdam2による株式会社ＪＰＭＣ（証券コード：3276）の 普通株式に対する公開買付けの買付条件等の変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260914536050.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "prtimes-866b936876e1",
    "date": "2026-09-15",
