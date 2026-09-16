@@ -1,6 +1,456 @@
 {
- "updatedAt": "2026-09-16T12:09:22+09:00",
+ "updatedAt": "2026-09-16T17:45:51+09:00",
  "items": [
+  {
+   "id": "tdnet-1281080",
+   "date": "2026-09-16",
+   "time": "16:49",
+   "code": "3479",
+   "name": "株式会社ティーケーピー",
+   "exch": "東",
+   "title": "連結子会社の吸収合併（簡易合併）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537205.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1281069",
+   "date": "2026-09-16",
+   "time": "16:33",
+   "code": "2927",
+   "name": "株式会社ＡＦＣ－ＨＤアムスライフサイエンス",
+   "exch": "東",
+   "title": "株式会社さいか屋が整理銘柄に指定されたことを踏まえた今後の資本政策及び株式交換方針について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537173.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式交換"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1281071",
+   "date": "2026-09-16",
+   "time": "16:30",
+   "code": "3370",
+   "name": "株式会社フジタコーポレーション",
+   "exch": "東",
+   "title": "農地所有適格法人である株式会社市川牧場の株式取得（連結子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537372.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z2CK",
+   "date": "2026-09-16",
+   "time": "16:29",
+   "code": "4826",
+   "name": "株式会社ＣＩＪ",
+   "exch": "東",
+   "title": "有価証券報告書－第51期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z2CK",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1281058",
+   "date": "2026-09-16",
+   "time": "16:00",
+   "code": "6380",
+   "name": "オリエンタルチエン工業株式会社",
+   "exch": "東",
+   "title": "Ｘ―ＡＩプロジェクト始動及び株式会社ＫＵＲＯＪＩＫＡとの業務提携に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537335.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1281055",
+   "date": "2026-09-16",
+   "time": "16:00",
+   "code": "4287",
+   "name": "株式会社ジャストプランニング",
+   "exch": "東",
+   "title": "当社連結子会社株式会社JPパワーにおける太陽光発電事業譲渡に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537097.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "事業譲渡"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1281051",
+   "date": "2026-09-16",
+   "time": "16:00",
+   "code": "1860",
+   "name": "戸田建設株式会社",
+   "exch": "東",
+   "title": "一括取得型自己株式取得（ASR）における事後調整完了のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260908533185.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1281014",
+   "date": "2026-09-16",
+   "time": "15:50",
+   "code": "2612",
+   "name": "かどや製油株式会社",
+   "exch": "東",
+   "title": "(訂正）「株式会社ITG-Gホールディングスによる当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部訂正に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537363.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1281016",
+   "date": "2026-09-16",
+   "time": "15:45",
+   "code": "401A",
+   "name": "Ｒ－霞ヶ関ホテル",
+   "exch": "東",
+   "title": "2026年7月期　決算短信（REIT）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536382.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100Z2OT",
+   "date": "2026-09-16",
+   "time": "15:36",
+   "code": "3984",
+   "name": "株式会社ユーザーローカル",
+   "exch": "東",
+   "title": "有価証券報告書－第21期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z2OT",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1281040",
+   "date": "2026-09-16",
+   "time": "15:30",
+   "code": "7602",
+   "name": "株式会社レダックス",
+   "exch": "東",
+   "title": "株式会社ハリカの事業を承継する会社の株式取得（連結子会社化）に向けたスポンサー契約締結に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537297.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1281026",
+   "date": "2026-09-16",
+   "time": "15:30",
+   "code": "3167",
+   "name": "株式会社ＴＯＫＡＩホールディングス",
+   "exch": "東",
+   "title": "（開示事項の変更）株式取得（連結子会社化）の日程延期に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916536950.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1281021",
+   "date": "2026-09-16",
+   "time": "15:30",
+   "code": "2418",
+   "name": "株式会社ツカダ・グローバルホールディング",
+   "exch": "東",
+   "title": "連結子会社による「リーガロイヤルホテル大阪 ヴィニェット コレクション」の ウエディング事業業務提携に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916536929.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1281020",
+   "date": "2026-09-16",
+   "time": "15:30",
+   "code": "2220",
+   "name": "亀田製菓株式会社",
+   "exch": "東",
+   "title": "持分法適用関連会社の異動（株式譲渡）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537235.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式譲渡"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1281018",
+   "date": "2026-09-16",
+   "time": "15:30",
+   "code": "198A",
+   "name": "ＰｏｓｔＰｒｉｍｅ株式会社",
+   "exch": "東",
+   "title": "（開示事項の変更）完全子会社であるTakaTrade株式会社の吸収合併に係る効力発生日の変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537148.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1280994",
+   "date": "2026-09-16",
+   "time": "13:00",
+   "code": "2846",
+   "name": "ダウヘッジ有",
+   "exch": "東",
+   "title": "NEXT FUNDS ダウ・ジョーンズ工業株３０種平均株価（為替ヘッジあり）連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537094.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1280993",
+   "date": "2026-09-16",
+   "time": "13:00",
+   "code": "2845",
+   "name": "ナスダックヘッジ有",
+   "exch": "東",
+   "title": "NEXT FUNDS NASDAQ－１００（Ｒ）（為替ヘッジあり）連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537092.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1280992",
+   "date": "2026-09-16",
+   "time": "13:00",
+   "code": "1699",
+   "name": "ＮＦ原油先物",
+   "exch": "東",
+   "title": "NEXT FUNDS NOMURA原油インデックス連動型上場投信 中間決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537068.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1280991",
+   "date": "2026-09-16",
+   "time": "13:00",
+   "code": "1678",
+   "name": "ＮＦインド株",
+   "exch": "東",
+   "title": "NEXT FUNDS インド株式指数・Nifty 50連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537090.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1280990",
+   "date": "2026-09-16",
+   "time": "13:00",
+   "code": "1560",
+   "name": "ＮＦマレーシア株",
+   "exch": "東",
+   "title": "NEXT FUNDS FTSEブルサ・マレーシアKLCI連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537088.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1280989",
+   "date": "2026-09-16",
+   "time": "13:00",
+   "code": "1559",
+   "name": "ＮＦタイ株",
+   "exch": "東",
+   "title": "NEXT FUNDS タイ株式SET50指数連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537071.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1280988",
+   "date": "2026-09-16",
+   "time": "13:00",
+   "code": "1546",
+   "name": "ダウヘッジ無",
+   "exch": "東",
+   "title": "NEXT FUNDS ダウ・ジョーンズ工業株３０種平均株価（為替ヘッジなし）連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537085.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1280987",
+   "date": "2026-09-16",
+   "time": "13:00",
+   "code": "1545",
+   "name": "ナスダックヘッジ無",
+   "exch": "東",
+   "title": "NEXT FUNDS NASDAQ－１００（Ｒ）（為替ヘッジなし）連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537083.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1280986",
+   "date": "2026-09-16",
+   "time": "13:00",
+   "code": "1343",
+   "name": "ＮＦＪ－ＲＥＩＴ",
+   "exch": "東",
+   "title": "NEXT FUNDS 東証REIT指数連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537060.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "prtimes-c4d5150e0e97",
+   "date": "2026-09-16",
+   "time": "12:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "アスエネ、TBMの「ScopeX」顧客基盤をM&Aにより承継、事業提携を開始",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000756.000058538.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "edinet-S100Z29T",
    "date": "2026-09-16",
