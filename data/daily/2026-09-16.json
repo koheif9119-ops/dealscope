@@ -1,0 +1,37 @@
+[
+ {
+  "id": "prtimes-5d03a4d64882",
+  "date": "2026-09-16",
+  "time": "08:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "【10月7日・8日・9日 無料セミナー】東南アジアM&A連続セミナー：ベトナム編（東京・大阪・名古屋開催）｜M&Pアジア株式会社",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000003.000133551.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1280959",
+  "date": "2026-09-16",
+  "time": "08:00",
+  "code": "621A",
+  "name": "Ｇ－オーディオＳ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260910533875.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ }
+]
