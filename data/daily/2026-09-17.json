@@ -1,5 +1,76 @@
 [
  {
+  "id": "prtimes-2ab038b01512",
+  "date": "2026-09-17",
+  "time": "11:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "税理士法人日本経営、「GLASIAOUS Award 2026」にて『Client Acquisition Excellence Award』を受賞",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000066.000105083.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1281116",
+  "date": "2026-09-17",
+  "time": "11:00",
+  "code": "517A",
+  "name": "ｉＦ米ドルベア１倍",
+  "exch": "東",
+  "title": "2026年8月期（2026年3月2日～2026年8月4日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537713.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1281115",
+  "date": "2026-09-17",
+  "time": "11:00",
+  "code": "516A",
+  "name": "ｉＦ米ドルブル１倍",
+  "exch": "東",
+  "title": "2026年8月期（2026年3月2日～2026年8月4日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537699.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1281114",
+  "date": "2026-09-17",
+  "time": "11:00",
+  "code": "443A",
+  "name": "ｉＦＪリート２",
+  "exch": "東",
+  "title": "2026年8月期（2026年2月5日～2026年8月4日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537691.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "tdnet-1281102",
   "date": "2026-09-17",
   "time": "08:45",
