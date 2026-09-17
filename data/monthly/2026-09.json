@@ -1,5 +1,58 @@
 [
  {
+  "id": "tdnet-1281102",
+  "date": "2026-09-17",
+  "time": "08:45",
+  "code": "8105",
+  "name": "Ｂｉｔｃｏｉｎ　Ｊａｐａｎ株式会社",
+  "exch": "東",
+  "title": "（開示事項の経過）新規事業（フィジカルAI事業）の開始及び資金使途の充当順位変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537351.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "新規事業"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-7637fb782bdb",
+  "date": "2026-09-17",
+  "time": "08:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第69弾、グラム・タラクヴァゼ――創業ではなく買収で得た、マンガン精鉱ムンコルプの100%オーナー",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000446.000158730.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1281086",
+  "date": "2026-09-17",
+  "time": "08:00",
+  "code": "625A",
+  "name": "Ｇ－Ｓｋｙｆａｌｌ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537342.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "prtimes-701db790cc9f",
   "date": "2026-09-16",
   "time": "22:40",
