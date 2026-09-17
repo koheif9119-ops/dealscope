@@ -1,5 +1,674 @@
 [
  {
+  "id": "tdnet-1281270",
+  "date": "2026-09-17",
+  "time": "17:30",
+  "code": "9227",
+  "name": "マイクロ波化学株式会社",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917538144.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1281257",
+  "date": "2026-09-17",
+  "time": "17:00",
+  "code": "7915",
+  "name": "ＮＩＳＳＨＡ株式会社",
+  "exch": "東",
+  "title": "（開示事項の経過）連結子会社の異動（株式譲渡（一部））完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537601.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1281256",
+  "date": "2026-09-17",
+  "time": "17:00",
+  "code": "5973",
+  "name": "株式会社トーアミ",
+  "exch": "東",
+  "title": "株式会社テクノの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537811.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1281253",
+  "date": "2026-09-17",
+  "time": "17:00",
+  "code": "4436",
+  "name": "株式会社ミンカブ・ジ・インフォノイド",
+  "exch": "東",
+  "title": "公開買付けに準ずる行為として政令で定める買い集め行為に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917538037.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1281250",
+  "date": "2026-09-17",
+  "time": "17:00",
+  "code": "4436",
+  "name": "株式会社ミンカブ・ジ・インフォノイド",
+  "exch": "東",
+  "title": "株式会社NTTデータとの資本業務提携契約の締結、株式の売出し並びに主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917538024.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1281248",
+  "date": "2026-09-17",
+  "time": "17:00",
+  "code": "4436",
+  "name": "株式会社ミンカブ・ジ・インフォノイド",
+  "exch": "東",
+  "title": "連結子会社の異動を伴う株式譲渡に関するお知らせ（開示事項の経過）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917538011.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1281247",
+  "date": "2026-09-17",
+  "time": "17:00",
+  "code": "4436",
+  "name": "株式会社ミンカブ・ジ・インフォノイド",
+  "exch": "東",
+  "title": "NTTデータ、SBIグループとの資本業務提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917538007.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100Z32B",
+  "date": "2026-09-17",
+  "time": "16:41",
+  "code": "9227",
+  "name": "マイクロ波化学株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第19期(2025/04/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z32B",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1281238",
+  "date": "2026-09-17",
+  "time": "16:30",
+  "code": "3269",
+  "name": "Ｒ－ＡＤＲ",
+  "exch": "東",
+  "title": "2026年07月期決算短信（REIT）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537732.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1281236",
+  "date": "2026-09-17",
+  "time": "16:30",
+  "code": "2796",
+  "name": "ファーマライズホールディングス株式会社",
+  "exch": "東",
+  "title": "令和９年５月期 第１四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537124.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1281205",
+  "date": "2026-09-17",
+  "time": "16:10",
+  "code": "2989",
+  "name": "Ｒ－東海道リート",
+  "exch": "東",
+  "title": "2026年７月期　決算短信（REIT）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537437.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "edinet-S100Z31Z",
+  "date": "2026-09-17",
+  "time": "16:09",
+  "code": "7832",
+  "name": "株式会社バンダイナムコホールディングス",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第21期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z31Z",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1281234",
+  "date": "2026-09-17",
+  "time": "16:00",
+  "code": "9962",
+  "name": "株式会社　ミスミグループ本社",
+  "exch": "東",
+  "title": "特定子会社の異動（子会社設立）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537920.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1281227",
+  "date": "2026-09-17",
+  "time": "16:00",
+  "code": "6977",
+  "name": "株式会社日本抵抗器製作所",
+  "exch": "東",
+  "title": "株式会社フェローテックによる当社株式に対する公開買付けに関する賛同の表明及び応募推奨のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537628.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1281225",
+  "date": "2026-09-17",
+  "time": "16:00",
+  "code": "6890",
+  "name": "株式会社フェローテック",
+  "exch": "東",
+  "title": "株式会社日本抵抗器製作所（証券コード：6977）に対する公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536876.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1281221",
+  "date": "2026-09-17",
+  "time": "16:00",
+  "code": "5572",
+  "name": "株式会社Ｒｉｄｇｅ－ｉ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537952.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1281216",
+  "date": "2026-09-17",
+  "time": "16:00",
+  "code": "4923",
+  "name": "コタ株式会社",
+  "exch": "東",
+  "title": "2027年３月期　第１四半期決算短信〔日本基準〕(非連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537870.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1281214",
+  "date": "2026-09-17",
+  "time": "16:00",
+  "code": "3993",
+  "name": "株式会社ＰＫＳＨＡ　Ｔｅｃｈｎｏｌｏｇｙ",
+  "exch": "東",
+  "title": "連結子会社 2 社の吸収合併に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537855.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100Z2EI",
+  "date": "2026-09-17",
+  "time": "15:31",
+  "code": "6090",
+  "name": "ヒューマン・メタボローム・テクノロジーズ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第23期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z2EI",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z2BE",
+  "date": "2026-09-17",
+  "time": "15:31",
+  "code": "4385",
+  "name": "株式会社メルカリ",
+  "exch": "東",
+  "title": "有価証券報告書－第14期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z2BE",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1281204",
+  "date": "2026-09-17",
+  "time": "15:30",
+  "code": "9332",
+  "name": "ＮＩＳＳＯホールディングス株式会社",
+  "exch": "東",
+  "title": "当社連結子会社における株式会社Urthの株式取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260904531921.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1281193",
+  "date": "2026-09-17",
+  "time": "15:30",
+  "code": "7685",
+  "name": "株式会社ＢｕｙＳｅｌｌ　Ｔｅｃｈｎｏｌｏｇｉｅｓ",
+  "exch": "東",
+  "title": "HKSビクトリージャパン株式会社の株式取得（完全子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537872.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1281192",
+  "date": "2026-09-17",
+  "time": "15:30",
+  "code": "7571",
+  "name": "株式会社ヤマノホールディングス",
+  "exch": "東",
+  "title": "株式会社じゃぱんはあと 株式取得に関する補足資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537062.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1281191",
+  "date": "2026-09-17",
+  "time": "15:30",
+  "code": "7571",
+  "name": "株式会社ヤマノホールディングス",
+  "exch": "東",
+  "title": "株式会社じゃぱんはあとの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537035.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1281188",
+  "date": "2026-09-17",
+  "time": "15:30",
+  "code": "6258",
+  "name": "平田機工株式会社",
+  "exch": "東",
+  "title": "（開示事項の中止）特定子会社の異動（株式譲渡）の中止に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537814.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1281179",
+  "date": "2026-09-17",
+  "time": "15:30",
+  "code": "4480",
+  "name": "株式会社メドレー",
+  "exch": "東",
+  "title": "株式会社USEN WORKINGのUcare事業の会社分割（簡易吸収分割）による当社への承継に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536685.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1281176",
+  "date": "2026-09-17",
+  "time": "15:30",
+  "code": "4263",
+  "name": "サスメド株式会社",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537915.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1281161",
+  "date": "2026-09-17",
+  "time": "15:30",
+  "code": "3471",
+  "name": "Ｒ－三井不ロジパーク",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（REIT）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260915536646.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1281156",
+  "date": "2026-09-17",
+  "time": "15:30",
+  "code": "3463",
+  "name": "Ｒ－いちごホテル",
+  "exch": "東",
+  "title": "2026年7月期 決算短信（REIT）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537640.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1281151",
+  "date": "2026-09-17",
+  "time": "15:30",
+  "code": "3249",
+  "name": "Ｒ－産業ファ",
+  "exch": "東",
+  "title": "2026年7月期　決算短信(REIT)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260916537453.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1281148",
+  "date": "2026-09-17",
+  "time": "15:30",
+  "code": "302A",
+  "name": "株式会社ビースタイルホールディングス",
+  "exch": "東",
+  "title": "株式会社HRアソシエの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537842.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1281147",
+  "date": "2026-09-17",
+  "time": "15:30",
+  "code": "2929",
+  "name": "株式会社ファーマフーズ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「 2026 年７月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537751.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1281130",
+  "date": "2026-09-17",
+  "time": "15:00",
+  "code": "6768",
+  "name": "株式会社タムラ製作所",
+  "exch": "東",
+  "title": "「会社分割（吸収分割）および情報機器事業の事業譲渡に関するお知らせ」の一部変更について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537957.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡",
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1281129",
+  "date": "2026-09-17",
+  "time": "15:00",
+  "code": "2371",
+  "name": "株式会社カカクコム",
+  "exch": "東",
+  "title": "「BCPE Blitz Cayman, L.P.による当社株券等に対する公開買付けの開始予定に関するお知らせ」の一部変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537945.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1281128",
+  "date": "2026-09-17",
+  "time": "15:00",
+  "code": "229A",
+  "name": "Ｐ－アスミＨＤ",
+  "exch": "東",
+  "title": "（開示事項の中止）「株式会社カーサ・プランニングの株式の取得（子会社化）」の中止に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537574.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "edinet-S100Z203",
+  "date": "2026-09-17",
+  "time": "13:17",
+  "code": "1980",
+  "name": "ダイダン株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第97期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z203",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1281125",
+  "date": "2026-09-17",
+  "time": "12:15",
+  "code": "1860",
+  "name": "戸田建設株式会社",
+  "exch": "東",
+  "title": "（訂正）一括取得型自己株式取得（ASR）における事後調整完了のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917537787.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
   "id": "prtimes-2ab038b01512",
   "date": "2026-09-17",
   "time": "11:40",
