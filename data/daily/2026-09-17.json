@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1281271",
+  "date": "2026-09-17",
+  "time": "17:45",
+  "code": "590A",
+  "name": "ギフティグループ株式会社",
+  "exch": "東",
+  "title": "簡易株式交換における株式交換比率の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917538087.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "tdnet-1281270",
   "date": "2026-09-17",
   "time": "17:30",
