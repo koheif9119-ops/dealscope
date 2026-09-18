@@ -1,5 +1,129 @@
 [
  {
+  "id": "edinet-S100Z2KC",
+  "date": "2026-09-18",
+  "time": "09:34",
+  "code": "4847",
+  "name": "株式会社インテリジェント　ウェイブ",
+  "exch": "東",
+  "title": "有価証券報告書－第43期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z2KC",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100Z29W",
+  "date": "2026-09-18",
+  "time": "09:30",
+  "code": "4923",
+  "name": "コタ株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第47期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z29W",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100Z2X4",
+  "date": "2026-09-18",
+  "time": "09:07",
+  "code": "2904",
+  "name": "一正蒲鉾株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第61期(2024/07/01－2025/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z2X4",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1281294",
+  "date": "2026-09-18",
+  "time": "09:00",
+  "code": "7793",
+  "name": "株式会社イメージ・マジック",
+  "exch": "東",
+  "title": "株式取得及び簡易株式交換による株式会社長谷川美芸の完全子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917538133.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1281293",
+  "date": "2026-09-18",
+  "time": "08:45",
+  "code": "8105",
+  "name": "Ｂｉｔｃｏｉｎ　Ｊａｐａｎ株式会社",
+  "exch": "東",
+  "title": "（開示事項の経過）子会社等における新規事業(ビットコイントレジャリー及びビットコイン関連資産運用事業)の開始およびビットコイン購入に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917538188.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "新規事業"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1281283",
+  "date": "2026-09-18",
+  "time": "08:00",
+  "code": "624A",
+  "name": "かがやきＨＤ",
+  "exch": "名",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260917538161.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
+  "id": "prtimes-7637fb782bdb",
+  "date": "2026-09-18",
+  "time": "07:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第69弾、グラム・タラクヴァゼ――創業ではなく買収で得た、マンガン精鉱ムンコルプの100%オーナー",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000446.000158730.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1281271",
   "date": "2026-09-17",
   "time": "17:45",
