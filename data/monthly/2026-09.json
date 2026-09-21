@@ -1,5 +1,56 @@
 [
  {
+  "id": "prtimes-bc8f16d12c3c",
+  "date": "2026-09-21",
+  "time": "09:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "susten（サステン）、約10億円の資金調達を実施。ゆうちょ銀行と資本業務提携",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000047.000052955.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-7637fb782bdb",
+  "date": "2026-09-21",
+  "time": "07:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第69弾、グラム・タラクヴァゼ――創業ではなく買収で得た、マンガン精鉱ムンコルプの100%オーナー",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000446.000158730.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-f283b438cd54",
+  "date": "2026-09-20",
+  "time": "16:45",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "PMI"
+  ],
+  "title": "【岡山大学】那須保友学長がPMI Asia Pacificを訪問～研究開発マネジメント人材育成と大学経営高度化に向けた連携を推進～",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000004246.000072793.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "prtimes-913501f0e614",
   "date": "2026-09-18",
   "time": "17:45",
