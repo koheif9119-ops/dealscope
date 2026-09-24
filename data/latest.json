@@ -1,6 +1,41 @@
 {
- "updatedAt": "2026-09-24T17:17:15+09:00",
+ "updatedAt": "2026-09-24T22:41:07+09:00",
  "items": [
+  {
+   "id": "tdnet-1281712",
+   "date": "2026-09-24",
+   "time": "18:31",
+   "code": "9449",
+   "name": "ＧＭＯインターネットグループ株式会社",
+   "exch": "東",
+   "title": "当社孫会社（タイにおけるデジタルアセット事業）の異動（株式譲渡）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260924539658.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式譲渡"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "prtimes-7c2697ffc125",
+   "date": "2026-09-24",
+   "time": "17:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "子会社化"
+   ],
+   "title": "ロフティー、タカコーホールディングスを完全子会社化　北関東・製造物流領域の人材サービスを強化",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000008.000131941.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "tdnet-1281672",
    "date": "2026-09-24",
