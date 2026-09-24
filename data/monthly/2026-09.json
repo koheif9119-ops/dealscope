@@ -1,5 +1,108 @@
 [
  {
+  "id": "edinet-S100Z3CO",
+  "date": "2026-09-24",
+  "time": "09:55",
+  "code": "6239",
+  "name": "株式会社ナガオカ",
+  "exch": "東",
+  "title": "有価証券報告書－第22期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3CO",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z3JA",
+  "date": "2026-09-24",
+  "time": "09:45",
+  "code": "3439",
+  "name": "株式会社三ツ知",
+  "exch": "東",
+  "title": "有価証券報告書－第64期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3JA",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z3FH",
+  "date": "2026-09-24",
+  "time": "09:39",
+  "code": "378A",
+  "name": "株式会社ヒット",
+  "exch": "東",
+  "title": "有価証券報告書－第36期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3FH",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100Z383",
+  "date": "2026-09-24",
+  "time": "09:35",
+  "code": "6571",
+  "name": "キュービーネットホールディングス株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第12期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z383",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100Z3E4",
+  "date": "2026-09-24",
+  "time": "09:13",
+  "code": "7809",
+  "name": "株式会社壽屋",
+  "exch": "東",
+  "title": "有価証券報告書－第73期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3E4",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1281520",
+  "date": "2026-09-24",
+  "time": "08:30",
+  "code": "9831",
+  "name": "株式会社ヤマダホールディングス",
+  "exch": "東",
+  "title": "資産効率の最大化に向けた 中国における特定子会社の異動（持分譲渡）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260923539076.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "prtimes-bc8f16d12c3c",
   "date": "2026-09-23",
   "time": "09:10",
