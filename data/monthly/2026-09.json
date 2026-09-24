@@ -1,5 +1,266 @@
 [
  {
+  "id": "edinet-S100Z3O3",
+  "date": "2026-09-24",
+  "time": "11:53",
+  "code": "1414",
+  "name": "ショーボンドホールディングス株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第19期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3O3",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100Z3HP",
+  "date": "2026-09-24",
+  "time": "11:46",
+  "code": "7636",
+  "name": "株式会社ハンズマン",
+  "exch": "東",
+  "title": "有価証券報告書－第62期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3HP",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z359",
+  "date": "2026-09-24",
+  "time": "11:12",
+  "code": "6340",
+  "name": "澁谷工業株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第78期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z359",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100Z3O7",
+  "date": "2026-09-24",
+  "time": "11:10",
+  "code": "1381",
+  "name": "株式会社アクシーズ",
+  "exch": "東",
+  "title": "有価証券報告書－第64期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3O7",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z3JY",
+  "date": "2026-09-24",
+  "time": "11:05",
+  "code": "2385",
+  "name": "株式会社総医研ホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第32期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3JY",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1281535",
+  "date": "2026-09-24",
+  "time": "11:00",
+  "code": "404A",
+  "name": "ＧＸ中国テック１０",
+  "exch": "東",
+  "title": "2026年8月期（2026年2月11日～2026年8月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260924539210.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1281534",
+  "date": "2026-09-24",
+  "time": "11:00",
+  "code": "328A",
+  "name": "ＧＸ価格パワー日株",
+  "exch": "東",
+  "title": "2026年8月期（2026年2月11日～2026年8月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260924539213.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1281532",
+  "date": "2026-09-24",
+  "time": "11:00",
+  "code": "2629",
+  "name": "ｉＦ中国ＧＢＡ１００",
+  "exch": "東",
+  "title": "2027年2月期 中間決算短信（2026年2月11日～2026年8月10日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260924539303.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1281531",
+  "date": "2026-09-24",
+  "time": "11:00",
+  "code": "2628",
+  "name": "ｉＦ中国科創板５０",
+  "exch": "東",
+  "title": "2027年2月期 中間決算短信（2026年2月11日～2026年8月10日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260924539298.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1281530",
+  "date": "2026-09-24",
+  "time": "11:00",
+  "code": "1651",
+  "name": "ｉＦ高配当４０",
+  "exch": "東",
+  "title": "2026年8月期（2026年2月11日～2026年8月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260924539291.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "edinet-S100Z39B",
+  "date": "2026-09-24",
+  "time": "10:54",
+  "code": "6874",
+  "name": "協立電機株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第68期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z39B",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z3LJ",
+  "date": "2026-09-24",
+  "time": "10:33",
+  "code": "559A",
+  "name": "梅乃宿酒造株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第76期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3LJ",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z3L9",
+  "date": "2026-09-24",
+  "time": "10:11",
+  "code": "7369",
+  "name": "株式会社メイホーホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第10期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3L9",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100Z3AF",
+  "date": "2026-09-24",
+  "time": "10:01",
+  "code": "9165",
+  "name": "株式会社クオルテック",
+  "exch": "東",
+  "title": "有価証券報告書－第34期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3AF",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "prtimes-3499bdec5322",
+  "date": "2026-09-24",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "MBO",
+   "PMI"
+  ],
+  "title": "地域医療活性化ヘルスケアファンド（1号）、初のEXITを創業家によるMBOで実現",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000012.000089680.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "edinet-S100Z3CO",
   "date": "2026-09-24",
   "time": "09:55",
