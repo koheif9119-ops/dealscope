@@ -1,5 +1,56 @@
 [
  {
+  "id": "edinet-S100Z3V1",
+  "date": "2026-09-25",
+  "time": "12:00",
+  "code": "8945",
+  "name": "サンネクスタグループ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第28期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3V1",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z3I1",
+  "date": "2026-09-25",
+  "time": "11:06",
+  "code": "5380",
+  "name": "新東株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第63期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3I1",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z3YV",
+  "date": "2026-09-25",
+  "time": "10:51",
+  "code": "2962",
+  "name": "株式会社テクニスコ",
+  "exch": "東",
+  "title": "有価証券報告書－第58期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3YV",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "edinet-S100Z3BG",
   "date": "2026-09-25",
   "time": "10:00",
