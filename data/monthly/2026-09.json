@@ -1,5 +1,40 @@
 [
  {
+  "id": "prtimes-6c40d6fadc44",
+  "date": "2026-09-25",
+  "time": "23:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A",
+   "事業承継"
+  ],
+  "title": "バトンズ、生成AIによる自然言語検索を搭載したM&A案件検索機能を提供",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000451.000034376.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-4dd092938b50",
+  "date": "2026-09-25",
+  "time": "23:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "船井総研あがたFAS、株式会社結建装から株式会社誠進堂への株式譲渡（M&A）を支援。採用の壁に直面した塗装工事業者が、成長戦略として第三者承継を選択。",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000047.000184273.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "prtimes-9787511ee78b",
   "date": "2026-09-25",
   "time": "17:40",
