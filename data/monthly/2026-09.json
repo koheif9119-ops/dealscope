@@ -1,5 +1,141 @@
 [
  {
+  "id": "edinet-S100Z45G",
+  "date": "2026-09-28",
+  "time": "10:08",
+  "code": "4657",
+  "name": "株式会社環境管理センター",
+  "exch": "東",
+  "title": "有価証券報告書－第57期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z45G",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z4C6",
+  "date": "2026-09-28",
+  "time": "10:04",
+  "code": "6327",
+  "name": "北川精機株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第70期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z4C6",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z433",
+  "date": "2026-09-28",
+  "time": "10:02",
+  "code": "246A",
+  "name": "株式会社アスア",
+  "exch": "東",
+  "title": "有価証券報告書－第32期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z433",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100Z3WT",
+  "date": "2026-09-28",
+  "time": "10:00",
+  "code": "2689",
+  "name": "オルバディーブイエックスヘルスケア株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第77期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3WT",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z3MP",
+  "date": "2026-09-28",
+  "time": "09:17",
+  "code": "1382",
+  "name": "株式会社ホーブ",
+  "exch": "東",
+  "title": "有価証券報告書－第40期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3MP",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z3XS",
+  "date": "2026-09-28",
+  "time": "09:14",
+  "code": "7500",
+  "name": "西川計測株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第91期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3XS",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z488",
+  "date": "2026-09-28",
+  "time": "09:13",
+  "code": "5283",
+  "name": "株式会社高見澤",
+  "exch": "東",
+  "title": "有価証券報告書－第76期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z488",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z435",
+  "date": "2026-09-28",
+  "time": "09:00",
+  "code": "6590",
+  "name": "芝浦メカトロニクス株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第117期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z435",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
   "id": "prtimes-6c40d6fadc44",
   "date": "2026-09-25",
   "time": "23:10",

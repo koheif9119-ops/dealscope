@@ -1,6 +1,142 @@
 {
- "updatedAt": "2026-09-25T23:33:17+09:00",
+ "updatedAt": "2026-09-28T10:21:21+09:00",
  "items": [
+  {
+   "id": "edinet-S100Z45G",
+   "date": "2026-09-28",
+   "time": "10:08",
+   "code": "4657",
+   "name": "株式会社環境管理センター",
+   "exch": "東",
+   "title": "有価証券報告書－第57期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z45G",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z4C6",
+   "date": "2026-09-28",
+   "time": "10:04",
+   "code": "6327",
+   "name": "北川精機株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第70期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z4C6",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z433",
+   "date": "2026-09-28",
+   "time": "10:02",
+   "code": "246A",
+   "name": "株式会社アスア",
+   "exch": "東",
+   "title": "有価証券報告書－第32期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z433",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100Z3WT",
+   "date": "2026-09-28",
+   "time": "10:00",
+   "code": "2689",
+   "name": "オルバディーブイエックスヘルスケア株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第77期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3WT",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z3MP",
+   "date": "2026-09-28",
+   "time": "09:17",
+   "code": "1382",
+   "name": "株式会社ホーブ",
+   "exch": "東",
+   "title": "有価証券報告書－第40期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3MP",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z3XS",
+   "date": "2026-09-28",
+   "time": "09:14",
+   "code": "7500",
+   "name": "西川計測株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第91期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3XS",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z488",
+   "date": "2026-09-28",
+   "time": "09:13",
+   "code": "5283",
+   "name": "株式会社高見澤",
+   "exch": "東",
+   "title": "有価証券報告書－第76期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z488",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z435",
+   "date": "2026-09-28",
+   "time": "09:00",
+   "code": "6590",
+   "name": "芝浦メカトロニクス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第117期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z435",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
   {
    "id": "prtimes-6c40d6fadc44",
    "date": "2026-09-25",
@@ -2616,74 +2752,6 @@
    ],
    "title": "susten（サステン）、約10億円の資金調達を実施。ゆうちょ銀行と資本業務提携",
    "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000047.000052955.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-9b9ddea003ea",
-   "date": "2026-09-21",
-   "time": "13:15",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "M&A"
-   ],
-   "title": "【M&Aベストパートナーズ×100万人のクラシックライブ】47都道府県ツアー！9月27日(日)イオンモールつくばにて開催",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000247.000088537.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-bc8f16d12c3c",
-   "date": "2026-09-21",
-   "time": "09:10",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "資本業務提携"
-   ],
-   "title": "susten（サステン）、約10億円の資金調達を実施。ゆうちょ銀行と資本業務提携",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000047.000052955.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-7637fb782bdb",
-   "date": "2026-09-21",
-   "time": "07:10",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "買収"
-   ],
-   "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第69弾、グラム・タラクヴァゼ――創業ではなく買収で得た、マンガン精鉱ムンコルプの100%オーナー",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000446.000158730.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-f283b438cd54",
-   "date": "2026-09-20",
-   "time": "16:45",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "PMI"
-   ],
-   "title": "【岡山大学】那須保友学長がPMI Asia Pacificを訪問～研究開発マネジメント人材育成と大学経営高度化に向けた連携を推進～",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000004246.000072793.html",
    "src": "PR TIMES",
    "isCorrection": false
   }
