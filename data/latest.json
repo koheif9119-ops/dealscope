@@ -1,6 +1,108 @@
 {
- "updatedAt": "2026-09-28T10:21:21+09:00",
+ "updatedAt": "2026-09-28T12:25:28+09:00",
  "items": [
+  {
+   "id": "edinet-S100Z48T",
+   "date": "2026-09-28",
+   "time": "11:31",
+   "code": "3154",
+   "name": "メディアスホールディングス株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第17期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z48T",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100YZ8R",
+   "date": "2026-09-28",
+   "time": "11:03",
+   "code": "1999",
+   "name": "サイタホールディングス株式会社",
+   "exch": "—",
+   "title": "有価証券報告書－第71期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZ8R",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100Z468",
+   "date": "2026-09-28",
+   "time": "10:52",
+   "code": "3625",
+   "name": "テックファームホールディングス株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第35期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z468",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100Z42V",
+   "date": "2026-09-28",
+   "time": "10:39",
+   "code": "8912",
+   "name": "株式会社エリアクエスト",
+   "exch": "東",
+   "title": "有価証券報告書－第27期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z42V",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z43N",
+   "date": "2026-09-28",
+   "time": "10:30",
+   "code": "1788",
+   "name": "株式会社三東工業社",
+   "exch": "東",
+   "title": "有価証券報告書－第72期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z43N",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z3ZU",
+   "date": "2026-09-28",
+   "time": "10:26",
+   "code": "9344",
+   "name": "アクシスコンサルティング株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第25期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3ZU",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
   {
    "id": "edinet-S100Z45G",
    "date": "2026-09-28",
@@ -51,6 +153,41 @@
    ],
    "isCorrection": false,
    "market": "グロース"
+  },
+  {
+   "id": "prtimes-ad20d28658dd",
+   "date": "2026-09-28",
+   "time": "10:01",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "日本M&Aセンター広報誌「MAVITA」Vol.8発刊　特集は『買う決断、託す決断　100億企業への成長戦略』",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000627.000081927.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1281965",
+   "date": "2026-09-28",
+   "time": "10:00",
+   "code": "7238",
+   "name": "曙ブレーキ工業株式会社",
+   "exch": "東",
+   "title": "連結子会社の異動(持分の譲渡及び第三者割当増資)の完了に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260928540751.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社の異動"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
   },
   {
    "id": "edinet-S100Z3WT",
