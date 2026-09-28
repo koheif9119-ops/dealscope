@@ -1,5 +1,24 @@
 [
  {
+  "id": "tdnet-1282169",
+  "date": "2026-09-28",
+  "time": "19:00",
+  "code": "3645",
+  "name": "株式会社メディカルネット",
+  "exch": "東",
+  "title": "連結子会社の異動を伴う子会社による株式取得（孫会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260928541141.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "tdnet-1282165",
   "date": "2026-09-28",
   "time": "18:30",
