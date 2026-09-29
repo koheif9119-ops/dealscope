@@ -1,6 +1,41 @@
 {
- "updatedAt": "2026-09-29T19:49:53+09:00",
+ "updatedAt": "2026-09-30T01:46:40+09:00",
  "items": [
+  {
+   "id": "prtimes-78281951b931",
+   "date": "2026-09-30",
+   "time": "00:10",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "【ＦＣＥ】アディッシュ株式会社との資本業務提携に関するお知らせ",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000443.000029370.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1282439",
+   "date": "2026-09-29",
+   "time": "23:45",
+   "code": "3038",
+   "name": "株式会社神戸物産",
+   "exch": "東",
+   "title": "ユーロ円CB発行および自己株式取得に関する補足説明資料（条件確定版）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260929542480.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "tdnet-1282438",
    "date": "2026-09-29",
@@ -5261,23 +5296,6 @@
    ],
    "isCorrection": false,
    "market": "プライム"
-  },
-  {
-   "id": "prtimes-bc8f16d12c3c",
-   "date": "2026-09-23",
-   "time": "09:10",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "資本業務提携"
-   ],
-   "title": "susten（サステン）、約10億円の資金調達を実施。ゆうちょ銀行と資本業務提携",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000047.000052955.html",
-   "src": "PR TIMES",
-   "isCorrection": false
   }
  ]
 }
