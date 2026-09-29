@@ -1,5 +1,75 @@
 [
  {
+  "id": "edinet-S100Z4LC",
+  "date": "2026-09-29",
+  "time": "12:34",
+  "code": "7063",
+  "name": "株式会社Ｂｉｒｄｍａｎ",
+  "exch": "東",
+  "title": "有価証券報告書－第14期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z4LC",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1282205",
+  "date": "2026-09-29",
+  "time": "12:00",
+  "code": "9564",
+  "name": "株式会社ＦＣＥ",
+  "exch": "東",
+  "title": "アディッシュ株式会社との資本業務提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260929541838.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1282204",
+  "date": "2026-09-29",
+  "time": "12:00",
+  "code": "7093",
+  "name": "アディッシュ株式会社",
+  "exch": "東",
+  "title": "株式会社ＦＣＥとの資本業務提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260929541643.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100Z4PA",
+  "date": "2026-09-29",
+  "time": "12:00",
+  "code": "2172",
+  "name": "株式会社インサイト",
+  "exch": "—",
+  "title": "有価証券報告書－第52期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z4PA",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "tdnet-1282190",
   "date": "2026-09-29",
   "time": "11:15",
