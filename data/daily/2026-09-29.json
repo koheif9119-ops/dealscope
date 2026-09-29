@@ -1,5 +1,58 @@
 [
  {
+  "id": "tdnet-1282190",
+  "date": "2026-09-29",
+  "time": "11:15",
+  "code": "1349",
+  "name": "アジア債券",
+  "exch": "東",
+  "title": "2026年6月期 アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260929541770.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "edinet-S100Z4BV",
+  "date": "2026-09-29",
+  "time": "10:09",
+  "code": "3111",
+  "name": "オーミケンシ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第161期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z4BV",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1282187",
+  "date": "2026-09-29",
+  "time": "09:50",
+  "code": "349A",
+  "name": "ＳＭＤＡＭ日本グロ株",
+  "exch": "東",
+  "title": "2027年2月期　中間決算短信（2026年2月21日～2026年8月20日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260929541638.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "prtimes-fa027e937fd4",
   "date": "2026-09-29",
   "time": "00:10",
