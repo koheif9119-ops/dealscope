@@ -1,6 +1,218 @@
 {
- "updatedAt": "2026-09-30T01:46:40+09:00",
+ "updatedAt": "2026-09-30T10:47:47+09:00",
  "items": [
+  {
+   "id": "prtimes-98de5e2d2976",
+   "date": "2026-09-30",
+   "time": "10:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "買収"
+   ],
+   "title": "アポロ・ファンド、日本板硝子の買収完了を発表　新たな成長実現へ",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000015.000140114.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100Z3IO",
+   "date": "2026-09-30",
+   "time": "10:01",
+   "code": "5992",
+   "name": "中央発條株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第103期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3IO",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z3IP",
+   "date": "2026-09-30",
+   "time": "09:59",
+   "code": "5992",
+   "name": "中央発條株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第102期(2024/04/01－2025/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3IP",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z3IQ",
+   "date": "2026-09-30",
+   "time": "09:56",
+   "code": "5992",
+   "name": "中央発條株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第101期(2023/04/01－2024/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3IQ",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z3IR",
+   "date": "2026-09-30",
+   "time": "09:54",
+   "code": "5992",
+   "name": "中央発條株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第100期(2022/04/01－2023/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3IR",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z3IS",
+   "date": "2026-09-30",
+   "time": "09:53",
+   "code": "5992",
+   "name": "中央発條株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第99期(2021/04/01－2022/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z3IS",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z50O",
+   "date": "2026-09-30",
+   "time": "09:28",
+   "code": "5987",
+   "name": "株式会社オーネックス",
+   "exch": "東",
+   "title": "有価証券報告書－第75期(2025/07/01－2026/06/30)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z50O",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1282451",
+   "date": "2026-09-30",
+   "time": "09:00",
+   "code": "8473",
+   "name": "ＳＢＩホールディングス株式会社",
+   "exch": "東",
+   "title": "当社子会社のＳＢＩグローバルアセットマネジメント株式会社とＳＢＩインシュアランスグループ株式会社の吸収合併による経営統合に関する基本合意書締結",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260930542525.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併",
+    "経営統合"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1282455",
+   "date": "2026-09-30",
+   "time": "08:50",
+   "code": "9340",
+   "name": "株式会社アソインターナショナル",
+   "exch": "東",
+   "title": "（訂正・数値データ訂正）「2026年６月期決算短信〔日本基準〕（連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260929542200.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1282447",
+   "date": "2026-09-30",
+   "time": "08:30",
+   "code": "7326",
+   "name": "ＳＢＩインシュアランスグループ株式会社",
+   "exch": "東",
+   "title": "ＳＢＩグローバルアセットマネジメント株式会社とＳＢＩインシュアランスグループ株式会社の吸収合併による経営統合に関する基本合意書締結のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260929542247.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併",
+    "経営統合"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1282446",
+   "date": "2026-09-30",
+   "time": "08:30",
+   "code": "4765",
+   "name": "ＳＢＩグローバルアセットマネジメント株式会社",
+   "exch": "東",
+   "title": "SBIグローバルアセットマネジメント株式会社とSBIインシュアランスグループ株式会社の吸収合併による経営統合に関する基本合意締結のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260929541595.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併",
+    "経営統合"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1282444",
+   "date": "2026-09-30",
+   "time": "08:30",
+   "code": "2371",
+   "name": "株式会社カカクコム",
+   "exch": "東",
+   "title": "（変更）「Kamgras １株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120260929542370.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "prtimes-78281951b931",
    "date": "2026-09-30",
