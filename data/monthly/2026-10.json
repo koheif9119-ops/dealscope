@@ -1,5 +1,112 @@
 [
  {
+  "id": "prtimes-8cb33927b283",
+  "date": "2026-10-01",
+  "time": "10:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "ブランディングテクノロジー、menu magazineの子会社化を完了、地域スーパー向けデジタル販促支援を推進",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000263.000043647.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1282869",
+  "date": "2026-10-01",
+  "time": "10:00",
+  "code": "3401",
+  "name": "帝人株式会社",
+  "exch": "東",
+  "title": "（開示事項の経過）帝人フロンティア株式会社及び旭化成アドバンス株式会社の経営統合の完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260930543124.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "経営統合"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1282864",
+  "date": "2026-10-01",
+  "time": "09:30",
+  "code": "267A",
+  "name": "Ｐ－トワライズ",
+  "exch": "東",
+  "title": "（訂正）「2026 年７月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260930543517.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1282859",
+  "date": "2026-10-01",
+  "time": "09:00",
+  "code": "640A",
+  "name": "Ｇ－ＡＳＮＯＶＡ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260930542988.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1282857",
+  "date": "2026-10-01",
+  "time": "09:00",
+  "code": "3918",
+  "name": "ＰＣＩホールディングス株式会社",
+  "exch": "東",
+  "title": "（開示事項の経過）当社連結子会社(PCIソリューションズ株式会社)の吸収合併（簡易合併・略式合併）及び商号変更の完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261001543811.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1282847",
+  "date": "2026-10-01",
+  "time": "08:00",
+  "code": "5592",
+  "name": "株式会社くすりの窓口",
+  "exch": "東",
+  "title": "自己株式取得状況に関するお知らせ（2026年９月度）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260930543527.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "prtimes-61c7018ccb29",
   "date": "2026-10-01",
   "time": "01:10",
