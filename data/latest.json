@@ -1,6 +1,24 @@
 {
- "updatedAt": "2026-10-02T10:56:40+09:00",
+ "updatedAt": "2026-10-02T12:53:11+09:00",
  "items": [
+  {
+   "id": "prtimes-e69214d37e3f",
+   "date": "2026-10-02",
+   "time": "12:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A",
+    "子会社化"
+   ],
+   "title": "ストライダーズ、IT・DX支援を手掛ける株式会社block partyを完全子会社化へ　～グループのDX推進とM&A後の企業価値向上を支える体制を強化～",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000043.000061576.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "prtimes-f8d847b4a59c",
    "date": "2026-10-02",
