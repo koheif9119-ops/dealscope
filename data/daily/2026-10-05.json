@@ -1,0 +1,90 @@
+[
+ {
+  "id": "prtimes-60d86abf0fa8",
+  "date": "2026-10-05",
+  "time": "10:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "ジュニア向けアパレルブランド「JENNI」、10月11日(日)・12日(月)にPOP UPストアを開催！",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000320.000048997.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1283439",
+  "date": "2026-10-05",
+  "time": "09:00",
+  "code": "2753",
+  "name": "株式会社　あみやき亭",
+  "exch": "東",
+  "title": "2027年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120260926540626.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "prtimes-e97bc71bb0a3",
+  "date": "2026-10-05",
+  "time": "08:50",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "日本プライベートエクイティ株式会社、日創グループ株式会社と共同でM&Aファンド「 日創リフレイ １号ファンド 」（NISSO Reflay No.1 Fund） 設立",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000023.000128849.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1283436",
+  "date": "2026-10-05",
+  "time": "08:45",
+  "code": "4935",
+  "name": "株式会社リベルタ",
+  "exch": "東",
+  "title": "（開示事項の変更）株式会社クレアの株式取得（子会社化）に係る譲渡価額変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261005545614.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-62c565f41241",
+  "date": "2026-10-05",
+  "time": "08:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "不動産は増えたのに現金が増えない投資家へ。株式・NISA・FXと比べて学ぶ「収益化済み民泊M&A」無料セミナーを10月9日（金）20時開催｜副業会社員の民泊売却・イグジット事例も公開",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000164.000125953.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ }
+]
