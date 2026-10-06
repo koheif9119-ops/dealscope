@@ -1,5 +1,41 @@
 [
  {
+  "id": "tdnet-1283661",
+  "date": "2026-10-06",
+  "time": "11:00",
+  "code": "8011",
+  "name": "株式会社三陽商会",
+  "exch": "東",
+  "title": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546359.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1283659",
+  "date": "2026-10-06",
+  "time": "10:30",
+  "code": "7434",
+  "name": "株式会社オータケ",
+  "exch": "東",
+  "title": "2027年5月期第1四半期決算短信の開示が四半期末後45日を超えることに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546389.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "prtimes-242efbef88c9",
   "date": "2026-10-06",
   "time": "03:10",
