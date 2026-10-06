@@ -1,6 +1,23 @@
 {
- "updatedAt": "2026-10-06T11:39:08+09:00",
+ "updatedAt": "2026-10-06T13:40:21+09:00",
  "items": [
+  {
+   "id": "prtimes-4e09a4acbe02",
+   "date": "2026-10-06",
+   "time": "11:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "【ROLEUP】FAS 支援の一環として事業再生部門「BRS」を新設――M&A アドバイザリーと一体となった再生支援体制を確立",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000057.000117636.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "tdnet-1283661",
    "date": "2026-10-06",
