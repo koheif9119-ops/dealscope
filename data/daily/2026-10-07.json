@@ -1,5 +1,402 @@
 [
  {
+  "id": "prtimes-f6b9a6ac3f04",
+  "date": "2026-10-07",
+  "time": "17:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "True Data、プロショップ向けPOS・販売管理システムを展開するコスモネットを完全子会社化",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000184.000039871.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1283933",
+  "date": "2026-10-07",
+  "time": "16:00",
+  "code": "6407",
+  "name": "ＣＫＤ株式会社",
+  "exch": "東",
+  "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546499.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1283932",
+  "date": "2026-10-07",
+  "time": "16:00",
+  "code": "6407",
+  "name": "ＣＫＤ株式会社",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ（会社法第459条第１項の規定による定款の定めに基づく自己株式の取得）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261007547285.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1283929",
+  "date": "2026-10-07",
+  "time": "16:00",
+  "code": "428A",
+  "name": "サイプレス・ホールディングス株式会社",
+  "exch": "東",
+  "title": "2026年８月期 決算短信〔ＩＦＲＳ〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261007547344.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1283925",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "9846",
+  "name": "株式会社天満屋ストア",
+  "exch": "東",
+  "title": "2027年2月期　第2四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546368.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1283922",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "8166",
+  "name": "株式会社タカキュー",
+  "exch": "東",
+  "title": "2027年2月期　第2四半期(中間期)決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261002545176.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1283916",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "6862",
+  "name": "ミナトホールディングス株式会社",
+  "exch": "東",
+  "title": "株式会社メディア・トラスト等との資本業務提携契約の解除及び連結子会社の代表取締役の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261007547301.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1283912",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "6255",
+  "name": "株式会社エヌ・ピー・シー",
+  "exch": "東",
+  "title": "中期経営計画の策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261007547099.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1283911",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "6255",
+  "name": "株式会社エヌ・ピー・シー",
+  "exch": "東",
+  "title": "2026年8月期 決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261007547128.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1283907",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "6093",
+  "name": "株式会社エスクロー・エージェント・ジャパン",
+  "exch": "東",
+  "title": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261007547046.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1283905",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "5932",
+  "name": "三協立山株式会社",
+  "exch": "東",
+  "title": "株式報酬制度における株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546373.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1283903",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "5932",
+  "name": "三協立山株式会社",
+  "exch": "東",
+  "title": "2027年5月期 第1四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546363.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1283902",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "5711",
+  "name": "三菱マテリアル株式会社",
+  "exch": "東",
+  "title": "子会社の新設及び会社分割（簡易吸収分割）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261007547071.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1283897",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "4416",
+  "name": "株式会社Ｔｒｕｅ　Ｄａｔａ",
+  "exch": "東",
+  "title": "株式会社コスモネットの完全子会社化に関する補足説明資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546683.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1283896",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "4416",
+  "name": "株式会社Ｔｒｕｅ　Ｄａｔａ",
+  "exch": "東",
+  "title": "子会社の異動を伴う株式の取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546504.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1283895",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "4176",
+  "name": "株式会社ココナラ",
+  "exch": "東",
+  "title": "Acrosstudio株式会社の株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261007547100.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1283885",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "3391",
+  "name": "株式会社ツルハホールディングス",
+  "exch": "東",
+  "title": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546807.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1283880",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "2918",
+  "name": "わらべや日洋ホールディングス株式会社",
+  "exch": "東",
+  "title": "2027年２月期  第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546861.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1283876",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "2670",
+  "name": "株式会社エービーシー・マート",
+  "exch": "東",
+  "title": "2027年２月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546823.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1283873",
+  "date": "2026-10-07",
+  "time": "15:30",
+  "code": "218A",
+  "name": "株式会社Ｌｉｂｅｒａｗａｒｅ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正） 「2026 年７月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261007547263.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1283861",
+  "date": "2026-10-07",
+  "time": "15:01",
+  "code": "1929",
+  "name": "日特建設株式会社",
+  "exch": "東",
+  "title": "地研テクノ株式会社の株式取得（完全子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261005545871.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1283866",
+  "date": "2026-10-07",
+  "time": "15:00",
+  "code": "5252",
+  "name": "日本ナレッジ株式会社",
+  "exch": "東",
+  "title": "（訂正）株式会社ビジネスブレイン太田昭和との資本提携契約の締結、第三者割当による新株式発行及び株式の売出し並びに主要株主等の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546846.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本提携"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
   "id": "prtimes-02aad41ebbf4",
   "date": "2026-10-07",
   "time": "11:00",
