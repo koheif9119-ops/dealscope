@@ -1,5 +1,182 @@
 [
  {
+  "id": "tdnet-1283985",
+  "date": "2026-10-08",
+  "time": "11:00",
+  "code": "513A",
+  "name": "ＧＸ防衛テック日株",
+  "exch": "東",
+  "title": "2026年8月期（2026年2月24日～2026年8月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261008547742.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1283984",
+  "date": "2026-10-08",
+  "time": "11:00",
+  "code": "512A",
+  "name": "ＧＸステコ＆トークン",
+  "exch": "東",
+  "title": "2026年8月期（2026年2月24日～2026年8月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261008547739.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1283983",
+  "date": "2026-10-08",
+  "time": "11:00",
+  "code": "2864",
+  "name": "ＧＸロジリート",
+  "exch": "東",
+  "title": "2026年8月期（2026年2月25日～2026年8月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261008547698.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1283982",
+  "date": "2026-10-08",
+  "time": "11:00",
+  "code": "235A",
+  "name": "ＧＸ高配当３０日株",
+  "exch": "東",
+  "title": "2026年8月期（2026年2月25日～2026年8月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261008547727.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1283981",
+  "date": "2026-10-08",
+  "time": "11:00",
+  "code": "234A",
+  "name": "ＧＸＣＦキング日株",
+  "exch": "東",
+  "title": "2026年8月期（2026年2月25日～2026年8月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261008547734.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1283980",
+  "date": "2026-10-08",
+  "time": "11:00",
+  "code": "180A",
+  "name": "ＧＸ超長期米国債",
+  "exch": "東",
+  "title": "2026年8月期（2026年2月25日～2026年8月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261008547731.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1283979",
+  "date": "2026-10-08",
+  "time": "11:00",
+  "code": "179A",
+  "name": "ＧＸ超長期米国債Ｈ",
+  "exch": "東",
+  "title": "2026年8月期（2026年2月25日～2026年8月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261008547725.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "prtimes-db9c807574a5",
+  "date": "2026-10-08",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "ビジネスラリアート、SES・インフラ構築を展開する 株式会社フロッサを完全子会社化",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000032.000008842.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-211dc233025a",
+  "date": "2026-10-08",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "日本生産性本部からの国内ASCM/APICS事業承継のお知らせ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000003.000189486.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-1bf18df0267e",
+  "date": "2026-10-08",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "創業120年の老舗企業・側島製罐 石川貴也氏が福井に登壇～事業承継・組織改革・働く環境を考えるトークイベント「守るもの、変えるもの。」を11月6日に開催",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000001.000191330.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "prtimes-f6b9a6ac3f04",
   "date": "2026-10-07",
   "time": "17:15",
