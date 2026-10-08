@@ -1,5 +1,40 @@
 [
  {
+  "id": "prtimes-1ef531e83c53",
+  "date": "2026-10-08",
+  "time": "12:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "ペットを飼った経験があり、動物病院に通ったことがある310人に調査！かかりつけ動物病院の院長引退、「不安に感じる」が88％",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000001.000190321.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1283991",
+  "date": "2026-10-08",
+  "time": "11:30",
+  "code": "8194",
+  "name": "株式会社ライフコーポレーション",
+  "exch": "東",
+  "title": "2027年２月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261001544866.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "tdnet-1283985",
   "date": "2026-10-08",
   "time": "11:00",
