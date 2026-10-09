@@ -1,6 +1,115 @@
 {
- "updatedAt": "2026-10-09T11:42:14+09:00",
+ "updatedAt": "2026-10-09T13:23:47+09:00",
  "items": [
+  {
+   "id": "tdnet-1284232",
+   "date": "2026-10-09",
+   "time": "13:00",
+   "code": "9835",
+   "name": "株式会社ジュンテンドー",
+   "exch": "東",
+   "title": "2027年２月期　第２四半期（中間期）決算短信〔日本基準〕",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546579.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1284230",
+   "date": "2026-10-09",
+   "time": "13:00",
+   "code": "7981",
+   "name": "タカラスタンダード株式会社",
+   "exch": "東",
+   "title": "シグマコンサルティング株式会社の株式取得（段階取得による子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261008548100.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1284226",
+   "date": "2026-10-09",
+   "time": "13:00",
+   "code": "2804",
+   "name": "ブルドックソース株式会社",
+   "exch": "東",
+   "title": "自己株式取得状況に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261008548087.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1284221",
+   "date": "2026-10-09",
+   "time": "12:00",
+   "code": "9381",
+   "name": "株式会社エーアイテイー",
+   "exch": "東",
+   "title": "2027年2月期　第2四半期（中間期）決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261001544135.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1284217",
+   "date": "2026-10-09",
+   "time": "12:00",
+   "code": "4440",
+   "name": "株式会社ヴィッツ",
+   "exch": "東",
+   "title": "2026年８月期  決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261008547659.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1284215",
+   "date": "2026-10-09",
+   "time": "12:00",
+   "code": "3048",
+   "name": "株式会社ビックカメラ",
+   "exch": "東",
+   "title": "2026年８月期 決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261008548252.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "prtimes-6f0eba16295c",
    "date": "2026-10-09",
