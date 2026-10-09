@@ -1,6 +1,57 @@
 {
- "updatedAt": "2026-10-09T20:26:45+09:00",
+ "updatedAt": "2026-10-10T02:30:47+09:00",
  "items": [
+  {
+   "id": "prtimes-eed46bfdebf5",
+   "date": "2026-10-10",
+   "time": "01:10",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "子会社化"
+   ],
+   "title": "株式会社ウィルネクスト、地域企業の広報・マーケティング支援を手がける株式会社konokiを子会社化「意思」を起点に、組織づくりから発信・採用までを一気通貫で支援",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000088.000039305.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-a6b4f17ab62f",
+   "date": "2026-10-10",
+   "time": "01:10",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "子会社化"
+   ],
+   "title": "中核事業の拡充：パチンコホール「三福」運営会社を完全子会社化",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000028.000131973.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-3a521166d53d",
+   "date": "2026-10-10",
+   "time": "00:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "【11月10日（火）開催】オープンネーム後継者募集イベント「事業承継マッチング in 福岡」を開催",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000050.000182637.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "tdnet-1284461",
    "date": "2026-10-09",
@@ -4299,40 +4350,6 @@
    ],
    "title": "不動産は増えたのに現金が増えない投資家へ。株式・NISA・FXと比べて学ぶ「収益化済み民泊M&A」無料セミナーを10月9日（金）20時開催｜副業会社員の民泊売却・イグジット事例も公開",
    "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000164.000125953.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-c59254d945ea",
-   "date": "2026-10-03",
-   "time": "01:10",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "資本業務提携"
-   ],
-   "title": "トナリゾート、北海道の宿泊運営会社「ダブルバケーション」と資本業務提携",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000043.000140758.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-4785f99982a2",
-   "date": "2026-10-03",
-   "time": "01:10",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "子会社化"
-   ],
-   "title": "Boldグループにて農機補修部品・製品保証事業を担う株式会社AGRINAを子会社化",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000004.000098941.html",
    "src": "PR TIMES",
    "isCorrection": false
   }
