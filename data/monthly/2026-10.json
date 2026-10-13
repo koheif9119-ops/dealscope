@@ -1,5 +1,22 @@
 [
  {
+  "id": "edinet-S100Z7DK",
+  "date": "2026-10-13",
+  "time": "13:41",
+  "code": "7826",
+  "name": "株式会社フルヤ金属",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第58期(2025/07/01－2026/06/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z7DK",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
   "id": "tdnet-1284471",
   "date": "2026-10-13",
   "time": "09:00",
