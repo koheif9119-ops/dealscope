@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1284779",
+  "date": "2026-10-14",
+  "time": "08:30",
+  "code": "2459",
+  "name": "アウンコンサルティング株式会社",
+  "exch": "東",
+  "title": "2027年5月期第1四半期決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261013549735.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "prtimes-5541540853dc",
   "date": "2026-10-13",
   "time": "21:10",
