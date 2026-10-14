@@ -1,5 +1,165 @@
 [
  {
+  "id": "tdnet-1284809",
+  "date": "2026-10-14",
+  "time": "12:00",
+  "code": "7805",
+  "name": "プリントネット株式会社",
+  "exch": "東",
+  "title": "2026年８月期 決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261014550257.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1284807",
+  "date": "2026-10-14",
+  "time": "12:00",
+  "code": "7608",
+  "name": "株式会社エスケイジャパン",
+  "exch": "東",
+  "title": "令和９年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261014550258.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1284805",
+  "date": "2026-10-14",
+  "time": "12:00",
+  "code": "4432",
+  "name": "ウイングアーク１ｓｔ株式会社",
+  "exch": "東",
+  "title": "2027年２月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261008548034.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1284804",
+  "date": "2026-10-14",
+  "time": "12:00",
+  "code": "2882",
+  "name": "株式会社イートアンドホールディングス",
+  "exch": "東",
+  "title": "中期経営計画の策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261014550279.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1284803",
+  "date": "2026-10-14",
+  "time": "12:00",
+  "code": "2882",
+  "name": "株式会社イートアンドホールディングス",
+  "exch": "東",
+  "title": "2027年２月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261014550244.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1284798",
+  "date": "2026-10-14",
+  "time": "12:00",
+  "code": "209A",
+  "name": "Ｐ－小野谷機工",
+  "exch": "東",
+  "title": "2026年８月期 決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261014550301.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1284793",
+  "date": "2026-10-14",
+  "time": "11:30",
+  "code": "4057",
+  "name": "株式会社インターファクトリー",
+  "exch": "東",
+  "title": "2027年５月期 第１四半期決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261013549507.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "prtimes-efd68f102bca",
+  "date": "2026-10-14",
+  "time": "10:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "JR東日本スタートアップとACIMUSが資本業務提携",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000388.000034286.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-ed7cabe52a23",
+  "date": "2026-10-14",
+  "time": "10:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "生成AIと対話してBIMを作る「ACIMUS」、シードラウンドで約6,500万円を調達 ― JR東日本スタートアップと資本業務提携",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000018.000152114.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1284779",
   "date": "2026-10-14",
   "time": "08:30",
