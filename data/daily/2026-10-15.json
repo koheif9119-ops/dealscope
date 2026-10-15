@@ -1,5 +1,95 @@
 [
  {
+  "id": "tdnet-1285647",
+  "date": "2026-10-15",
+  "time": "18:00",
+  "code": "361A",
+  "name": "Ｐ－リビングハウス",
+  "exch": "東",
+  "title": "2027年２月期 中間決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261014550916.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1285644",
+  "date": "2026-10-15",
+  "time": "18:00",
+  "code": "351A",
+  "name": "Ｐ－アクシスＩＴＰ",
+  "exch": "東",
+  "title": "2026年８月期決算短信〔日本基準〕(非連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261015551871.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1285643",
+  "date": "2026-10-15",
+  "time": "18:00",
+  "code": "1445",
+  "name": "Ｐ－ひかりＨＤ",
+  "exch": "東",
+  "title": "2026年８月期 決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261014550756.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1285653",
+  "date": "2026-10-15",
+  "time": "17:45",
+  "code": "3189",
+  "name": "株式会社ＡＮＡＰホールディングス",
+  "exch": "東",
+  "title": "2026年8月期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261014550787.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1285641",
+  "date": "2026-10-15",
+  "time": "17:30",
+  "code": "8254",
+  "name": "株式会社さいか屋",
+  "exch": "東",
+  "title": "2026年８月期　決算短信［日本基準］（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261015551348.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1285637",
   "date": "2026-10-15",
   "time": "17:15",
@@ -252,6 +342,23 @@
   "market": "グロース"
  },
  {
+  "id": "prtimes-94475cd37308",
+  "date": "2026-10-15",
+  "time": "16:45",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "イオレ、AIサーバー・ストレージの販売・導入支援やモジュール型AIデータセンターを開発・構築するWOODMANを完全子会社化へ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000323.000030850.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1285598",
   "date": "2026-10-15",
   "time": "16:30",
@@ -358,6 +465,23 @@
   ],
   "isCorrection": false,
   "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-7dfd24390bdf",
+  "date": "2026-10-15",
+  "time": "16:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "U-MAPと田中精密工業、資本業務提携を開始　―次世代パワー半導体向け熱マネジメント領域で新事業創出を目指す―",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000020.000037470.html",
+  "src": "PR TIMES",
+  "isCorrection": false
  },
  {
   "id": "tdnet-1285491",
