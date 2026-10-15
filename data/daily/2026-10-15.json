@@ -1,0 +1,73 @@
+[
+ {
+  "id": "tdnet-1285153",
+  "date": "2026-10-15",
+  "time": "09:40",
+  "code": "3083",
+  "name": "スターシーズ株式会社",
+  "exch": "東",
+  "title": "（訂正）「2027年２月期 第２四半期（中間期）決算短信〔日本基準〕(連結)」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261015550977.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-d9351fff4118",
+  "date": "2026-10-15",
+  "time": "09:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "THE WHY HOW DO COMPANY、累計101件のM&A実績を持つColors Japanと業務提携。「価値承継型M&Aプラットフォーム」を構築へ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000599.000001924.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1285148",
+  "date": "2026-10-15",
+  "time": "08:30",
+  "code": "2371",
+  "name": "株式会社カカクコム",
+  "exch": "東",
+  "title": "（変更）「Kamgras １株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261015550498.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1285145",
+  "date": "2026-10-15",
+  "time": "08:00",
+  "code": "648A",
+  "name": "Ｇ－ルクレ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261014550834.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ }
+]
