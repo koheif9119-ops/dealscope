@@ -1,6 +1,77 @@
 {
- "updatedAt": "2026-10-16T09:58:15+09:00",
+ "updatedAt": "2026-10-16T11:58:37+09:00",
  "items": [
+  {
+   "id": "prtimes-c3320b04d562",
+   "date": "2026-10-16",
+   "time": "11:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "買収"
+   ],
+   "title": "プルーフポイント、63億ドルでVaronisを買収へ",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000086.000073972.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "tdnet-1285695",
+   "date": "2026-10-16",
+   "time": "11:30",
+   "code": "2484",
+   "name": "株式会社出前館",
+   "exch": "東",
+   "title": "（訂正・数値データ訂正）「2026年８月期　決算短信〔日本基準〕（連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261016552131.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1285692",
+   "date": "2026-10-16",
+   "time": "11:00",
+   "code": "2927",
+   "name": "株式会社ＡＦＣ－ＨＤアムスライフサイエンス",
+   "exch": "東",
+   "title": "中期経営計画策定のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261016552127.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1285687",
+   "date": "2026-10-16",
+   "time": "10:00",
+   "code": "6085",
+   "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+   "exch": "東",
+   "title": "2027年２月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261015551758.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
   {
    "id": "tdnet-1285673",
    "date": "2026-10-16",
