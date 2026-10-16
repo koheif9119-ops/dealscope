@@ -359,6 +359,23 @@
   "isCorrection": false
  },
  {
+  "id": "prtimes-65d3ef75cd0d",
+  "date": "2026-10-15",
+  "time": "16:42",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "ビザスクと博報堂、企業の事業開発をAIによるリサーチからコンサルティングまで一気通貫で支援",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000553.000015233.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1285598",
   "date": "2026-10-15",
   "time": "16:30",

@@ -1,5 +1,40 @@
 [
  {
+  "id": "tdnet-1285673",
+  "date": "2026-10-16",
+  "time": "09:50",
+  "code": "1398",
+  "name": "ＳＭＤＡＭ　Ｊリート",
+  "exch": "東",
+  "title": "2026年9月期　決算短信（2026年3月9日～2026年9月8日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261016552025.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "prtimes-4fd9b7491a87",
+  "date": "2026-10-16",
+  "time": "09:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "株式会社りそなホールディングスと株式会社ジェーシービーの資本業務提携契約の締結について",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000052.000100027.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1285647",
   "date": "2026-10-15",
   "time": "18:00",
@@ -355,6 +390,23 @@
   ],
   "title": "イオレ、AIサーバー・ストレージの販売・導入支援やモジュール型AIデータセンターを開発・構築するWOODMANを完全子会社化へ",
   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000323.000030850.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-65d3ef75cd0d",
+  "date": "2026-10-15",
+  "time": "16:42",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "ビザスクと博報堂、企業の事業開発をAIによるリサーチからコンサルティングまで一気通貫で支援",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000553.000015233.html",
   "src": "PR TIMES",
   "isCorrection": false
  },

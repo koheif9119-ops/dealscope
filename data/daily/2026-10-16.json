@@ -1,0 +1,37 @@
+[
+ {
+  "id": "tdnet-1285673",
+  "date": "2026-10-16",
+  "time": "09:50",
+  "code": "1398",
+  "name": "ＳＭＤＡＭ　Ｊリート",
+  "exch": "東",
+  "title": "2026年9月期　決算短信（2026年3月9日～2026年9月8日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261016552025.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "prtimes-4fd9b7491a87",
+  "date": "2026-10-16",
+  "time": "09:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "株式会社りそなホールディングスと株式会社ジェーシービーの資本業務提携契約の締結について",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000052.000100027.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ }
+]
