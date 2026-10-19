@@ -1,5 +1,58 @@
 [
  {
+  "id": "prtimes-ae2c4fbeec27",
+  "date": "2026-10-20",
+  "time": "00:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "Right Brothers、M&Aの意思決定を疑似体験する法人向け研修プログラムを11月1日より提供開始",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000034.000080445.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-753f48b120a5",
+  "date": "2026-10-20",
+  "time": "00:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "【直方市】事業承継セミナーの開催及び参加者を募集します！",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000382.000090449.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1286025",
+  "date": "2026-10-19",
+  "time": "19:00",
+  "code": "3323",
+  "name": "レカム株式会社",
+  "exch": "東",
+  "title": "連結子会社レカムIEパートナー株式会社の株式交換（簡易株式交換）による完全子会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261019553000.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化",
+   "株式交換"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1286016",
   "date": "2026-10-19",
   "time": "17:45",
