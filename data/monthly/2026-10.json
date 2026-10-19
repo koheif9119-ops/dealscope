@@ -1,5 +1,58 @@
 [
  {
+  "id": "prtimes-e1d13be6ccc8",
+  "date": "2026-10-19",
+  "time": "11:41",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "【伊万里・武雄で開催】経営・税金・相続・事業承継の悩みをプロが解決！専門家に気軽に相談できる「税務相談会」を2026年12月3日・4日に開催",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000017.000130658.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1285895",
+  "date": "2026-10-19",
+  "time": "11:00",
+  "code": "233A",
+  "name": "ｉＦインドＮ５０",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月5日～2026年9月4日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261019552747.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1285894",
+  "date": "2026-10-19",
+  "time": "11:00",
+  "code": "1488",
+  "name": "ｉＦＪリート",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月5日～2026年9月4日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261019552741.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
   "id": "prtimes-be56471ae25c",
   "date": "2026-10-19",
   "time": "04:40",
