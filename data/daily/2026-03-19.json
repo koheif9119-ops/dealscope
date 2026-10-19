@@ -797,6 +797,23 @@
   "market": "スタンダード"
  },
  {
+  "id": "edinet-S100WZGB",
+  "date": "2026-03-19",
+  "time": "13:39",
+  "code": "3776",
+  "name": "株式会社ブロードバンドタワー",
+  "exch": "東",
+  "title": "有価証券報告書－第27期(2025/01/01－2025/12/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WZGB",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1233242",
   "date": "2026-03-19",
   "time": "13:00",
