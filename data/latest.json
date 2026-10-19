@@ -1,6 +1,23 @@
 {
- "updatedAt": "2026-10-16T22:24:21+09:00",
+ "updatedAt": "2026-10-19T09:43:22+09:00",
  "items": [
+  {
+   "id": "prtimes-be56471ae25c",
+   "date": "2026-10-19",
+   "time": "04:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "プロマーケット上場を検討する経営者向け「無料個別相談会」を先着3社限定で実施―事業本部副本部長 小山内篤のYouTube番組「M&A BANK」出演を記念して",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000328.000054393.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "prtimes-9ba817c9dc19",
    "date": "2026-10-16",
@@ -8386,91 +8403,6 @@
    ],
    "isCorrection": false,
    "market": "プライム"
-  },
-  {
-   "id": "prtimes-89ae490c0912",
-   "date": "2026-10-12",
-   "time": "12:15",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "M&A"
-   ],
-   "title": "会社を売った人・買った人が本音で語る。経営者限定のクローズド交流会「第六回 M&A本音ナイト」を12月17日(木)に参謀BAR新宿で開催",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000183.000016218.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-32aab8448afc",
-   "date": "2026-10-12",
-   "time": "10:10",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "M&A"
-   ],
-   "title": "AIが業界地図を書き換える ――ITサービス・SaaS業界で再編の波が本格化。M&A動向と主要プレイヤーの業績を分析",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000014.000142899.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-eed46bfdebf5",
-   "date": "2026-10-10",
-   "time": "01:10",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "子会社化"
-   ],
-   "title": "株式会社ウィルネクスト、地域企業の広報・マーケティング支援を手がける株式会社konokiを子会社化「意思」を起点に、組織づくりから発信・採用までを一気通貫で支援",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000088.000039305.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-a6b4f17ab62f",
-   "date": "2026-10-10",
-   "time": "01:10",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "子会社化"
-   ],
-   "title": "中核事業の拡充：パチンコホール「三福」運営会社を完全子会社化",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000028.000131973.html",
-   "src": "PR TIMES",
-   "isCorrection": false
-  },
-  {
-   "id": "prtimes-3a521166d53d",
-   "date": "2026-10-10",
-   "time": "00:40",
-   "code": "—",
-   "name": "PR TIMES掲載",
-   "market": "—",
-   "exch": "—",
-   "genre": "news",
-   "tags": [
-    "事業承継"
-   ],
-   "title": "【11月10日（火）開催】オープンネーム後継者募集イベント「事業承継マッチング in 福岡」を開催",
-   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000050.000182637.html",
-   "src": "PR TIMES",
-   "isCorrection": false
   }
  ]
 }
