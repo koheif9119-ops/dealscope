@@ -1,6 +1,347 @@
 {
- "updatedAt": "2026-10-20T12:14:13+09:00",
+ "updatedAt": "2026-10-20T17:46:15+09:00",
  "items": [
+  {
+   "id": "tdnet-1286112",
+   "date": "2026-10-20",
+   "time": "16:00",
+   "code": "4438",
+   "name": "株式会社Ｗｅｌｂｙ",
+   "exch": "東",
+   "title": "TISI株式会社と業務提携契約締結の決定及び連結子会社である株式会社Welbyヘルスケアソリューションズによる第三者割当増資のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553516.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1286063",
+   "date": "2026-10-20",
+   "time": "15:50",
+   "code": "9345",
+   "name": "ビズメイツ株式会社",
+   "exch": "東",
+   "title": "株式会社With The Worldの株式取得及び簡易株式交換に関する補足資料及び説明動画のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553375.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "株式交換"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1286066",
+   "date": "2026-10-20",
+   "time": "15:40",
+   "code": "5990",
+   "name": "株式会社スーパーツール",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261017552566.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1286065",
+   "date": "2026-10-20",
+   "time": "15:40",
+   "code": "5990",
+   "name": "株式会社スーパーツール",
+   "exch": "東",
+   "title": "2027年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546844.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1286102",
+   "date": "2026-10-20",
+   "time": "15:30",
+   "code": "8968",
+   "name": "Ｒ－福岡",
+   "exch": "東",
+   "title": "2026年8月期　決算短信（ＲＥＩＴ）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261019553012.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1286101",
+   "date": "2026-10-20",
+   "time": "15:30",
+   "code": "8876",
+   "name": "株式会社リログループ",
+   "exch": "東",
+   "title": "ATIV Medical Pte. Ltd.の株式取得（子会社化）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553452.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1286099",
+   "date": "2026-10-20",
+   "time": "15:30",
+   "code": "8145",
+   "name": "中部水産株式会社",
+   "exch": "名",
+   "title": "有価証券報告書の訂正報告書の提出に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261019553198.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "地方"
+  },
+  {
+   "id": "tdnet-1286095",
+   "date": "2026-10-20",
+   "time": "15:30",
+   "code": "7318",
+   "name": "セレンディップ・ホールディングス株式会社",
+   "exch": "東",
+   "title": "連結子会社間の吸収合併に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553280.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1286085",
+   "date": "2026-10-20",
+   "time": "15:30",
+   "code": "5933",
+   "name": "アルインコ株式会社",
+   "exch": "東",
+   "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553439.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1286081",
+   "date": "2026-10-20",
+   "time": "15:30",
+   "code": "4420",
+   "name": "イーソル株式会社",
+   "exch": "東",
+   "title": "株式会社BCJ-110による当社株式に対する公開買付けの結果並びに親会社及び主要株主である筆頭株主の異動に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553355.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1286080",
+   "date": "2026-10-20",
+   "time": "15:30",
+   "code": "3803",
+   "name": "イメージ情報開発株式会社",
+   "exch": "東",
+   "title": "株式会社クラッド大分の株式の取得(子会社化)及び業務提携契約の締結に関する補足説明資料",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553238.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1286079",
+   "date": "2026-10-20",
+   "time": "15:30",
+   "code": "3803",
+   "name": "イメージ情報開発株式会社",
+   "exch": "東",
+   "title": "株式会社クラッド大分の株式の取得(子会社化)及び業務提携契約の締結に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261016552283.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1286075",
+   "date": "2026-10-20",
+   "time": "15:30",
+   "code": "3466",
+   "name": "Ｒ－ラサールロジ",
+   "exch": "東",
+   "title": "2026年８月期　決算短信（ＲＥＩＴ）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553462.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1286073",
+   "date": "2026-10-20",
+   "time": "15:30",
+   "code": "3226",
+   "name": "Ｒ－三井不アコモ",
+   "exch": "東",
+   "title": "2026年８月期 決算短信(ＲＥＩＴ)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261014550560.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100Z8W1",
+   "date": "2026-10-20",
+   "time": "15:18",
+   "code": "8145",
+   "name": "中部水産株式会社",
+   "exch": "—",
+   "title": "訂正有価証券報告書－第83期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z8W1",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100Z8W0",
+   "date": "2026-10-20",
+   "time": "15:11",
+   "code": "8145",
+   "name": "中部水産株式会社",
+   "exch": "—",
+   "title": "訂正有価証券報告書－第82期(2024/04/01－2025/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z8W0",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100Z8WQ",
+   "date": "2026-10-20",
+   "time": "15:03",
+   "code": "8145",
+   "name": "中部水産株式会社",
+   "exch": "—",
+   "title": "訂正有価証券報告書－第81期(2023/04/01－2024/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z8WQ",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100Z8VF",
+   "date": "2026-10-20",
+   "time": "14:53",
+   "code": "8145",
+   "name": "中部水産株式会社",
+   "exch": "—",
+   "title": "訂正有価証券報告書－第80期(2022/04/01－2023/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z8VF",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1286055",
+   "date": "2026-10-20",
+   "time": "13:45",
+   "code": "6503",
+   "name": "三菱電機株式会社",
+   "exch": "東",
+   "title": "配電制御機器事業の合弁会社化に向けた子会社設立、当社及び子会社間の会社分割（簡易分割）並びにABBとの株式譲渡契約等の締結に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553397.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式譲渡",
+    "会社分割"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "tdnet-1286046",
    "date": "2026-10-20",
