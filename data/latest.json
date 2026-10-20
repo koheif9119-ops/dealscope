@@ -1,6 +1,57 @@
 {
- "updatedAt": "2026-10-20T01:34:25+09:00",
+ "updatedAt": "2026-10-20T10:28:52+09:00",
  "items": [
+  {
+   "id": "prtimes-f4892392de5e",
+   "date": "2026-10-20",
+   "time": "09:45",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "不動産は増えたのに現金が増えない投資家へ。株式・NISA・FXと比べて学ぶ「収益化済み民泊M&A」無料セミナーを10月24日（土）13時30分開催｜副業会社員の民泊売却・イグジット事例も公開",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000165.000125953.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100Z8T1",
+   "date": "2026-10-20",
+   "time": "09:26",
+   "code": "9242",
+   "name": "メディア総研株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第35期(2025/08/01－2026/07/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z8T1",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "prtimes-0a81324c0c1e",
+   "date": "2026-10-20",
+   "time": "09:00",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "IPOもM&Aも前提としない資金調達のかたち　ネッスー、「IMPACT STARTUP SUMMIT 2026」で「償還型イグジット」スキームを紹介",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000083.000113664.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "prtimes-ae2c4fbeec27",
    "date": "2026-10-20",
