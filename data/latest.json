@@ -1,6 +1,24 @@
 {
- "updatedAt": "2026-10-20T17:46:15+09:00",
+ "updatedAt": "2026-10-20T23:03:57+09:00",
  "items": [
+  {
+   "id": "tdnet-1286143",
+   "date": "2026-10-20",
+   "time": "17:30",
+   "code": "6890",
+   "name": "株式会社フェローテック",
+   "exch": "東",
+   "title": "持分法適用会社の株式取得に伴う特定子会社への異動のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553550.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "tdnet-1286112",
    "date": "2026-10-20",
