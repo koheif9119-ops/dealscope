@@ -1,6 +1,24 @@
 {
- "updatedAt": "2026-10-21T10:12:32+09:00",
+ "updatedAt": "2026-10-21T12:09:16+09:00",
  "items": [
+  {
+   "id": "tdnet-1286190",
+   "date": "2026-10-21",
+   "time": "11:30",
+   "code": "296A",
+   "name": "令和アカウンティング・ホールディングス株式会社",
+   "exch": "東",
+   "title": "2027年３月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553509.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
   {
    "id": "edinet-S100Z91A",
    "date": "2026-10-21",
