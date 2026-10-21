@@ -1,5 +1,278 @@
 [
  {
+  "id": "tdnet-1286278",
+  "date": "2026-10-21",
+  "time": "17:30",
+  "code": "4829",
+  "name": "日本エンタープライズ株式会社",
+  "exch": "東",
+  "title": "株式会社ハニー・ビーの株式取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261021554197.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1286272",
+  "date": "2026-10-21",
+  "time": "17:15",
+  "code": "5029",
+  "name": "サークレイス株式会社",
+  "exch": "東",
+  "title": "（訂正）「代表取締役会長兼社長による当社株式取得に関するお知らせ」の訂正につきまして",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261021554188.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1286266",
+  "date": "2026-10-21",
+  "time": "16:30",
+  "code": "3290",
+  "name": "Ｒ－Ｏｎｅリート",
+  "exch": "東",
+  "title": "2026年8月期　決算短信(REIT)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261021554046.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286257",
+  "date": "2026-10-21",
+  "time": "16:00",
+  "code": "8953",
+  "name": "Ｒ－都市ファンド",
+  "exch": "東",
+  "title": "2026年8月期　決算短信(REIT)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553687.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286252",
+  "date": "2026-10-21",
+  "time": "16:00",
+  "code": "5576",
+  "name": "株式会社オービーシステム",
+  "exch": "東",
+  "title": "2027年３月期  第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261020553504.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1286229",
+  "date": "2026-10-21",
+  "time": "15:30",
+  "code": "4929",
+  "name": "株式会社アジュバンホールディングス",
+  "exch": "東",
+  "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261021553814.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1286221",
+  "date": "2026-10-21",
+  "time": "15:30",
+  "code": "366A",
+  "name": "ウェルネス・コミュニケーションズ株式会社",
+  "exch": "東",
+  "title": "株式会社エス・エム・エスのストレスチェック事業を承継する新設会社の買収（株式取得）及び吸収合併に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261021553927.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1286212",
+  "date": "2026-10-21",
+  "time": "15:30",
+  "code": "2175",
+  "name": "株式会社エス・エム・エス",
+  "exch": "東",
+  "title": "会社分割（簡易吸収分割）によるデータヘルス事業のメドケア株式会社への承継に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261021554115.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1286211",
+  "date": "2026-10-21",
+  "time": "15:30",
+  "code": "2175",
+  "name": "株式会社エス・エム・エス",
+  "exch": "東",
+  "title": "会社分割（簡易新設分割）による子会社の設立及び当該子会社の株式譲渡（子会社の異動）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261002545031.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動",
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100Z8ZJ",
+  "date": "2026-10-21",
+  "time": "15:30",
+  "code": "4194",
+  "name": "ビジョナル株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第7期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z8ZJ",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1286208",
+  "date": "2026-10-21",
+  "time": "15:00",
+  "code": "6417",
+  "name": "株式会社三共",
+  "exch": "東",
+  "title": "株式会社A-gonの株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261019553054.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1286201",
+  "date": "2026-10-21",
+  "time": "13:00",
+  "code": "346A",
+  "name": "Ｓ＆Ｐ５００半導体",
+  "exch": "東",
+  "title": "NEXT FUNDS S&amp;P 500 半導体・半導体製造装置35％キャップ指数連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261021553870.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286200",
+  "date": "2026-10-21",
+  "time": "13:00",
+  "code": "2634",
+  "name": "Ｓ＆Ｐ５００ヘッジ有",
+  "exch": "東",
+  "title": "NEXT FUNDS S&amp;P 500 指数（為替ヘッジあり）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261021553866.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286199",
+  "date": "2026-10-21",
+  "time": "13:00",
+  "code": "2633",
+  "name": "Ｓ＆Ｐ５００ヘッジ無",
+  "exch": "東",
+  "title": "NEXT FUNDS S&amp;P 500 指数（為替ヘッジなし）連動型上場投信 決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261021553861.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286196",
+  "date": "2026-10-21",
+  "time": "12:00",
+  "code": "9245",
+  "name": "株式会社リベロ",
+  "exch": "東",
+  "title": "（訂正）「2026年12月期 第1四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261021553935.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
   "id": "tdnet-1286190",
   "date": "2026-10-21",
   "time": "11:30",
