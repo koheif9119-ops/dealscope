@@ -1,5 +1,23 @@
 [
  {
+  "id": "tdnet-1286622",
+  "date": "2026-10-23",
+  "time": "19:30",
+  "code": "5592",
+  "name": "株式会社くすりの窓口",
+  "exch": "東",
+  "title": "自己株式取得状況および取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261023555558.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "edinet-S100Z9OJ",
   "date": "2026-10-23",
   "time": "16:46",
