@@ -1,5 +1,254 @@
 [
  {
+  "id": "edinet-S100Z9OQ",
+  "date": "2026-10-23",
+  "time": "11:59",
+  "code": "6225",
+  "name": "株式会社エコム",
+  "exch": "—",
+  "title": "有価証券報告書－第41期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9OQ",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "prtimes-444b90112186",
+  "date": "2026-10-23",
+  "time": "11:41",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "【新刊】「売って終わり」からの脱却。『マンガでわかる なぜ「不動産M&A」は不動産業界がやるとうまくいくのか』発売",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000001788.000026633.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1286436",
+  "date": "2026-10-23",
+  "time": "11:30",
+  "code": "2870",
+  "name": "ｉＦナス１００Ｗベア",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261023555087.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286435",
+  "date": "2026-10-23",
+  "time": "11:30",
+  "code": "2869",
+  "name": "ｉＦナス１００ダブル",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261023555084.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286434",
+  "date": "2026-10-23",
+  "time": "11:30",
+  "code": "2842",
+  "name": "ｉＦナス１００ベア",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261023555081.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286433",
+  "date": "2026-10-23",
+  "time": "11:30",
+  "code": "2841",
+  "name": "ｉＦナス１００Ｈ有",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261023555053.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286432",
+  "date": "2026-10-23",
+  "time": "11:30",
+  "code": "2840",
+  "name": "ｉＦナス１００Ｈ無",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261023555057.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286431",
+  "date": "2026-10-23",
+  "time": "11:30",
+  "code": "2528",
+  "name": "ｉＦＪリートコア",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261023555049.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286430",
+  "date": "2026-10-23",
+  "time": "11:30",
+  "code": "2249",
+  "name": "ｉＦＳＰ５００Ｗベア",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261023555114.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286429",
+  "date": "2026-10-23",
+  "time": "11:30",
+  "code": "2248",
+  "name": "ｉＦＳＰ５００Ｈ有",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261023555106.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286428",
+  "date": "2026-10-23",
+  "time": "11:30",
+  "code": "2247",
+  "name": "ｉＦＳＰ５００Ｈ無",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261023555102.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286427",
+  "date": "2026-10-23",
+  "time": "11:30",
+  "code": "2238",
+  "name": "ｉＦＳＰ５００ベア",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261023555097.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1286426",
+  "date": "2026-10-23",
+  "time": "11:30",
+  "code": "2237",
+  "name": "ｉＦＳＰ５００ダブル",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261023555092.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "edinet-S100Z9MR",
+  "date": "2026-10-23",
+  "time": "11:20",
+  "code": "5572",
+  "name": "株式会社Ｒｉｄｇｅ－ｉ",
+  "exch": "東",
+  "title": "有価証券報告書－第11期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9MR",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "prtimes-5c1e184c1a5a",
   "date": "2026-10-23",
   "time": "09:10",
