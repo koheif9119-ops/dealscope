@@ -1,6 +1,231 @@
 {
- "updatedAt": "2026-10-26T12:01:02+09:00",
+ "updatedAt": "2026-10-26T18:14:05+09:00",
  "items": [
+  {
+   "id": "prtimes-692ce73b7ab9",
+   "date": "2026-10-26",
+   "time": "17:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "リアルな本音から自社の価値を再発見する「事業承継セミナー -受け継ぐ人から見た、あなたの事業の魅力と可能性- 」を開催",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000302.000130084.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100Z9WP",
+   "date": "2026-10-26",
+   "time": "17:00",
+   "code": "9235",
+   "name": "売れるネット広告社グループ株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第17期(2025/08/01－2026/07/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9WP",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100Z9WC",
+   "date": "2026-10-26",
+   "time": "16:06",
+   "code": "8927",
+   "name": "株式会社明豊エンタープライズ",
+   "exch": "東",
+   "title": "有価証券報告書－第58期(2025/08/01－2026/07/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9WC",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z9WO",
+   "date": "2026-10-26",
+   "time": "16:00",
+   "code": "5131",
+   "name": "リンカーズ株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第15期(2025/08/01－2026/07/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9WO",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100Z9RV",
+   "date": "2026-10-26",
+   "time": "15:30",
+   "code": "7682",
+   "name": "株式会社浜木綿",
+   "exch": "東",
+   "title": "有価証券報告書－第59期(2025/08/01－2026/07/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9RV",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z9X4",
+   "date": "2026-10-26",
+   "time": "15:22",
+   "code": "4014",
+   "name": "株式会社カラダノート",
+   "exch": "東",
+   "title": "有価証券報告書－第18期(2025/08/01－2026/07/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9X4",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100Z9Y1",
+   "date": "2026-10-26",
+   "time": "15:20",
+   "code": "8999",
+   "name": "グランディハウス株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第35期(2025/04/01－2026/03/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9Y1",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1286630",
+   "date": "2026-10-26",
+   "time": "15:00",
+   "code": "6923",
+   "name": "スタンレー電気株式会社",
+   "exch": "東",
+   "title": "2027年３月期 第２四半期(中間期)決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261026555712.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1286629",
+   "date": "2026-10-26",
+   "time": "15:00",
+   "code": "3418",
+   "name": "株式会社バルニバービ",
+   "exch": "東",
+   "title": "事業計画及び成長可能性に関する事項",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261006546833.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "成長可能性に関する事項"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "prtimes-3c0a8c9d4068",
+   "date": "2026-10-26",
+   "time": "14:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "WESTERポイント特典付き定期預金キャンペーンの開始について",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000055.000100027.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100Z9U5",
+   "date": "2026-10-26",
+   "time": "14:21",
+   "code": "7692",
+   "name": "株式会社アースインフィニティ",
+   "exch": "東",
+   "title": "有価証券報告書－第25期(2025/08/01－2026/07/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9U5",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1286641",
+   "date": "2026-10-26",
+   "time": "13:45",
+   "code": "7273",
+   "name": "株式会社イクヨ",
+   "exch": "東",
+   "title": "ムラキ株式会社（証券コード：7477）に対する公開買付けの開始予定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261026555968.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1286643",
+   "date": "2026-10-26",
+   "time": "13:00",
+   "code": "8190",
+   "name": "株式会社ヤマナカ",
+   "exch": "名",
+   "title": "2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261024555621.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "地方"
+  },
   {
    "id": "edinet-S100Z9PF",
    "date": "2026-10-26",
