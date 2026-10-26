@@ -1,6 +1,57 @@
 {
- "updatedAt": "2026-10-26T09:57:05+09:00",
+ "updatedAt": "2026-10-26T12:01:02+09:00",
  "items": [
+  {
+   "id": "edinet-S100Z9PF",
+   "date": "2026-10-26",
+   "time": "11:56",
+   "code": "3418",
+   "name": "株式会社バルニバービ",
+   "exch": "東",
+   "title": "有価証券報告書－第35期(2025/08/01－2026/07/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9PF",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100Z9TJ",
+   "date": "2026-10-26",
+   "time": "10:18",
+   "code": "6037",
+   "name": "楽待株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第21期(2025/08/01－2026/07/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9TJ",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z9QH",
+   "date": "2026-10-26",
+   "time": "10:00",
+   "code": "6091",
+   "name": "株式会社ウエスコホールディングス",
+   "exch": "東",
+   "title": "有価証券報告書－第13期(2025/08/01－2026/07/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9QH",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "prtimes-c97fb66f4a17",
    "date": "2026-10-26",
