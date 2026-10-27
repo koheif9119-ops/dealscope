@@ -1,5 +1,40 @@
 [
  {
+  "id": "prtimes-85ab034f9529",
+  "date": "2026-10-27",
+  "time": "23:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A",
+   "事業承継"
+  ],
+  "title": "全国42拠点を展開するキャリカク、M&Aによる事業承継を本格推進",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000001.000193596.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-30f74b778845",
+  "date": "2026-10-27",
+  "time": "23:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "事業企画・経営企画部門向けの無料ウェビナー「これからのオープンイノベーション / M&A戦略 ～世界の知的＆投資情報×自社の無形資産による共創戦略の構築～」を再開催",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000841.000007141.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "edinet-S100ZA8T",
   "date": "2026-10-27",
   "time": "16:39",
