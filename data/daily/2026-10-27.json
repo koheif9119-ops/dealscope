@@ -1,5 +1,56 @@
 [
  {
+  "id": "edinet-S100ZA1V",
+  "date": "2026-10-27",
+  "time": "12:06",
+  "code": "2424",
+  "name": "株式会社ブラス",
+  "exch": "東",
+  "title": "有価証券報告書－第23期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZA1V",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZA4D",
+  "date": "2026-10-27",
+  "time": "11:54",
+  "code": "3816",
+  "name": "株式会社大和コンピューター",
+  "exch": "東",
+  "title": "有価証券報告書－第50期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZA4D",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z9XX",
+  "date": "2026-10-27",
+  "time": "10:52",
+  "code": "3421",
+  "name": "株式会社稲葉製作所",
+  "exch": "東",
+  "title": "有価証券報告書－第79期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9XX",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "prtimes-e52a7d1f45e7",
   "date": "2026-10-27",
   "time": "10:41",
