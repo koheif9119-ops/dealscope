@@ -1,6 +1,57 @@
 {
- "updatedAt": "2026-10-27T01:14:32+09:00",
+ "updatedAt": "2026-10-27T10:47:19+09:00",
  "items": [
+  {
+   "id": "prtimes-e52a7d1f45e7",
+   "date": "2026-10-27",
+   "time": "10:41",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "札幌のお店、引き継ぎます。北海道発スタートアップが、後継者不在のお店を1店舗から事業承継する窓口「フランチャイズ承継機構」を開始",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000013.000160310.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100Z9ME",
+   "date": "2026-10-27",
+   "time": "10:33",
+   "code": "3421",
+   "name": "株式会社稲葉製作所",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第78期(2024/08/01－2025/07/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9ME",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100Z2GT",
+   "date": "2026-10-27",
+   "time": "09:40",
+   "code": "1844",
+   "name": "株式会社大盛工業",
+   "exch": "東",
+   "title": "有価証券報告書－第60期(2025/08/01－2026/07/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z2GT",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "prtimes-692ce73b7ab9",
    "date": "2026-10-26",
