@@ -1,5 +1,175 @@
 [
  {
+  "id": "edinet-S100ZA8T",
+  "date": "2026-10-27",
+  "time": "16:39",
+  "code": "2351",
+  "name": "株式会社ＡＳＪ",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第43期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZA8T",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z9XT",
+  "date": "2026-10-27",
+  "time": "16:00",
+  "code": "7434",
+  "name": "株式会社オータケ",
+  "exch": "東",
+  "title": "有価証券報告書－第74期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9XT",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100Z9E6",
+  "date": "2026-10-27",
+  "time": "16:00",
+  "code": "3539",
+  "name": "株式会社ＪＭホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第48期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9E6",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZA18",
+  "date": "2026-10-27",
+  "time": "15:55",
+  "code": "9556",
+  "name": "ＩＮＴＬＯＯＰ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第22期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZA18",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100Z9DH",
+  "date": "2026-10-27",
+  "time": "15:50",
+  "code": "3193",
+  "name": "株式会社エターナルホスピタリティグループ",
+  "exch": "東",
+  "title": "有価証券報告書－第40期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9DH",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZA4E",
+  "date": "2026-10-27",
+  "time": "15:31",
+  "code": "4599",
+  "name": "株式会社ステムリム",
+  "exch": "東",
+  "title": "有価証券報告書－第21期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZA4E",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100Z9YZ",
+  "date": "2026-10-27",
+  "time": "15:31",
+  "code": "4422",
+  "name": "ＶＡＬＵＥＮＥＸ株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第20期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9YZ",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100ZA4Q",
+  "date": "2026-10-27",
+  "time": "15:30",
+  "code": "4075",
+  "name": "ブレインズテクノロジー株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第18期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZA4Q",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100ZA2G",
+  "date": "2026-10-27",
+  "time": "15:29",
+  "code": "3662",
+  "name": "株式会社エイチームホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第27期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZA2G",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZA12",
+  "date": "2026-10-27",
+  "time": "12:50",
+  "code": "2978",
+  "name": "株式会社ツクルバ",
+  "exch": "東",
+  "title": "有価証券報告書－第15期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZA12",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "edinet-S100ZA1V",
   "date": "2026-10-27",
   "time": "12:06",
