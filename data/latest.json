@@ -1,6 +1,40 @@
 {
- "updatedAt": "2026-10-29T01:45:03+09:00",
+ "updatedAt": "2026-10-29T11:03:21+09:00",
  "items": [
+  {
+   "id": "prtimes-80346a798896",
+   "date": "2026-10-29",
+   "time": "10:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "【自治体向け事業承継支援サービス】オープンネーム事業承継「relay（リレイ）」、宮崎県日向市の魅力を全国へPRする地域おこし協力隊の募集を開始！",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000531.000053134.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "prtimes-12b0fa4f70a4",
+   "date": "2026-10-29",
+   "time": "10:00",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "株式会社マネジメントベースのグループ企業化完了、ならびにハラスメント研修・適性検査「リスクチェッカー」の取扱い開始に関するお知らせ",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000192.000055281.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "edinet-S100ZA5J",
    "date": "2026-10-28",
