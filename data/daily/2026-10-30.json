@@ -1,5 +1,56 @@
 [
  {
+  "id": "edinet-S100ZAWS",
+  "date": "2026-10-30",
+  "time": "10:13",
+  "code": "604A",
+  "name": "株式会社ビーエイブル",
+  "exch": "東",
+  "title": "有価証券報告書－第36期(2025/08/01－2026/07/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZAWS",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-ffa7230a41ba",
+  "date": "2026-10-30",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "【国内初】スタートアップによる事業承継に「企業価値担保権」を活用",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000037.000175284.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "edinet-S100ZAWK",
+  "date": "2026-10-30",
+  "time": "09:35",
+  "code": "3843",
+  "name": "フリービット株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第26期(2025/05/01－2026/04/30)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZAWK",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
   "id": "prtimes-8a4cb64fb58e",
   "date": "2026-10-30",
   "time": "01:15",
