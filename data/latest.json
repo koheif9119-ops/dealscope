@@ -1,6 +1,23 @@
 {
- "updatedAt": "2026-11-02T11:01:53+09:00",
+ "updatedAt": "2026-11-02T13:11:19+09:00",
  "items": [
+  {
+   "id": "prtimes-5213f70bebb6",
+   "date": "2026-11-02",
+   "time": "12:40",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継"
+   ],
+   "title": "【ロゴスHD】事業承継した特定子会社「クラージュホーム」を始動。DXと技術融合でシェア拡大へ向けた大型キャンペーン展開",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000048.000136381.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
   {
    "id": "prtimes-3a6ddba72d2a",
    "date": "2026-10-30",
