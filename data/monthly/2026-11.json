@@ -1,5 +1,73 @@
 [
  {
+  "id": "prtimes-722389890f33",
+  "date": "2026-11-03",
+  "time": "12:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "Right Brothers、M&A業界特化メディア「The Deals」を11月2日に全面リニューアル",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000036.000080445.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-72d272fafabf",
+  "date": "2026-11-03",
+  "time": "11:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "メディアジーンとインフォバーン、MI Companyを通じてCapital Digital、時事通信、ニューズ・ツー・ユー、フェリシモ、U.S.I.ら5社と資本業務提携を発表",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000338.000055369.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-b1ffaa5d31a7",
+  "date": "2026-11-03",
+  "time": "10:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "アトミックソフトウェア、SBCメディカルグループホールディングスとの資本業務提携で資金調達を実施、シリーズCラウンドで6億円を調達",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000003.000176667.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-101fb227b9d8",
+  "date": "2026-11-03",
+  "time": "10:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "SBCメディカルグループ、国内800院以上が導入するクリニック向けオールインワンSaaS「medicalforce」を提供するアトミックソフトウェアと資本業務提携",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000400.000097803.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "tdnet-1288849",
   "date": "2026-11-02",
   "time": "18:31",
