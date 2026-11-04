@@ -1,0 +1,126 @@
+[
+ {
+  "id": "prtimes-f6587b50690e",
+  "date": "2026-11-04",
+  "time": "11:41",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "【辻・本郷 ITコンサルティング】MILIZEと資本業務提携契約を締結",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000142.000086807.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1289153",
+  "date": "2026-11-04",
+  "time": "11:30",
+  "code": "8255",
+  "name": "アクシアル　リテイリング株式会社",
+  "exch": "東",
+  "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261015551742.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1289151",
+  "date": "2026-11-04",
+  "time": "11:30",
+  "code": "4203",
+  "name": "住友ベークライト株式会社",
+  "exch": "東",
+  "title": "2027年3月期 第2四半期決算短信〔IFRS〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261102562225.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1289145",
+  "date": "2026-11-04",
+  "time": "11:00",
+  "code": "8002",
+  "name": "丸紅株式会社",
+  "exch": "東",
+  "title": "2027年3月期 第2四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261104563473.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1289142",
+  "date": "2026-11-04",
+  "time": "11:00",
+  "code": "5451",
+  "name": "株式会社ヨドコウ",
+  "exch": "東",
+  "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261102562475.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "prtimes-3e24e265e851",
+  "date": "2026-11-04",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "経営統合"
+  ],
+  "title": "【10月M＆Aサマリー】 15カ月連続の100件超え、地銀・自動車関連で再編の動きも",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000382.000034249.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1289125",
+  "date": "2026-11-04",
+  "time": "08:00",
+  "code": "656A",
+  "name": "Ｇ－オルガナイズ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261102563107.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ }
+]
