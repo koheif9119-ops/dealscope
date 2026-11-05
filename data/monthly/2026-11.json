@@ -1,5 +1,202 @@
 [
  {
+  "id": "tdnet-1289536",
+  "date": "2026-11-05",
+  "time": "11:30",
+  "code": "8282",
+  "name": "株式会社ケーズホールディングス",
+  "exch": "東",
+  "title": "2027年３月期  第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261102563255.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1289532",
+  "date": "2026-11-05",
+  "time": "11:30",
+  "code": "6417",
+  "name": "株式会社三共",
+  "exch": "東",
+  "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261102562828.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1289528",
+  "date": "2026-11-05",
+  "time": "11:30",
+  "code": "3401",
+  "name": "帝人株式会社",
+  "exch": "東",
+  "title": "2027年3月期 第2四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261104564276.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1289526",
+  "date": "2026-11-05",
+  "time": "11:30",
+  "code": "2730",
+  "name": "株式会社エディオン",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付に関するお知らせ（一括取得型自己株式取得（ASR）による自己株式取得）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261105565051.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1289525",
+  "date": "2026-11-05",
+  "time": "11:30",
+  "code": "2730",
+  "name": "株式会社エディオン",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261105565041.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1289523",
+  "date": "2026-11-05",
+  "time": "11:30",
+  "code": "2730",
+  "name": "株式会社エディオン",
+  "exch": "東",
+  "title": "2027年３月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261102562907.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1289521",
+  "date": "2026-11-05",
+  "time": "11:30",
+  "code": "1897",
+  "name": "金下建設株式会社",
+  "exch": "東",
+  "title": "2026年12月期 第３四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261102562422.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1289517",
+  "date": "2026-11-05",
+  "time": "10:40",
+  "code": "5947",
+  "name": "リンナイ株式会社",
+  "exch": "東",
+  "title": "2027年3月期　第2四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261102563229.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZB62",
+  "date": "2026-11-05",
+  "time": "10:39",
+  "code": "3979",
+  "name": "株式会社うるる",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第26期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZB62",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1289500",
+  "date": "2026-11-05",
+  "time": "10:15",
+  "code": "273A",
+  "name": "ＳＢＩサウジ上場投信",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月25日～2026年9月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261105565159.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1289508",
+  "date": "2026-11-05",
+  "time": "10:00",
+  "code": "8111",
+  "name": "株式会社ゴールドウイン",
+  "exch": "東",
+  "title": "2027年３月期  第２四半期（中間期）決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261104564094.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
   "id": "prtimes-0933f0a67bcd",
   "date": "2026-11-04",
   "time": "17:15",
