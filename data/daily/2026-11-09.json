@@ -1,0 +1,449 @@
+[
+ {
+  "id": "tdnet-1290838",
+  "date": "2026-11-09",
+  "time": "11:00",
+  "code": "4183",
+  "name": "三井化学株式会社",
+  "exch": "東",
+  "title": "事業ポートフォリオの大幅な変革に向けたJSR株式会社の株式譲渡契約締結等に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261108568386.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1290837",
+  "date": "2026-11-09",
+  "time": "11:00",
+  "code": "4061",
+  "name": "デンカ株式会社",
+  "exch": "東",
+  "title": "スチレン関連事業に関する新会社設立及び会社分割（簡易吸収分割）による分社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261106568062.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1290833",
+  "date": "2026-11-09",
+  "time": "11:00",
+  "code": "4061",
+  "name": "デンカ株式会社",
+  "exch": "東",
+  "title": "2027年3月期　第2四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261106567399.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1290832",
+  "date": "2026-11-09",
+  "time": "11:00",
+  "code": "2867",
+  "name": "ＧＸ自動ＥＶ",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月25日～2026年9月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261109568651.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1290831",
+  "date": "2026-11-09",
+  "time": "11:00",
+  "code": "2637",
+  "name": "ＧＸクリーン日株",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月25日～2026年9月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261109568714.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1290830",
+  "date": "2026-11-09",
+  "time": "11:00",
+  "code": "2636",
+  "name": "ＧＸガバナンス日株",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月25日～2026年9月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261109568731.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1290829",
+  "date": "2026-11-09",
+  "time": "11:00",
+  "code": "2254",
+  "name": "ＧＸ中国ＥＶバッテリ",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月25日～2026年9月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261109568499.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1290828",
+  "date": "2026-11-09",
+  "time": "11:00",
+  "code": "2253",
+  "name": "ＧＸＵＳスーパーＤ",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月25日～2026年9月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261109568670.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1290827",
+  "date": "2026-11-09",
+  "time": "11:00",
+  "code": "2252",
+  "name": "ＧＸＵＳ中小モート",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月25日～2026年9月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261109568704.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1290826",
+  "date": "2026-11-09",
+  "time": "11:00",
+  "code": "2244",
+  "name": "ＧＸＵＳテック２０",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月25日～2026年9月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261109568721.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1290825",
+  "date": "2026-11-09",
+  "time": "11:00",
+  "code": "2243",
+  "name": "ＧＸ半導体",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月25日～2026年9月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261109568639.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1290824",
+  "date": "2026-11-09",
+  "time": "11:00",
+  "code": "178A",
+  "name": "ＧＸ革新優良企業",
+  "exch": "東",
+  "title": "2026年9月期（2026年3月25日～2026年9月24日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261109568657.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "edinet-S100ZD2F",
+  "date": "2026-11-09",
+  "time": "10:12",
+  "code": "5984",
+  "name": "兼房株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第78期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZD2F",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZD22",
+  "date": "2026-11-09",
+  "time": "10:03",
+  "code": "5984",
+  "name": "兼房株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第77期(2024/04/01－2025/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZD22",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZD1O",
+  "date": "2026-11-09",
+  "time": "09:55",
+  "code": "5984",
+  "name": "兼房株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第76期(2023/04/01－2024/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZD1O",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZD0P",
+  "date": "2026-11-09",
+  "time": "09:39",
+  "code": "5984",
+  "name": "兼房株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第75期(2022/04/01－2023/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZD0P",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZD09",
+  "date": "2026-11-09",
+  "time": "09:32",
+  "code": "5984",
+  "name": "兼房株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第74期(2021/04/01－2022/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZD09",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1290808",
+  "date": "2026-11-09",
+  "time": "09:30",
+  "code": "5984",
+  "name": "兼房株式会社",
+  "exch": "東",
+  "title": "過年度の有価証券報告書等の訂正報告書の提出及び過年度の決算短信等の訂正に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261104564745.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信",
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1290807",
+  "date": "2026-11-09",
+  "time": "09:30",
+  "code": "5984",
+  "name": "兼房株式会社",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261106567216.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1290806",
+  "date": "2026-11-09",
+  "time": "09:30",
+  "code": "5984",
+  "name": "兼房株式会社",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2025年３月期 第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261106567308.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1290805",
+  "date": "2026-11-09",
+  "time": "09:30",
+  "code": "5984",
+  "name": "兼房株式会社",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2025年３月期 第３四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261106567317.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1290804",
+  "date": "2026-11-09",
+  "time": "09:30",
+  "code": "5984",
+  "name": "兼房株式会社",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2026年３月期 第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261106567343.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1290803",
+  "date": "2026-11-09",
+  "time": "09:30",
+  "code": "5984",
+  "name": "兼房株式会社",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正）「2026年３月期 第３四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261106567363.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1290802",
+  "date": "2026-11-09",
+  "time": "09:30",
+  "code": "5984",
+  "name": "兼房株式会社",
+  "exch": "東",
+  "title": "(訂正・数値データ訂正)「2027年３月期 第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261106567359.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1290796",
+  "date": "2026-11-09",
+  "time": "07:30",
+  "code": "2181",
+  "name": "パーソルホールディングス株式会社",
+  "exch": "東",
+  "title": "連結子会社の異動（株式譲渡）及び子会社株式売却益の計上に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261106567991.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ }
+]
