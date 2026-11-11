@@ -1,5 +1,75 @@
 [
  {
+  "id": "tdnet-1292186",
+  "date": "2026-11-11",
+  "time": "11:00",
+  "code": "5702",
+  "name": "株式会社大紀アルミニウム工業所",
+  "exch": "東",
+  "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261109569592.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1292188",
+  "date": "2026-11-11",
+  "time": "10:40",
+  "code": "5076",
+  "name": "インフロニア・ホールディングス株式会社",
+  "exch": "東",
+  "title": "2027年３月期第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261111572782.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "prtimes-8ea2c98e7d84",
+  "date": "2026-11-11",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "太陽グループ、スペースデータと資本業務提携を締結",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000007.000150356.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-396c66d340ae",
+  "date": "2026-11-11",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "資本業務提携"
+  ],
+  "title": "ナンバーナイン、LINEマンガを運営するLINE Digital Frontierより追加調達を実施",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000140.000027584.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "prtimes-92b95ec51f54",
   "date": "2026-11-10",
   "time": "22:40",
@@ -549,6 +619,23 @@
   ],
   "isCorrection": false,
   "market": "グロース"
+ },
+ {
+  "id": "prtimes-d029cdb1e436",
+  "date": "2026-11-10",
+  "time": "16:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "株式会社美山理研工業の事業承継を実施",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000032.000046422.html",
+  "src": "PR TIMES",
+  "isCorrection": false
  },
  {
   "id": "edinet-S100ZDPL",

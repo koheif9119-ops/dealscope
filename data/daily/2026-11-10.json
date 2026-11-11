@@ -551,6 +551,23 @@
   "market": "グロース"
  },
  {
+  "id": "prtimes-d029cdb1e436",
+  "date": "2026-11-10",
+  "time": "16:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "株式会社美山理研工業の事業承継を実施",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000032.000046422.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
   "id": "edinet-S100ZDPL",
   "date": "2026-11-10",
   "time": "16:13",
