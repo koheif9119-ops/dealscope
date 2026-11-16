@@ -1,0 +1,127 @@
+[
+ {
+  "id": "tdnet-1296377",
+  "date": "2026-11-16",
+  "time": "11:00",
+  "code": "5105",
+  "name": "ＴＯＹＯ　ＴＩＲＥ株式会社",
+  "exch": "東",
+  "title": "2026年12月期 第３四半期決算短信〔日本基準〕（連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261113580353.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1296374",
+  "date": "2026-11-16",
+  "time": "11:00",
+  "code": "2990",
+  "name": "Ｐ－アイダ設計",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261113580148.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1296371",
+  "date": "2026-11-16",
+  "time": "10:30",
+  "code": "7823",
+  "name": "株式会社アートネイチャー",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了並びに主要株主の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261113579729.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-64734ee00e1a",
+  "date": "2026-11-16",
+  "time": "10:00",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "事業承継"
+  ],
+  "title": "【松本市の系統用蓄電池案件で事業承継手続きを推進】名義変更・連系申込の手続きを進め、2027年11月の系統連系へ",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000210.000096742.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1296353",
+  "date": "2026-11-16",
+  "time": "09:50",
+  "code": "1660",
+  "name": "ＭＸＳ高利Ｊリート",
+  "exch": "東",
+  "title": "ＭＡＸＩＳ高利回りＪリート上場投信 決算短信（2026年10月期）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116580708.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1296352",
+  "date": "2026-11-16",
+  "time": "09:50",
+  "code": "1499",
+  "name": "ＭＸＳ高配当７０ＭＮ",
+  "exch": "東",
+  "title": "ＭＡＸＩＳ日本株高配当７０マーケットニュートラル上場投信 決算短信（2026年10月期）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116580713.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1296346",
+  "date": "2026-11-16",
+  "time": "08:45",
+  "code": "8105",
+  "name": "Ｂｉｔｃｏｉｎ　Ｊａｐａｎ株式会社",
+  "exch": "東",
+  "title": "Daimon Roboticsとの戦略的業務提携契約締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261113579799.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ }
+]
