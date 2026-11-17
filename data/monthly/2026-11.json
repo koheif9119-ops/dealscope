@@ -1,5 +1,146 @@
 [
  {
+  "id": "edinet-S100ZI49",
+  "date": "2026-11-17",
+  "time": "13:13",
+  "code": "9640",
+  "name": "株式会社セゾンテクノロジー",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第57期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZI49",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1296797",
+  "date": "2026-11-17",
+  "time": "12:00",
+  "code": "3825",
+  "name": "株式会社リミックスポイント",
+  "exch": "東",
+  "title": "系統用蓄電所（島根県大田市）の需給調整市場参入（６か所目）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116581685.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "参入"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZHJV",
+  "date": "2026-11-17",
+  "time": "11:08",
+  "code": "8254",
+  "name": "株式会社さいか屋",
+  "exch": "東",
+  "title": "有価証券報告書－第95期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZHJV",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZI7X",
+  "date": "2026-11-17",
+  "time": "10:59",
+  "code": "3048",
+  "name": "株式会社ビックカメラ",
+  "exch": "東",
+  "title": "有価証券報告書－第46期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZI7X",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1296784",
+  "date": "2026-11-17",
+  "time": "10:30",
+  "code": "2557",
+  "name": "ＳＭＤＡＭトピックス",
+  "exch": "東",
+  "title": "2026年10月期　決算短信（2026年4月9日～2026年10月8日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117581830.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1296783",
+  "date": "2026-11-17",
+  "time": "10:30",
+  "code": "1397",
+  "name": "ＳＭＤＡＭ　２２５",
+  "exch": "東",
+  "title": "2026年10月期　決算短信（2026年4月9日～2026年10月8日）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117581824.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1296772",
+  "date": "2026-11-17",
+  "time": "09:45",
+  "code": "6061",
+  "name": "株式会社ユニバーサル園芸社",
+  "exch": "東",
+  "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116581123.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1296769",
+  "date": "2026-11-17",
+  "time": "08:30",
+  "code": "9257",
+  "name": "ＹＣＰホールディングス（グローバル）リミテッド",
+  "exch": "東",
+  "title": "当社子会社（孫会社）の株式等の譲渡及び特定子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261113579767.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "prtimes-9da4cd5e4893",
   "date": "2026-11-16",
   "time": "22:10",
