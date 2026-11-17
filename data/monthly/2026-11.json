@@ -1,5 +1,294 @@
 [
  {
+  "id": "prtimes-238acc45b6c0",
+  "date": "2026-11-17",
+  "time": "17:15",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "子会社化"
+  ],
+  "title": "No.1、独自特許技術「LTE over IP(R)」を擁するclosipの株式を取得し子会社化",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000108.000055597.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1296906",
+  "date": "2026-11-17",
+  "time": "17:00",
+  "code": "9941",
+  "name": "太洋物産株式会社",
+  "exch": "東",
+  "title": "2026年９月期　決算短信〔日本基準〕(連結)",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582248.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1296895",
+  "date": "2026-11-17",
+  "time": "17:00",
+  "code": "218A",
+  "name": "株式会社Ｌｉｂｅｒａｗａｒｅ",
+  "exch": "東",
+  "title": "国産無人機向け高性能バッテリー事業への参入、合弁契約締結方針及び合弁会社設立に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582289.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "参入"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1296894",
+  "date": "2026-11-17",
+  "time": "17:00",
+  "code": "218A",
+  "name": "株式会社Ｌｉｂｅｒａｗａｒｅ",
+  "exch": "東",
+  "title": "国産無人機向け高性能バッテリー事業への参入、合弁契約締結方針及び合弁会社設立に関する補足資料",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582296.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "参入"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1296910",
+  "date": "2026-11-17",
+  "time": "16:45",
+  "code": "3562",
+  "name": "株式会社Ｎｏ．１",
+  "exch": "東",
+  "title": "子会社の異動を伴う株式の取得に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261113578694.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1296888",
+  "date": "2026-11-17",
+  "time": "16:30",
+  "code": "8789",
+  "name": "フィンテック　グローバル株式会社",
+  "exch": "東",
+  "title": "連結子会社の資本業務提携に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116581498.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1296880",
+  "date": "2026-11-17",
+  "time": "16:30",
+  "code": "3003",
+  "name": "ヒューリック株式会社",
+  "exch": "東",
+  "title": "航空機アセットビジネスへの参入に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582007.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "release",
+  "tags": [
+   "参入"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1296869",
+  "date": "2026-11-17",
+  "time": "16:00",
+  "code": "399A",
+  "name": "上場日経高配当５０",
+  "exch": "東",
+  "title": "2026年10月期（2026年4月5日～2026年10月4日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582028.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "edinet-S100ZIG6",
+  "date": "2026-11-17",
+  "time": "15:32",
+  "code": "3719",
+  "name": "ＡＩストーム株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第62期(2025/01/01－2025/12/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZIG6",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1296861",
+  "date": "2026-11-17",
+  "time": "15:30",
+  "code": "8016",
+  "name": "株式会社オンワードホールディングス",
+  "exch": "東",
+  "title": "株式の取得（完全子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117581807.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1296858",
+  "date": "2026-11-17",
+  "time": "15:30",
+  "code": "7133",
+  "name": "ＨＹＵＧＡ　ＰＲＩＭＡＲＹ　ＣＡＲＥ株式会社",
+  "exch": "東",
+  "title": "自己株式の取得及び自己株式の公開買付けの開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261110570522.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1296855",
+  "date": "2026-11-17",
+  "time": "15:30",
+  "code": "6929",
+  "name": "日本セラミック株式会社",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582120.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1296849",
+  "date": "2026-11-17",
+  "time": "15:30",
+  "code": "6029",
+  "name": "アトラグループ株式会社",
+  "exch": "東",
+  "title": "REMED JAPAN株式会社との資本業務提携及び第三者割当増資の引受けによる同社株式取得（持分法適用関連会社化）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582016.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "資本業務提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1296831",
+  "date": "2026-11-17",
+  "time": "15:30",
+  "code": "3690",
+  "name": "株式会社イルグルム",
+  "exch": "東",
+  "title": "（開示事項の経過）完全子会社の吸収合併に係る吸収合併契約締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116581665.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1296830",
+  "date": "2026-11-17",
+  "time": "15:30",
+  "code": "3690",
+  "name": "株式会社イルグルム",
+  "exch": "東",
+  "title": "連結子会社株式の追加取得による完全子会社化に関するお知らせ（株式会社オリエントコーポレーションとの資本提携の解消）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116581636.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化",
+   "資本提携"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1296829",
+  "date": "2026-11-17",
+  "time": "15:30",
+  "code": "3690",
+  "name": "株式会社イルグルム",
+  "exch": "東",
+  "title": "株式譲渡に伴う連結子会社及び特定子会社の異動並びに特別利益の計上見込に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116581667.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "edinet-S100ZIFN",
   "date": "2026-11-17",
   "time": "15:12",
