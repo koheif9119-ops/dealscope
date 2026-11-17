@@ -1,6 +1,77 @@
 {
- "updatedAt": "2026-11-17T13:55:48+09:00",
+ "updatedAt": "2026-11-17T15:21:10+09:00",
  "items": [
+  {
+   "id": "edinet-S100ZIFN",
+   "date": "2026-11-17",
+   "time": "15:12",
+   "code": "3719",
+   "name": "ＡＩストーム株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第61期(2024/01/01－2024/12/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZIFN",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1296807",
+   "date": "2026-11-17",
+   "time": "15:00",
+   "code": "7419",
+   "name": "株式会社ノジマ",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582128.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1296803",
+   "date": "2026-11-17",
+   "time": "14:40",
+   "code": "4769",
+   "name": "株式会社ＩＣ",
+   "exch": "東",
+   "title": "（訂正）「2026年９月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582093.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1296804",
+   "date": "2026-11-17",
+   "time": "14:30",
+   "code": "6577",
+   "name": "株式会社ベストワンドットコム",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582076.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
   {
    "id": "edinet-S100ZI49",
    "date": "2026-11-17",
