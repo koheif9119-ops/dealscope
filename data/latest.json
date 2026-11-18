@@ -1,6 +1,186 @@
 {
- "updatedAt": "2026-11-18T12:59:52+09:00",
+ "updatedAt": "2026-11-18T14:46:22+09:00",
  "items": [
+  {
+   "id": "tdnet-1296969",
+   "date": "2026-11-18",
+   "time": "13:00",
+   "code": "586A",
+   "name": "ＮＦ日経エンタメ",
+   "exch": "東",
+   "title": "NEXT FUNDS 日経エンタメ・コンテンツ株指数連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582483.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1296967",
+   "date": "2026-11-18",
+   "time": "13:00",
+   "code": "412A",
+   "name": "台湾テック５０",
+   "exch": "東",
+   "title": "NEXT FUNDS TIP FactSet 台湾イノベイティブ・テクノロジー50指数連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582481.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1296966",
+   "date": "2026-11-18",
+   "time": "13:00",
+   "code": "3083",
+   "name": "スターシーズ株式会社",
+   "exch": "東",
+   "title": "株式会社イスズとのコンテナ型AIデータセンター事業に関する業務提携の基本合意書締結のお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582567.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "release",
+   "tags": [
+    "業務提携"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1296965",
+   "date": "2026-11-18",
+   "time": "13:00",
+   "code": "2529",
+   "name": "ＮＦ株主還元７０",
+   "exch": "東",
+   "title": "NEXT FUNDS 野村株主還元70連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582478.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1296964",
+   "date": "2026-11-18",
+   "time": "13:00",
+   "code": "200A",
+   "name": "日経半導体株ＥＴＦ",
+   "exch": "東",
+   "title": "NEXT FUNDS 日経半導体株指数連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582474.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1296963",
+   "date": "2026-11-18",
+   "time": "13:00",
+   "code": "159A",
+   "name": "ＪＰＸプライム１５０",
+   "exch": "東",
+   "title": "NEXT FUNDS JPXプライム150指数連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582470.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1296962",
+   "date": "2026-11-18",
+   "time": "13:00",
+   "code": "1591",
+   "name": "ＮＦＪＰＸ４００",
+   "exch": "東",
+   "title": "NEXT FUNDS JPX日経インデックス400連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582463.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1296961",
+   "date": "2026-11-18",
+   "time": "13:00",
+   "code": "1577",
+   "name": "ＮＦ日本高配当７０",
+   "exch": "東",
+   "title": "NEXT FUNDS 野村日本株高配当70連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582468.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1296960",
+   "date": "2026-11-18",
+   "time": "13:00",
+   "code": "1489",
+   "name": "ＮＦ日経高配当５０",
+   "exch": "東",
+   "title": "NEXT FUNDS 日経平均高配当株50指数連動型上場投信 決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582466.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1296959",
+   "date": "2026-11-18",
+   "time": "13:00",
+   "code": "1472",
+   "name": "ＮＦＪ４００Ｄインバ",
+   "exch": "東",
+   "title": "NEXT FUNDS JPX日経400ダブルインバース・インデックス連動型上場投信 中間決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582460.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
   {
    "id": "tdnet-1296951",
    "date": "2026-11-18",
