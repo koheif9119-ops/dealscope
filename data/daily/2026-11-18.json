@@ -1,5 +1,382 @@
 [
  {
+  "id": "tdnet-1297053",
+  "date": "2026-11-18",
+  "time": "17:00",
+  "code": "284A",
+  "name": "Ｐ－フクヤ建設",
+  "exch": "東",
+  "title": "（訂正）「2026年8月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582614.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "不明"
+ },
+ {
+  "id": "edinet-S100ZILS",
+  "date": "2026-11-18",
+  "time": "16:42",
+  "code": "2588",
+  "name": "株式会社プレミアムウォーターホールディングス",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第20期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZILS",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297048",
+  "date": "2026-11-18",
+  "time": "16:30",
+  "code": "6676",
+  "name": "株式会社バッファロー",
+  "exch": "東",
+  "title": "自己株式の公開買付け開始に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582319.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297043",
+  "date": "2026-11-18",
+  "time": "16:30",
+  "code": "3687",
+  "name": "株式会社フィックスターズ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年9月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582860.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZINY",
+  "date": "2026-11-18",
+  "time": "16:02",
+  "code": "7603",
+  "name": "ジーイエット株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第36期(2025/03/01－2026/02/28)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZINY",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297038",
+  "date": "2026-11-18",
+  "time": "16:00",
+  "code": "8508",
+  "name": "Ｊトラスト株式会社",
+  "exch": "東",
+  "title": "公開買付けへの応募及び持分法適用関連会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582273.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297031",
+  "date": "2026-11-18",
+  "time": "16:00",
+  "code": "4712",
+  "name": "株式会社ＫｅｙＨｏｌｄｅｒ",
+  "exch": "東",
+  "title": "株式会社HYBE JAPANによる当社株式に対する公開買付けに関する意見表明のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582725.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297017",
+  "date": "2026-11-18",
+  "time": "15:30",
+  "code": "9025",
+  "name": "鴻池運輸株式会社",
+  "exch": "東",
+  "title": "NSホールディングス株式会社の株式取得（完全子会社化）及び日進機工株式会社の孫会社化に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582423.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1297014",
+  "date": "2026-11-18",
+  "time": "15:30",
+  "code": "8591",
+  "name": "オリックス株式会社",
+  "exch": "東",
+  "title": "OQCI Fund LPおよびOFI Fund LPの子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582136.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1297013",
+  "date": "2026-11-18",
+  "time": "15:30",
+  "code": "8127",
+  "name": "ヤマトインターナショナル株式会社",
+  "exch": "東",
+  "title": "特別目的会社（SPC）の株式取得（子会社化等）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116581380.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得",
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297010",
+  "date": "2026-11-18",
+  "time": "15:30",
+  "code": "7374",
+  "name": "株式会社コンフィデンス・インターワークス",
+  "exch": "東",
+  "title": "会社分割（簡易吸収分割）による株式会社ピアズのSES事業の承継に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116581300.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1297007",
+  "date": "2026-11-18",
+  "time": "15:30",
+  "code": "7066",
+  "name": "株式会社ピアズ",
+  "exch": "東",
+  "title": "会社分割（簡易新設分割）による子会社設立に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116581096.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1297006",
+  "date": "2026-11-18",
+  "time": "15:30",
+  "code": "7066",
+  "name": "株式会社ピアズ",
+  "exch": "東",
+  "title": "会社分割（簡易吸収分割）によるSES事業の株式会社コンフィデンス・インターワークスへの承継に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116581085.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1297002",
+  "date": "2026-11-18",
+  "time": "15:30",
+  "code": "6078",
+  "name": "株式会社バリューＨＲ",
+  "exch": "東",
+  "title": "有限会社新赤坂健康管理協会の株式の取得（子会社化）完了及び第三者割当による自己株式処分の手続き完了に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582162.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1296997",
+  "date": "2026-11-18",
+  "time": "15:30",
+  "code": "407A",
+  "name": "株式会社ＵＮＩＣＯＮホールディングス",
+  "exch": "東",
+  "title": "荻野建設株式会社の株式の取得（子会社化）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582639.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1296991",
+  "date": "2026-11-18",
+  "time": "15:30",
+  "code": "3395",
+  "name": "株式会社サンマルクホールディングス",
+  "exch": "東",
+  "title": "完全子会社の吸収合併（簡易合併・略式合併）及び特定子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261116581396.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動",
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1296984",
+  "date": "2026-11-18",
+  "time": "15:30",
+  "code": "166A",
+  "name": "株式会社タスキホールディングス",
+  "exch": "東",
+  "title": "2026年９月期 決算および長期ビジョン・第２次中期経営計画発表後の質疑応答について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582793.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画",
+   "長期ビジョン"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZIG2",
+  "date": "2026-11-18",
+  "time": "15:30",
+  "code": "7447",
+  "name": "ナガイレーベン株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第77期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZIG2",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZIOE",
+  "date": "2026-11-18",
+  "time": "15:17",
+  "code": "7607",
+  "name": "株式会社進和",
+  "exch": "東",
+  "title": "有価証券報告書－第76期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZIOE",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZIOI",
+  "date": "2026-11-18",
+  "time": "15:15",
+  "code": "3719",
+  "name": "ＡＩストーム株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第60期(2023/01/01－2023/12/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZIOI",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1296976",
+  "date": "2026-11-18",
+  "time": "15:00",
+  "code": "6063",
+  "name": "日本エマージェンシーアシスタンス株式会社",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582392.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1296969",
   "date": "2026-11-18",
   "time": "13:00",
