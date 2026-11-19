@@ -1,5 +1,219 @@
 [
  {
+  "id": "prtimes-f19a9ff1819e",
+  "date": "2026-11-19",
+  "time": "12:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "【ラッコM&A】Claudeで案件を検索・比較できる「ラッコM&A MCP」を提供開始",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000074.000040858.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-89391e0cff29",
+  "date": "2026-11-19",
+  "time": "12:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "【10月度M&A月例会 開催レポート】rakumo 清水CEOが登壇。4件のM&A実績とPEファンドとの協業シナジーを解説！",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000347.000054393.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1297130",
+  "date": "2026-11-19",
+  "time": "12:30",
+  "code": "9564",
+  "name": "株式会社ＦＣＥ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261119583287.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297111",
+  "date": "2026-11-19",
+  "time": "11:00",
+  "code": "3168",
+  "name": "株式会社ＭＥＲＦ",
+  "exch": "東",
+  "title": "中期経営計画2029（株主懇談会資料）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118582998.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZIUS",
+  "date": "2026-11-19",
+  "time": "10:57",
+  "code": "4728",
+  "name": "株式会社トーセ",
+  "exch": "東",
+  "title": "有価証券報告書－第47期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZIUS",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297090",
+  "date": "2026-11-19",
+  "time": "08:30",
+  "code": "3719",
+  "name": "ＡＩストーム株式会社",
+  "exch": "東",
+  "title": "（数値データ訂正）令和７年12月期 決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261112577367.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297089",
+  "date": "2026-11-19",
+  "time": "08:30",
+  "code": "3719",
+  "name": "ＡＩストーム株式会社",
+  "exch": "東",
+  "title": "（数値データ訂正）令和７年12月期 第３四半期決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261112577361.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297088",
+  "date": "2026-11-19",
+  "time": "08:30",
+  "code": "3719",
+  "name": "ＡＩストーム株式会社",
+  "exch": "東",
+  "title": "（数値データ訂正）令和７年12月期 第１四半期決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261112577360.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297087",
+  "date": "2026-11-19",
+  "time": "08:30",
+  "code": "3719",
+  "name": "ＡＩストーム株式会社",
+  "exch": "東",
+  "title": "（数値データ訂正）令和６年12月期 第３四半期決算短信〔日本基準〕（非連結）",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261112577355.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297086",
+  "date": "2026-11-19",
+  "time": "08:30",
+  "code": "3719",
+  "name": "ＡＩストーム株式会社",
+  "exch": "東",
+  "title": "（訂正）「過年度有価証券報告書等の訂正報告書の提出及び過年度決算短信等の訂正に関するお知らせ」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117582374.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信",
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297085",
+  "date": "2026-11-19",
+  "time": "08:30",
+  "code": "3719",
+  "name": "ＡＩストーム株式会社",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）令和８年12月期 第３四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118583049.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297084",
+  "date": "2026-11-19",
+  "time": "08:30",
+  "code": "3719",
+  "name": "ＡＩストーム株式会社",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）令和８年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261118583043.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
   "id": "tdnet-1297053",
   "date": "2026-11-18",
   "time": "17:00",
