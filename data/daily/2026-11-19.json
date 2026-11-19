@@ -1,5 +1,57 @@
 [
  {
+  "id": "tdnet-1297140",
+  "date": "2026-11-19",
+  "time": "14:10",
+  "code": "6989",
+  "name": "北陸電気工業株式会社",
+  "exch": "東",
+  "title": "（訂正）公開買付届出書の訂正届出書の提出に伴う「北陸電気工業株式会社の普通株式に対する公開買付け開始のお知らせ」及び公開買付開始公告の訂正のお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261119583332.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "prtimes-080216e83405",
+  "date": "2026-11-19",
+  "time": "13:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "【M&A支援機関協会】「M&Aアワード2026」特別講演に能作 千春氏の登壇が決定！",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000029.000134348.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "edinet-S100ZIPE",
+  "date": "2026-11-19",
+  "time": "13:14",
+  "code": "6159",
+  "name": "ミクロン精密株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第67期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZIPE",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "prtimes-f19a9ff1819e",
   "date": "2026-11-19",
   "time": "12:40",
