@@ -4,8 +4,8 @@
   "error": null
  },
  "EDINET": {
-  "ok": false,
-  "error": "2026-11-20: EDINETからエラー応答: {'metadata': {'title': '提出された書類を把握するためのAPI', 'status': '404', 'message': 'Not Found'}}"
+  "ok": true,
+  "error": null
  },
  "PR TIMES": {
   "ok": true,

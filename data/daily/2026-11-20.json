@@ -1,0 +1,196 @@
+[
+ {
+  "id": "edinet-S100ZDVV",
+  "date": "2026-11-20",
+  "time": "12:00",
+  "code": "9979",
+  "name": "株式会社大庄",
+  "exch": "東",
+  "title": "有価証券報告書－第55期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZDVV",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZIVB",
+  "date": "2026-11-20",
+  "time": "11:28",
+  "code": "3607",
+  "name": "株式会社クラウディアホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第50期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZIVB",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297329",
+  "date": "2026-11-20",
+  "time": "11:00",
+  "code": "6989",
+  "name": "北陸電気工業株式会社",
+  "exch": "東",
+  "title": "（訂正）「株式会社BCJ-116による当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261120583960.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1297327",
+  "date": "2026-11-20",
+  "time": "11:00",
+  "code": "566A",
+  "name": "ｉＦ除金融高配当５０",
+  "exch": "東",
+  "title": "2026年10月期（2026年5月1日～2026年10月7日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261120583965.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1297325",
+  "date": "2026-11-20",
+  "time": "11:00",
+  "code": "413A",
+  "name": "ｉＦ台湾テック",
+  "exch": "東",
+  "title": "2026年10月期（2026年4月8日～2026年10月7日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261120583937.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1297323",
+  "date": "2026-11-20",
+  "time": "11:00",
+  "code": "354A",
+  "name": "ｉＦ高配当５０",
+  "exch": "東",
+  "title": "2026年10月期（2026年4月8日～2026年10月7日）決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261120583931.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "edinet-S100ZJ4F",
+  "date": "2026-11-20",
+  "time": "10:12",
+  "code": "6380",
+  "name": "オリエンタルチエン工業株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第107期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJ4F",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZIZT",
+  "date": "2026-11-20",
+  "time": "10:10",
+  "code": "7453",
+  "name": "株式会社　良品計画",
+  "exch": "東",
+  "title": "有価証券報告書－第48期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZIZT",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1297295",
+  "date": "2026-11-20",
+  "time": "08:00",
+  "code": "657A",
+  "name": "Ｇ－ＨｉＪｏＪｏ",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261112577531.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1297293",
+  "date": "2026-11-20",
+  "time": "08:00",
+  "code": "295A",
+  "name": "Ｏｎｅ・サウジ",
+  "exch": "東",
+  "title": "2026年10月期（2026年4月9日～2026年10月8日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261119583501.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1297292",
+  "date": "2026-11-20",
+  "time": "08:00",
+  "code": "1494",
+  "name": "Ｏｎｅ・高配当日本株",
+  "exch": "東",
+  "title": "2026年10月期（2026年4月9日～2026年10月8日)決算短信",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261119583482.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ }
+]
