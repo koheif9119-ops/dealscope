@@ -1,6 +1,77 @@
 {
- "updatedAt": "2026-11-20T12:50:42+09:00",
+ "updatedAt": "2026-11-20T14:34:32+09:00",
  "items": [
+  {
+   "id": "tdnet-1297364",
+   "date": "2026-11-20",
+   "time": "14:00",
+   "code": "5832",
+   "name": "株式会社ちゅうぎんフィナンシャルグループ",
+   "exch": "東",
+   "title": "（追加）「2027 年３月期第２四半期（中間期）決算短信〔日本基準〕 （連結）」補足説明資料の追加に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261119583347.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1297357",
+   "date": "2026-11-20",
+   "time": "13:45",
+   "code": "5038",
+   "name": "株式会社ｅＷｅＬＬ",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定に関するお知らせ（会社法第165条第２項の規定による定款の定めに基づく自己株式の取得）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261120584088.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1297359",
+   "date": "2026-11-20",
+   "time": "13:30",
+   "code": "3355",
+   "name": "クリヤマホールディングス株式会社",
+   "exch": "東",
+   "title": "海外連結子会社（孫会社）の異動を伴う株式譲渡及び特別損失の計上見込みに関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261119583633.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式譲渡"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZJ79",
+   "date": "2026-11-20",
+   "time": "12:55",
+   "code": "7730",
+   "name": "マニー株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第67期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJ79",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "edinet-S100ZDVV",
    "date": "2026-11-20",
