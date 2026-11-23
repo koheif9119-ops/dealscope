@@ -1,6 +1,57 @@
 [
  {
   "id": "prtimes-ddf9898a4d54",
+  "date": "2026-11-24",
+  "time": "01:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "【第73回 上場企業倶楽部 開催レポート】日本初の「弁護士起業家」が語る、8年越しの買収とAIエージェントの急成長を生んだ裏側を公開",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000342.000054393.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-a238371ae13b",
+  "date": "2026-11-24",
+  "time": "00:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "M&Aリーグテーブル9位のユニヴィス法律事務所、独自AIを駆使し最速2週間でレポートを納品する法務デューデリジェンス支援を提供開始",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000009.000136611.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-89391e0cff29",
+  "date": "2026-11-24",
+  "time": "00:40",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A"
+  ],
+  "title": "【10月度M&A月例会 開催レポート】rakumo 清水CEOが登壇。4件のM&A実績とPEファンドとの協業シナジーを解説！",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000347.000054393.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-ddf9898a4d54",
   "date": "2026-11-23",
   "time": "13:40",
   "code": "—",
