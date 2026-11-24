@@ -1,5 +1,77 @@
 [
  {
+  "id": "prtimes-884aea2882a4",
+  "date": "2026-11-25",
+  "time": "04:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A",
+   "買収",
+   "資本業務提携"
+  ],
+  "title": "資金調達・M&Aのダイレクトマッチング『FINCHI』、経営者を中心に最大2,000名が集う「アスティーダエグゼクティブサロン2026」に冠協賛",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000009.000183852.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-ddf9898a4d54",
+  "date": "2026-11-25",
+  "time": "03:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "【第73回 上場企業倶楽部 開催レポート】日本初の「弁護士起業家」が語る、8年越しの買収とAIエージェントの急成長を生んだ裏側を公開",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000342.000054393.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "tdnet-1297777",
+  "date": "2026-11-24",
+  "time": "18:00",
+  "code": "6572",
+  "name": "オープングループ株式会社",
+  "exch": "東",
+  "title": "主要株主の異動（予定）およびオープングループ株式会社（証券コード：6572）に対する公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124585392.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1297753",
+  "date": "2026-11-24",
+  "time": "17:15",
+  "code": "4015",
+  "name": "ペイクラウドホールディングス株式会社",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124585320.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "tdnet-1297750",
   "date": "2026-11-24",
   "time": "17:00",

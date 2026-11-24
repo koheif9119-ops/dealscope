@@ -1,5 +1,41 @@
 [
  {
+  "id": "tdnet-1297777",
+  "date": "2026-11-24",
+  "time": "18:00",
+  "code": "6572",
+  "name": "オープングループ株式会社",
+  "exch": "東",
+  "title": "主要株主の異動（予定）およびオープングループ株式会社（証券コード：6572）に対する公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124585392.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1297753",
+  "date": "2026-11-24",
+  "time": "17:15",
+  "code": "4015",
+  "name": "ペイクラウドホールディングス株式会社",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124585320.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
   "id": "tdnet-1297750",
   "date": "2026-11-24",
   "time": "17:00",

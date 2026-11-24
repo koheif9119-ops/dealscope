@@ -1,0 +1,38 @@
+[
+ {
+  "id": "prtimes-884aea2882a4",
+  "date": "2026-11-25",
+  "time": "04:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "M&A",
+   "買収",
+   "資本業務提携"
+  ],
+  "title": "資金調達・M&Aのダイレクトマッチング『FINCHI』、経営者を中心に最大2,000名が集う「アスティーダエグゼクティブサロン2026」に冠協賛",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000009.000183852.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ },
+ {
+  "id": "prtimes-ddf9898a4d54",
+  "date": "2026-11-25",
+  "time": "03:10",
+  "code": "—",
+  "name": "PR TIMES掲載",
+  "market": "—",
+  "exch": "—",
+  "genre": "news",
+  "tags": [
+   "買収"
+  ],
+  "title": "【第73回 上場企業倶楽部 開催レポート】日本初の「弁護士起業家」が語る、8年越しの買収とAIエージェントの急成長を生んだ裏側を公開",
+  "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000342.000054393.html",
+  "src": "PR TIMES",
+  "isCorrection": false
+ }
+]
