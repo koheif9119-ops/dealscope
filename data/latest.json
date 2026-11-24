@@ -1,6 +1,781 @@
 {
- "updatedAt": "2026-11-24T02:16:18+09:00",
+ "updatedAt": "2026-11-24T15:42:13+09:00",
  "items": [
+  {
+   "id": "edinet-S100ZIUW",
+   "date": "2026-11-24",
+   "time": "15:36",
+   "code": "367A",
+   "name": "プリモグローバルホールディングス株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第6期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZIUW",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZJKO",
+   "date": "2026-11-24",
+   "time": "15:32",
+   "code": "3991",
+   "name": "ウォンテッドリー株式会社",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第15期(2024/09/01－2025/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJKO",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100ZJKM",
+   "date": "2026-11-24",
+   "time": "15:30",
+   "code": "428A",
+   "name": "サイプレス・ホールディングス株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第8期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJKM",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZJK2",
+   "date": "2026-11-24",
+   "time": "15:30",
+   "code": "5574",
+   "name": "株式会社ＡＢＥＪＡ",
+   "exch": "東",
+   "title": "有価証券報告書－第14期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJK2",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100ZJIK",
+   "date": "2026-11-24",
+   "time": "15:30",
+   "code": "9560",
+   "name": "株式会社プログリット",
+   "exch": "東",
+   "title": "有価証券報告書－第10期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJIK",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100ZJJU",
+   "date": "2026-11-24",
+   "time": "14:55",
+   "code": "2999",
+   "name": "ホームポジション株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第37期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJJU",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZJJO",
+   "date": "2026-11-24",
+   "time": "14:35",
+   "code": "7035",
+   "name": "ａｎｄ　ｆａｃｔｏｒｙ株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第12期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJJO",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1297644",
+   "date": "2026-11-24",
+   "time": "14:00",
+   "code": "9823",
+   "name": "株式会社マミーマートホールディングス",
+   "exch": "東",
+   "title": "（訂正）「中期経営計画（2027～2029）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584969.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1297642",
+   "date": "2026-11-24",
+   "time": "14:00",
+   "code": "4826",
+   "name": "株式会社ＣＩＪ",
+   "exch": "東",
+   "title": "自己株式の消却及び自己株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584749.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "prtimes-0d734cb26ed6",
+   "date": "2026-11-24",
+   "time": "13:49",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "買収"
+   ],
+   "title": "ABB、HVACおよび産業用冷却用途向けの製品ラインアップ拡充に向け、Ziehl-Abegg社を買収",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000154.000081567.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100ZJIR",
+   "date": "2026-11-24",
+   "time": "13:43",
+   "code": "4439",
+   "name": "株式会社東名",
+   "exch": "東",
+   "title": "有価証券報告書－第29期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJIR",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-b2df038a199c",
+   "date": "2026-11-24",
+   "time": "13:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "M&A"
+   ],
+   "title": "スパークル、中小企業庁「M&A支援機関登録制度」にフィナンシャル・アドバイザー（FA）として登録",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000113.000107076.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
+   "id": "edinet-S100ZJEV",
+   "date": "2026-11-24",
+   "time": "13:07",
+   "code": "2735",
+   "name": "株式会社ワッツ",
+   "exch": "東",
+   "title": "有価証券報告書－第32期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJEV",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZJE8",
+   "date": "2026-11-24",
+   "time": "13:03",
+   "code": "7928",
+   "name": "旭化学工業株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第60期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJE8",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1297634",
+   "date": "2026-11-24",
+   "time": "13:00",
+   "code": "8151",
+   "name": "株式会社東陽テクニカ",
+   "exch": "東",
+   "title": "（開示事項の経過）アロカ株式会社の株式取得（子会社化）完了に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584889.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100ZIIX",
+   "date": "2026-11-24",
+   "time": "13:00",
+   "code": "4015",
+   "name": "ペイクラウドホールディングス株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第21期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZIIX",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100ZJ3R",
+   "date": "2026-11-24",
+   "time": "12:04",
+   "code": "1407",
+   "name": "株式会社ウエストホールディングス",
+   "exch": "東",
+   "title": "有価証券報告書－第21期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJ3R",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1297623",
+   "date": "2026-11-24",
+   "time": "12:00",
+   "code": "515A",
+   "name": "ｉＳ高格付日本円社債",
+   "exch": "東",
+   "title": "2026年10月期 決算短信（2026年２月27日～2026年10月11日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584808.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297622",
+   "date": "2026-11-24",
+   "time": "12:00",
+   "code": "488A",
+   "name": "ｉＳ円高フォーカス",
+   "exch": "東",
+   "title": "2026年10月期 決算短信（2026年４月12日～2026年10月11日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584806.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297621",
+   "date": "2026-11-24",
+   "time": "12:00",
+   "code": "2623",
+   "name": "ｉＳユロＩＧ社債ヘジ",
+   "exch": "東",
+   "title": "2026年10月期 決算短信（2026年４月12日～2026年10月11日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584802.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100ZJGF",
+   "date": "2026-11-24",
+   "time": "11:24",
+   "code": "6264",
+   "name": "株式会社マルマエ",
+   "exch": "東",
+   "title": "有価証券報告書－第39期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJGF",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1297613",
+   "date": "2026-11-24",
+   "time": "11:00",
+   "code": "576A",
+   "name": "ＧＸチャイテクカバコ",
+   "exch": "東",
+   "title": "2026年10月期（2026年5月26日～2026年10月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584718.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297611",
+   "date": "2026-11-24",
+   "time": "11:00",
+   "code": "564A",
+   "name": "ＧＸ先進ＣＦ１００",
+   "exch": "東",
+   "title": "2026年10月期（2026年4月21日～2026年10月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584712.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297610",
+   "date": "2026-11-24",
+   "time": "11:00",
+   "code": "563A",
+   "name": "ＧＸナスＤカバコ",
+   "exch": "東",
+   "title": "2026年10月期（2026年4月21日～2026年10月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584702.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297609",
+   "date": "2026-11-24",
+   "time": "11:00",
+   "code": "379A",
+   "name": "ＧＸＳＰＸプロテクト",
+   "exch": "東",
+   "title": "2026年10月期（2026年4月11日～2026年10月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584670.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297608",
+   "date": "2026-11-24",
+   "time": "11:00",
+   "code": "363A",
+   "name": "ｉＦ英国ＦＴ１００",
+   "exch": "東",
+   "title": "2026年10月期（2026年4月11日～2026年10月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584760.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297607",
+   "date": "2026-11-24",
+   "time": "11:00",
+   "code": "356A",
+   "name": "ＧＸＳＰＣＦ１００",
+   "exch": "東",
+   "title": "2026年10月期（2026年4月11日～2026年10月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584661.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297605",
+   "date": "2026-11-24",
+   "time": "11:00",
+   "code": "2868",
+   "name": "ＧＸＳＰＸカバコ",
+   "exch": "東",
+   "title": "2026年10月期（2026年4月11日～2026年10月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584656.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297604",
+   "date": "2026-11-24",
+   "time": "11:00",
+   "code": "2625",
+   "name": "ｉＦＴＰＸ年４",
+   "exch": "東",
+   "title": "2026年10月期（2026年4月11日～2026年10月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584743.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297603",
+   "date": "2026-11-24",
+   "time": "11:00",
+   "code": "2624",
+   "name": "ｉＦ２２５年４",
+   "exch": "東",
+   "title": "2026年10月期（2026年4月11日～2026年10月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584739.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297602",
+   "date": "2026-11-24",
+   "time": "11:00",
+   "code": "2017",
+   "name": "ｉＦＪＰＸプラ１５０",
+   "exch": "東",
+   "title": "2026年10月期（2026年4月11日～2026年10月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584750.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297601",
+   "date": "2026-11-24",
+   "time": "11:00",
+   "code": "140A",
+   "name": "ｉＦ米１０国債ベア",
+   "exch": "東",
+   "title": "2026年10月期（2026年4月11日～2026年10月10日）決算短信",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584756.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100ZJ6D",
+   "date": "2026-11-24",
+   "time": "10:41",
+   "code": "7514",
+   "name": "株式会社　ヒマラヤ",
+   "exch": "東",
+   "title": "有価証券報告書－第51期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJ6D",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1297594",
+   "date": "2026-11-24",
+   "time": "10:10",
+   "code": "537A",
+   "name": "ＮＺＡＭ　全世界株",
+   "exch": "東",
+   "title": "2026年10月期　決算短信（2026年３月18日～2026年10月15日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584708.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297593",
+   "date": "2026-11-24",
+   "time": "10:10",
+   "code": "536A",
+   "name": "ＮＺＡＭ　先進国株",
+   "exch": "東",
+   "title": "2026年10月期　決算短信（2026年３月18日～2026年10月15日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584706.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297592",
+   "date": "2026-11-24",
+   "time": "10:10",
+   "code": "534A",
+   "name": "ＮＺＡＭ　ＮＱ１００",
+   "exch": "東",
+   "title": "2026年10月期　決算短信（2026年３月18日～2026年10月15日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584704.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297591",
+   "date": "2026-11-24",
+   "time": "10:10",
+   "code": "533A",
+   "name": "ＮＺＡＭ　ＳＰ５００",
+   "exch": "東",
+   "title": "2026年10月期　決算短信（2026年３月18日～2026年10月15日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584679.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297590",
+   "date": "2026-11-24",
+   "time": "10:10",
+   "code": "532A",
+   "name": "ＮＺＡＭ　ＴＰ高４０",
+   "exch": "東",
+   "title": "2026年10月期　決算短信（2026年３月18日～2026年10月15日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584674.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297589",
+   "date": "2026-11-24",
+   "time": "10:10",
+   "code": "2088",
+   "name": "ＮＺＡＭ　ＤｏｗＨ",
+   "exch": "東",
+   "title": "2026年10月期　決算短信（2026年４月16日～2026年10月15日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584672.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297588",
+   "date": "2026-11-24",
+   "time": "10:10",
+   "code": "2087",
+   "name": "ＮＺＡＭ　ＮＱ１Ｈ",
+   "exch": "東",
+   "title": "2026年10月期　決算短信（2026年４月16日～2026年10月15日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584668.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297587",
+   "date": "2026-11-24",
+   "time": "10:10",
+   "code": "2086",
+   "name": "ＮＺＡＭ　ＳＰ５Ｈ",
+   "exch": "東",
+   "title": "2026年10月期　決算短信（2026年４月16日～2026年10月15日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584666.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1297586",
+   "date": "2026-11-24",
+   "time": "10:10",
+   "code": "1595",
+   "name": "ＮＺＡＭ　Ｊリート",
+   "exch": "東",
+   "title": "2026年10月期　決算短信（2026年４月16日～2026年10月15日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124584664.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100ZJBO",
+   "date": "2026-11-24",
+   "time": "10:00",
+   "code": "6289",
+   "name": "株式会社技研製作所",
+   "exch": "東",
+   "title": "有価証券報告書－第45期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJBO",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100ZJ80",
+   "date": "2026-11-24",
+   "time": "09:30",
+   "code": "7805",
+   "name": "プリントネット株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第41期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJ80",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "prtimes-ddf9898a4d54",
    "date": "2026-11-24",
