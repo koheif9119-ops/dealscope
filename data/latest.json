@@ -1,6 +1,199 @@
 {
- "updatedAt": "2026-11-25T04:37:27+09:00",
+ "updatedAt": "2026-11-25T14:11:41+09:00",
  "items": [
+  {
+   "id": "edinet-S100ZJSR",
+   "date": "2026-11-25",
+   "time": "13:34",
+   "code": "2484",
+   "name": "株式会社出前館",
+   "exch": "東",
+   "title": "有価証券報告書－第27期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJSR",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1297830",
+   "date": "2026-11-25",
+   "time": "13:00",
+   "code": "8789",
+   "name": "フィンテック　グローバル株式会社",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261125585706.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1297826",
+   "date": "2026-11-25",
+   "time": "13:00",
+   "code": "4068",
+   "name": "ベイシス株式会社",
+   "exch": "東",
+   "title": "第一防災株式会社の株式の取得（子会社化）および資金の借入に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261125585642.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1297825",
+   "date": "2026-11-25",
+   "time": "13:00",
+   "code": "2185",
+   "name": "株式会社シイエム・シイ",
+   "exch": "東",
+   "title": "特定の株主からの自己株式取得に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261119583567.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1297822",
+   "date": "2026-11-25",
+   "time": "12:30",
+   "code": "6942",
+   "name": "株式会社ソフィアホールディングス",
+   "exch": "東",
+   "title": "当社連結子会社（孫会社）による株式取得に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261125585526.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZJS4",
+   "date": "2026-11-25",
+   "time": "12:00",
+   "code": "7065",
+   "name": "ユーピーアール株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第48期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJS4",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZJQW",
+   "date": "2026-11-25",
+   "time": "11:05",
+   "code": "6255",
+   "name": "株式会社エヌ・ピー・シー",
+   "exch": "東",
+   "title": "有価証券報告書－第34期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJQW",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100ZELO",
+   "date": "2026-11-25",
+   "time": "10:51",
+   "code": "4760",
+   "name": "株式会社アルファ",
+   "exch": "東",
+   "title": "有価証券報告書－第44期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZELO",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1297805",
+   "date": "2026-11-25",
+   "time": "10:00",
+   "code": "9063",
+   "name": "岡山県貨物運送株式会社",
+   "exch": "東",
+   "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261125585589.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZJO1",
+   "date": "2026-11-25",
+   "time": "10:00",
+   "code": "3440",
+   "name": "日創グループ株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第43期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJO1",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1297787",
+   "date": "2026-11-25",
+   "time": "08:00",
+   "code": "664A",
+   "name": "Ｇ－ＴＯＫＩＵＭ",
+   "exch": "東",
+   "title": "事業計画及び成長可能性に関する事項",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261124585154.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "成長可能性に関する事項"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
   {
    "id": "prtimes-884aea2882a4",
    "date": "2026-11-25",
