@@ -1,5 +1,399 @@
 [
  {
+  "id": "tdnet-1298196",
+  "date": "2026-11-26",
+  "time": "19:30",
+  "code": "2612",
+  "name": "かどや製油株式会社",
+  "exch": "東",
+  "title": "（変更）「株式会社ITG-Gホールディングスによる当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126587203.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1298195",
+  "date": "2026-11-26",
+  "time": "19:30",
+  "code": "2612",
+  "name": "かどや製油株式会社",
+  "exch": "東",
+  "title": "（株）ITG-Gホールディングスによる公開買付届出書の訂正に伴う「かどや製油（株）の普通株式に対する公開買付けの開始に関するお知らせ」の変更について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126587202.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1298194",
+  "date": "2026-11-26",
+  "time": "18:30",
+  "code": "6425",
+  "name": "株式会社ユニバーサルエンターテインメント",
+  "exch": "東",
+  "title": "子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126587007.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1298190",
+  "date": "2026-11-26",
+  "time": "18:00",
+  "code": "7037",
+  "name": "株式会社テノ．ホールディングス",
+  "exch": "東",
+  "title": "（開示事項の経過）連結子会社の異動（株式譲渡）の実行日変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586394.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式譲渡",
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1298187",
+  "date": "2026-11-26",
+  "time": "18:00",
+  "code": "562A",
+  "name": "Ｐ－寶結",
+  "exch": "東",
+  "title": "株式会社ブーム・メディア・コミュニケーションズの株式の取得（子会社化）及び資金の借入れに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586421.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社化"
+  ],
+  "isCorrection": false,
+  "market": "不明"
+ },
+ {
+  "id": "tdnet-1298170",
+  "date": "2026-11-26",
+  "time": "17:00",
+  "code": "2371",
+  "name": "株式会社カカクコム",
+  "exch": "東",
+  "title": "Kamgras １株式会社による株式会社カカクコム（証券コード：2371）の株券等に対する公開買付けの買付条件等の変更に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586534.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZKD3",
+  "date": "2026-11-26",
+  "time": "16:48",
+  "code": "3647",
+  "name": "株式会社ジー・スリーホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第16期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZKD3",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZKC0",
+  "date": "2026-11-26",
+  "time": "16:32",
+  "code": "6668",
+  "name": "株式会社アドテックプラズマテクノロジー",
+  "exch": "東",
+  "title": "有価証券報告書－第42期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZKC0",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1298162",
+  "date": "2026-11-26",
+  "time": "16:30",
+  "code": "3840",
+  "name": "パス株式会社",
+  "exch": "東",
+  "title": "子会社の設立及び事業譲渡契約締結に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586925.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZK22",
+  "date": "2026-11-26",
+  "time": "16:06",
+  "code": "2157",
+  "name": "株式会社コシダカホールディングス",
+  "exch": "東",
+  "title": "有価証券報告書－第57期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK22",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1298160",
+  "date": "2026-11-26",
+  "time": "16:00",
+  "code": "9861",
+  "name": "株式会社吉野家ホールディングス",
+  "exch": "東",
+  "title": "連結子会社の会社分割および吸収合併に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586764.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併",
+   "会社分割"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1298159",
+  "date": "2026-11-26",
+  "time": "16:00",
+  "code": "9861",
+  "name": "株式会社吉野家ホールディングス",
+  "exch": "東",
+  "title": "連結子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586757.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "吸収合併"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1298158",
+  "date": "2026-11-26",
+  "time": "16:00",
+  "code": "9861",
+  "name": "株式会社吉野家ホールディングス",
+  "exch": "東",
+  "title": "連結子会社の事業譲渡に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586795.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "事業譲渡"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1298154",
+  "date": "2026-11-26",
+  "time": "16:00",
+  "code": "9418",
+  "name": "株式会社Ｕ－ＮＥＸＴ　ＨＯＬＤＩＮＧＳ",
+  "exch": "東",
+  "title": "（訂正・数値データ訂正）「2026年８月期　決算短信［日本基準］（連結）」の一部訂正について",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586474.pdf",
+  "src": "TDnet",
+  "hasXbrl": true,
+  "genre": "kessan",
+  "tags": [
+   "決算短信"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1298141",
+  "date": "2026-11-26",
+  "time": "16:00",
+  "code": "5941",
+  "name": "株式会社　中西製作所",
+  "exch": "東",
+  "title": "主要株主及び主要株主である筆頭株主の異動（予定）並びに公開買付けに準ずる行為として政令で定める買い集め行為に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586662.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "公開買付け"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1298139",
+  "date": "2026-11-26",
+  "time": "16:00",
+  "code": "5563",
+  "name": "新日本電工株式会社",
+  "exch": "東",
+  "title": "長期ビジョン2040及び第10次中期経営計画(2027-2030)策定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586825.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画",
+   "長期ビジョン"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1298135",
+  "date": "2026-11-26",
+  "time": "16:00",
+  "code": "414A",
+  "name": "株式会社オーバーラップホールディングス",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586641.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "tdnet-1298132",
+  "date": "2026-11-26",
+  "time": "16:00",
+  "code": "3993",
+  "name": "株式会社ＰＫＳＨＡ　Ｔｅｃｈｎｏｌｏｇｙ",
+  "exch": "東",
+  "title": "自己株式取得に係る事項の決定に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586725.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "tdnet-1298131",
+  "date": "2026-11-26",
+  "time": "16:00",
+  "code": "3772",
+  "name": "ウェルス・マネジメント株式会社",
+  "exch": "東",
+  "title": "「シックスセンシズ 箱根強羅」プロジェクトにおける開示事項の経過ならびに匿名組合出資および子会社の異動に関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586564.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "子会社の異動"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1298128",
+  "date": "2026-11-26",
+  "time": "16:00",
+  "code": "3055",
+  "name": "株式会社ほくやく・竹山ホールディングス",
+  "exch": "札",
+  "title": "自己株式の取得および立会外自己株式取得取引による買付けに関するお知らせ",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261125586364.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "ma",
+  "tags": [
+   "株式取得"
+  ],
+  "isCorrection": false,
+  "market": "地方"
+ },
+ {
+  "id": "edinet-S100ZK2N",
+  "date": "2026-11-26",
+  "time": "16:00",
+  "code": "6199",
+  "name": "株式会社セラク",
+  "exch": "東",
+  "title": "有価証券報告書－第39期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK2N",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "edinet-S100ZJSY",
+  "date": "2026-11-26",
+  "time": "15:40",
+  "code": "3174",
+  "name": "株式会社ハピネス・アンド・ディ",
+  "exch": "東",
+  "title": "有価証券報告書－第36期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJSY",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "edinet-S100ZK88",
   "date": "2026-11-26",
   "time": "15:37",
