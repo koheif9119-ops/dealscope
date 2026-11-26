@@ -1,6 +1,356 @@
 {
- "updatedAt": "2026-11-26T13:39:40+09:00",
+ "updatedAt": "2026-11-26T15:41:20+09:00",
  "items": [
+  {
+   "id": "edinet-S100ZK88",
+   "date": "2026-11-26",
+   "time": "15:37",
+   "code": "8904",
+   "name": "株式会社ＡＶＡＮＴＩＡ",
+   "exch": "東",
+   "title": "有価証券報告書－第37期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK88",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZK71",
+   "date": "2026-11-26",
+   "time": "15:33",
+   "code": "369A",
+   "name": "株式会社エータイ",
+   "exch": "東",
+   "title": "有価証券報告書－第22期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK71",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100Z5F3",
+   "date": "2026-11-26",
+   "time": "15:32",
+   "code": "6522",
+   "name": "株式会社アスタリスク",
+   "exch": "東",
+   "title": "有価証券報告書－第20期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z5F3",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1298053",
+   "date": "2026-11-26",
+   "time": "15:31",
+   "code": "3932",
+   "name": "株式会社アカツキ",
+   "exch": "東",
+   "title": "株式会社サニーサイドアップグループとの株式交換契約の締結及び主要株主の異動（見込み）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586595.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式交換"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1298108",
+   "date": "2026-11-26",
+   "time": "15:30",
+   "code": "7928",
+   "name": "旭化学工業株式会社",
+   "exch": "東",
+   "title": "2026年８月期決算説明資料及び中期経営計画の進捗状況",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586861.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "中期経営計画"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1298104",
+   "date": "2026-11-26",
+   "time": "15:30",
+   "code": "7590",
+   "name": "株式会社タカショー",
+   "exch": "東",
+   "title": "2027年１月期  第３四半期決算短信〔日本基準〕(連結)",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261125586323.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1298093",
+   "date": "2026-11-26",
+   "time": "15:30",
+   "code": "6189",
+   "name": "株式会社グローバルキッズＣＯＭＰＡＮＹ",
+   "exch": "東",
+   "title": "公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586723.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1298090",
+   "date": "2026-11-26",
+   "time": "15:30",
+   "code": "5574",
+   "name": "株式会社ＡＢＥＪＡ",
+   "exch": "東",
+   "title": "事業計画及び成長可能性に関する事項",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586636.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "成長可能性に関する事項"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1298064",
+   "date": "2026-11-26",
+   "time": "15:30",
+   "code": "2802",
+   "name": "味の素株式会社",
+   "exch": "東",
+   "title": "味の素(株)による味の素ファインテクノ(株)の吸収合併（簡易合併・略式合併）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261119583278.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1298060",
+   "date": "2026-11-26",
+   "time": "15:30",
+   "code": "2590",
+   "name": "ダイドーグループホールディングス株式会社",
+   "exch": "東",
+   "title": "2027年1月期 第3四半期決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586465.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1298056",
+   "date": "2026-11-26",
+   "time": "15:30",
+   "code": "1407",
+   "name": "株式会社ウエストホールディングス",
+   "exch": "東",
+   "title": "(訂正・数値データ訂正)「2026年８月期決算短信〔日本基準〕（連結）」の一部訂正について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261125586320.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZK9W",
+   "date": "2026-11-26",
+   "time": "15:30",
+   "code": "325A",
+   "name": "株式会社ＴＥＮＴＩＡＬ",
+   "exch": "東",
+   "title": "有価証券報告書－第9期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK9W",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100ZK8A",
+   "date": "2026-11-26",
+   "time": "15:30",
+   "code": "2164",
+   "name": "株式会社地域新聞社",
+   "exch": "東",
+   "title": "有価証券報告書－第42期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK8A",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZK73",
+   "date": "2026-11-26",
+   "time": "15:30",
+   "code": "7581",
+   "name": "株式会社サイゼリヤ",
+   "exch": "東",
+   "title": "有価証券報告書－第54期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK73",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100ZK0G",
+   "date": "2026-11-26",
+   "time": "15:30",
+   "code": "5580",
+   "name": "株式会社プロディライト",
+   "exch": "東",
+   "title": "有価証券報告書－第19期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK0G",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100ZJZF",
+   "date": "2026-11-26",
+   "time": "15:23",
+   "code": "4433",
+   "name": "株式会社ヒト・コミュニケーションズ・ホールディングス",
+   "exch": "東",
+   "title": "有価証券報告書－第8期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJZF",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100ZJZS",
+   "date": "2026-11-26",
+   "time": "15:13",
+   "code": "7818",
+   "name": "株式会社トランザクション",
+   "exch": "東",
+   "title": "有価証券報告書－第40期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJZS",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "edinet-S100ZK98",
+   "date": "2026-11-26",
+   "time": "15:00",
+   "code": "414A",
+   "name": "株式会社オーバーラップホールディングス",
+   "exch": "東",
+   "title": "有価証券報告書－第5期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK98",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1298039",
+   "date": "2026-11-26",
+   "time": "14:00",
+   "code": "9531",
+   "name": "東京瓦斯株式会社",
+   "exch": "東",
+   "title": "完全子会社（ニジオ合同会社）の吸収合併（簡易吸収合併）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586441.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1298038",
+   "date": "2026-11-26",
+   "time": "14:00",
+   "code": "6874",
+   "name": "協立電機株式会社",
+   "exch": "東",
+   "title": "完全子会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261117581914.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "吸収合併"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
   {
    "id": "edinet-S100ZJOI",
    "date": "2026-11-26",
@@ -52,6 +402,24 @@
    ],
    "isCorrection": false,
    "market": "グロース"
+  },
+  {
+   "id": "prtimes-63ad2ce1a7cf",
+   "date": "2026-11-26",
+   "time": "11:30",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "事業承継",
+    "資本業務提携"
+   ],
+   "title": "株式会社nuy、企業型DC導入支援の株式会社REKOTAと資本業務提携　北海道から全国へ、中小企業の「退職金づくり」の普及を加速",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000010.000143247.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "edinet-S100ZJQV",
