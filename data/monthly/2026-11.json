@@ -1,5 +1,160 @@
 [
  {
+  "id": "edinet-S100ZJOI",
+  "date": "2026-11-26",
+  "time": "12:08",
+  "code": "3297",
+  "name": "株式会社東武住販",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第43期(2025/06/01－2026/05/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJOI",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1298022",
+  "date": "2026-11-26",
+  "time": "12:00",
+  "code": "4370",
+  "name": "モビルス株式会社",
+  "exch": "東",
+  "title": "事業計画及び成長可能性に関する事項",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586478.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "成長可能性に関する事項"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100ZJVK",
+  "date": "2026-11-26",
+  "time": "12:00",
+  "code": "4370",
+  "name": "モビルス株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第15期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJVK",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "グロース"
+ },
+ {
+  "id": "edinet-S100ZJQV",
+  "date": "2026-11-26",
+  "time": "11:25",
+  "code": "6908",
+  "name": "イリソ電子工業株式会社",
+  "exch": "東",
+  "title": "訂正有価証券報告書－第60期(2025/04/01－2026/03/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJQV",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": true,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZK1E",
+  "date": "2026-11-26",
+  "time": "11:11",
+  "code": "9418",
+  "name": "株式会社Ｕ－ＮＥＸＴ　ＨＯＬＤＩＮＧＳ",
+  "exch": "東",
+  "title": "有価証券報告書－第19期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK1E",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZK2S",
+  "date": "2026-11-26",
+  "time": "10:02",
+  "code": "3536",
+  "name": "アクサスホールディングス株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第11期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK2S",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
+  "id": "tdnet-1298008",
+  "date": "2026-11-26",
+  "time": "10:00",
+  "code": "4958",
+  "name": "長谷川香料株式会社",
+  "exch": "東",
+  "title": "中長期の経営方針及び中期経営計画 2026",
+  "pdfUrl": "https://www.release.tdnet.info/inbs/140120261125585632.pdf",
+  "src": "TDnet",
+  "hasXbrl": false,
+  "genre": "chukei",
+  "tags": [
+   "中期経営計画"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZK1J",
+  "date": "2026-11-26",
+  "time": "09:12",
+  "code": "9628",
+  "name": "燦ホールディングス株式会社",
+  "exch": "東",
+  "title": "有価証券報告書－第97期(2025/04/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK1J",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "プライム"
+ },
+ {
+  "id": "edinet-S100ZJQ3",
+  "date": "2026-11-26",
+  "time": "09:02",
+  "code": "7219",
+  "name": "株式会社エッチ・ケー・エス",
+  "exch": "東",
+  "title": "有価証券報告書－第53期(2025/09/01－2026/08/31)",
+  "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJQ3",
+  "src": "EDINET",
+  "genre": "kessan",
+  "tags": [
+   "有価証券報告書"
+  ],
+  "isCorrection": false,
+  "market": "スタンダード"
+ },
+ {
   "id": "prtimes-91672a9b8407",
   "date": "2026-11-26",
   "time": "02:40",
