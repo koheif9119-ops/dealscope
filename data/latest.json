@@ -1,6 +1,126 @@
 {
- "updatedAt": "2026-11-27T13:43:37+09:00",
+ "updatedAt": "2026-11-27T15:32:29+09:00",
  "items": [
+  {
+   "id": "edinet-S100ZKDF",
+   "date": "2026-11-27",
+   "time": "15:30",
+   "code": "3560",
+   "name": "株式会社ほぼ日",
+   "exch": "東",
+   "title": "有価証券報告書－第48期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZKDF",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZITA",
+   "date": "2026-11-27",
+   "time": "15:30",
+   "code": "589A",
+   "name": "ネイス株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第16期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZITA",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100ZKNN",
+   "date": "2026-11-27",
+   "time": "15:21",
+   "code": "2404",
+   "name": "株式会社鉄人化ホールディングス",
+   "exch": "東",
+   "title": "有価証券報告書－第28期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZKNN",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZKN1",
+   "date": "2026-11-27",
+   "time": "15:14",
+   "code": "7373",
+   "name": "株式会社アイドマ・ホールディングス",
+   "exch": "東",
+   "title": "有価証券報告書－第18期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZKN1",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1298267",
+   "date": "2026-11-27",
+   "time": "15:00",
+   "code": "7488",
+   "name": "株式会社ヤガミ",
+   "exch": "名",
+   "title": "2027年４月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126586818.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "地方"
+  },
+  {
+   "id": "edinet-S100ZKAG",
+   "date": "2026-11-27",
+   "time": "14:50",
+   "code": "245A",
+   "name": "株式会社ＩＮＧＳ",
+   "exch": "東",
+   "title": "有価証券報告書－第18期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZKAG",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100ZK7I",
+   "date": "2026-11-27",
+   "time": "13:42",
+   "code": "7434",
+   "name": "株式会社オータケ",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第74期(2025/06/01－2026/05/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK7I",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
   {
    "id": "tdnet-1298248",
    "date": "2026-11-27",
@@ -92,6 +212,23 @@
    "market": "グロース"
   },
   {
+   "id": "prtimes-aba13bebee6e",
+   "date": "2026-11-27",
+   "time": "12:00",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "アステリアとレッドクリフ、ロボットソリューション事業で資本業務提携 ～フィジカルAI時代の先端ロボットソリューションで協業～",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000459.000010008.html",
+   "src": "PR TIMES",
+   "isCorrection": false
+  },
+  {
    "id": "edinet-S100ZKJX",
    "date": "2026-11-27",
    "time": "11:57",
@@ -158,6 +295,23 @@
    ],
    "isCorrection": true,
    "market": "スタンダード"
+  },
+  {
+   "id": "prtimes-aa55b51b1c03",
+   "date": "2026-11-27",
+   "time": "11:15",
+   "code": "—",
+   "name": "PR TIMES掲載",
+   "market": "—",
+   "exch": "—",
+   "genre": "news",
+   "tags": [
+    "資本業務提携"
+   ],
+   "title": "【テクノア】グリーミン・ビッグウェル社と資本業務提携のお知らせ",
+   "pdfUrl": "https://prtimes.jp/main/html/rd/p/000000344.000053131.html",
+   "src": "PR TIMES",
+   "isCorrection": false
   },
   {
    "id": "edinet-S100ZKIW",
