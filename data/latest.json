@@ -1,6 +1,359 @@
 {
- "updatedAt": "2026-11-27T02:30:22+09:00",
+ "updatedAt": "2026-11-27T13:43:37+09:00",
  "items": [
+  {
+   "id": "tdnet-1298248",
+   "date": "2026-11-27",
+   "time": "13:00",
+   "code": "9301",
+   "name": "三菱倉庫株式会社",
+   "exch": "東",
+   "title": "株式会社阪急阪神エクスプレスの株式取得（連結子会社化）に関する補足説明について",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126587108.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得",
+    "子会社化"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1298247",
+   "date": "2026-11-27",
+   "time": "13:00",
+   "code": "9301",
+   "name": "三菱倉庫株式会社",
+   "exch": "東",
+   "title": "自己株式取得に係る事項の決定及び自己株式の消却に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126587115.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1298243",
+   "date": "2026-11-27",
+   "time": "13:00",
+   "code": "3189",
+   "name": "株式会社ＡＮＡＰホールディングス",
+   "exch": "東",
+   "title": "2026年8月期有価証券報告書の提出期限延長申請の検討に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261127587557.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZKET",
+   "date": "2026-11-27",
+   "time": "13:00",
+   "code": "9983",
+   "name": "株式会社ファーストリテイリング",
+   "exch": "東",
+   "title": "有価証券報告書－第65期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZKET",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
+  {
+   "id": "tdnet-1298232",
+   "date": "2026-11-27",
+   "time": "12:00",
+   "code": "7373",
+   "name": "株式会社アイドマ・ホールディングス",
+   "exch": "東",
+   "title": "事業計画及び成長可能性に関する事項",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261127587417.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "chukei",
+   "tags": [
+    "成長可能性に関する事項"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100ZKJX",
+   "date": "2026-11-27",
+   "time": "11:57",
+   "code": "3987",
+   "name": "エコモット株式会社",
+   "exch": "東",
+   "title": "有価証券報告書－第20期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZKJX",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "edinet-S100ZKK6",
+   "date": "2026-11-27",
+   "time": "11:47",
+   "code": "2404",
+   "name": "株式会社鉄人化ホールディングス",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第27期(2024/09/01－2025/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZKK6",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZKJT",
+   "date": "2026-11-27",
+   "time": "11:40",
+   "code": "2404",
+   "name": "株式会社鉄人化ホールディングス",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第26期(2023/09/01－2024/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZKJT",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZKJH",
+   "date": "2026-11-27",
+   "time": "11:31",
+   "code": "2404",
+   "name": "株式会社鉄人化ホールディングス",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第25期(2022/09/01－2023/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZKJH",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "edinet-S100ZKIW",
+   "date": "2026-11-27",
+   "time": "11:12",
+   "code": "2404",
+   "name": "株式会社鉄人化ホールディングス",
+   "exch": "東",
+   "title": "訂正有価証券報告書－第24期(2021/09/01－2022/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZKIW",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1298221",
+   "date": "2026-11-27",
+   "time": "11:00",
+   "code": "3055",
+   "name": "株式会社ほくやく・竹山ホールディングス",
+   "exch": "札",
+   "title": "立会外自己株式取得取引による自己株式の取得結果および取得終了に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261127587363.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "株式取得"
+   ],
+   "isCorrection": false,
+   "market": "地方"
+  },
+  {
+   "id": "edinet-S100YZBJ",
+   "date": "2026-11-27",
+   "time": "10:46",
+   "code": "5129",
+   "name": "株式会社ＦＩＸＥＲ",
+   "exch": "東",
+   "title": "有価証券報告書－第17期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YZBJ",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1298220",
+   "date": "2026-11-27",
+   "time": "10:30",
+   "code": "451A",
+   "name": "ＳＳＳＰ高配当",
+   "exch": "東",
+   "title": "2026年10月期 決算短信（2026年4月21日～2026年10月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261127587390.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1298219",
+   "date": "2026-11-27",
+   "time": "10:30",
+   "code": "450A",
+   "name": "ＳＳＳＰヘッジ有",
+   "exch": "東",
+   "title": "2026年10月期 決算短信（2026年4月21日～2026年10月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261127587382.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1298218",
+   "date": "2026-11-27",
+   "time": "10:30",
+   "code": "449A",
+   "name": "ＳＳＳＰヘッジ無",
+   "exch": "東",
+   "title": "2026年10月期 決算短信（2026年4月21日～2026年10月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261127587377.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1298217",
+   "date": "2026-11-27",
+   "time": "10:30",
+   "code": "448A",
+   "name": "ＳＳゴールドヘッジ有",
+   "exch": "東",
+   "title": "2026年10月期 決算短信（2025年11月17日～2026年10月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261127586413.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "tdnet-1298216",
+   "date": "2026-11-27",
+   "time": "10:30",
+   "code": "447A",
+   "name": "ＳＳゴールドヘッジ無",
+   "exch": "東",
+   "title": "2026年10月期 決算短信（2025年11月17日～2026年10月20日）",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261127586411.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": false,
+   "market": "不明"
+  },
+  {
+   "id": "edinet-S100ZK15",
+   "date": "2026-11-27",
+   "time": "10:01",
+   "code": "9252",
+   "name": "株式会社ラストワンマイル",
+   "exch": "東",
+   "title": "有価証券報告書－第15期(2025/09/01－2026/08/31)",
+   "pdfUrl": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZK15",
+   "src": "EDINET",
+   "genre": "kessan",
+   "tags": [
+    "有価証券報告書"
+   ],
+   "isCorrection": false,
+   "market": "グロース"
+  },
+  {
+   "id": "tdnet-1298203",
+   "date": "2026-11-27",
+   "time": "08:30",
+   "code": "3323",
+   "name": "レカム株式会社",
+   "exch": "東",
+   "title": "（訂正・数値データ訂正）配当原資、配当支払開始予定日の変更及び 「2026年９月期 決算短信〔ＩＦＲＳ〕(連結)」の一部変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261125586304.pdf",
+   "src": "TDnet",
+   "hasXbrl": true,
+   "genre": "kessan",
+   "tags": [
+    "決算短信"
+   ],
+   "isCorrection": true,
+   "market": "スタンダード"
+  },
+  {
+   "id": "tdnet-1298201",
+   "date": "2026-11-27",
+   "time": "08:30",
+   "code": "2371",
+   "name": "株式会社カカクコム",
+   "exch": "東",
+   "title": "（変更）「Kamgras １株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+   "pdfUrl": "https://www.release.tdnet.info/inbs/140120261126587255.pdf",
+   "src": "TDnet",
+   "hasXbrl": false,
+   "genre": "ma",
+   "tags": [
+    "公開買付け"
+   ],
+   "isCorrection": false,
+   "market": "プライム"
+  },
   {
    "id": "prtimes-95d1cff42af1",
    "date": "2026-11-27",
